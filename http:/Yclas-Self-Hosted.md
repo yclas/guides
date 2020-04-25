@@ -1,4 +1,5 @@
-## Getting Started with Yclas Self-Hosted
+# Getting Started with Yclas Self-Hosted
+
 
 **Yclas Self-Hosted** is a classifieds script that helps you run a fully functional classifieds website needing from little to no knowledge in web-design or web-development.
 
@@ -24,7 +25,10 @@ You have complete control over your server data and the installation of Yclas. Y
 
 Yclas Self-Hosted Lite is a Free Open Source Software (FOSS) available in [GitHub](https://github.com/yclas/yclas), and Self-Hosted Pro is an Open Source.
 
-# How do you instal the Self-Hosted version?
+# Install
+
+**How do you instal the Self-Hosted version?**
+
 
 Yclas Self-Hosted installation takes *a few minutes.*
 
