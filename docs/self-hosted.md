@@ -1,7 +1,3 @@
-# Guides
-Guides for yclas.com
-# Getting Started with Yclas Self-Hosted
-
 # Getting Started with Yclas Self-Hosted
 
 Welcome! 👋
