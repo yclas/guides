@@ -1,15 +1,8 @@
-# Getting Started with Yclas Self-Hosted
+Welcome! 👋
 
-
-**Yclas Self-Hosted** is a classifieds script that helps you run a fully functional classifieds website needing from little to no knowledge in web-design or web-development.
-
-This free open source software is ready for any modification from developers or advanced users.
-
-This easy tool’s purpose is to put your classified entrepreneurial ideas into action without the hindrances of technology knowledge, funds or human resources.
+**Yclas Self-Hosted** is a classifieds script that helps you run a fully functional classifieds website needing from little to no knowledge in web-design or web-development. This free open source software is ready for any modification from developers or advanced users.
 
 The software can be used for a variety of purposes, from automobiles and real estate classifieds to wedding planning services and fish accessories.
-
-As part of the team’s efforts to provide a full solution, we have arranged an agreement with our hosting affiliates. Through this agreement you can purchase a hosting service from them and we guarantee you a discount at  [PRO version](https://selfhosted.yclas.com/) from Yclas Self Hosted with support after the final purchase.
 
 
 # What do you get with Yclas Self-Hosted?
