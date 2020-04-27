@@ -231,6 +231,98 @@ Exit MySQL
 
 > exit
 
+# How to update your website?
+
+Your website should be always up-to-date :)
+You can find a guid for an **Automatic update** or **Manual update** below. We offer an update service as well!
+
+Follow these simple steps and update to the newest version available. 
+
+**Requirments for updates**
+
+ 
+
+ - The 3.1.0 version requires **PHP 7.x** as minimal version. 
+ - Make sure that you have a **PHP 7** before updating. You can ask  your hosting provider for it. This is necessary because you need to have a decent updated version of **PHP** installed for your hosting.
+
+We don't take fault for fail updates and we can't assist you in fixing any occuring issues during that time. If you are not certain how to do the updates we offer an [update service](https://selfhosted.yclas.com/support/installation-or-update.html) for $150 if you have a version 2.x or latest. Please, contact us before getting the update service, [contact us](https://yclas.com/contact/).
+
+
+### Automatic Update
+
+You just have to follow the normal automatic update steps listed below:
+
+-   **Make a backup**  of all your files and DB.
+-   **Log in**  to your admin panel.
+-   Go to  **Panel > Updates**  and click  **Update**.
+-   That's all!
+
+### Manual Update
+
+**Please follow these instructions**  to prevent any errors.
+
+1.  **Make a backup**  of all your files and DB.  
+
+2.  **Log in**  at your panel.  
+
+3.  **Activate the default theme**  if you had a premium theme.  
+
+4.  **[Download the latest version](https://yclas.com/self-hosted.html)**  and extract the files in its folder.  
+
+5.  **Enable  [maintenance mode](https://docs.yclas.com/how-to-activate-maintenance-mode/).**  
+
+6.  **Open your FTP**  or your website file manager  
+
+7. Delete all files in your website folder  **except**  the following:  
+
+-   robots.txt
+-   /oc/config/auth.php
+-   /oc/config/database.php
+-   .htaccess
+-   /images/
+-   and /themes/ if you had a custom theme.
+
+8.  **Now upload to your folder all the files**  we extracted earlier, except for the files we mentioned in the previous step and the “/install” folder.  
+
+9.  **Run in your browser**  http://yourdomain.com/oc-panel/update/database?from_version=**2.9.0** ( put your current version here )  
+
+10. If you have a premium theme, download it from the market and reupload it from there.  
+
+11.  **That's all!**
+
+# Compatible Hosting Providers
+
+ In our expereince, sometimes users purchase hosting plans that are not compatible with Yclas and then unexpected errors may occur.  Take a look at the [software requirements](https://docs.yclas.com/yclas-hosting/) if you can't find your hosting provider in list below.
+ 
+ To prevent that from happening, Yclas's team has prepared a list of 16 hosting providers that we tested and they’re working with Yclas. 
+
+## Tested Hosting Working With Yclas
+
+These hosting providers have been all tested by us. You can use their hosting services without having any issues on your wesbite.
+
+RECOMMENDED
+
+1.  **[HostPapa](https://yclas.com/hosting-pro)**
+2.  **[Inmotion](https://inmotion-hosting.evyy.net/c/1252522/260033/4222)**
+3.  **[A2hosting](https://partners.a2hosting.com/solutions.php?id=4636)**
+4.  siteground
+5.  godaddy * only linux based hosting and newly purchased packages
+6.  mediatemple
+7.  bluehost
+8.  greengeeks
+9.  gigapros
+10.  fatcow
+11.  arvixe
+12.  justhost
+13.  site5
+14.  dreamhost
+15.  redcoruna
+16.  factoriadigital
+17.  1and1
+
+We recommend   **Hostpapa**  for US or Europe ,  **inmotion**  if you’re in the US and  **A2 hosting**  if you’re in Europe, Middle-east and North Africa all have good 24/7 tech support.
+
+If you didn’t find your web hosting then make sure it’s compatible with Yclas by checking the  [software requirements](https://docs.yclas.com/yclas-hosting/).
 
 
 *Thank you for your time* 🙏
