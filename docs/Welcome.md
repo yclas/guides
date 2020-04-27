@@ -17,7 +17,7 @@ You can get started right away without any technical knowledge. You can create y
 # How is Yclas organized?# 
 
  - 📖 Docs - In this documentation you can learn how to work with our software and get started.
-- 😺 [Github](https://github.com/yclas) - We use GitHub for errors and pull requests
+- 😺 [Github](https://github.com/yclas) - We use GitHub for developers' contributions. 
  - 📝 [Blog](yclas.com/blog) - We update our blog on a weekly basis. Here you can find information on our latest updates and info on latest marketing & business realted topics.
  - 🗣 Social Media - This is the informal place for Yclas users. Follow us for daily updates & great tips, strategies and recommendations on [Twitter](https://twitter.com/Yclascom) and [Facebook](https://www.facebook.com/yclascom/). 
 
