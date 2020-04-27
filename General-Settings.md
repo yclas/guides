@@ -29,18 +29,18 @@ Good luck! [  ](https://emojipedia.org/four-leaf-clover/)🍀
  - Two step SMS authentication 
  - Two step Authentication
 
-
 ## Maintenance Mode
 
-**To activate Maintenance Mode:**
+**If you'd like to activate Maintenance Mode you have to follow these steps:**
 
 1.  Go to  **Admin Panel**
 2.  Select  **Settings**  ->  **General**
 3.  Set  **Maintenance Mode**  option to  **ON**
 4.  Click  **Save**  button
 
-While activated, anyone who tries to access will see following page.  
+While Maintenance Mode is being activated, anyone who tries to access your website will see following page:  
 
 > **Only administrator can access**
 
-  and see the whole website by logging in their admin panel.
+  They'll be able to see the whole website only by logging in.
+  
