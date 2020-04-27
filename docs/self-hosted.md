@@ -14,7 +14,9 @@ The software can be used for a variety of purposes, from automobiles and real es
  a) Installation on Digital Ocean, VULTR or Linode & step-by-step guide
  
  - Create a user Database & step-by-step
-
+ - How to update
+ - Compatible Hosting providers
+ - Yclas Self-Hosted Pro
 # Introduction
 
 ## What do you get with Yclas Self-Hosted?
@@ -324,5 +326,29 @@ We recommend   **Hostpapa**  for US or Europe ,  **inmotion**  if you’re in th
 
 If you didn’t find your web hosting then make sure it’s compatible with Yclas by checking the  [software requirements](https://docs.yclas.com/yclas-hosting/).
 
+# Upgrade to Yclas Self-Hosted Pro
+
+
+
+[Yclas Self-Hosted PRO](https://selfhosted.yclas.com/themes/yclas-self-hosted-pro.html)  is another way to start your classifieds or marketplace site. It differce from the Yclas Self-Hosted version.
+
+With Yclas Self-Hosted Pro you get more:
+
+-   All Yclas Themes
+-   We install it for you
+-   3 Months Pro Support
+-   Mobile ready
+-   Forever updates of all themes
+-   All Yclas Features:
+    -   [More payment gateways](https://docs.yclas.com/setup-payment-gateways/)
+    -   [Stripe connect](https://docs.yclas.com/stripe/)
+    -   [Custom Fields for Advertisements](https://docs.yclas.com/how-to-create-custom-fields/)
+    -   [Custom Fields for Users](https://docs.yclas.com/users-custom-fields/)
+    -   [Social Login](https://docs.yclas.com/how-to-login-using-social-auth-facebook-google-twitter/)
+    -   [Interactive Map](https://docs.yclas.com/how-to-add-interactive-map)
+    -   [Memberships](https://docs.yclas.com/membership-plans)
+    -   [API enabled (needed for Android and iOS apps)](https://docs.yclas.com/api-documentation/)
+    -   [Infinite scroll (only in some themes)](https://docs.yclas.com/set-infinite-ads/)
+    -   Advanced newsletter
 
 *Thank you for your time* 🙏
