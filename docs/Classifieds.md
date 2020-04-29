@@ -326,12 +326,13 @@ There are three ways to offer coupons: Create single coupon, bulk creation of un
 ### Create single coupon
 
 Login to your Panel, go on  **Classifieds**  ->  **Coupons**  and click  **New**.
+![coupons1](https://user-images.githubusercontent.com/55290441/80603248-d5eb7100-8a38-11ea-82e2-d71d8ade80ad.png)
 
-[![new coupon](https://docs.yclas.com/images/coupons-new.png)](https://docs.yclas.com/images/coupons-new.png)
 
 Fill the fields and press  **Submit**.
 
-[![new coupon 1](https://docs.yclas.com/images/coupons-new1.png)](https://docs.yclas.com/images/coupons-new1.png)
+![coupons2](https://user-images.githubusercontent.com/55290441/80603249-d6840780-8a38-11ea-9800-e25af3934b54.png)
+
 
 -   **Name:**  It must be unique, cannot be repeated.
 -   **Id Product:**  Any means will work for any product. If you choose a product, then the coupon will work only for that product.
@@ -339,31 +340,37 @@ Fill the fields and press  **Submit**.
 -   **Discount Percentage:**  (If Percentage discount is selected) Percentage of discount, ex. 50 (will remove 3$ from a $6 order).
 -   **Number Coupons:**  Number of times that unique coupon can be used.
 
--   **Valid until:**  Until when you can use that coupon.
+-   **Valid until:**  Until when can you use that coupon.
 
-[![new coupon 2](https://docs.yclas.com/images/coupons-new2.png)](https://docs.yclas.com/images/coupons-new2.png)
+![coupons3](https://user-images.githubusercontent.com/55290441/80603252-d71c9e00-8a38-11ea-8902-b46ac219162b.png)
+![coupons4](https://user-images.githubusercontent.com/55290441/80603254-d71c9e00-8a38-11ea-9ef5-5ac5eebcea3b.png)
 
-[![new coupon 3](https://docs.yclas.com/images/coupons-new3.png)](https://docs.yclas.com/images/coupons-new3.png)
+
 
 ### Bulk creation
 
 Login to your Panel, go on  **Classifieds**  ->  **Coupons**  and click  **Bulk**.
 
-[![bulk coupon](https://docs.yclas.com/images/coupons-bulk0.png)](https://docs.yclas.com/images/coupons-bulk0.png)
+![coupons5](https://user-images.githubusercontent.com/55290441/80603255-d71c9e00-8a38-11ea-99b2-d5c1af611f68.png)
+
 
 Fill the fields and press  **Submit**.
 
-[![bulk coupon](https://docs.yclas.com/images/coupons-bulk2.png)](https://docs.yclas.com/images/coupons-bulk2.png)
+![coupons6](https://user-images.githubusercontent.com/55290441/80603256-d7b53480-8a38-11ea-8b7d-b04e46f1aa92.png)
+
+
 
 Unique coupon names will be created automatically.
 
-[![bulk coupon](https://docs.yclas.com/images/coupons-bulk3.png)](https://docs.yclas.com/images/coupons-bulk3.png)
+![coupons7](https://user-images.githubusercontent.com/55290441/80603257-d7b53480-8a38-11ea-967f-a94134186c11.png)
+
 
 ### Import coupons
 
 Login to your Panel, go on  **Classifieds**  ->  **Coupons**, click  **Import**, choose your CSV file and click  **Upload**.
 
-[![import coupon](https://docs.yclas.com/images/coupon-import.png)](https://docs.yclas.com/images/coupon-import.png)
+![coupon8](https://user-images.githubusercontent.com/55290441/80603323-eb609b00-8a38-11ea-953d-05415bf4a713.png)
+
 
 You can use this tool for example if your provider sends you the coupons.  [Here’s a sample CSV file](https://cdn.rawgit.com/yclas/yclas/master/install/samples/import/coupons.csv).
 
@@ -371,7 +378,7 @@ You can use this tool for example if your provider sends you the coupons.  [Here
 
 If you made a mistake or you want to update a coupon, you can simply go on  **Classifieds**  ->  **Coupons**  and click to edit the coupon.
 
-[![edit coupon](https://docs.yclas.com/images/coupons-edit.png)](https://docs.yclas.com/images/coupons-edit.png)
+![coupons9](https://user-images.githubusercontent.com/55290441/80603259-d84dcb00-8a38-11ea-81bf-16bd3748acfc.png)
 
 You can edit all the fields except from the name of the coupon.
 
@@ -383,18 +390,17 @@ At first, give the  **coupon name**  to the beneficiary. After that, there are t
 
 Add the coupon name in the field on the right bottom of the checkout form.
 
-[![checkout](https://docs.yclas.com/images/coupons-checkout.png)](https://docs.yclas.com/images/coupons-checkout.png)
+![coupons10](https://user-images.githubusercontent.com/55290441/80603244-d552da80-8a38-11ea-9989-abb227c90a35.png)
+![coupons11](https://user-images.githubusercontent.com/55290441/80603246-d5eb7100-8a38-11ea-92d2-59fc810ab711.png)
 
-[![checkout1](https://docs.yclas.com/images/coupons-checkout1.png)](https://docs.yclas.com/images/coupons-checkout1.png)
 
 ### From widget coupons
 
-Users can enter the name of the coupon, click add and if the coupon exists and it’s valid, then it’s automatically added on the checkout page. Before that, you need to create a coupon widget. If you don’t know how to create a widget, please follow  [this guide](https://docs.yclas.com/overview-of-widgets)
+Users can enter the name of the coupon, click add and if the coupon exists and it’s valid, then it’s automatically added on the checkout page. Before that, you need to create a coupon widget. If you don’t know how to create a widget, please find the needed information on our documentation. :)
 
-[![widget](https://docs.yclas.com/images/coupon-widget.png)](https://docs.yclas.com/images/coupon-widget.png)
+![coupon12](https://user-images.githubusercontent.com/55290441/80603335-f0254f00-8a38-11ea-81da-40087cc2f611.png)
 
-[![widget1](https://docs.yclas.com/images/coupon-widget1.png)](https://docs.yclas.com/images/coupon-widget1.png)
-
+![coupon13](https://user-images.githubusercontent.com/55290441/80628862-ad746e80-8a5a-11ea-9b0d-fdfe39854a04.png)
 ### Add Coupon Name in any URL
 
 If the name of the coupon is “FEATURE20%”, then users can add this in any URL of your website
@@ -408,6 +414,7 @@ If the name of the coupon is “FEATURE20%”, then users can add this in any UR
 
 Last but not least, you can export coupons from your panel to CSV file. This will be useful for example to send those coupons to your provider.
 
+![coupon15](https://user-images.githubusercontent.com/55290441/80603296-e3086000-8a38-11ea-808a-dfdd17e4f6b8.png)
 
 # How to mark image as primary
 
@@ -420,15 +427,16 @@ With it, users have the option to change the **primary image** of their ad. If a
 
 Let’s say you have published an ad with two images. This is how it’s displayed on the Listing page:
 
-![primary-image](https://docs.yclas.com/images/primary-image.png)
+![primary-image1](https://user-images.githubusercontent.com/55290441/80629612-c7628100-8a5b-11ea-93fc-2a36e267099d.png)
 
 If you want to change the primary image, you have to click “Edit” on the ad and then click “Primary Image” under the image you want to mark as primary.
 
-![primary-image1](https://docs.yclas.com/images/primary-image1.png)
+![primary-image2](https://user-images.githubusercontent.com/55290441/80629638-cfbabc00-8a5b-11ea-96b5-23a49207373f.png)
+
 
 This is the result!
 
-![primary-image2](https://docs.yclas.com/images/primary-image2.png)
+![primary-image3](https://user-images.githubusercontent.com/55290441/80629655-d3e6d980-8a5b-11ea-9353-6efbefa95ab3.png)
 
-Notice that you can change the primary image as many times as you'd want!
+Note that you can change the primary image as many times as you'd want!
 
