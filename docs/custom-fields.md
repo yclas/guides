@@ -5,15 +5,15 @@
 -   Video 
 -   Tricks
 
-
-
 *Note that custom fields are available only on the sites hosted on  [Yclas.com](https://yclas.com/)  and on  [Yclas Self-Hosted Pro](https://selfhosted.yclas.com/themes/yclas-self-hosted-pro.html)*.
-
-**The maximum number of Custom Fields you can have in your website is  **65**!**
-
+ 
+```diff
+- **The maximum number of Custom Fields you can have in your website is  **65**!****
+```
 *The new feature is included in the  **2.0.7**  version, which makes it possible to create multiple new custom fields.*
 
 Now there are  **3 types of fields**  that can be added to advertisements.
+
 
 1.  **Standard**: mandatory and not changeable.
 
