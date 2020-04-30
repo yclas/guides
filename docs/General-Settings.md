@@ -49,6 +49,8 @@ While Maintenance Mode is being activated, anyone who tries to access your websi
   They'll be able to see the whole website only by logging in.
 ![maintenance-mode](https://user-images.githubusercontent.com/55290441/80502873-d244e500-8979-11ea-8d54-f009e83a23b3.png)
 
+Setting moderation: Allows you to change how to publish ads. You can read more [here](api-documentation.md) 
+
 # Bots & Crawlers
 
 
