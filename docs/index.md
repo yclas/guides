@@ -140,14 +140,14 @@ Guide
 - Auto post on social media
 - Add expiration
 
-# Yclas Plugins 
-- Create a blog
-- Add a forum section
+# Plugins 
+- Blog
+- Forum section
 - View/edit forum topics
 - FAQ system
 - Messaging system
 - Activate black list
-- Login using social auth ( FB, Google, Twitter...)
+- Login using social auth 
 - Membership plans to post
 
 # Translation
