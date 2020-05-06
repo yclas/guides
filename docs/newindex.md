@@ -203,6 +203,8 @@
 - User's location
 - Favourites system overview
 
+# API documentation
+
 # Useful articles
 
 - Bitcoin Integration
