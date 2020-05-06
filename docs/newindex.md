@@ -2,8 +2,7 @@
 
 # Getting Started
 
- - Welcome to Yclas ( What's Yclas ) 
-( - - If you want to start a Yclas self-hosted (link to the guide Yclas Self-hosted)
+ - Welcome to Yclas 
  -  How to Use Yclas Support System 
 
 # Panel
