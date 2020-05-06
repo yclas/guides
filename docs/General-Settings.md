@@ -9,7 +9,7 @@ Good luck! [  ](https://emojipedia.org/four-leaf-clover/)🍀
 
 ## Content
 
- - Maintenance Mode
+ - * [Maintenance Mode](General-Maintenance-mode.md)
  - Bots & Crawlers
  - Change your site name and description
  - Ads moderation
