@@ -49,7 +49,7 @@
 
  - Add pages
 - Automatic emails sent to users 
-- Sent a Newsletter
+- Send a Newsletter
 - CSM Images
 - Add an Interactive Map
 
@@ -259,6 +259,7 @@
   -  Local development  
 - Vagrant configuration for Yclas Self-Hosted
 - Docker configuration for Yclas Self-Hosted
+- API documentation
 
 # Technical Guide
 
