@@ -95,8 +95,7 @@
  -  Change date format
  - Change Time Zone
  - How Ads Moderation works
- - HTML in headelement 
- - HTML in footer 
+ - HTML in headelement/footer 
  -  Landing Page
  - Maintenance Mode
  - Multilingual Mode
