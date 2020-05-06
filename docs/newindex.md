@@ -1,134 +1,138 @@
-# Introduction
- - Welcome to Yclas 
- - Yclas Self-Hosted
- - Upgrade guide ( latest upgrades on Yclas )
- - Contribution guide ( 'How to contribute' page yclas docs)
- - API documentation
- 
- # Getting started
 
-## - Installation
-- - Installation (how to instal Yclas Self-hosted)
+
+# Getting Started
+
+ - Welcome to Yclas ( What's Yclas ) 
+( - - If you want to start a Yclas self-hosted (link to the guide Yclas Self-hosted)
+ -  How to Use Yclas Support System 
+
+# Panel
+
+ - Site & advertisements stats
+ - Admin keyword shortcuts
+
+# Installation
+- - Installation (how to instal Yclas Self-hosted; link to cloud;)
 - - Software requirements 
-- - My SQL database
-- -  Installation on *Digital Ocean, VULTR or Linode*
 - - Upgrade to Yclas Self-Hosted Pro
-
-
-
-## - Configuration
-
-( How to configure a website with Yclas;  
- - - Maintenance Mode
- - -  Landing Page
- -  - Add tracking codes 
- -  - Ads moderation
- - - Allowed email domains
- -  -  Local development ( "How to develop on local" from development )
-- - Vagrant configuration (move from development)
-- - Docker configuration ( move from development ) 
-- - * ideas on what info to include here *** 
-  
-# General Settings
--  Activate Access Terms Alert
- -  Algolia Search
- -  Bots & Crawlers
- -  Cookie consent 
- - Currency format 
- - Multilingual Mode
--  Notification System 
--   HTML in headelement 
- - HTML in footer 
- - Change your website's language
- - Yclas Support system (moved from "How to" category)
-
-# The Basics
- -  Change date format 
- - Change time zone 
- -  Change your site name and description
- - Add text in Contacts page 
- -  Modify the top menu
- -  Add a banner
- - Add pages
- - CSM Images
-- Add an Interactive Map
--  Website translation ('How to change language of the site?' from languages )
-
-
-# Custom fields
-- Create custome fields to selected categories
-- EU VAT
-- Publish an add with a different contact email
-- PayPal email for sellers
-- Shipping custom field
--  Sell event tickets online
-- Buyer instructions
-- Publisher to enable/disable comments
-- Verify user
-- Vehicle Data
-- Bitcoin wallet address 
 
 # Manage classifieds
 
 - Add categories and manage them
-- Add icons ( and locations) to categoires
+- Add icons to categoires
  -  Add location
  -  Hide categories from home page
  - Coupon system
-**- Manage ads / and orders** ( ~~Manage orders)~~
+-  Manage advertisements
+-  Manage orders
 -  Mark image as primary
 - Flag ads as inappropriate
 - Import tool for categories and locations
+
+
+# Custom fields
+- Create custome fields 
+- Integrated custome fields into selected categories
+- EU VAT
+- Publish an add with a different contact email
+- PayPal email for sellers
+- Shipping custom field
 - Sell digital goods
+-  Sell event tickets online
+- Buyer instructions
+- Publisher to enable/disable comments
+- Choose currency on ads
+- Vehicle Data
+- Bitcoin wallet address 
+
+# Content
+
+ - Add pages
+- Automatic emails sent to users 
+- Sent a Newsletter
+- CSM Images
+- Add an Interactive Map
+
+## ** Yclas Themes**
+ - How to change your theme?
+ - Configuration of premium themes
+ 
 
 # 🏗 Appearance
 
  -  Add a Logo to your classified website
- - Change website icon ( favi icon )
+ - Change website icon ( favicon )
  - Activate right-to-left
- - Set up infinite ads
+ - Setup infinite ads
  - Custom CSS
-
-## * Yclas Themes*
-
- 1. How to change your theme?
- 2. Configuration of premium themes
- 3. Overview of Yclas Self-hosted themes
-- Jobdrop
--  Auction
-- Splash
-- Pinclass
-- Yummo
-- Olson
-- Newspaper
-- Modern Deluxe
-- CZ sale
-- Kameleon
- 
+ - How to add a banner
+- Overview of widgets
 
 ## Widgets
 
-1. Overview of widgets
-2. Chat room
-3. Map widget
-4. Choose language widget
-5. Currency converter widget
-6. Share widget
-7. Search widget
-8. Subscribe widget
-9. Image widget
-10. Seller information widget
+   - Chat room
+   - Map widget
+   - Choose language widget
+   - Currency converter widget
+   - Share widget
+   - Search widget
+   - Subscribe widget
+   - Image widget
+   - Seller information widget
 
-# Classifieds Configuration
+##  General Settings:
+
+ - Activate Access Terms Alert 
+ -  Add tracking codes 
+ - Add text in contact page
+ - Allowed email domains
+ -  Ads moderation
+ -  Algolia Search
+ -  Allow/Disallow Bots & Crawlers
+ - Change site's name and description
+ - Change your website's language
+ -  Cookie consent 
+ - Currency format 
+ -  Change date format
+ - Change Time Zone
+ - How Ads Moderation works
+ - HTML in headelement 
+ - HTML in footer 
+ -  Landing Page
+ - Maintenance Mode
+ - Multilingual Mode
+ -  Notification System
+ -  Private site 
+
+ 
+
+# Security
+
+  - Two step SMS authentication 
+ - Two step Authentication
+ -  Aviod spam on your site
+ - Setup reCAPTCHA
+ 
+# Advertisement 
 
 - Change settings for ads
 - Manage ads in slider
 - Configure publish options
 - Force registration before publishing an ad
-- Thanks page ( **move to: settings** )
+- Thanks page 
 - Manage advertisement fields
 - Configure advert display options
-- Ad expiration
+- Review system
+- Add expiration
+
+## Publish options 
+
+ - Configure publish options
+- Activate comments with Disqus
+- Add Facebook comments
+- Configure Google maps settings
+- Auto post on social media
+
 
 # Payment
 - Set up payment gateways
@@ -139,93 +143,135 @@
 
 # Email Settings
 - General email configuration
-- Sent a Newsletter
-- Automatic emails sent to users 
 - SMTP configuration
 -  ElasticEmail
 - Host email with custom domain
 - Troubleshooting email errors
 
-## Publish options & settings
+# Advertisement Configuration
 
- - Configure publish options
+- Change settings for ads
+- Manage ads in slider
+- Configure publish options
+- Force registration before publishing an ad
+- Thanks page ( **move to: settings** )
+- Manage advertisement fields
+- Configure advert display options
 - Activate comments with Disqus
 - Add Facebook comments
 - Configure Google maps settings
 - Review system
 - Auto post on social media
+- Add expiration
 
-
-# Yclas Plugins 
-- Create a blog
-- Add a forum section
+# Plugins 
+- Blog
+- Forum section
 - View/edit forum topics
 - FAQ system
 - Messaging system
 - Activate black list
-- Login using social auth ( FB, Google, Twitter...)
+- Login using social auth 
 - Membership plans to post
+
+# Translation
+- Translation (link to 'Change your website's languge' in general settings)
+- Live translations
+- Multilingual Classifieds (their own page; in guides)
 
 # Media Settings
 - Configure image Settings
 - Add watermark
 - Configure Amazon S3
 
-# Manage users
+#  Users
 - Mange users
 - Export users to CSV
-- Roles ~~( How roles work )~~
+- Roles 
 - Create custome fields for users
-- Contact users via Whatsup, Telegram, Skype ~~(Chat with users)~~
-- Verify user (2x; also in "Custom fields")
-- - Favourites system (2x "Edit profile" )
-- - User's location (2x "Edit profile")
+- Chat with users
+- Verify user
 
-# Edit profile (*changed from 'Profile'*)
-
-(Move articles/delete this category)
-
-- Edit profile ~~( Edit your profile )~~ (General settings)
-- User's location ( Manage users)
-- Favourites system ~~( How Favourite system works )~~(Manage users)
-
-# Additional 
+# Extras
 - Import ads ( Import advertisements )
 - How to set crons
 - Sitemap for a classified website
--  Live translation (moved from 'Trasnlation')
+
+# Profile
+
+- Edit profile 
+- User's location
+- Favourites system overview
+
+# Useful articles
+
+- Bitcoin Integration
+- Website content localization 
+- Prevent emails from going to the spam folder
+- How to get a free classified site?
+- How to promote your classified website for free
+- How to do SEO with classified sites
+- Earn money with classifieds
+- Using Yclas as a Company Directory
+- How to Leverage a classifieds website with local media
+-  Why is Responsive web design so important? 
+- Build a forum with Yclas 
+- 3 ways to use Google Maps with classifieds
+- 5 Facebook integration for classifieds
+- 5 hacks to prevent scams 
 
 
 # How to 
 
-- How to Use Yclas Support System (2x; also in "General Settings")
-- How to Use Yclas Self Hosted Premium Support System
+- How to Use Yclas Self-hosted Premium Support System
+- How to contribute
 -  How to add map on the homepage
--  How-to videos with Yclas (~~How to videos)~~ (delete/redirect to youtube or improve)
+-  How-to videos with Yclas 
 -  Access to Database or FTP
-- Export my site
--  Renewal
-- Setup for free
+- Export your site 
+- Renewal
+- Setup Free
 - SSL Encryption
 - Upgrades
-- Custom domain
+-  Custom domain 
 
-# Technical Guide 
--   Change folder permissions
+ 
+
+# Yclas Self-Hosted
+
+# - Getting Started
+
+-  Software requirements
+- How to create My SQL database
+
+# - Installation
+
+ - Install on Digital Ocean, VULTR or Linode
+- How to Update
+- Migrate OSclass to Yclas Self-hosted (?)
+- Migrate Noah's to Yclas Self-hosted (?)
+- How to Upgrade 1.7.x/1.8.x to 2.x
+- Tested Hosting Providers Compatible with Yclas Self-Hosted
+
+
+# Development
+
+  -  Local development  
+- Vagrant configuration for Yclas Self-Hosted
+- Docker configuration for Yclas Self-Hosted
+
+# Technical Guide
+
+ -  Change folder permissions
 -   Backup your Classifieds site
-- Multilingual Classifieds
 - How to use MySQLi?
 - Set login attempts to 0
 - Redirect www to non www
 - From Http to Https
 - Modify cache time
-- Understanding Yclas Self-Hosted Themes (move to 'Yclas Themes')
+- Understanding Yclas Self-Hosted Themes
 - Modify or create a Theme?
-- Modify Yclas Self-Hosted Themes (child themes)
-~~- Fix Base URL (moved to "Techincal issues")~~
-~~**-  'I accidentally changed my admin privilege, how can I fix that?' (not sure what to do with this article)** '*Change admin privilege*' ?~~
-~~- Error troubleshooting (moved to "Technical issues")~~
-~~- Fix classifieds listings page issue (moved to "Technical issues")~~
+- How to modify Yclas Self-Hosted Themes (child themes)
 - Yclas Self-Hosted database description
 - Converting Tables from MyISAM to InnoDB
 - Remove licence or banner
@@ -234,7 +280,7 @@
 - Error troubleshooting
 - Fix classifieds listings page issue
 - Fix Base URL 
-- Change admin privilege* ( 'I accidentally changed my admin privilege, how can I fix that?' (not sure what to do with this article)* )
+- Change admin privilege* ( 'I accidentally changed my admin privilege, how can I fix that?' 
 
 
 # License
@@ -244,20 +290,3 @@
 -  Get discount with recommended hosting plans (# I bought the hosting plan, how do I get my discount?)
 - License not working & Solution
 - Troubleshooting license error of child theme activation
-
-# Useful articles
-
-- Bitcoin Integration
-- Website content localization **(?)** 
-- Prevent emails from going to the spam folder
-- ~~How to get a free classified site?~~ ( move to how to or delete )
-- How to promote your classified website for free
-- How to do SEO ~~(How to do SEO for classified website)~~
-- Earn money with classifieds
-- Using Yclas as a company directory
-- How to Leverage a Classifieds Website With Local Media
--  Why Is Responsive Web Design So Important? (improve or delete)
-- 3 Ways to Use Google Maps With Classifieds
-- 5 Facebook integration for classifieds
-- Build a forum with Yclas ~~(how to build a forum with OC)~~
-- 5 hacks to prevent scams ~~( 5 facts to NOT get scammed)~~
