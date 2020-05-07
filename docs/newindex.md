@@ -94,7 +94,8 @@
  * [Notification System](General-Notification-System.md)
  * [Algolia Search](General-Algolia-search.md)
 
-  ## Multilingual Mode
+  ## Multilingual Classifieds
+ * Multiligual Classifieds
  * [Activate Multilingual Mode](multilingual-mode.md)
 
 # Security
