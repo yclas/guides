@@ -14,9 +14,9 @@
 
 - Add categories and manage them
 - Add icons to categoires
- -  Add location
- -  Hide categories from home page
- - Coupon system
+-  Add location
+-  Hide categories from home page
+- Coupon system
 -  Manage advertisements
 -  Manage orders
 -  Mark image as primary
@@ -32,7 +32,7 @@
 - PayPal email for sellers
 - Shipping custom field
 - Sell digital goods
--  Sell event tickets online
+- Sell event tickets online
 - Buyer instructions
 - Publisher to enable/disable comments
 - Choose currency on ads
@@ -41,7 +41,7 @@
 
 # Content
 
- - Add pages
+- Add pages
 - Automatic emails sent to users 
 - Send a Newsletter
 - CSM Images
@@ -60,7 +60,7 @@
  - Setup infinite ads
  - Custom CSS
  - How to add a banner
-- Overview of widgets
+ - Overview of widgets
 
 ## Widgets
 
@@ -100,7 +100,7 @@
 
 # Security
 
-  - Two step SMS authentication 
+ - Two step SMS authentication 
  - Two step Authentication
  -  Aviod spam on your site
  - Setup reCAPTCHA
@@ -119,7 +119,7 @@
 
 ## Publish options 
 
- - Configure publish options
+- Configure publish options
 - Activate comments with Disqus
 - Add Facebook comments
 - Configure Google maps settings
@@ -208,7 +208,7 @@
 - Earn money with classifieds
 - Using Yclas as a Company Directory
 - How to Leverage a classifieds website with local media
--  Why is Responsive web design so important? 
+- Why is Responsive web design so important? 
 - Build a forum with Yclas 
 - 3 ways to use Google Maps with classifieds
 - 5 Facebook integration for classifieds
@@ -219,15 +219,15 @@
 
 - How to Use Yclas Self-hosted Premium Support System
 - How to contribute
--  How to add map on the homepage
--  How-to videos with Yclas 
--  Access to Database or FTP
+- How to add map on the homepage
+- How-to videos with Yclas 
+- Access to Database or FTP
 - Export your site 
 - Renewal
 - Setup Free
 - SSL Encryption
 - Upgrades
--  Custom domain 
+- Custom domain 
 
  
 
@@ -239,7 +239,7 @@
 - Software requirements 
 - Upgrade to Yclas Self-Hosted Pro
 - How to create My SQL database
- - Install on Digital Ocean, VULTR or Linode
+- Install on Digital Ocean, VULTR or Linode
 - How to Update
 - Migrate OSclass to Yclas Self-hosted (?)
 - Migrate Noah's to Yclas Self-hosted (?)
@@ -249,15 +249,15 @@
 
 # Development
 
-  -  Local development  
+-  Local development  
 - Vagrant configuration for Yclas Self-Hosted
 - Docker configuration for Yclas Self-Hosted
 - API documentation
 
 # Technical Guide
 
- -  Change folder permissions
--   Backup your Classifieds site
+- Change folder permissions
+- Backup your Classifieds site
 - How to use MySQLi?
 - Set login attempts to 0
 - Redirect www to non www
