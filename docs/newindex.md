@@ -10,11 +10,6 @@
  - Site & advertisements stats
  - Admin keyword shortcuts
 
-# Installation
-- - Installation (how to instal Yclas Self-hosted; link to cloud;)
-- - Software requirements 
-- - Upgrade to Yclas Self-Hosted Pro
-
 # Manage classifieds
 
 - Add categories and manage them
@@ -237,13 +232,12 @@
 
 # Yclas Self-Hosted
 
-# - Getting Started
-
--  Software requirements
-- How to create My SQL database
-
 # - Installation
 
+- Installation (how to instal Yclas Self-hosted; link to cloud;)
+- Software requirements 
+- Upgrade to Yclas Self-Hosted Pro
+- How to create My SQL database
  - Install on Digital Ocean, VULTR or Linode
 - How to Update
 - Migrate OSclass to Yclas Self-hosted (?)
