@@ -1,10 +1,5 @@
 # How to create Custom Fields?
 
-Content:
--   Create New Field
--   Edit Custom Field
--   Tricks
-
 <div class="alert alert-info">
 <strong><i class="glyphicon glyphicon-info-sign"></i> </strong> Note that custom fields are available only on the sites hosted on <a href="https://yclas.com">Yclas.com</a> and on <a href="https://selfhosted.yclas.com/themes/yclas-self-hosted-pro.html">Yclas Self-Hosted Pro</a>.
 </div>
@@ -12,26 +7,37 @@ Content:
 <div class="alert alert-warning">
 <strong><i class="glyphicon glyphicon-warning-sign"></i> </strong> The maximum number of Custom Fields you can have in your website is <strong><u>65</u></strong>!
 </div>
+-   Create New Field
+-   Edit Custom Field
+-   Tricks
 
+ *Note that custom fields are available only on the sites hosted on  [Yclas.com](https://yclas.com/)  and on  [Yclas Self-Hosted Pro](https://selfhosted.yclas.com/themes/yclas-self-hosted-pro.html)*.
 
+**The maximum number of Custom Fields you can have in your website is  **65**!**
+
+*The new feature is included in the  **2.0.7**  version, which makes it possible to create multiple new custom fields.*
 
 Now there are  **3 types of fields**  that can be added to advertisements.
 
 1.  **Standard**: mandatory and not changeable.
 
-**Title, Category, Description.**
+## **Title, Category, Description.**
 
 2.  **Optional**: they are part of the open-classifieds. You have the possibility to turn them on/off
 
-**Phone, Website, Location, Address, Price, Captcha, Upload file.**
+## **Phone, Website, Location, Address, Price, Captcha, Upload file.**
 
 3.  **Custom:**  Fully customizable.
 
-### Create New Field
+
+## Create New Field
 
 To create a new field, go to  **Admin Panel**, press  **Classifieds**  select  **Custom Fields**  option.
 
 Then click  **New Field**  button on the right corner.
+
+![custom-fields1](https://user-images.githubusercontent.com/55290441/80696889-c6bffe00-8ae0-11ea-9269-b9a488e8ef58.png) 
+
 
 This is a  **New Custom Field**  screen. There are 10 options in total.
 
@@ -61,39 +67,38 @@ This is a  **New Custom Field**  screen. There are 10 options in total.
     17.  _File Google Drive_  (attaches a file from Google Drive and creates a link)  
     
 
-5.  **Values**:
+## 5. **Values**:
 
 Note: It only appears to select and for the radio option.
 
 To create values,write them down followed by comma (e.g. Paris, London, Madrid, Others).
 
-6.  **Categories:**  the category that the New Custom Field should be applied to.
+## 6. **Categories:**
 
-( see:  [How to Integrate Your Custom Fields Into Selected Categories!](https://docs.yclas.com/how-to-integrate-your-custom-fields-into-selected-categories))
+ the category that the New Custom Field should be applied to.
 
-7.  **Required**: this will make it a required field needing validation.
+( see:  [Integrated custome fields into selected categories](Custom-fields-how-to-integrate-your-custom-field-into-selected-categories.md) )
 
-8.  **Searchable**: this makes the field searchable.It will appear in Advanced searchs too.
+## 7. **Required**
 
-9.  **Admin privileged**: this field can be seen and edited only by the admin.
+: this will make it a required field needing validation.
 
-10.  **Show listing**: Users will see the custom field in listings view without having to enter the ad.
+## 8. **Searchable**:
+
+ this makes the field searchable.It will appear in Advanced searchs too.
+
+## 9. **Admin privileged**
+
+: this field can be seen and edited only by the admin.
+
+## 10. **Show listing**:
+
+Users will see the custom field in listings view without having to enter the ad.
 
 Once you have written down all the required information, click  **Create**. New field is created and added to database, and it will appear in Post new ad, Edit ad and Advanced search.
-
-  
-
-To  **Edit**,  **Delete**  or  **Change order**  look at the following image.
-
-
-
-
 
 ### Edit Custom Field
 
 While editing,  **Name**  and  **Type**  **fields**  will become disabled. In case you want to change them, you will have to delete this custom field and start over. This is to prevent messing up with the DataBase.
 
-Just for your information, the rest of the options are still open for editing and adding.
-
-
-![custom-fields3](https://user-images.githubusercontent.com/55290441/80696927-d63f4700-8ae0-11ea-95be-a25a86153b92.png)
+**Just for your information, the rest of the options are still open for editing and adding.*
