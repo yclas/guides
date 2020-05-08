@@ -26,7 +26,7 @@
 
 # Custom fields
 * [Create custome fields ](Custom-fields-create-custom-fields.md)
-* [Integrated custome fields into selected categories]
+* [Integrated custome fields into selected categories](Custom-fields-how-to-integrate-your-custom-field-into-selected-categories.md)
 - EU VAT
 - Publish an add with a different contact email
 - PayPal email for sellers
