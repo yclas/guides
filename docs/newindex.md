@@ -30,7 +30,7 @@
 * [Publish an add with a different contact email](Custom-field-publish-an-add-with-different-contact-email.md)
 * [PayPal email for sellers](Custom-fields-PayPal-email-for-users.md)
 * [Shipping custom field](Custom-fields-how-to-use-shipping-custom-field.md)
-- Sell digital goods
+* [Sell digital goods](Custom-fields-sell-digital-goods.md)
 - Sell event tickets online
 - Buyer instructions
 - Publisher to enable/disable comments
