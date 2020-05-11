@@ -2,14 +2,14 @@
 
 Content:
 -   [Configure VAT for features](Custom-fields-eu-vat.md#configure-vat-for-features)
-    - [EU countries](https://docs.yclas.com/eu-vat/#eu-countries)
-    - [Non EU countries](https://docs.yclas.com/eu-vat/#non-eu-countries)
--   [Configure VAT for sellers](https://docs.yclas.com/eu-vat/#configure-vat-for-sellers)
-    - [Advertisement VAT number](https://docs.yclas.com/eu-vat/#advertisement-vat-number)
-    -   [User VAT number](https://docs.yclas.com/eu-vat/#user-vat-number)
--   [The checkout page](https://docs.yclas.com/eu-vat/#the-checkout-page)
--   [VAT on automatic emails](https://docs.yclas.com/eu-vat/#vat-on-automatic-emails)
--   [VAT for non EU countries](https://docs.yclas.com/eu-vat/#vat-for-non-eu-countries)
+    - EU countries
+    - Non EU countries
+-   Configure VAT for sellers
+    - Advertisement VAT number
+    - User VAT number
+-   The checkout page
+-   VAT on automatic emails
+-   VAT for non EU countries
 
 This feature is available on our 3.0.0 release and for all the sites hosted at  [Yclas.com](https://yclas.com/)
 
