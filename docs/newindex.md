@@ -27,9 +27,9 @@
 * [Create custome fields ](Custom-fields-create-custom-fields.md)
 * [Integrated custome fields into selected categories](Custom-fields-how-to-integrate-your-custom-field-into-selected-categories.md)
 * [EU VAT](Custom-fields-eu-vat.md)
-- Publish an add with a different contact email
-- PayPal email for sellers
-- Shipping custom field
+* [Publish an add with a different contact email](Custom-field-publish-an-add-with-different-contact-email.md)
+* [PayPal email for sellers](Custom-fields-PayPal-email-for-users.md)
+* [Shipping custom field](Custom-fields-how-to-use-shipping-custom-field.md)
 - Sell digital goods
 - Sell event tickets online
 - Buyer instructions
