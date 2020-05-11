@@ -31,8 +31,8 @@
 * [PayPal email for sellers](Custom-fields-PayPal-email-for-users.md)
 * [Shipping custom field](Custom-fields-how-to-use-shipping-custom-field.md)
 * [Sell digital goods](Custom-fields-sell-digital-goods.md)
-- Sell event tickets online
-- Buyer instructions
+* [Sell event tickets online](Custom-fields-sell-event-tickets-online.md)
+* [Buyer instructions](Custom-fields-buyer-instructions.md)
 - Publisher to enable/disable comments
 - Choose currency on ads
 - Vehicle Data
