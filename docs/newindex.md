@@ -34,9 +34,9 @@
 * [Sell event tickets online](Custom-fields-sell-event-tickets-online.md)
 * [Buyer instructions](Custom-fields-buyer-instructions.md)
 * [Publisher to enable/disable comments](Custom-fields-publisher-to-enable-disable-comments.md)
-- Choose currency on ads
-- Vehicle Data
-- Bitcoin wallet address 
+* [Choose currency on ads](Custom-fields-choose-currency.md)
+* [Vehicle Data](Custom-fields-vehicle-data.md)
+* [Bitcoin wallet address ](Custom-fields-bitcoin-wallet-address.md)
 
 # Content
 
