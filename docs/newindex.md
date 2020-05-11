@@ -33,7 +33,7 @@
 * [Sell digital goods](Custom-fields-sell-digital-goods.md)
 * [Sell event tickets online](Custom-fields-sell-event-tickets-online.md)
 * [Buyer instructions](Custom-fields-buyer-instructions.md)
-- Publisher to enable/disable comments
+* [Publisher to enable/disable comments](Custom-fields-publisher-to-enable-disable-comments.md)
 - Choose currency on ads
 - Vehicle Data
 - Bitcoin wallet address 
