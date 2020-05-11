@@ -11,7 +11,6 @@
  - Admin keyword shortcuts
 
 # Manage classifieds
-
 - Add categories and manage them
 - Add icons to categoires
 -  Add location
@@ -27,7 +26,7 @@
 # Custom fields
 * [Create custome fields ](Custom-fields-create-custom-fields.md)
 * [Integrated custome fields into selected categories](Custom-fields-how-to-integrate-your-custom-field-into-selected-categories.md)
-- EU VAT
+* [EU VAT](Custom-fields-eu-vat.md)
 - Publish an add with a different contact email
 - PayPal email for sellers
 - Shipping custom field
