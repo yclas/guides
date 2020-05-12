@@ -1,11 +1,11 @@
 
 
-# > General Settings ⚙️
+#  General Settings ⚙️
 Dear Yclas user, 
 
 In this section, you'll find all of the general settings configuration that you have in your Yclas website. You can learn how to maintain your website with easy by following just a few simple steps. 
 Good luck! [  ](https://emojipedia.org/four-leaf-clover/)🍀
-**
+
 
 ## Content
 
