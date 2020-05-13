@@ -6,5 +6,5 @@ Yclas has a wide variety of amazing and useful templates! Find the one that suit
  
 
 Content: 
-* [How to change your theme?](Themes-how-to-change-a-theme.md)
+* [How to change a theme?](Themes-how-to-change-a-theme.md)
 * [Configuration of premium themes](Themes-configuration-of-premuim-themes.md)
