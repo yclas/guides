@@ -23,27 +23,25 @@ You can get started right away without any technical knowledge. You can create y
 
 This is a list with everything that you can find on our documentation and guides! 
 
-**Getting Started**
+[**Getting Started**](README.md)
 
- -  -  **How to Use Yclas Support System** 
+ -  -  [**How to Use Yclas Support System**](Home-how-to-use-yclas-support-system.md) 
 
-**Panel**
+[**Panel**](panel.md)
 
-**Manage classifieds**
+[**Manage classifieds**](Classifieds.md)
 
-**Custom fields**
+[**Custom fields**](Custom-fields.md)
 
-**Content**
+[**Content**](Content.md)
 
-**Yclas Themes**
+[**Yclas Themes**]()
 
 **Appearance**
 
 **Widgets**
 
-  
-
-**General Settings:**
+[**General Settings:**](General-Settings.md)
 
  **Security**
 
@@ -77,17 +75,12 @@ This is a list with everything that you can find on our documentation and guides
 
 **Profile**
 
-**API documentation**
+[**API documentation**](api-documentation.md)
 
 **Useful articles**
 
 **How to**
 
-**Yclas Self-Hosted**
+[**Yclas Self-Hosted**](self-hosted.md)
 
- Installation
- - Development
-- Technical Guide
-   - - Technical issues
-- License
 
