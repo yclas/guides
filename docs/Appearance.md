@@ -1,4 +1,6 @@
-The appearance guide has everything you need to configure on your website! 
+The appearance guide has everything you need to configure on your website!  🏗
+
+Content: 
 
 * Add a Logo to your classified website
 Change website icon ( favicon )
