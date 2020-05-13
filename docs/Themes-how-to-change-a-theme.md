@@ -1,4 +1,4 @@
-# How to change theme?
+# How to change a theme?
 
 Content:
 
