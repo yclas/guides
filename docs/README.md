@@ -21,27 +21,73 @@ You can get started right away without any technical knowledge. You can create y
  - 📝 [Blog](yclas.com/blog) - We update our blog on a weekly basis. Here you can find information on our latest updates and info on latest marketing & business realted topics.
  - 🗣 Social Media - This is the informal place for Yclas users. Follow us for daily updates & great tips, strategies and recommendations on [Twitter](https://twitter.com/Yclascom) and [Facebook](https://www.facebook.com/yclascom/). 
 
-## What kind of business do you want to start?
+This is a list with everything that you can find on our documentation and guides! 
 
-Choose between classified website, classified marketplace,
-real estate, car dealer, model directory, business directory,
-job board, ticket events, actions and online stores.
+**Getting Started**
 
-  Live Yclas websites **4,537**                    
-  Ads published **4,261,619**  
-  Page view served **143,358,775**
+ -  -  **How to Use Yclas Support System** 
 
-Join our community!
+**Panel**
 
-With Yclas you can be creative and build any type of marketplace! Use our management tools and custom fields to customize your marketplace and make it perfect for your business.
+**Manage classifieds**
 
-In a few simple steps, you can set up any of our **14 payment gateways**. No matter where your customers are now, we provide the best payment method.
+**Custom fields**
 
-First impressions are for life. Therefore, we’ve created **14 themes** to fit your project’s requirements, and they’re all **mobile friendly**! Modify any color, text or image, choose widgets and sidebars. Set up the perfect design!
+**Content**
 
-We have a **100% updated iOS and Android Apps** for our customers. With them you can reach your customer audience, no matter what device they are using.
+**Yclas Themes**
 
-Before getting started, we **recommend** that you have a look at our **demo**: change themes, create ads and test out the features. We promise you won’t be disappointed.
+**Appearance**
 
-What are you waiting for? 
+**Widgets**
+
+  
+
+**General Settings:**
+
+ **Security**
+
+
+ 
+
+**Advertisement**
+
+
+**Publish options**
+
+
+**Payment**
+
+
+**Email Settings**
+
+
+**Advertisement Configuration**
+
+**Plugins**
+
+**Translation**
+
+**Media Settings**
+
+**Users**
+
+**Extras**
+
+
+**Profile**
+
+**API documentation**
+
+**Useful articles**
+
+**How to**
+
+**Yclas Self-Hosted**
+
+ Installation
+ - Development
+- Technical Guide
+   - - Technical issues
+- License
 
