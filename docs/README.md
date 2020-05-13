@@ -35,9 +35,9 @@ This is a list with everything that you can find on our documentation and guides
 
 [**Content**](Content.md)
 
-[**Yclas Themes**]()
+[**Yclas Themes**](Themes.md)
 
-**Appearance**
+[**Appearance**](Appearance.md)
 
 **Widgets**
 
