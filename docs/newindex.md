@@ -40,15 +40,15 @@
 
 # Content
 
-- Add pages
-- Automatic emails sent to users 
-- Send a Newsletter
-- CSM Images
+* [Add pages](Content-Add-pages.md)
+* [Automatic emails sent to users ](Content-automatic-emails-sent-to-users.md)
+* [Send a Newsletter](Content-send-a-newsletter.md)
+* [CSM Images]()
 - Add an Interactive Map
 
 ## ** Yclas Themes**
- - How to change your theme?
- - Configuration of premium themes
+* [How to change your theme?](Themes-how-to-change-a-theme.md)
+* [Configuration of premium themes](Themes-configuration-of-premuim-themes.md)
  
 
 # 🏗 Appearance
