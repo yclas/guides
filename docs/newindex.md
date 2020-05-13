@@ -46,7 +46,7 @@
 * [CSM Images]()
 - Add an Interactive Map
 
-## ** Yclas Themes**
+## Yclas Themes
 * [How to change your theme?](Themes-how-to-change-a-theme.md)
 * [Configuration of premium themes](Themes-configuration-of-premuim-themes.md)
  
