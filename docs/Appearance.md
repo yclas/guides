@@ -7,5 +7,5 @@ Content of this guide:
 * [Activate right-to-left](Appearance-activate-left-to-right.md)
 * [Setup infinite ads](Appearance-set-up-infinite-ads.md)
 * [Custom CSS](Appearance-custom-css.md)
-* [How to add a banner](Create Appearance-how-to-add-a-banner.md)
+* [How to add a banner](Appearance-how-to-add-a-banner.md)
 
