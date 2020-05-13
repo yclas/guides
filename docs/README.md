@@ -7,7 +7,7 @@ Welcome to our documentation pages **👋** Here you can find all of the informa
     
 Yclas is a platform where you can create and **build classifieds websites** within minutes without the need of technical knowledge!
 
- Thousands of entrepreneurs and business owners built their marketplaces by using our software. 
+Thousands of entrepreneurs and business owners built their marketplaces by using our software. 
 
 Join us and start making profits!
 
