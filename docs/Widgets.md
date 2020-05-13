@@ -1,5 +1,5 @@
 ## Widgets
-   - Overview of widgets
+   * [Overview of widgets](Widgets-overview-of-widgets.md)
    - Chat room
    - Map widget
    - Choose language widget
