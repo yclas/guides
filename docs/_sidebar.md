@@ -7,6 +7,7 @@
 * [Custom fields](Custom-fields.md)
 * [Content](Content.md)
 * [Yclas Themes](Themes.md)
+* [Appearance](Appearance.md)
 * [API documentation](api-documentation.md)
 * [General Settings](General-Settings.md)
 * [Self Hosted](self-hosted.md)
