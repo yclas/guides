@@ -11,16 +11,17 @@
  - Admin keyword shortcuts
 
 # Manage classifieds
-- Add categories and manage them
-- Add icons to categoires
--  Add location
--  Hide categories from home page
-- Coupon system
--  Manage advertisements
--  Manage orders
--  Mark image as primary
-- Flag ads as inappropriate
-- Import tool for categories and locations
+* [Add categories and manage them](Classifieds-how-to-add-new-categories-and-manage-them.md)
+* [Add icons to categoires](Classifieds-add-icons-to-categoires.md)
+* [Add location](Classifieds-add-location.md)
+* [Hide categories from home page](Classifieds-hide-categories.md)
+* [Coupon system](Classifieds-coupon-system.md)
+* [Manage advertisements](Classifieds-manage-advertisements.md)
+* [Manage orders](Classifiedes-how-to-manage-orders.md)
+* [Mark image as primary](Classifieds-mark-image-as-primary.md)
+* [Flag ads as inappropriate](Classifieds-flag-ads-as-inappropriate.md)
+* [Import tool for categories and locations](Classifieds-how-to-import-tool-for-categories-and-location.md)
+
 
 
 # Custom fields
