@@ -64,7 +64,7 @@
 
 
 ## Widgets
-
+   - Overview of widgets
    - Chat room
    - Map widget
    - Choose language widget
