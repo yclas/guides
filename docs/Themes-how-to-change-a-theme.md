@@ -4,7 +4,7 @@ Content:
 
 -   Changing theme - steps to follow
 -   Buying new theme and installation
--   [Modifying themes]()
+-   [Modifying themes](Themes-how-to-change-a-theme/modyfing-theme.md)
 -   [Video](https://docs.yclas.com/how-to-change-theme/#video)
 
 ## Changing theme
