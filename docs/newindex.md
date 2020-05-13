@@ -2,13 +2,13 @@
 
 # Getting Started
 
- - Welcome to Yclas 
- -  How to Use Yclas Support System 
+ * [Welcome to Yclas ](README.md)
+ * [How to Use Yclas Support System](Home-how-to-use-yclas-support-system.md)
 
 # Panel
 
- - Site & advertisements stats
- - Admin keyword shortcuts
+ * [Site & advertisements stats](Panel-site-advertising-stats.md)
+ * [Admin keyword shortcuts](Panel-amin-keyword-shortcuts.md)
 
 # Manage classifieds
 * [Add categories and manage them](Classifieds-how-to-add-new-categories-and-manage-them.md)
