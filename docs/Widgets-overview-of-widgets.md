@@ -95,4 +95,18 @@ After creating or editing the widgets, changes might not be visible on the site 
     Use the URL of an image to show it as a responsive image in your website.
 -   **Blog Posts**  
     Diplay the latest blog posts of your website in a widget.
+    
+    ## Videos
+
+### [](https://github.com/yclas/documentation/blob/gh-pages/overview-of-widgets.md#how-to-create-widgets)How to create Widgets
+
+<iframe width="800" height="450" src="[https://www.youtube.com/embed/Un0SOlPFNIg](https://www.youtube.com/embed/Un0SOlPFNIg)" frameborder="0" allowfullscreen></iframe>
+
+### [](https://github.com/yclas/documentation/blob/gh-pages/overview-of-widgets.md#links-widget)Links Widget
+
+<iframe width="800" height="450" src="[https://www.youtube.com/embed/NhQU49A6dJ8](https://www.youtube.com/embed/NhQU49A6dJ8)" frameborder="0" allowfullscreen></iframe>
+
+### [](https://github.com/yclas/documentation/blob/gh-pages/overview-of-widgets.md#user-search-widget)User Search Widget
+
+<iframe width="800" height="450" src="[https://www.youtube.com/embed/zAItpxN_HYE](https://www.youtube.com/embed/zAItpxN_HYE)" frameborder="0" allowfullscreen></iframe>
 
