@@ -14,7 +14,7 @@ Join us and start making profits!
 # Get Started
 You can get started right away without any technical knowledge. You can create your website in less than a minute.
 
-# How is Yclas organized?# 
+# How is Yclas organized? 
 
  - 📖 Docs - In this documentation you can learn how to work with our software and get started.
 - 😺 [Github](https://github.com/yclas) - We use GitHub for developers' contributions. 
