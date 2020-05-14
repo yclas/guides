@@ -47,13 +47,11 @@
 * [CSM Images]()
 - Add an Interactive Map
 
-## Yclas Themes
-* [How to change your theme?](Themes-how-to-change-a-theme.md)
-* [Configuration of premium themes](Themes-configuration-of-premuim-themes.md)
- 
-
 # 🏗 Appearance
 
+- -  Yclas Themes
+* - - [How to change your theme?](Themes-how-to-change-a-theme.md)
+* - - [Configuration of premium themes](Themes-configuration-of-premuim-themes.md)
 
 * [Add a Logo to your classified website](how-to-add-a-logo-to-your-classifieds-website.md)
 * [Change website icon ( favicon )](Appearance-change-website-icon.md)
