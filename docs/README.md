@@ -41,9 +41,9 @@ This is a list with everything that you can find on our documentation and guides
 
   - [**Widgets**](Widgets.md)
 
-[**General Settings:**](General-Settings.md)
+[**General Settings**](General-Settings.md)
 
- **Security**
+ [**Security**](Security.md)
 
 
  
