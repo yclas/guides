@@ -35,10 +35,10 @@ This is a list with everything that you can find on our documentation and guides
 
 [**Content**](Content.md)
 
-[**Yclas Themes**](Themes.md)
 
 [**Appearance**](Appearance.md)
 
+  - [**Yclas Themes**](Themes.md)
   - [**Widgets**](Widgets.md)
 
 [**General Settings**](General-Settings.md)
