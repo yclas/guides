@@ -5,7 +5,7 @@
 -   How it works:
 -   Register and login with phone number
     - -    Register
-    -   - Login:
+    -   - Login
 -   Video
 
 Keep your users secure with the two-step SMS authentication. Two-step authentication is a mechanism to double check that your identity is legitimate.
