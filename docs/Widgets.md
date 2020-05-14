@@ -7,5 +7,5 @@
    * [Share widget](Widgets-share-widget.md)
    * [Search widget](Widget-search-widget.md)
    * [Subscribe widget](Widgets-subscribe-widget.md)
-   - Image widget
-   - Seller information widget
+   * [Image widget](Widgets-image-widget.md)
+   * [Seller information widget](Create Widgets-seller-information-widget.md)
