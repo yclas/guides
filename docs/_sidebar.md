@@ -11,7 +11,7 @@
   - [Widgets](Widgets.md)
 * [General Settings](General-Settings.md)
 * [Multilingual]( Multilingual.md)
-* [Security](security.md)
+* [Security](Security.md)
 * [API documentation](api-documentation.md)
 * [Self Hosted](self-hosted.md)
 
