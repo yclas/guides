@@ -33,7 +33,7 @@ The best option is to moderate the ads. With this, you make sure you don’t get
 
 Go to the control panel and navigate to  **Settings > General**  > General site Settings. Set the Moderation option in “Moderation On”
 
-![spammers3](https://user-images.githubusercontent.com/55290441/80505896-9ad83780-897d-11ea-99c4-bb46ae588e19.png)
+
 
 **Black List**
 
@@ -46,8 +46,6 @@ Next step is to activate the “Black List”. There's a guide on how to do that
 
 You can also activate Akismet entering your Akismet key
 
-![spammers4](https://user-images.githubusercontent.com/55290441/80505903-9dd32800-897d-11ea-9d32-9b9fe9f3ce63.png)
-
   
 You can find more information about Akismet and how obtain an Akismet key following this link:  [https://akismet.com/](https://akismet.com/)  It’s free to use but be aware of false positives.
 
@@ -55,4 +53,4 @@ You can find more information about Akismet and how obtain an Akismet key follow
 
 Now move to  **Settings > Advertisement > Publish Options**  set Captcha “ON”
 
-![spammers3 5](https://user-images.githubusercontent.com/55290441/80505919-a0ce1880-897d-11ea-9909-2c8122e8b1fc.png)
+
