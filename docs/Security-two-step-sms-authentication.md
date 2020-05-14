@@ -1,4 +1,4 @@
-# 2 Step SMS Authentication
+# Two-Step SMS Authentication
 
 -   How to enable and configure Two-step SMS Authentication
 -   Set an inital country
