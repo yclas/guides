@@ -8,6 +8,7 @@
 * [Content](Content.md)
 * [Yclas Themes](Themes.md)
 * [Appearance](Appearance.md)
+  - [Widgets](Widgets.md)
 * [API documentation](api-documentation.md)
 * [General Settings](General-Settings.md)
 * [Self Hosted](self-hosted.md)
