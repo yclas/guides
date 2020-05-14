@@ -8,7 +8,7 @@
 
 This feature gives you and your users two-factor authentication. You can protect your account with both your password and your phone.
 
-## How to configure 2 step authentication:
+## How to configure two-step authentication:
 
 1.  Login to your  **Admin Panel**.
 2.  Go to  **Settings -> General**.
@@ -17,7 +17,7 @@ This feature gives you and your users two-factor authentication. You can protect
 
 ![2step1](https://user-images.githubusercontent.com/55290441/80509170-b5141480-8981-11ea-9f1e-afe8f77bd1fc.png)
 
-## How to enable the 2 Step Authentication on your profile:
+## How to enable the two-step authentication on your profile:
 
 1.  **Login**  to your website.
 2.  Go to  **[Edit Profile](https://docs.yclas.com/how-to-edit-your-profile/)**.
