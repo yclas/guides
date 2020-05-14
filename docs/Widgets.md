@@ -3,9 +3,9 @@
    * [Chat room](Widgets-chat-room.md)
    * [Map widget](Widgets-map-widget.md)
    * [Choose language widget](Widget-language-widget.md)
-   - Currency converter widget
-   - Share widget
-   - Search widget
-   - Subscribe widget
+   * [Currency converter widget](Widgets-how-to-set-the-currency-format.md)
+   * [Share widget](Widgets-share-widget.md)
+   * [Search widget](Widget-search-widget.md)
+   * [Subscribe widget](Widgets-subscribe-widget.md)
    - Image widget
    - Seller information widget
