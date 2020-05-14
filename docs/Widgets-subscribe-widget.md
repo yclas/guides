@@ -67,4 +67,6 @@ Yclas offers an email subscriber feature which allows users and visitors to subs
 An Example: A user visits your site and choose to subscribe to the categories “Apartment” and “House”, in “Barcelona”, in a price range of 0-400.000. 
 When a new advertisement is published to the website, on the category “Apartment” or “House”, in “Barcelona” with a price between 0 and 400.000, user will get an  [automatic email](Content-automatic-email.md)  (ads-subscribers) about the ad.
 ## Video
-<iframe width="800" height="450" src="[https://www.youtube.com/embed/0nkNyVhe3iU](https://www.youtube.com/embed/0nkNyVhe3iU)" frameborder="0" allowfullscreen></iframe>  
+ 
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/0nkNyVhe3iU" frameborder="0" allowfullscreen></iframe>
