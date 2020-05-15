@@ -111,9 +111,9 @@ Available currencies will be: EUR, CAD, CNY, NOK, PHP, USD
 
 ## Video
 
-## Video
+<iframe width="800" height="450" src="https://www.youtube.com/embed/dikb_c5TpcQ" frameborder="0" allowfullscreen></iframe> 
 
-<iframe width="800" height="450" src="(https://www.youtube.com/embed/dikb_c5TpcQ)" frameborder="0" allowfullscreen></iframe>  
+
 
 You may also be interested in:
 
