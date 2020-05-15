@@ -30,3 +30,6 @@ To activate this option, log in your  **Admin Panel**, choose  **Settings**  >  
 **IMPORTANT!**  Make sure that the user paypal link option is activated, otherwise the reviews cannot work properly. To get this working, go to Settings > Payment > Paypal, Set “Buy Now” to “On” and Save changes.
 
 We hope that with our new Yclas solutions managing your website is imporved and easy to work with! And remember that this is a premium feature which you can get now starting from  [a small montly fee](https://yclas.com/self-hosted.html)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q4WQ8LIkoeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
