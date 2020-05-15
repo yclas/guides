@@ -5,14 +5,10 @@ So you got your website started, you created some ads and then you went to  **Pa
 
 If you’re not sure, what I am talking about, check the screenshot below.
 
-
-  
 Then you went to your website and you see this:
 
 ![](https://github.com/yclas/guides/blob/master/images/map%20widget.png) 
 
-
-  
 This happens when you don’t have any real addresses on your ads. By a real address I mean an address that can be recognized by Google Maps. Now, try adding an address recognized by Google Maps, for example  _Barcelona, Spain_.
 
 ![](https://github.com/yclas/guides/blob/master/images/map%20widget1.png)
