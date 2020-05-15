@@ -8,4 +8,4 @@
 *   [Manage advertisement fields](Advertisement-manage-advertisement-fields.md)
 *   [Configure advert display options](Advertisement-configure-publilsh-options.md)
 *   [Review system](Advertisement-review-system.md)
--   Add expiration
+*   [Add expiration](Advertisement-ad-expiration.md)
