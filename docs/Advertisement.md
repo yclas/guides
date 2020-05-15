@@ -7,5 +7,5 @@
 *   [Thanks page](Advertisement-thanks-page.md)
 *   [Manage advertisement fields](Advertisement-manage-advertisement-fields.md)
 *   [Configure advert display options](Advertisement-configure-publilsh-options.md)
--   Review system
+*   [Review system](Advertisement-review-system.md)
 -   Add expiration
