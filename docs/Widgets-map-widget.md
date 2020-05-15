@@ -9,7 +9,7 @@ If you’re not sure, what I am talking about, check the screenshot below.
   
 Then you went to your website and you see this:
 
-![](https://github.com/yclas/guides/blob/master/images/map%20widget.png)
+![](https://github.com/yclas/guides/blob/master/images/map%20widget.png) 
 
 
   
