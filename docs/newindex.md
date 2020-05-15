@@ -100,10 +100,10 @@
 
 # Security
 
- - Two step SMS authentication 
- - Two step Authentication
- -  Aviod spam on your site
- - Setup reCAPTCHA
+ * [Two-step SMS authentication](Security-two-step-sms-authentication.md) 
+ * [Two-step Authentication](Security-Two-step-authentication.md)
+ * [Aviod spam on your site](Security-avoid-spam-on-your-site.md)
+ * [Setup reCAPTCHA](Security-how-to-set-up-recaptcha-on-your-site.md)
  
 # Advertisement 
 
