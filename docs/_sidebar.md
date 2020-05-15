@@ -12,6 +12,7 @@
 * [General Settings](General-Settings.md)
 * [Multilingual]( Multilingual.md)
 * [Security](Security.md)
+* [Advertisement](Advertisement.md)
 * [API documentation](api-documentation.md)
 * [Self Hosted](self-hosted.md)
 
