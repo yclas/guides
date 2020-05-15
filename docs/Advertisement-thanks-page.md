@@ -4,7 +4,7 @@ If you want users to see a customized thanks page after they publish their ads, 
 
 **Steps to follow:**
 
-1.  **[Create a new page](https://docs.yclas.com/how_to_add_pages/)**  and add the content that will be displayed to the user.
+1.  **[Create a new page](Content-Add-pages.md)**  and add the content that will be displayed to the user.
 2.  Go to  **Settings**  ->  **Advertisement**  ->  **Publish Options**  ->  **Thanks page**  and select the page you have created.
 3.  Click  **Save**.
 
