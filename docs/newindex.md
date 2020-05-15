@@ -107,8 +107,8 @@
  
 # Advertisement 
 
-- Change settings for ads
-- Manage ads in slider
+* [Change settings for ads](Advertisement-change-settings-for-ads.md)
+* [Manage ads in slider](Advertisement-manage-ads-in-slider.md)
 - Configure publish options
 - Force registration before publishing an ad
 - Thanks page 
