@@ -7,7 +7,7 @@ If you’re not sure, what I am talking about, check the screenshot below.
 
 Then you went to your website and you see this:
 
-![](https://github.com/yclas/guides/blob/master/images/map%20widget.png) 
+![](https://github.com/yclas/guides/blob/master/images/map%20widgetnew.png) 
 
 This happens when you don’t have any real addresses on your ads. By a real address I mean an address that can be recognized by Google Maps. Now, try adding an address recognized by Google Maps, for example  _Barcelona, Spain_.
 
