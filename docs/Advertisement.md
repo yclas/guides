@@ -4,7 +4,7 @@
 *   [Manage ads in slider](Advertisement-manage-ads-in-sliders.md)
 *   [Configure publish options](Advertisement-configure-publilsh-options.md)
 *   [Force registration before publishing an ad](Advertisement-force-registration-before-publishing-an-ad.md)
--   Thanks page
+*   [Thanks page](Advertisement-thanks-page.md)
 -   Manage advertisement fields
 -   Configure advert display options
 -   Review system
