@@ -15,7 +15,7 @@ To enable the review system follow the steps below:
  Then, go to your website, click on an ad and you can see that the option of leaving a review appeared as shown in the below screenshot.
 
 
-[https://raw.githubusercontent.com/yclas/guides/master/images/leave%20a%20review.png](https://raw.githubusercontent.com/yclas/guides/master/images/leave%20a%20review.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/leave%20a%20review.png)
   
 When the user adds any feedback, the number of written reviews and awarded stars will appear under the title of the ad.
 
@@ -29,4 +29,4 @@ To activate this option, log in your  **Admin Panel**, choose  **Settings**  >  
   
 **IMPORTANT!**  Make sure that the user paypal link option is activated, otherwise the reviews cannot work properly. To get this working, go to Settings > Payment > Paypal, Set “Buy Now” to “On” and Save changes.
 
-We hope that with our new Yclas solutions managing your website is becoming easier! And remember that this is a premium feature which you can get now starting from  [a small fee of 3.49$ a month](https://yclas.com/self-hosted.html)
+We hope that with our new Yclas solutions managing your website is imporved and easy to work with! And remember that this is a premium feature which you can get now starting from  [a small montly fee](https://yclas.com/self-hosted.html)
