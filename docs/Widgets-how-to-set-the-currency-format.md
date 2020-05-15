@@ -120,5 +120,5 @@ You may also be interested in:
 -   [Overview of widgets](Widgets-overview.md)
 -   [How to set the currency format?](General-currency-format.md)
 -   [Choose Language Widget](Widgets-langauge-widget.md)
--   [Image Widget]({{ site.baseurl }}/image-widget/)
+-   [Image Widget](Widgets-image-widget.md)
 -   [How to add a banner](Appearance-how-to-add-a-banner.md)
