@@ -45,7 +45,7 @@
 * [Automatic emails sent to users ](Content-automatic-emails-sent-to-users.md)
 * [Send a Newsletter](Content-send-a-newsletter.md)
 * [CSM Images]()
-* [Add an Interactive Map](Content-add-an-interactive-map.md)
+* [Add an Interactive Map](Content-create-an-interactive-map.mdd)
 
 # 🏗 Appearance
 
