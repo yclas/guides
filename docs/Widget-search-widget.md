@@ -31,6 +31,9 @@ Users and visitors can enter a keyword into the “Advertisement Title” field,
 
 By pressing the  **Search**  button they will be redirected to the advanced search page with the results of their search below.
 
+### [User Search Widget](https://github.com/yclas/documentation/blob/gh-pages/overview-of-widgets.md#user-search-widget)
+<iframe width="800" height="450" src="https://www.youtube.com/embed/zAItpxN_HYE" frameborder="0" allowfullscreen></iframe>
+
 
 **Related guides:**
 
