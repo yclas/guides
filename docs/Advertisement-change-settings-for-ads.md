@@ -1,4 +1,4 @@
-# How to change settings for Ads
+# How to change settings for ads
 
 Yclas allows you to control the number of advertisements you want to display per page, in RSS and Map. You can also choose how to sort them in listing and which ads to display on your homepage!
 
@@ -11,4 +11,4 @@ To access these settings, go to the Panel,  **Settings**  ->  **Advertisement**.
 -   **Advertisements in home**  
 -   **Delete ads:**  Enable this option to let users permanently delete their ads.
 
-<iframe width="800" height="450" src="[https://www.youtube.com/embed/bz5b_NfpD2o](https://www.youtube.com/embed/bz5b_NfpD2o)" frameborder="0"allowfullscreen></iframe>
+### [How to change settings for ads](https://github.com/yclas/guides/edit/master/docs/Advertisement-change-settings-for-ads.md#advertisement-change-settings-for-ads)<iframe width="800" height="450" src="[https://www.youtube.com/embed/bz5b_NfpD2o](https://www.youtube.com/embed/bz5b_NfpD2o)" frameborder="0" allowfullscreen></iframe>
