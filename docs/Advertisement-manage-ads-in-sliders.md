@@ -9,7 +9,7 @@ The slider is considered one of the main parts in a classifieds site homepage, i
 3.  At the  **Advertisements in home**  section choose one of the four available options.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/ads%20in%20slider.jpg)
-
+ 
 The  **available options**  are:
 
 -   **Latest ads:**  It shows the last ads published at your website.
