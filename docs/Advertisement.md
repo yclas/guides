@@ -2,7 +2,7 @@
 
 In this guide, you can find everything about advertisements and their settings and features. 
 
-For Publishing options and settings, chech out **[this guide](Advertisement-configure-publilsh-options.md)**
+For Publishing options and settings, check out **[this guide](Publish-options.md)**
 
 *   [Change settings for ads](Advertisement-change-settings-for-ads.md)
 *   [Manage ads in slider](Advertisement-manage-ads-in-sliders.md)
