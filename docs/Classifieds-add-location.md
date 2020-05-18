@@ -110,5 +110,5 @@ The location widget gives you additional options. To activate it, go to  **Panel
 **Related posts:**
 
 -   [How to add categories and manage them?](Classifieds-how-to-add-new-categories-and-manage-them.md)
--   [How to use import tool for categories and locations?]
+-   [How to use import tool for categories and locations?](Classifieds-how-to-import-tool-for-categories-and-location.md)
 
