@@ -119,8 +119,8 @@
 
 ## Publish options 
 
-- Configure publish options
-- Activate comments with Disqus
+* [Configure publish options](Advertisement-configure-publish-options.md)
+* [Activate comments with Disqus](Publish-options-activate-comments-with-disqus.md)
 - Add Facebook comments
 - Configure Google maps settings
 - Auto post on social media
