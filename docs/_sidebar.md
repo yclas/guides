@@ -13,6 +13,7 @@
 * [Multilingual]( Multilingual.md)
 * [Security](Security.md)
 * [Advertisement](Advertisement.md)
+* [Pulish options](Publish-options.md)
 * [API documentation](api-documentation.md)
 * [Self Hosted](self-hosted.md)
 
