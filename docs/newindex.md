@@ -119,12 +119,11 @@
 
 ## Publish options 
 
-* [Configure publish options](Advertisement-configure-publish-options.md)
-* [Activate comments with Disqus](Publish-options-activate-comments-with-disqus.md)
-- Add Facebook comments
-- Configure Google maps settings
-- Auto post on social media
-
+*   [Configure publish options](Advertisement-configure-publilsh-options.md)
+*   [Activate comments with Disqus](Publish-options-active-comments-with-disquse.md)
+*   [Add Facebook comments](Publish-options-add-facebook-comments.md)
+*   [Configure Google maps settings](Publish-options-configure-google-maps-settings.md)
+*   [Auto post on social media](Publilsh-options-auto-post-on-social-media.md)
 
 # Payment
 - Set up payment gateways
