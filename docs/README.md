@@ -48,10 +48,10 @@ This is a list with everything that you can find on our documentation and guides
 
  
 
-**Advertisement**
+[**Advertisement**](Advertisement.md)
 
 
-**Publish options**
+[**Publish options**](Publish-optiond.md)
 
 
 **Payment**
