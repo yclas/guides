@@ -1,6 +1,6 @@
 # How to configure SMTP - ADD EDITS
 Content:
--   [Zoho](Email-settings-SMTP-configuration.md)
+-   Zoho
 -   Mailgun
 -   SendPulse
 -   Amazon Simple Email Service
@@ -12,9 +12,9 @@ For efficient email delivery, we highly recommend using a specialized SMTP servi
 
 To have a good deliverabilty of your emails you need to use your own email domain such as info@YOURDOMAIN.com and not something like mywebsite@gmail.com. Using free SMTP serivces like Gmail, Outlook or Yahoo it’s a bad idea since there’s lot of limitations on the amount of emails you can send. Please do not use them.
 
-You can easily use you own domain to send emails by using  [Zoho for free](https://docs.yclas.com/host-email-with-your-domain). or many domain name companies offer paid email hosting .
+You can easily use you own domain to send emails by using  [Zoho for free](Email-settings-host-email-with-custom-domain.md). or many domain name companies offer paid email hosting .
 
-It’s now mandatory to have the site working using SMTP or  [Elasticemail](https://docs.yclas.com/configure-elasticemail-yclas/). This guide explains how to set up the SMTP configuration of your website.
+It’s now mandatory to have the site working using SMTP or  [Elasticemail](Email-settings-elasticemail.md). This guide explains how to set up the SMTP configuration of your website.
 
 Go to  **Settings**  ->  **Email Settings**  ->  **SMTP Configuration**  and specify or enable:
 
@@ -31,7 +31,7 @@ When you finish with the configuration, click  **SAVE**
 ## Zoho
 
 1. Create an account on  [Zoho.com](https://www.zoho.com/signup.html)  
-2.  [Follow the instructions](https://docs.yclas.com/host-email-with-your-domain)  to verify your domain, add users (email accounts) and create groups.  
+2.  [Follow the instructions](Email-settings-host-email-with-custom-domain.md)  to verify your domain, add users (email accounts) and create groups.  
 3. On the step  **Configure Email Delivery**, you need to login to your domain name provider panel and add the following DNS records:
 
 -   Type:  **MX**
@@ -160,8 +160,8 @@ If your website is using TLS (http://):
   
 **Related posts:**
 
--   [Host your email with your custom domain using Zoho Mail](https://docs.yclas.com/host-email-with-your-domain)
--   [How to Configure ElasticEmail on Yclas](https://docs.yclas.com/configure-elasticemail-yclas)
--   [Troubleshooting Email errors](https://docs.yclas.com/troubleshooting-email-errors)
+-   [Host your email with your custom domain using Zoho Mail](Email-settings-host-email-with-custom-domain.md)
+-   [How to Configure ElasticEmail on Yclas](Email-settings-elasticemail.md)
+-   [Troubleshooting Email errors](Email-settings-troubleshooting-email-errors.md)
 
 
