@@ -86,7 +86,7 @@ New locations now will be available to choose in  **Publish New Advertisement** 
 
 ### Import Locations
 
-You can also add locations by importing them. Use  [this example file](https://docs.google.com/uc?id=0B60e9iwQucDwa2VjRXAtV0FXVlk&export=download)  to create yours and simply import locations into your website. For more information, follow  [this guide.](https://docs.yclas.com/use-import-tool-categories-locations/#import-locations)
+You can also add locations by importing them. Use  [this example file](https://docs.google.com/uc?id=0B60e9iwQucDwa2VjRXAtV0FXVlk&export=download)  to create yours and simply import locations into your website. For more information, follow  [this guide.](Classifieds-how-to-import-tool-for-categories-and-location.md)
 
 ## How to add sub-locations
 
