@@ -13,7 +13,7 @@
 * [Multilingual]( Multilingual.md)
 * [Security](Security.md)
 * [Advertisement](Advertisement.md)
-* [Pulish options](Publish-options.md)
+* [Publish options](Publish-options.md)
 * [Payment](Payment.md)
 * [Email settings](Email-settings.md)
 * [Plugins](Plugins.md)
