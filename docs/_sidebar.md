@@ -16,6 +16,7 @@
 * [Pulish options](Publish-options.md)
 * [Payment](Payment.md)
 * [Email settings](Email-settings.md)
+* [Plugins](Plugins.md)
 * [API documentation](api-documentation.md)
 * [Self Hosted](self-hosted.md)
 
