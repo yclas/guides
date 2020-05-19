@@ -1,4 +1,4 @@
-# Payment
+# Payment 💳
 In this guide, you can find any information about the payment methods we offer, their features and configuration.
 
 * [Set up payment gateways](Payment-set-up-payment-gateways.md)
@@ -6,3 +6,4 @@ In this guide, you can find any information about the payment methods we offer, 
 * [2checkout configuration](Payment-2checkout-configuration.md)
 * [Pay directly from the ad option](Payment-pay-directly-from-the-ad-option.md)
 * [Featured plans](Payment-featured-plans.md)
+* [Escrow payments](Payment-marketplace-with-escrow.md)
