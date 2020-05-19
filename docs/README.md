@@ -54,15 +54,12 @@ This is a list with everything that you can find on our documentation and guides
 [**Publish options**](Publish-optiond.md)
 
 
-**Payment**
+[**Payment**](Payment.md)
 
 
-**Email Settings**
+[**Email Settings**(Email-settings.md)
 
-
-**Advertisement Configuration**
-
-**Plugins**
+[**Plugins**](Plugins.md)
 
 **Translation**
 
