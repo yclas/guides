@@ -1,4 +1,5 @@
 # Email Settings
+In this guide, you can find information on email settings, email configuration and related features.
 
 * [General email configuration](Email-settings-general-email-configuration.md)
 * [SMTP configuration](Email-settings-SMTP-configuration.md)
