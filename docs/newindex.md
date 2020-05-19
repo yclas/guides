@@ -134,27 +134,11 @@
 * [Featured plans](Payment-featured-plans.md)
 
 # Email Settings
-- General email configuration
-- SMTP configuration
+* [General email configuration](Email-settings-general-email-configuration.md)
+* [SMTP configuration](Email-settings-SMTP-configuration.md)
 -  ElasticEmail
 - Host email with custom domain
 - Troubleshooting email errors
-
-# Advertisement Configuration
-
-- Change settings for ads
-- Manage ads in slider
-- Configure publish options
-- Force registration before publishing an ad
-- Thanks page ( **move to: settings** )
-- Manage advertisement fields
-- Configure advert display options
-- Activate comments with Disqus
-- Add Facebook comments
-- Configure Google maps settings
-- Review system
-- Auto post on social media
-- Add expiration
 
 # Plugins 
 - Blog
