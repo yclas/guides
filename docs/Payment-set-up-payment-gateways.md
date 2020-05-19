@@ -25,10 +25,10 @@ Let’s first go through the payment settings we have here, of course you can ac
 
 -   **Payment Currency:**  Pick the currency you want to get paid with. Make sure that your chosen Payment Gateway supports that currency!
 -   **Featured ads:**  Turn On or Off the option to feature ad.
--   **Featured Plans:**  This feature allows you to give users the option to select between different length of the featured of their ad and pay according to your plans. Follow  [this guide](https://docs.yclas.com/how-to-create-featured-plan)  for more.
+-   **Featured Plans:**  This feature allows you to give users the option to select between different length of the featured of their ad and pay according to your plans. Follow  [this guide](Payment-featured-plans.md)  for more.
 -   **Bring to top Ad:**  Turn On or Off the option to bring an ad to top of the list.
 -   **To top price:**  The amount you charge for bringing an ad to top.
--   **Stock control:**  [When users limit their stock enable this option](https://docs.yclas.com/pay-directly-from-ad/).
+-   **Stock control:**  [When users limit their stock enable this option](Payment-pay-directly-from-the-ad-option.md).
 
 ## Payment methods:
 
@@ -40,7 +40,7 @@ Here you can choose a page that you created to pop up when a client clicks on al
 
 ### Stripe
 
-Follow  [this guide](https://docs.yclas.com/stripe)  for more information.
+Follow  [this guide](Payment-set-up-marketplace-with-srtipe-connect.md)  for more information.
 
 To get paid via credit card you can also use a Stripe account, It’s also  [free to register](https://stripe.com/)  and they charge 2.95% on any transaction.
 
@@ -70,7 +70,7 @@ To accept Paypal payments you need to  **set up a Paypal account**,  **enable In
 **Sandbox:**  Enable testing mode  
 **Account Number**  and  **Secret Word**  can be obtained from your account info at  [2checkout](https://www.2checkout.com/)
 
-You can find more information about 2checkout configuration  [here](https://docs.yclas.com/2checkout-configuration)
+You can find more information about 2checkout configuration  [here](Payment-2checkout-configuration.md)
 
 ----------
 
@@ -130,7 +130,7 @@ Your  **Merchant ID**  and  **Merchant Key**  can be found by logging into your 
 
 To setup  **Mercadopago**  for your classifieds sites, please follow this steps:
 
-1.  Register in  [Mercadopago](https://www.mercadopago.com/)  (If you don’t have account yet)
+1.  Register in  [Mercadopago](https://www.mercadopago.com/)  (If you don’t have an account yet)
 2.  Get you  **Client-id**  and  **Client-Secret**.
 3.  Go to your admin panel ->  **Settings**  ->  **Payments**  ->  **MercadoPago**  and paste: Client-id and Client-Secret.
 
@@ -159,5 +159,5 @@ Note: Only paypal works with the free Yclas self-hosted version  [premium themes
   
 **Related posts:**
 
--   [2checkout Configuration](https://docs.yclas.com/2checkout-configuration)
--   [Stripe Connect](https://docs.yclas.com/stripe)
+-   [2checkout Configuration](Payment-2checkout-configuration.md)
+-   [Stripe Connect](Payment-set-up-marketplace-with-srtipe-connect.md)
