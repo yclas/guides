@@ -56,7 +56,7 @@ You can find information about all the users subscriptions on Panel,  **Classifi
 
 ### Recurring Membership Plans
 
-Membership plans paid via  [Stripe payment gateway](https://docs.yclas.com/stripe)  with “Legacy Checkout” enabled and free plans are automatically renewed after the expiration date. Plans purchased with a different payment gateway need to be renewed by the user after the expiration date.
+Membership plans paid via  [Stripe payment gateway](Payment-set-up-marketplace-with-srtipe-connect.md)  with “Legacy Checkout” enabled and free plans are automatically renewed after the expiration date. Plans purchased with a different payment gateway need to be renewed by the user after the expiration date.
 
 ### Cancel Subscriptions
 
