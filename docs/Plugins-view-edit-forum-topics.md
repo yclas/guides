@@ -18,4 +18,4 @@ If you want to edit a topic, click on the green**edit** button with to the right
 
 Now you can update the topic’s  **title**, parent  **forum**,  **description**  and  **Seotitle**  as well as  **activate**/**deactivate**  the topic.
 
-Don’t forget to press  **Update**  to save your chan
+Don’t forget to press  **Update**  to save the changes.
