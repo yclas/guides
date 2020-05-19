@@ -52,7 +52,7 @@ To get paid via credit card you can also use a Stripe account, It’s also  [fre
 
 ### Escrow
 
-With escrow the money gets on hold until the buyer receives the item. To configure Escrow follow  [this guide](https://docs.yclas.com/escrow-pay)
+With escrow the money gets on hold until the buyer receives the item. To configure Escrow follow  [this guide](Payment-marketplace-with-escrow.md)
 
 ----------
 
