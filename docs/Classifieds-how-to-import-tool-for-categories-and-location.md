@@ -1,5 +1,6 @@
 # How to use import tool for categories and locations?
 **Content:**
+
 -   Import Categories
 -   Import Locations
 
