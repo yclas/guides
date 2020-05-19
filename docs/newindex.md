@@ -141,16 +141,16 @@
 * [Host email with custom domain](Email-settings-host-email-with-custom-domain.md)
 * [Troubleshooting email errors](Email-settings-troubleshooting-email-errors.md)
 
+# Plugins
 
-# Plugins 
-- Blog
-- Forum section
-- View/edit forum topics
-- FAQ system
-- Messaging system
-- Activate black list
-- Login using social auth 
-- Membership plans to post
+* [Blog](Plugins-create-a-blog.md)
+* [Forum section](Plugins-forum-section.md)
+* [View/edit forum topics](Plugins-view-edit-forum-topics.md)
+* [FAQ system](Plugins-FAQ-system.md)
+* [Messaging system](Plugins-message-system.md)
+* [Activate black list](Plugins-activate-black-list.md)
+* [Login using social auth](Plugins-login-using-social-auth.md) 
+* [Membership plans to post](Plugins-membership-plans-to-post.md)
 
 # Translation
 - Translation (link to 'Change your website's languge' in general settings)
