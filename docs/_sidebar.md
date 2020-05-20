@@ -19,6 +19,7 @@
 * [Plugins](Plugins.md)
 * [Translations](Translations.md)
 * [Media Settings](Media-settings.md)
+* [Users](Users.md)
 * [API documentation](api-documentation.md)
 * [Self Hosted](self-hosted.md)
 
