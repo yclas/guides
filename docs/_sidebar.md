@@ -10,7 +10,6 @@
   - [Yclas Themes](Themes.md)
   - [Widgets](Widgets.md)
 * [General Settings](General-Settings.md)
-* [Multilingual]( Multilingual.md)
 * [Security](Security.md)
 * [Advertisement](Advertisement.md)
 * [Publish options](Publish-options.md)
@@ -18,6 +17,7 @@
 * [Email settings](Email-settings.md)
 * [Plugins](Plugins.md)
 * [Translations](Translations.md)
+* [Media Settings](Media-settings.md)
 * [API documentation](api-documentation.md)
 * [Self Hosted](self-hosted.md)
 
