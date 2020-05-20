@@ -95,7 +95,7 @@
  * [Algolia Search](General-Algolia-search.md)
 
   ## Multilingual Classifieds
- * Multiligual Classifieds
+ * [Multiligual Classifieds](/Multilingual-multilingual-classifiesd.md)
  * [Activate Multilingual Mode](multilingual-mode.md)
 
 # Security
