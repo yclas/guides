@@ -10,6 +10,7 @@
   - [Yclas Themes](Themes.md)
   - [Widgets](Widgets.md)
 * [General Settings](General-Settings.md)
+* [Multilingual Classifieds](Multilingual-classifieds.md)
 * [Security](Security.md)
 * [Advertisement](Advertisement.md)
 * [Publish options](Publish-options.md)
