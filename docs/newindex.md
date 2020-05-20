@@ -171,9 +171,10 @@
 * [Verify user ](Users-verified-user.md)
 
 # Extras
-* [Import advertisements](Extras-how-to-import-advertisements.md)
-- How to set crons
-- Sitemap for a classified website
+
+* [Import advertisements](Extras-how-to-import-advertisements.md) 
+* [How to set crons](Extras-how-to-set-crons.md)
+* [Sitemap for a classified website](Extras-create-site-map.md)
 
 # Profile
 
