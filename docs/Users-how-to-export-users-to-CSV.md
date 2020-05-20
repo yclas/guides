@@ -7,3 +7,7 @@ A new feature is now available and it allows you to export the list of users of 
 -   Save or Open the generated CSV file.
 
 Now you have a table containing users’ details such as  _name_,  _email_,  _description_,  _id-role_, the number of  _logins_,  _last login_, if he/she is a  _subscriber_,  _rate_  and more.
+
+**Related guides**
+  * [How do roles work?](Users-how-do-roles-work.md)
+  
