@@ -11,9 +11,12 @@ To manage your website users, go to your panel,  **Users**  ->  **Users**.
 
 ## Actions
 
--   **Edit:**  Edit an username, email, description, status, role, rate, password, etc.
+-   **Edit:**  Edit an username, email, description, status, [role](Users-how-do-roles-work.md), rate, password, etc.
 -   **Delete:**  Delete this user permanently.
 -   **View Ads:**  Display all the ads created by this user.
 -   **View Orders:**  Display all the orders placed by this user.
 -   **Mark as spam:**  Mark this user as spam. Check out  [this guide](Plugins-activate-black-list.md)
   for more information.
+  
+  **Related guides**
+  * [How do roles work?](Users-how-do-roles-work.md)
