@@ -20,3 +20,6 @@ To manage your website users, go to your panel,  **Users**  ->  **Users**.
   
   **Related guides**
   * [How do roles work?](Users-how-do-roles-work.md)
+  * [How to export users to CSV](Users-how-to-export-users-to-CSV.md)
+  * [How to create custom fields for users](Users-create-custom-field-for-users.md) 
+
