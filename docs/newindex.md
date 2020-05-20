@@ -171,7 +171,7 @@
 * [Verify user ](Users-verified-user.md)
 
 # Extras
-- Import ads ( Import advertisements )
+* [Import advertisements](Extras-how-to-import-advertisements.md)
 - How to set crons
 - Sitemap for a classified website
 
