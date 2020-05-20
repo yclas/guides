@@ -21,9 +21,9 @@ Other ideas :  _birthday_,  _province_,  _phone number_,  _address_,  etc.
     
 2. **Chat with the seller:**  Using this option in your site users can enter their Whatsapp phone number, Skype Id and Telegram username into their user profile account. 
 
-This way users will be able to contact sellers directly just by clicking on the icon of the service  **Whatsapp**,  **Skype**  or  **Telegram**.  [Here](https://docs.yclas.com/chat-seller/)  are the instructions to follow to enable this feature.
+This way users will be able to contact sellers directly just by clicking on the icon of the service  **Whatsapp**,  **Skype**  or  **Telegram**.  [Here](Users-chat-with-sellers.md)  are the instructions to follow to enable this feature.
     
-3.  **Verified User:**  The admins and moderators of the site have the option to mark a trustworthy user as verified. Verified users will get a verified badge next to their username. More information  [here](https://docs.yclas.com/verified-user/).
+3.  **Verified User:**  The admins and moderators of the site have the option to mark a trustworthy user as verified. Verified users will get a verified badge next to their username. More information  [here](Users-verified-user.md).
     
 
 ## How to create custom fields for users
