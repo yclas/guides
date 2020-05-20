@@ -95,7 +95,7 @@
  * [Algolia Search](General-Algolia-search.md)
 
   ## Multilingual Classifieds
- * [Multiligual Classifieds](Multilingual-multilingual-classifiesd.md)
+ * Multiligual Classifieds
  * [Activate Multilingual Mode](multilingual-mode.md)
 
 # Security
@@ -153,22 +153,22 @@
 * [Membership plans to post](Plugins-membership-plans-to-post.md)
 
 # Translation
-- Translation (link to 'Change your website's languge' in general settings)
-- Live translations
-- Multilingual Classifieds (their own page; in guides)
+* [Translation](Translation-change-language-of-the-site.md)
+* [Live translations](Translation-live-translation.md)
+* [Multilingual Classifieds](Translations-how-have-amultilingual-classfied.md)
 
 # Media Settings
-- Configure image Settings
-- Add watermark
-- Configure Amazon S3
+* [Configure image Settings](Media-settings-configure-image-settings.md)
+* [Add watermark](Media-settings-add-watermark.md)
+* [Configure Amazon S3](Media-settings-amazon-s3.md)
 
 #  Users
-- Mange users
-- Export users to CSV
-- Roles 
-- Create custome fields for users
-- Chat with users
-- Verify user
+* [Mange users](Users-manage-users.md)
+* [Export users to CSV](Users-how-to-export-users-to-CSV.md)
+* [Roles ](Users-how-do-roles-work.md)
+* [Create custome fields for users](Users-create-custom-field-for-users.md)
+* [Chat with users](Users-chat-with-sellers.md)
+* [Verify user ](Users-verified-user.md)
 
 # Extras
 - Import ads ( Import advertisements )
