@@ -57,17 +57,17 @@ This is a list with everything that you can find on our documentation and guides
 [**Payment**](Payment.md)
 
 
-[**Email Settings**(Email-settings.md)
+[**Email Settings**](Email-settings.md)
 
 [**Plugins**](Plugins.md)
 
-**Translation**
+[**Translation**](Translation.md)
 
-**Media Settings**
+[**Media Settings**](Media-settings.md)
 
-**Users**
+[**Users**](Users.md)
 
-**Extras**
+[**Extras**](Extras.md)
 
 
 **Profile**
