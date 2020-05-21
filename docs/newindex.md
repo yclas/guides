@@ -178,9 +178,10 @@
 
 # Profile
 
-- Edit profile 
-- User's location
-- Favourites system overview
+* [Edit profile](Profile-edit-users-profile.md)
+* [User's location](Profile-users-location.md)
+* [Favourites system overview](Profile-favorite-systetm-overview.md)
+
 
 # API documentation
 
