@@ -1,0 +1,17 @@
+# How Favorites System Works (2.2.0 feature) ❤️
+
+A new option for your users  available now! Your users can mark and save their favorite ads. 
+This feature offers a better user-experience and I personally find it very useful when browsing through a classified website because it narrows down my search later on.
+
+To  **add an advertisement to your favorites**, open an ad and press the heart shaped button as shown below.
+
+*Note that the highlight color should be in **red.*** If you press the button on the icon  and it changed its color to white, then the ad will not be included in your list of favorites.
+
+![](https://raw.githubusercontent.com/yclas/guides/master/images/favorites.png)
+  
+After this step, all of the chosen advertisements can be found by clicking the dropdown menu next to the profile icon and then choose  **My Favorites**.
+
+*You can also delete an add at any time from the list of favorites. To remove it just press the red button with the selected ad.*
+
+![](https://raw.githubusercontent.com/yclas/guides/master/images/favorites1.png)
+  
