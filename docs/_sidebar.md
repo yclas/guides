@@ -21,6 +21,7 @@
 * [Media Settings](Media-settings.md)
 * [Users](Users.md)
 * [Extras](Extras.md)
+* [Profile](Profile.md)
 * [API documentation](api-documentation.md)
 * [Self Hosted](self-hosted.md)
 
