@@ -23,5 +23,6 @@
 * [Extras](Extras.md)
 * [Profile](Profile.md)
 * [API documentation](api-documentation.md)
+* [Useful artciles](Useful-articles.md)
 * [Self Hosted](self-hosted.md)
 
