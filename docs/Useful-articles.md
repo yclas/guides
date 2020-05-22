@@ -6,8 +6,5 @@
 * [How to promote your classified website for free](Useful-articles-how-to-promote-a-website-for-free.md)
 * [How to do SEO with classified sites](Useful-articles-how-to-do-seo.md)
 * [Using Yclas as a Company Directory](Useful-articles-using-yclas-as-a-company-directory.md)
-* [How to Leverage a classifieds website with local media]()
-- Why is Responsive web design so important? 
-- 3 ways to use Google Maps with classifieds
-- 5 Facebook integration for classifieds
-- 5 hacks to prevent scams 
+
+
