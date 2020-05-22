@@ -69,14 +69,11 @@ This is a list with everything that you can find on our documentation and guides
 
 [**Extras**](Extras.md)
 
-
-**Profile**
+[**Profile**](Profile.md)
 
 [**API documentation**](api-documentation.md)
 
-**Useful articles**
-
-**How to**
+[**Useful articles**](Useful-articles.md)
 
 [**Yclas Self-Hosted**](self-hosted.md)
 
