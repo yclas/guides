@@ -25,7 +25,7 @@ Yclas already has fields to enter general details of the businesses/services inc
 
 ## Unlimited Categories
 
-We understand that there are countless businesses that can be listed in a business directory and within each category there can be hundreds of small or sub-categories... That’s why Yclas allows you to create unlimited categories and sub-categories. Each of these categories can be either created forfree or paid depending on your idea and need.
+We understand that there are countless businesses that can be listed in a business directory and within each category there can be hundreds of small or sub-categories... That’s why Yclas allows you to create unlimited categories and sub-categories. Each of these categories can be either created for free, or it can be paid, depending on your specific idea and need.
 
 ## Apart from the above features there are a few more  that might help you in using Yclas as a business directory
 
