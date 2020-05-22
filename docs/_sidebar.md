@@ -24,6 +24,5 @@
 * [Profile](Profile.md)
 * [API documentation](api-documentation.md)
 * [Useful artciles](Useful-articles.md)
-* [How-to artciles](how-to.md)
 * [Self Hosted](self-hosted.md)
 
