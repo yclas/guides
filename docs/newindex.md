@@ -185,7 +185,7 @@
 
 # API documentation
 
-# Useful articles
+# Useful articles 
 
 * [Bitcoin Integration](Useful-articles-bitcoin-integration.md)
 * [Website content localization ](Useful-articles-website-content-localization.md)
@@ -193,29 +193,8 @@
 * [How to promote your classified website for free](Useful-articles-how-to-promote-a-website-for-free.md)
 * [How to do SEO with classified sites](Useful-articles-how-to-do-seo.md)
 * [Using Yclas as a Company Directory](Useful-articles-using-yclas-as-a-company-directory.md)
-* [How to Leverage a classifieds website with local media]()
-- Why is Responsive web design so important? 
-- Build a forum with Yclas 
-- 3 ways to use Google Maps with classifieds
-- 5 Facebook integration for classifieds
-- 5 hacks to prevent scams 
-
-
-# How to 
-
-- How to Use Yclas Self-hosted Premium Support System
-- How to contribute
-- How to add map on the homepage
-- How-to videos with Yclas 
-- Access to Database or FTP
-- Export your site 
-- Renewal
-- Setup Free
-- SSL Encryption
-- Upgrades
-- Custom domain 
-
- 
+* [How to contribute](How-to-contribute.md)
+* [How to add map on the homepage](How-to-add-google-maps-to-homepage.md)
 
 # Yclas Self-Hosted
 
