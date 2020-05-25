@@ -24,5 +24,6 @@
 * [Profile](Profile.md)
 * [API documentation](api-documentation.md)
 * [Useful artciles](Useful-articles.md)
-* [Self Hosted](self-hosted.md)
+## Yclas Self-hosted
+* [Installation](Yclas-self-hosted-installation.md)
 
