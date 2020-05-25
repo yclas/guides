@@ -184,6 +184,7 @@
 
 
 # API documentation
+* [API documentation](api-documentation.md)
 
 # Useful articles 
 
