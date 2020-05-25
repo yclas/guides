@@ -28,4 +28,6 @@
 * [Installation](Yclas-self-hosted-installation.md)
 * [License](License.md)
 * [Development](Yclas-self-hosted-development.md)
+* [Technical](Yclas-self-hosted-technical.md)
+  - Technical issues
 
