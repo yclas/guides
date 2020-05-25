@@ -90,5 +90,6 @@ You can now develop your theme on local!
   
 **Related guides:**
 
--   [Vagrant configuration for Yclas Self Hosted](https://docs.yclas.com/vagrant-configuration)
--   [Docker configuration for Yclas Self Hosted](https://docs.yclas.com/docker-image)
+* [Vagrant configuration for Yclas Self-hosted](Development-vagrant-configuration.md)
+* [Docker configuration for Yclas Self-hosted](Development-docker-configuration.md)
+
