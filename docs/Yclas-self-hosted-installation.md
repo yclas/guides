@@ -1,6 +1,6 @@
 # Installation
 
-In this guide, you will learn everything about installation, features and updates for Yclas self-hosted 
+In this guide, you will learn everything about installation, features and updates for Yclas Self-hosted 
 
 *   [Installation process ](Yclas-self-hosted-installation-insatallation.md)
 *   [Software requirements](Yclas-self-hosted-installation-software-requirements.md)
