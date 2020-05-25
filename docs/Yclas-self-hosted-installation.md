@@ -1,4 +1,4 @@
-# - Installation
+# Installation
 
 In this guide, you will learn everything about installation, features and updates for Yclas self-hosted 
 
