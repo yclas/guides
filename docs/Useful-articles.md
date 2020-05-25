@@ -8,5 +8,5 @@ In this guide, you can find useful infromation on specific topics. Take a look a
 * [How to promote your classified website for free](Useful-articles-how-to-promote-a-website-for-free.md)
 * [How to do SEO with classified sites](Useful-articles-how-to-do-seo.md)
 * [Using Yclas as a Company Directory](Useful-articles-using-yclas-as-a-company-directory.md)
-
+* [How do I create a MySQL database?](Useful-artciles-how-to-use-MySQLi.md)
 
