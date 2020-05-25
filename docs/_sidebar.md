@@ -27,5 +27,5 @@
 ## Yclas Self-hosted
 * [Installation](Yclas-self-hosted-installation.md)
 * [License](License.md)
-
+* [Development](Yclas-self-hosted-development.md)
 
