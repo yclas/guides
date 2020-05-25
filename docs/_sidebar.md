@@ -26,4 +26,6 @@
 * [Useful artciles](Useful-articles.md)
 ## Yclas Self-hosted
 * [Installation](Yclas-self-hosted-installation.md)
+* [License](License.md)
+
 
