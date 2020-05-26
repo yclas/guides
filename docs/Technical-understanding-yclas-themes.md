@@ -160,9 +160,9 @@ If you don’t remember how, refer to  **File linking**  section again, and incl
 
 This will activate Chosen for all HTML select elements on the page.
 
-We hope this article helps to any of you out there who are thinking of having your own design and building your own idea! 
+We hope this article helps all of you out there who are thinking of having your own design and building your own idea! 
 
 Best regards,
- Yclas team
+Yclas team
 
-Second part  [here](http://docs.yclas.com/modify-create-theme)
+Second part of this guide [here](Technical-modify-or-create-a-theme.md)
