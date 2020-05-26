@@ -1,4 +1,4 @@
-## Technical guide for Yclas Self-hosted
+### Technical guide for Yclas Self-hosted
 
 In this guide, you can find all the technical information you need for your classified website.
 
@@ -14,10 +14,6 @@ In this guide, you can find all the technical information you need for your clas
 *   [Understanding Yclas Self-hosted Themes](Technical-understanding-yclas-themes.md)
 *   [Modify or Create a Theme](Technical-modify-or-create-a-theme.md)
 *   [How to Modify Yclas Self-hosted Themes (child themes)](Technical-child-themes.md)
-*   [How to fix the Base URL?](Technical-fix-base-url.md)
-*   [I accidentally changed my admin privilege, how can I fix that?](Technical-changed-admin-privileges.md)
-*   [Error troubleshooting - Wow this seems to be an error...](Technical-error-troubleshooting.md)
-*   [How to fix classifieds listings page issue?](Technical-how-to-fix-classifieds-listing.md)
-*   [Yclas Self-hosted database description](Technical-database.md)
-*   [Converting Tables from MyISAM to InnoDB](Technical-converting-tables.md)
-*   [Remove licence or banner](Technical-remove-banner-license.md)
+*   [<kbd>Yclas Self-hosted database description</kbd>](Technical-database.md)
+*   [<kbd>Converting Tables from MyISAM to InnoDB</kbd>](Technical-converting-tables.md)
+*   [<kbd>Remove licence or banner</kbd>](Technical-remove-banner-license.md)
