@@ -22,7 +22,8 @@ If you have access to phpmyadmin, there is nothing to worry about!  **Follow the
 3.  Find the user you want and change the value of the field ‘failed_attempts’ to ‘0’ (zero).
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/loginattempts.png)
-Now you are allowed to login to your website!
+
+Now will be are able to login into your website!
 
   
 **Related posts:**
