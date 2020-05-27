@@ -76,7 +76,7 @@ You can find more information about 2checkout configuration  [here](Payment-2che
 
 ### Authorize.net:
 
-To accept credit card payments you need to set up an account with authorize.net and you will also need an SSL certificate there are two different registration portals one for  [US and Canada](http://reseller.authorize.net/application/signupnow/?id=AUAffiliate&rid=26776)  and another one for  [UK and Europe](http://reseller.authorize.net/application/?id=5561123)
+To accept credit card payments you need to set up an account with authorize.net and you will also need an SSL certificate. Take a look at their [payment types](https://www.authorize.net/our-features/payment-types.html). You need to register at [here](https://support.authorize.net/s/article/How-can-I-sign-up-for-Visa-Checkout) This is their [price list](https://www.authorize.net/sign-up/pricing.html) and a [full guide](https://support.authorize.net/s/article/Authorize-Net-Getting-Started-Guide) of the services they offer.
 
 **Sandbox:**  Enable this for testing mode  **Authorize API login**  and  **Authorize transaction key**  can be obtained from your account info at authorize.net
 
