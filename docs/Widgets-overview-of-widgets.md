@@ -55,13 +55,13 @@ After creating or editing the widgets, changes might not be visible on the site 
     RSS reader to publish news from selected RSS channels.  
     
 -   **Map**  
-    Place on your site Google Maps showing localisations of ads (see: [Why is my map widget not showing anything?](https://docs.yclas.com/map-widget)).  
+    Place on your site Google Maps showing localisations of ads (see: [Why is my map widget not showing anything?](Widgets-map-widget.md).  
     
 -   **Disqus**  
-    Widget to display latest comments using Disqus (see: [How to activate comments with Disqus?](https://docs.yclas.com/how-to-activate-comments-with-disqus) ).  
+    Widget to display latest comments using Disqus (see: [How to activate comments with Disqus?](Publish-options-active-comments-with-disquse.md)
     
 -   **Chat**  
-    Widget that allows you to chat with your users ( see:  [How to add a chat room to my classifieds website?](https://docs.yclas.com/add-chat-room-classifieds-website)).  
+    Widget that allows you to chat with your users ( see:  [How to add a chat room to my classifieds website?](Widgets-chat-room.md).  
     
 -   **Links**  
     Create a link network to easily navigate through the information on your website.  
@@ -73,22 +73,22 @@ After creating or editing the widgets, changes might not be visible on the site 
     Make it easy for users to find specific information using the option of advanced search.  
     
 -   **Forum topics**  
-    Easy way to build, establish and keep contact with users by offering support and letting them express their own opinion (see: [How to add a forum section?](https://docs.yclas.com/add-forums-section))  
+    Easy way to build, establish and keep contact with users by offering support and letting them express their own opinion (see: [How to add a forum section?](Plugins-forum-section.md)  
     
 -   **Interactive Map**  
-    Display Interactive Map (see:  [How to add an Interactive Map?](https://docs.yclas.com/how-to-add-interactive-map))
+    Display Interactive Map (see:  [How to add an Interactive Map?](Content-create-an-interactive-map.md)
 -   **User Location**  
     Allows users to change their selected location. Also it’s possible to select their location from the map.
 -   **User Search**  
-    Let users to search for another user. Search can also include  [users custom fields](https://docs.yclas.com/users-custom-fields/).
+    Let users to search for another user. Search can also include [users custom fields](Users-create-custom-field-for-users.md).
 -   **Recently searched**  
     Display previous user searches.
 -   **Coupon**  
     The users can use their coupon using this widget. You just need to add the coupon name and click Add.
 -   **Language**  
-    Let users to choose in which language your website will be translated to them. For more information, follow  [this guide](https://docs.yclas.com/languages-widget).
+    Let users to choose in which language your website will be translated to them. For more information, follow [this guide](Widget-language-widget.md).
 -   **Currency Converter**  
-    Users can choose between your selected currencies and have ads prices converter to their chosen currency. More information  [here!](https://docs.yclas.com/currency-converter-widget)
+    Users can choose between your selected currencies and have ads prices converter to their chosen currency. More information  [here!](Widgets-how-to-set-the-currency-format.md)
 -   **Follow**  
     Add social media follow buttons. Insert the URL of your Facebook, Twitter, Instagram, Pinterest, Google+, LinkedIn, Youtube and Flickr page to create the buttons to make it easier to your website visitors to follow you on social media.
 -   **Image**  
@@ -96,16 +96,5 @@ After creating or editing the widgets, changes might not be visible on the site 
 -   **Blog Posts**  
     Diplay the latest blog posts of your website in a widget.
     
-    ## Videos
 
-### [How to create Widgets](https://github.com/yclas/documentation/blob/gh-pages/overview-of-widgets.md#how-to-create-widgets)
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/Un0SOlPFNIg" frameborder="0" allowfullscreen></iframe>
-
-### [Links Widget](https://github.com/yclas/documentation/blob/gh-pages/overview-of-widgets.md#links-widget)
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/NhQU49A6dJ8" frameborder="0" allowfullscreen></iframe>
-
-### [User Search Widget](https://github.com/yclas/documentation/blob/gh-pages/overview-of-widgets.md#user-search-widget)
-<iframe width="800" height="450" src="https://www.youtube.com/embed/zAItpxN_HYE" frameborder="0" allowfullscreen></iframe>
 
