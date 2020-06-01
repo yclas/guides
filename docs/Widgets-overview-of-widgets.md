@@ -7,7 +7,7 @@ Content:
 
 **Widgets**  are useful elements of interface that will help you to navigate and give additional options to your site. You can select which one you want to activate and embed it on your website. There is no limit for adding widgets per page.
 
-To see the list of widgets, go to  **Panel**, select  **Appearance**  and choose **Widgets**  from the left sidebar or simply select this option from the bookmark in the headline.
+To see a full list with available widgets, go to  **Panel**, select  **Appearance**  and choose **Widgets**  from the left sidebar or simply select this option from the bookmark in the headline.
 
 
 Select a widget and press  **Create**. Choose the  **place**  where you want a widget displayed (sidebar or footer). In the same way you can render widgets inactive by selecting an option  **Inactive**. Select other settings and hit  **Save Changes**.
@@ -15,8 +15,6 @@ Select a widget and press  **Create**. Choose the  **place**  where you want a w
 On the right side of the screen, you will see all created widgets. You can always edit them. Change the place and order of displaying the widget simply by dragging and dropping.
 
 After creating or editing the widgets, changes might not be visible on the site unless you  **delete cache**  (**Tools > Cache**  on the left sidebar and press  **Delete all**).
-
-
 
 
  ## Available widgets
@@ -37,7 +35,7 @@ After creating or editing the widgets, changes might not be visible on the site 
     On the page, there will be displayed buttons enabling users to share the content in the social media.  
     
 -   **Pages**  
-    Displays banner with a links to existing CMS pages ( check: [how to add pages ](Content-Add-pages.md) )
+    Displays banner with a links to existing CMS pages ( check: [How to add pages](Content-Add-pages.md) )
     
 -   **Contact**  
     Shows a contact form in the ad pages so potential buyers can contact the seller.  
