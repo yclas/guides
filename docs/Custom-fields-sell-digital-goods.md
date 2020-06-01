@@ -6,8 +6,6 @@ Content:
 -   Dropbox
 -   Google Picker
 
-This feature is available on all sites hosted at  [Yclas.com](https://yclas.com/)
-
 Now sellers can upload files to their ads from Dropbox or Google Picker and sell them. With this feature it’s possible to sell digital goods in your website.
 
 ## How it works
@@ -18,10 +16,10 @@ Now sellers can upload files to their ads from Dropbox or Google Picker and sell
 
 ## Prerequisites
 
--   [Dropbox](https://docs.yclas.com/sell-digital-goods/#dropbox)  or  [Google Picker](https://docs.yclas.com/sell-digital-goods/#google-picker)  app is created and configured.
--   [Buyer instructions custom field](https://docs.yclas.com/buyer-instructions/)  is created.
+-   Dropbox  or  Google Picker app is created and configured.
+-   [Buyer instructions custom field](/Custom-fields-buyer-instructions.md)  is created.
 -   Seller fills the “Buyer instructions” custom field while posting the ad.
--   [File download custom field](https://docs.yclas.com/sell-digital-goods/#create-the-file-field)  is created.
+-   File download custom field  is created.
 -   Seller selects the file while posting the ad.
 
 ## Create the File field
@@ -49,55 +47,35 @@ If this feature is properly configured, the result should be this:
 ## Google Picker
 
 1. Go to  [Google Developers Console](https://console.developers.google.com/)
-
 2. Press  **My Projects**  ->  **Create Project**
-
 ![](https://github.com/yclas/guides/blob/master/images/newcustomfield3.png)
 
 3. Choose  **Credentials**  on the left sidebar and click  **Create Credentials**  ->  **API key**
-
 ![](https://github.com/yclas/guides/blob/master/images/newcustomfield4.png)
 
-
-
 4. Copy your  **API key**  and paste it to your website admin panel ->  **Settings**  ->  **Advertisement**  ->  **Google Picker**  ->  **Google Picker API Key** ![](https://github.com/yclas/guides/blob/master/images/ncs5.png)
-
 ![](https://github.com/yclas/guides/blob/master/images/ncf6.png)
-
-
 5. Choose  **Credentials**  on the left sidebar and click  **Create Credentials**  ->  **OAuth Client ID**
-
 6. Click  **Configure consent screen**
- 
- ![](https://github.com/yclas/guides/blob/master/images/ncf7.png)
- 
-
+![](https://github.com/yclas/guides/blob/master/images/ncf7.png)
 ![](https://github.com/yclas/guides/blob/master/images/ncf8.png)
 
-
 7. Choose your Email address, enter the  **Product name**,  **Privacy Policy URL**  and click  **Save**
-
 ![](https://github.com/yclas/guides/blob/master/images/ncf9.png)
 
 8. The next step requires to create the client ID. Choose  **Application Type - Web Application**, enter your website name into the  **Name**  field, your website URL into the field  **Authorized JavaScript origins**  and press  **Create**
-
 ![](https://github.com/yclas/guides/blob/master/images/ncf10.png)
-
 ![](https://github.com/yclas/guides/blob/master/images/ncf12.png)
 
 11. Copy the Client ID and paste it to your website admin panel ->  **Settings**  ->  **Advertisement**  ->  **Google Picker**  ->  **Google Picker Client ID**  and press  **Save**
-
-![](https://github.com/yclas/guides/blob/master/images/ncf13.png)
-
+![]https://github.com/yclas/guides/blob/master/images/ncf13.png)
 
 10. Go to  **Libary**, find and enable  **Google Picker API**
-
 ![](https://github.com/yclas/guides/blob/master/images/ncf14.png)
-
 ![](https://github.com/yclas/guides/blob/master/images/ncf15.png)
 
-
 11. Done! You can now go to the  _Publish new_  page to see the result
-
 ![](https://github.com/yclas/guides/blob/master/images/ncf16.png)
+
+**This feature is available on all sites hosted at  [Yclas.com](https://yclas.com/)**
 
