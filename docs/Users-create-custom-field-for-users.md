@@ -4,11 +4,6 @@ Content:
 -   Tricks
 -   How to create custom fields for users
 
-*Note that custom fields for users are available only for the Premium Users and on all sites hosted on  [Yclas.com](https://yclas.com/).* 
-
-*When you are ready to have a Premium Theme, go to our  [market](https://selfhosted.yclas.com/).*
-
-*This is a new feature included in our 2.4.0 release.* With it, Yclas allows you to ask for extra information on user registration and to display it on their profile.
 
 ## Examples
 
@@ -33,6 +28,13 @@ This way users will be able to contact sellers directly just by clicking on the 
 Login to your Panel, go on  **Users**  ->  **User Custom Fields**, click  **New Field**.
 
 
+*Note that custom fields for users are available only for the Premium Users and on all sites hosted on  [Yclas.com](https://yclas.com/).* 
+
+
+*When you are ready to have a Premium Theme, go to our  [market](https://selfhosted.yclas.com/).*
+
+
+*This is a new feature included in our 2.4.0 release.* With it, Yclas allows you to ask for extra information on user registration and to display it on their profile.
 
   
 **Related posts:**
