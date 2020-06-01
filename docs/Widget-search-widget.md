@@ -37,6 +37,6 @@ By pressing the  **Search**  button they will be redirected to the advanced sear
 **Related guides:**
 
 -   [Overview of widgets](Widgets-overview.md)
--   [How to change language of the site?](https://docs.yclas.com/how-to-change-language/)
+-   [How to change language of the site?](Translation-change-language-of-the-site.md)
 -   [Currency Converter Widget](Widgets-currency-widget.md)
 -   [Share Widget](Widgets-share-widget.md)
