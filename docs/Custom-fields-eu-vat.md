@@ -11,9 +11,8 @@ Content:
 -   VAT on automatic emails
 -   VAT for non EU countries
 
-This feature is available on our 3.0.0 release and for all the sites hosted at  [Yclas.com](https://yclas.com/)
 
-Yclas allows you to include VAT to the orders. When users purchase Featured Ads, To Top, Pay to Post or Membership plans the VAT will be added at checkout. You can also configure your website in a way where users can enter their VAT number and the VAT will be added automatically at the checkout when they are selling their products.
+Yclas allows you to include VAT to the orders. When users purchase Featured Ads, To Top, Pay to Post or Membership plans the VAT will be added at checkout. You can also configure your website in a way that users can simply add their VAT number and the VAT will be added automatically at the checkout.
 
 ## Configure VAT for features
 
@@ -39,9 +38,9 @@ _Error: Invalid EU Vat Number, please verify number and country match_
 
 ## Configure VAT for sellers
 
-If you don’t know how to enable the Buy Now button,  [here’s how](https://docs.yclas.com/pay-directly-from-ad/#how-to-activate-buy-now-button).
+If you don’t know how to enable the Buy Now button,  [here’s how](Payment-pay-directly-from-the-ad-option.md)
 
-Sellers can enter their VAT number and include VAT at checkout when they are selling their products through your website. This can be done in two ways: using  [Advertisement Custom Fields](https://docs.yclas.com/how-to-create-custom-fields/)  or  [User Custom Fields](https://docs.yclas.com/users-custom-fields/).
+Sellers can enter their VAT number and include VAT at checkout when they are selling their products through your website. This can be done in two ways: using  [Advertisement Custom Fields](Custom-fields-create-custom-fields.md)  or  [User Custom Fields](Users-create-custom-field-for-users.md).
 
 At checkout, your website will try to calculate the VAT using the Advertisement VAT number, if it’s missing it will use the User VAT number and if that is missing too, then no VAT will be added on the amount.
 
@@ -102,3 +101,5 @@ To let sellers manually insert the VAT rate, you need to create a custom field o
 3.  Click  **New Field**.
 4.  Enter  **vatnoneu**  into the field called Name. It’s important to enter  _vatnoneu_  as name and choose Number Decimal in the field type to make this feature work.
 5.  **Fill the fields**  and  **press Create**.
+
+This feature is available on our 3.0.0 release and for all the sites hosted at  [Yclas.com](https://yclas.com/)
