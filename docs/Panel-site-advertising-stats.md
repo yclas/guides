@@ -3,7 +3,7 @@ Content:
 -   Site Stats
 -   Advertisement Stats
 
-There are a variety of tools available in our classified software. Since our 2.6.0 version we have improved the statistics panel, displaying data that will be useful and valuable to you.
+There is a variety of tools available in our classified software. 
 
 ## Site Stats
 
@@ -22,3 +22,5 @@ Yclas provides comprehensive statistics about your advertisements. If you publis
 3.  Click on the stats button next to each ad.
 
 ![](https://github.com/yclas/guides/blob/master/images/ad-stats.png)
+
+**Since our 2.6.0 version we have improved the statistics panel, displaying data that will be useful and valuable to you.**
