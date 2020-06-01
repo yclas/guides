@@ -20,7 +20,7 @@ Follow these steps:
 
 3. Press  **CREATE**
 
-After deleting cache (go to  **Tools**  >  **Cache**  and hit  **Delete All**), your site will be available at URL build according to this scheme: http://your_site.com/chosen_seotitle.html
+After deleting cache (go to  **Tools**  >  **Cache**  and hit  **Delete All**, your site will be available at URL build according to this scheme: http://your_site.com/chosen_seotitle.html
 
 ## Widget
 
@@ -30,7 +30,7 @@ If you want links to all your pages to always be accessible for instance in the 
 
 ## Terms of Service
 
-If you need to generate your terms of service or privacy policy click [here.](https://www.shareasale.com/r.cfm?b=854385&u=1782794&m=65338)
+If you need to generate your terms of service or privacy policy click [here](https://www.shareasale.com/r.cfm?b=854385&u=1782794&m=65338).
 
 If you were using this guide to create the page with Terms of Service, after creating it go to  **Settings > Advertisement -> Publish Options**. 
 
