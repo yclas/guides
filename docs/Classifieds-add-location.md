@@ -51,9 +51,9 @@ and click “Import” to add all the sub-locations of Barcelona.
 
 If you are trying to import geolocations but you can see just empty dropdown menus, you need to review your **SSL certificate configuration.**
 
-For  **websites hosted on  [yclas.com](https://docs.yclas.com/how-to-add-locations/yclas.com)**, login to your Cloudflare account, press the  **Crypto**  tab and disable  **Always use HTTPS**.
+For  **websites hosted on  [yclas.com](yclas.com)**, login to your Cloudflare account, press the  **Crypto**  tab and disable  **Always use HTTPS**.
 
-If you using  **Yclas Self-Hosted**, please make sure you follow the instructions of  [this guide](https://docs.yclas.com/move-classifieds-site-http-https/) (#How to Move a Classifieds Site From Http to Https) correctly.
+If you using  **Yclas Self-Hosted**, please make sure you follow the instructions of [this guide](Technical-http-to-https.md) 
 
 ### Quick Creator
 
