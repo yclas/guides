@@ -2,9 +2,6 @@
 Content:
 -   Create a language widget
 -   How to configure it
--   Video
-
-*This feature is available on our 2.7.0 release.*
 
 If you have an international classifieds website or your users speak different languages, you can let them choose in which language your website will be translated to them.
 
@@ -64,5 +61,4 @@ Here’s a full list of the available languages:
 -   **vi_VN**  Vietnamese
 -   **zh_CN**  Chinese
 
-## Video
-<iframe width="800" height="450" src="https://www.youtube.com/embed/3B48Flonf-Y" frameborder="0" allowfullscreen></iframe>
+*This feature is available on our 2.7.0 release.*
