@@ -30,7 +30,7 @@ When a new advertisement is published to the website, on the category “Apartme
 
 
 **Related guides:**
-[Overview of widgets](Widgets-overview-of-widgets.md)
-[How to change language of the site?](Translation-change-language-of-the-site.md)
-[Currency Converter Widget](Widgets-how-to-set-the-currency-format.md)
-[Share Widget](Widgets-share-widget.md)
+- [Overview of widgets](Widgets-overview-of-widgets.md)
+- [How to change language of the site?](Translation-change-language-of-the-site.md)
+- [Currency Converter Widget](Widgets-how-to-set-the-currency-format.md)
+- [Share Widget](Widgets-share-widget.md)
