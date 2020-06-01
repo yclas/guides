@@ -74,7 +74,7 @@ If the VAT country and the VAT number match, the checkout page will look like th
 
 ## VAT on automatic emails
 
-Once you configure VAT to be added at checkout, you will be able to include it to the **automatic emails**  _ads-sold_  and  _ads-purchased_.
+Once you configure VAT to be added at checkout, you will be able to include it to the **[automatic emails](Content-automatic-emails-sent-to-users.md)**  _ads-sold_  and  _ads-purchased_.
 
 The variables you can use are:
 
