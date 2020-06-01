@@ -51,7 +51,7 @@ and click “Import” to add all the sub-locations of Barcelona.
 
 If you are trying to import geolocations but you can see just empty dropdown menus, you need to review your **SSL certificate configuration.**
 
-For  **websites hosted on  [yclas.com](yclas.com)**, login to your Cloudflare account, press the  **Crypto**  tab and disable  **Always use HTTPS**.
+For  **websites hosted on Yclas, you have to login in your Cloudflare account, press the  **Crypto**  tab and disable  **Always use HTTPS**.
 
 If you using  **Yclas Self-Hosted**, please make sure you follow the instructions of [this guide](Technical-http-to-https.md) 
 
