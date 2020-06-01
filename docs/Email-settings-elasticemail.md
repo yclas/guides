@@ -1,4 +1,4 @@
-# How to configure ElasticEmail on Yclas?
+# How to configure ElasticEmail with Yclas?
 Content:
 -   How it works
 
