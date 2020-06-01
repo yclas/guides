@@ -40,7 +40,7 @@ _Error: Invalid EU Vat Number, please verify number and country match_
 
 If you don’t know how to enable the Buy Now button,  [here’s how](Payment-pay-directly-from-the-ad-option.md)
 
-Sellers can enter their VAT number and include VAT at checkout when they are selling their products through your website. This can be done in two ways: using  [Advertisement Custom Fields](Custom-fields-create-custom-fields.md)  or  [User Custom Fields](Users-create-custom-field-for-users.md).
+Sellers can enter their VAT number and include VAT at checkout when they are selling their products through your website. This can be done in two ways: using  [advertisement custom fields](Custom-fields-create-custom-fields.md)  or  [user custom fields](Users-create-custom-field-for-users.md).
 
 At checkout, your website will try to calculate the VAT using the Advertisement VAT number, if it’s missing it will use the User VAT number and if that is missing too, then no VAT will be added on the amount.
 
