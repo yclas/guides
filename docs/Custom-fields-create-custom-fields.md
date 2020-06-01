@@ -1,21 +1,17 @@
 # How to create Custom Fields?
 
-<div class="alert alert-info">
-<strong><i class="glyphicon glyphicon-info-sign"></i> </strong> Note that custom fields are available only on the sites hosted on <a href="https://yclas.com">Yclas.com</a> and on <a href="https://selfhosted.yclas.com/themes/yclas-self-hosted-pro.html">Yclas Self-Hosted Pro</a>.
-</div>
+
 
 <div class="alert alert-warning">
 <strong><i class="glyphicon glyphicon-warning-sign"></i> </strong> The maximum number of Custom Fields you can have in your website is <strong><u>65</u></strong>!
 </div>
+
+Content:
 -   Create New Field
 -   Edit Custom Field
 -   Tricks
 
- *Note that custom fields are available only on the sites hosted on  [Yclas.com](https://yclas.com/)  and on  [Yclas Self-Hosted Pro](https://selfhosted.yclas.com/themes/yclas-self-hosted-pro.html)*.
-
 **The maximum number of Custom Fields you can have in your website is  **65**!**
-
-*The new feature is included in the  **2.0.7**  version, which makes it possible to create multiple new custom fields.*
 
 Now there are  **3 types of fields**  that can be added to advertisements.
 
@@ -101,4 +97,10 @@ Once you have written down all the required information, click  **Create**. New 
 
 While editing,  **Name**  and  **Type**  **fields**  will become disabled. In case you want to change them, you will have to delete this custom field and start over. This is to prevent messing up with the DataBase.
 
-**Just for your information, the rest of the options are still open for editing and adding.*
+**Just for your information, the rest of the options are still open to edit and add.*
+
+*The new feature is included in the  **2.0.7**  version, which makes it possible to create multiple new custom fields.*
+
+ *Note that custom fields are available only on the sites hosted on  [Yclas.com](https://yclas.com/)  and on  [Yclas Self-Hosted Pro](https://selfhosted.yclas.com/themes/yclas-self-hosted-pro.html)*.
+
+
