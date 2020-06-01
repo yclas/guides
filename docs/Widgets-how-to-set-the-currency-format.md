@@ -11,9 +11,6 @@ Content:
     -   American Currencies
 -   More currencies
 -   Examples
--   Video
-
-*This feature is available with our 2.8.0 release and for all sites hosted at  [Yclas.com](https://yclas.com/)*
 
 If you want your website users and visitors to be able to convert currencies then this is the widget for you. As the title says, this is the widget which users can use to choose between your selected currencies and have ads prices converted to their chosen currency.
 
@@ -40,7 +37,8 @@ It’s really simple to create and use this widget:
 ## Currencies to display
 
 
-Into this field, you can type the currencies you want to be available in your site. Please note that you have to enter the three-character currency codes in order to work. An example of input would be:
+In this field you can type the currencies you want to be available on your site.
+**Please note that you have to enter the three-character currency codes in order to work.** An example of input would be:
 
 ```
 EUR,USD,CAD,AUD
@@ -109,9 +107,8 @@ Available currencies will be: JPY, HKD, SGD, TWD, KRW, PHP, IDR, INR, CNY, MYR, 
 
 Available currencies will be: EUR, CAD, CNY, NOK, PHP, USD
 
-## Video
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/dikb_c5TpcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*This feature is available with our 2.8.0 release and for all sites hosted at  [Yclas.com](https://yclas.com/)*
 
 
 
