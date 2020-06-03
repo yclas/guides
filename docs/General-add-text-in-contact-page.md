@@ -1,7 +1,5 @@
 # How to add text in contact page
 
-**This feature is available on our 2.5.0 release.*
-
 Instead of having a plain contact form on your website’s contact page, now you can choose your own welcome message to be displayed above contact form!
 
 To do this, just  **follow these simple steps:**
@@ -13,3 +11,5 @@ To do this, just  **follow these simple steps:**
 - **Save** the changes, and you are ready!
 
 ![contact-page2](https://user-images.githubusercontent.com/55290441/80504895-4bddd280-897c-11ea-913f-e74137046803.png)
+
+**This feature is available on our 2.5.0 release.*
