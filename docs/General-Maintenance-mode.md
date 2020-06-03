@@ -13,4 +13,4 @@ While Maintenance Mode is being activated, anyone who tries to access your websi
 
  They'll be able to see the whole website only by logging in.
 
-Setting moderation: Allows you to change how to publish ads. Read more: * [API documentation](api-documentation.md)
+Setting moderation: Allows you to change how to publish ads. Read more: [API documentation](api-documentation.md)
