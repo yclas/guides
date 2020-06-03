@@ -3,7 +3,6 @@
 Content:
 -   Facebook side
 -   Yclas side
--   Video
 
 This feature requires  **two steps**  one on  **Facebook side**  and one on  **Yclas side**:
 
@@ -30,6 +29,3 @@ This feature requires  **two steps**  one on  **Facebook side**  and one on  **Y
 3.  Enter the  **Facebook App ID**  into the  **Facebook comments**  box.
 4.  Press  **Save**!
 
-## Video
-
-<iframe width="854" height="480" src="https://www.youtube.com/embed/0crL5ZBEzUU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
