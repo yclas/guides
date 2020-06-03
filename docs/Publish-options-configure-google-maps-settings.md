@@ -30,13 +30,11 @@
 -   **Google Places API Web Service**
 -   **Google Maps Distance Matrix API**
 
-![]([https://raw.githubusercontent.com/yclas/guides/master/images/googlemapssettings1.png](https://raw.githubusercontent.com/yclas/guides/master/images/googlemapssettings1.png)
+
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/googlemapssettings2.png)
 
- ##  Video
- 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/OuKaI6Wrqw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
  
  **Related posts:**
 
