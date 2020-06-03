@@ -51,13 +51,13 @@ The following instructions explain how to pin your website ads automatically to 
 
 3. Create a new app  [here](https://developers.pinterest.com/apps/). Enter the Name and Description of the app.
 
-![]([https://raw.githubusercontent.com/yclas/guides/master/images/sociacontent2.png](https://raw.githubusercontent.com/yclas/guides/master/images/sociacontent2.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/sociacontent2.png)
 
 4. Go back to your Pinterest app, copy the  **App ID**  and  **App secret**  and paste to your website admin panel,  **Settings**  ->  **Advertisement**  ->  **Social**  ->  **App ID**  and  **App Secret**. Also enter the Pinterest Board that you want to pin the ads from your website.
 
-![]([https://raw.githubusercontent.com/yclas/guides/master/images/socialcontent3.png](https://raw.githubusercontent.com/yclas/guides/master/images/socialcontent3.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/socialcontent3.png)
 
-![]([https://raw.githubusercontent.com/yclas/guides/master/images/sc4.png](https://raw.githubusercontent.com/yclas/guides/master/images/sc4.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/sc4.png)
 
 5. Press  **Save**.
 
@@ -127,11 +127,11 @@ Facebook auto post allows you to configure your site to automatically post to a 
 
 8. The created Access Token expires in an hour, so you need to create another one. On the same page click to the icon on the left of the Access Token and press  **Open in Access Token Tool**.
 
-![]([https://raw.githubusercontent.com/yclas/guides/master/images/sk11.png](https://raw.githubusercontent.com/yclas/guides/master/images/sk11.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/sk11.png)
 
 9. Click  **Extend Access Token**
 
-![]([https://raw.githubusercontent.com/yclas/guides/master/images/sk12.png](https://raw.githubusercontent.com/yclas/guides/master/images/sk12.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/sk12.png)
 
 10. The new long-lived access token will appear below. Copy, login to your website admin panel, go to  **Settings -> Advertisement -> Social**  and paste the key into the  **Facebook Access Token**  field. You won’t have to renew the access token again.
 
@@ -140,7 +140,7 @@ Facebook auto post allows you to configure your site to automatically post to a 
 12. Get the  **App ID**  and  **App Secret**  and paste in your website admin panel, on  **Settings -> Advertisement -> Social**,  **Facebook App Id**  and  **Facebook App Secret**.
 
 
-13. Enable  **Facebook -> Auto Post**  and enter your  **Facebook ID**. If you are posting on a Facebook page enter the ID of the page, if you are posting on a Facebook group or a user page enter the User ID. You can find the Facebook ID by using a website like http://findfacebookid.com/ and http://findmyfbid.com/
+13. Enable  **Facebook -> Auto Post**  and enter your  **Facebook ID**. If you are posting on a Facebook page enter the ID of the page, if you are posting on a Facebook group or a user page enter the User ID. You can find the Facebook ID by using websites like http://findfacebookid.com/ or http://findmyfbid.com/
 
 14. Click  **Save**
 
