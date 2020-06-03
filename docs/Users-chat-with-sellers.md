@@ -7,7 +7,7 @@ Content:
 
  Yclas makes it possible for users to contact sellers before purchasing a product, using the traditional contact form or through the internal  [Messaging System](Plugins-message-system.md)
 
-*Since our 2.7.0 version, users can contact sellers or advertisers directly on Whatsapp, Skype or Telegram.*
+
 In order to advertise directly on Whatsapp, Skype or Telegram you need to create three  [**user custom fields**](Users-create-custom-field-for-users.md):
 
 ## Whatsapp
