@@ -12,9 +12,9 @@ For efficient email delivery, we highly recommend using a specialized SMTP servi
 
 To have a good deliverabilty of your emails you need to use your own email domain such as info@YOURDOMAIN.com and not something like mywebsite@gmail.com. Using free SMTP serivces like Gmail, Outlook or Yahoo it’s a bad idea since there’s lot of limitations on the amount of emails you can send. Please do not use them.
 
-You can easily use you own domain to send emails by using  [Zoho for free](Email-settings-host-email-with-custom-domain.md). or many domain name companies offer paid email hosting .
+You can easily use you own domain to send emails by using [Zoho for free](Email-settings-host-email-with-custom-domain.md) 
 
-It’s now mandatory to have the site working using SMTP or  [Elasticemail](Email-settings-elasticemail.md). This guide explains how to set up the SMTP configuration of your website.
+It’s now mandatory to have your site working using SMTP or  [Elasticemail](Email-settings-elasticemail.md). This guide explains how to set up the SMTP configuration of your website.
 
 Go to  **Settings**  ->  **Email Settings**  ->  **SMTP Configuration**  and specify or enable:
 
