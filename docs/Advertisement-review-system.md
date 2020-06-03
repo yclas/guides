@@ -26,6 +26,6 @@ To activate this option, log in your  **Admin Panel**, choose  **Settings**  >  
   
 **IMPORTANT!**  Make sure that the user paypal link option is activated, otherwise the reviews cannot work properly. To get this working, go to Settings > Payment > Paypal, Set “Buy Now” to “On” and Save changes.
 
-We hope that with our new Yclas solutions managing your website is imporved and easy to work with! And remember that this is a premium feature which you can get now starting from  [a small montly fee](https://yclas.com/self-hosted.html)
+We hope that with our new Yclas solutions managing your website is imporved and easy to work with! And remember that this is a premium feature which you can get now starting with [a small montly fee](https://yclas.com/self-hosted.html)
 
 Note that the review option is available only for the Premium Users. When you’re ready to have a Premium Theme, go to  **[our market](https://yclas.com/templates.html)**.
