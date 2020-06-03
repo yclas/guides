@@ -11,5 +11,5 @@
 
 In case you change it to an invalid form and you want to go back to default, our default given date format is:  **d-m-y.**
 
-If you would like to  **add hours/minutes/seconds**, you can use  **d-m-y H-i-s**. For more options about it, you can refer to  **[PHP Date/Time format](https://php.net/manual/en/function.date.php)**.
+If you would like to  **add hours/minutes/seconds**, you can use  **d-m-y H-i-s**. For more options, you can refer to  **[PHP Date/Time format](https://php.net/manual/en/function.date.php)**.
 
