@@ -43,14 +43,13 @@ Next step is to activate the “Black List”. There's a guide on how to do that
 
 **Akismet**
 
-
 You can also activate Akismet entering your Akismet key
 
-  
-You can find more information about Akismet and how obtain an Akismet key following this link:  [https://akismet.com/](https://akismet.com/)  It’s free to use but be aware of false positives.
+  You can find more information about Akismet and how obtain an Akismet key following this link:  [https://akismet.com/](https://akismet.com/)  It’s free to use but be aware of false positives.
 
 ### Captcha
 
-Now move to  **Settings > Advertisement > Publish Options**  set Captcha “ON”
+Go to  **Settings > Advertisement > Publish Options** and set Captcha “ON”
+
 
 
