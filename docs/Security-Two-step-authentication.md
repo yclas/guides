@@ -4,8 +4,6 @@
 -   How to enable the two-step authentication on your profile
 -   How to use it
 
-**This feature is available with our 2.8.0 release and on all sites hosted at  [Yclas.com](https://yclas.com/)*
-
 This feature gives you and your users two-factor authentication. You can protect your account with both your password and your phone.
 
 ## How to configure two-step authentication:
@@ -40,4 +38,4 @@ This feature gives you and your users two-factor authentication. You can protect
 5.  Now you are logged into your website!
 ![2step4](https://user-images.githubusercontent.com/55290441/80509206-c0ffd680-8981-11ea-8717-0de4b26f5fcd.png)
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/1B1MFHFL2Oo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**This feature is available with our 2.8.0 release and on all sites hosted at  [Yclas.com](https://yclas.com/)*
