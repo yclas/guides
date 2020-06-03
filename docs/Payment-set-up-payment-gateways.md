@@ -10,7 +10,7 @@ Content:
     -   Paymill
     -   Alipay
     -   Bitpay
-    -   Paysbuy
+    -   Omise
     -   Paytabs
     -   PayFast
     -   Mercadopago
