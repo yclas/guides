@@ -1,6 +1,6 @@
 # Install
 
-**How do you instal the Self-Hosted version?** [](https://emojipedia.org/gear/) ⚙️
+**How do you instal the Self-hosted version?** [](https://emojipedia.org/gear/) ⚙️
 
 Yclas Self-Hosted installation takes *only a  few minutes.* [  ](https://emojipedia.org/hourglass-done/)⌛
 
