@@ -1,10 +1,10 @@
 # How to View and Edit Forum Topics
 
-This feature allows you to manage the topics of your forum.
+*This feature allows you to manage the topics of your forum*
 
 First of all, you need to have forums activated on your website. 
 
-*If you don’t know how to activate the forum, you can follow the steps in [this guide*](Plugins-forum-section.md).
+*If you don’t know how to activate the forum, you can follow the steps in [this guide*](Plugins-forum-section.md)*.
 
 So, if you have forums activated and topics created, you are able to manage these topics.
 
