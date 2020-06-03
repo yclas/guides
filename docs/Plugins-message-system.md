@@ -1,4 +1,4 @@
-# How to use Messaging System
+# How to use our messaging system
 
 Content:
 -   How to enable Messaging System
