@@ -6,7 +6,7 @@
 -   Register and login with phone number
     - -    Register
     -   - Login
--   Video
+
 
 Keep your users secure with the two-step SMS authentication. Two-step authentication is a mechanism to double check that your identity is legitimate.
 
@@ -58,6 +58,4 @@ Users can choose to register with their email and password, or to choose to regi
 4.  The user enters the code.
 5.  If the code is valid, the user is successfully logged in!
 
-## Video
 
-![Two-step SMS Authentication](//docs.yclas.com/images/2-step-sms-2.png) <iframe width="560" height="315" src="https://www.youtube.com/embed/F2F-SYsWfz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
