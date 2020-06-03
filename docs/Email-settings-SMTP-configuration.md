@@ -1,4 +1,4 @@
-# How to configure SMTP - ADD EDITS
+# How to configure SMTP 
 Content:
 -   Zoho
 -   Mailgun
