@@ -16,7 +16,7 @@ Content:
     -   Mercadopago
     -   Zenith GlobalPAY
     -   Payline
-    -   Serfinsa
+  
 
 **Heads Up!**  Authorize, Stripe, Paymill, 2checkout, Paysbuy, SecurePay, Robokassa, Paguelofacil and Bitpay are only available with premium themes and on all sites hosted at  [Yclas.com](https://yclas.com/)!
 
@@ -106,13 +106,15 @@ Accept Bitcoins using Bitpay, you can  [register for free](https://bitpay.com/) 
 
 ### Omise
 
-Free registration [here!](https://www.omise.co/
+Free registration [here!](https://www.omise.co/)
 
 **Omise account:**  Enter your Omise account email here. **Sandbox:**  Enable this for testing mode
 
 ----------
 
 ### Paytabs
+
+Free registration [here](https://www.paytabs.com/en/)
 
 **Merchant email:**  Your Paytabs account email.  **Secret Key:**  Secret key available on the merchant dashboard, under the menu “Ecommerce Plugins and API”.
 
@@ -128,11 +130,11 @@ Your  **Merchant ID**  and  **Merchant Key**  can be found by logging into your 
 
 ### Mercadopago
 
-To setup  **Mercadopago**  for your classifieds sites, please follow this steps:
+To setup  **Mercadopago**  for your classifieds sites, please follow the steps:
 
-1.  Register in  [Mercadopago](https://www.mercadopago.com/)  (If you don’t have an account yet)
+1.  Register  in [Mercadopago](https://www.mercadopago.com.ar/registration-mp?confirmation_url=https%3A%2F%2Fwww.mercadopago.com.ar%2F) 
 2.  Get you  **Client-id**  and  **Client-Secret**.
-3.  Go to your admin panel ->  **Settings**  ->  **Payments**  ->  **MercadoPago**  and paste: Client-id and Client-Secret.
+3.  Go to your admin panel ->  **Settings**  ->  **Payments**  ->  **MercadoPago**  and paste the Client-id and Client-Secret.
 
 ----------
 
@@ -144,17 +146,14 @@ https://www.globalpay.com.ng/Payments.aspx
 
 https://paylinedata.com/
 
-### Serfinsa
-
-http://www.redserfinsa.com/
 
 ----------
 
-Of course you can enable any, some or all of them at the same time without a restriction, when they’re enabled the user will be redirected to a checkout page to select his preferred payment method.
+Of course you can enable as many payment gateways as you want simultaneously without any restrictions. When they’re enabled the user will be redirected to a checkout page to select his preferred payment method.
 
   
 
-Note: Only paypal works with the free Yclas self-hosted version  [premium themes!](https://selfhosted.yclas.com/)  Upgrade your Yclas site to activate this feature.
+Note: Only paypal works with the free Yclas self-hosted version [premium themes!](https://selfhosted.yclas.com/).  Upgrade your Yclas site to activate this feature.
 
   
 **Related posts:**
