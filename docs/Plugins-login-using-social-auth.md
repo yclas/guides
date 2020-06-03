@@ -8,11 +8,6 @@ Content:
 -   How to enable Twitter login
 -  [Other social login
 
-Since our version 2.1, it’s really easy to login using a  **social network account**  like  **Twitter, Facebook, Google Sign-In , LinkedIn etc.** 
-
-For doing so, we use a third party open source project called **[HybridAuth](https://hybridauth.github.io/hybridauth/)**  (awesome project!).
-
-To activate any of these social logins, you need first to purchase a premium theme from our  **[market](https://selfhosted.yclas.com/)**.
 
 ## How to enable Google login
 
@@ -22,15 +17,10 @@ To activate any of these social logins, you need first to purchase a premium the
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/login1.png)
 
   
-
 1.  Choose a Project name, then select “Yes” or “No” for the other options and press  **Create**.  
-    
 2.  Then choose  **Credentials**, on the left menu.  
-    
 3.  Choose  **Create Credentials**  ->  **OAuth client ID**  and then click on  **Configure consent screen**.  
-    
 4.  Now you need to enter a  **Product name**  and you can fill any of the other optional fields you want. Click  **Save**.  
-    
 5.  After that you will be redirected to create client ID.
 
 -   Application type: Web application
@@ -59,7 +49,6 @@ Since March 2018 it’s required to get an SSL certificate for your domain in or
 This social login  **might change depending on Facebook**  !
 
 1. Go to  [Facebook for developers](https://developers.facebook.com/apps/).
-
 2. Click  **Add a New App**.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/login3.png)
@@ -73,13 +62,11 @@ This social login  **might change depending on Facebook**  !
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/login5.png)
 
-
 6. Choose  **Other**  on the Quickstart page.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/login6.png)
 
 7. Choose  **Facebook Login -> Settings**  on the left menu.
-
 8. Enable  **Client OAuth Login**  and  **Web OAuth Login**  and fill the fields:  
 
 **Valid OAuth redirect URIs**:  
@@ -94,25 +81,23 @@ _https://yourdomain.com/social/login/1?hauth_done=Facebook_
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/login7.png)
 
 8. Choose  **Settings -> Advanced**  and enable  **Social Discovery**  and  **Allow API Access to App Settings**.
-
 9. On the header switch  **OFF**  to  **ON**.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/login8.png)
 
 10. Choose a category and click  **Confirm**.
-
 11. Choose  **Settings -> Basic**  and copy your App ID and App Secret.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/login9.png)
 
-10. Go to http://yourdomain.com/oc-panel/social/index  
-11. Set  **Facebook =**  **TRUE**  
-12. Fill  **ID = App ID**  as appears at FB page  
-13. Fill  **Secret = App secret**  as in FB  
-14. Click  **Update**  in the bottom of the page  
-15. Logout  
-16. Go to login, Facebook should appear there  
-17. Now test it!  
+12. Go to http://yourdomain.com/oc-panel/social/index  
+13. Set  **Facebook =**  **TRUE**  
+14. Fill  **ID = App ID**  as appears at FB page  
+15. Fill  **Secret = App secret**  as in FB  
+16. Click  **Update**  in the bottom of the page  
+17. Logout  
+18. Go to login, Facebook should appear there  
+19. Now you can try it out!  
 
 ## How to enable AOL login
 
@@ -121,7 +106,7 @@ _https://yourdomain.com/social/login/1?hauth_done=Facebook_
 3.  Click  **Update**  in the bottom of the page
 4.  Logout
 5.  Go to login, AOL should appear there
-6.  Now test it!
+6.  Now you can try it out!
 
 ## How to enable Open ID (yahoo) login
 
@@ -132,7 +117,7 @@ With this option users will be able to login using an Open ID account. In Yclas 
 3.  Click  **Update**  in the bottom of the page
 4.  Logout
 5.  Go to login, Open ID should appear there
-6.  Now test it!
+6. Now you can try it out!
 
 ## How to enable Yahoo login
 
@@ -163,6 +148,14 @@ With this option users will be able to login using an Open ID account. In Yclas 
 6.  Copy the  **Consumer Key**  and  **Consumer Secret**  and paste in your website admin panel. Settings -> Social Auth -> Twitter Key and Secret.
 7.  Back in your Twitter app, go to the Permissions tab and make sure the Access is set to “Read and Write”.
 8.  Done!
+
+Since our version 2.1, it’s really easy to login using a  **social network account**  like  **Twitter, Facebook, Google Sign-In , LinkedIn etc.** 
+
+For doing so, we use a third party open source project called **[HybridAuth](https://hybridauth.github.io/hybridauth/)**  (awesome project!).
+
+To activate any of these social logins, you need first to purchase a premium theme from our  **[market](https://selfhosted.yclas.com/)**.
+
+
 
 ## Other social login
 
