@@ -1,4 +1,4 @@
-# Marketplace with Stripe Connect - UPDATE LINKS
+# Marketplace with Stripe Connect 
 
 With  [Stripe Connect](https://stripe.com/connect)  you will be able to charge your customers an application fee (percentage) based on the sale they made using your platform. You (site owner) and your customer (the publisher), will need a Stripe account.
 
@@ -29,7 +29,7 @@ You (site owner) set your site to get 3% commission for each sale made via your 
 5.  **Activate Stripe Connect**
 6.  Set a  **Stripe client ID**  that you got here https://dashboard.stripe.com/account/applications/settings
 7.  Set the percentage fee if you want to charge your customers, using the field called  **Application Fee**  in your website panel.
-8.  Click  **Save**, ready ;)
+8.  Click  **Save**
 
 
 ### User configuration
