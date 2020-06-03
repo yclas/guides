@@ -84,7 +84,7 @@ To accept credit card payments you need to set up an account with authorize.net 
 
 ### Paymill
 
-To get paid via credit card you need a Paymill account, it’s  [free to register](https://app.paymill.com/en-en/auth/register?referrer=openclassifieds)  and they charge 2.95% on any transaction.
+To get paid via credit card you need a Paymill account, it’s  [free to register](https://app.paymill.com/user/register)  and they charge 2.95% on any transaction.
 
 **Paymill private key**  and  **Paymill public key**  can be obtained from your Paymill account after registration.
 
