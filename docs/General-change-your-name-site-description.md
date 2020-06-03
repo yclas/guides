@@ -25,11 +25,11 @@ The site name carries the identity of your whole website and it is complimented 
 
 ✔ **The change is successful – general configuration updated.**
 
-Although the site's name and description are important elements in your website content, remember that you can always **add more content** to your site with the following tools  🛠️:
+Although the site's name and description are important elements in your website content, remember that you can always **add more content** to your site with the following tools  🛠️
 
 -   [Text widget](https://docs.yclas.com/overview-of-widgets) (add new link)
 -   [Creating a blog](https://docs.yclas.com/how-to-create-a-blog) (add new link)
 -   [Add an FAQ section](https://docs.yclas.com/create-frequent-asked-questions-faq) (add new link) 
 -   [Add a forums section](https://docs.yclas.com/add-forums-section/) (add new link)
 
-We recommend using these tools but there's plenty of fish in the sea! :)
+We recommend using these tools but there's plenty of other options! :)
