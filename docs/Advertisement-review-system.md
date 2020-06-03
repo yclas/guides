@@ -2,8 +2,6 @@
 
 Review system can be a great opportunity for you to obtain useful feedback from your users about the published ads and users who posted them. Users are allowed to express their opinion and it is also a great way to increase their trust in your classifieds website.
 
-Note that the review option is available only for the Premium Users. when you’re ready to have a Premium Theme, go to  **[our market](https://selfhosted.yclas.com/)**.
-
 To enable the review system follow the steps below:
 
 1.  Log in your  **Admin Panel**
@@ -13,7 +11,6 @@ To enable the review system follow the steps below:
 
 
  Then, go to your website, click on an ad and you can see that the option of leaving a review appeared as shown in the below screenshot.
-
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/leave%20a%20review.png)
   
@@ -31,5 +28,4 @@ To activate this option, log in your  **Admin Panel**, choose  **Settings**  >  
 
 We hope that with our new Yclas solutions managing your website is imporved and easy to work with! And remember that this is a premium feature which you can get now starting from  [a small montly fee](https://yclas.com/self-hosted.html)
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q4WQ8LIkoeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Note that the review option is available only for the Premium Users. When you’re ready to have a Premium Theme, go to  **[our market](https://yclas.com/templates.html)**.
