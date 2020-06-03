@@ -1,7 +1,7 @@
 # Notification System
 
--   [How to enable the Notification System](https://docs.yclas.com/notification-system/#how-to-enable-the-notification-system)
--   [Showcase](https://docs.yclas.com/notification-system/#showcase)
+-   How to enable the Notification System
+-   Showcase
 
 By using the Notification System, you can notify your website users that an email was sent to them from your website. That email could be sent after they perform a certain action like register, post an ad, request to change their password or when they get contacted from other users.
 ![NS1](https://user-images.githubusercontent.com/55290441/80630267-9fbfe880-8a5c-11ea-923a-52b43f310cc8.png)
