@@ -4,7 +4,7 @@ Sometimes when someone registers to your website, posts an ad or contacts you th
 
 Below we listed the most common error messages you may get. If there’s an error related to the email configuration, followed with an explanation and a tip about what to do, like the listed below:
 
--   **Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting**  
+-   [Mailer Error: SMTP connect failed](https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting)  
     It means that we cannot connect to your SMTP server, probably because email settings are not configured.  [This guide](Email-settings-SMTP-configuration.md)  explains how to configure Email Settings.
     
 -   **Mailer Error: The following From address failed: some@email.com : Called MAIL FROM without being connected**  
