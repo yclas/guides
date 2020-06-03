@@ -11,6 +11,6 @@ To access these settings, go to the Panel,  **Settings**  ->  **Advertisement**.
 -   **Advertisements in home**  
 -   **Delete ads:**  Enable this option to let users permanently delete their ads.
 
-### [How to change settings for ads] <iframe width="800" height="450" src="(https://www.youtube.com/embed/bz5b_NfpD2o" frameborder="0" allowfullscreen></iframe>
+
 
 
