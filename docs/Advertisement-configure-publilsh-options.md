@@ -1,4 +1,4 @@
-# How to configure Publish Options
+# How to configure publish options
 
 You can access these options by logging into your admin panel and going to  **Settings**  ->  **Advertisement**  ->  **Publish Options**.
 
@@ -12,7 +12,7 @@ You can access these options by logging into your admin panel and going to  **Se
 -   **BBCODE editor on description field:**  BBCODE editor appears in description field.
 -   **Captcha:**  Captcha appears in the form.
 -   **Leave alert before submitting form**: Disable/Enable this option to leave an alert before submitting and publish a new form.
--   **Term of Service:**  If you choose to use terms of service, you can select “Activate”. More details in  [this guide](https://docs.yclas.com/how_to_add_pages).  [If you need to generate your terms of service or privacy policy click here.](https://www.shareasale.com/r.cfm?b=854385&u=1782794&m=65338)
+-   **Term of Service:**  If you choose to use terms of service, you can select “Activate”. More details in  [this guide](Content-Add-pages.md).  [If you need to generate your terms of service or privacy policy click here.](https://www.shareasale.com/r.cfm?b=854385&u=1782794&m=65338)
 -   **Thank page:**  A page that will be displayed to the user after he publishes an Ad.
 -   **Banned words:**  You need to write your banned words separated with coma (,) to enable the service.
 -   **Validate banned words:**  Enables banned words validation. When users enter banned words, they get a warning message in order to replace these words.
@@ -21,9 +21,9 @@ You can access these options by logging into your admin panel and going to  **Se
   
 **Related posts:**
 
--   [How to manage Advertisement Fields?](https://docs.yclas.com/how-to-manage-advertisement-fields)
+-   [How to manage Advertisement Fields?](Advertisement-manage-advertisement-fields.md)
 -   [How to change settings for Ads?](Advertisement-change-settings-for-ads.md)
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/QO_pOV8RtMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
