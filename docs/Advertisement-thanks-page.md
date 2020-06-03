@@ -1,6 +1,7 @@
 # Thanks page 🙏
 
-If you want users to see a customized thanks page after they publish their ads, you can use this feature. First, you need to create a new page and then to choose this page as the content that will be displayed to the user after he publishes an ad.
+If you want users to see a customized 'thanks page' after they publish their ads, you can use this feature. 
+First, you need to create a new page and then to choose this page as the content that will be displayed to the user after they publish an ad.
 
 **Steps to follow:**
 
@@ -9,4 +10,3 @@ If you want users to see a customized thanks page after they publish their ads, 
 3.  Click  **Save**.
 
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/iEngOIbIQu0" frameborder="0" allowfullscreen></iframe>
