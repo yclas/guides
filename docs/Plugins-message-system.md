@@ -47,11 +47,12 @@ Now you can delete messages or mark them as spam.
 ### Spam
 
 If you have been contacted for an ad, but you think the message is a spam, you can mark it as spam.
+
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/messaging-system7.png)
 
 You can find those messages under the Spam tab.
 
-![]](https://raw.githubusercontent.com/yclas/guides/master/images/messaging-system8.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/messaging-system8.png)
 
 If a sender tries to contact you again, you won’t be notified but the new message will be received under the Spam tab and you can read it if you click on the conversation with the sender.
 
