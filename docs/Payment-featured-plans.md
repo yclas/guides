@@ -5,13 +5,9 @@ Content:
 -   How to mark ads as Featured
 -   How to promote featured ads:
 
-Note that the Featured Plans are available only for the Premium Users. When you ‘re ready to have a Premium Theme, go to our  [market](https://selfhosted.yclas.com/).
-
-*With our 2.4.0 release, we added the option to create featured plans for ads.*
 
 This feature allows you to give users the option to select among different length of their featured ad and pay according to your payment plans.
-
-If you don’t know how to enable featured ads, please follow  [this guide](Payment-set-up-payment-gateways.md)!
+If you don’t know how to enable featured ads, please follow [this guide](Payment-set-up-payment-gateways.md)!
 
 ## How to create Featured Plans:
 
@@ -24,7 +20,7 @@ If you don’t know how to enable featured ads, please follow  [this guide](Paym
 
 From now on, when a user wants to mark theird ad as featured, by clicking on the option, they will be redirected to the checkout page to choose the featured plan they want to buy.
 
-![]([https://raw.githubusercontent.com/yclas/guides/master/images/featured-plans1.png](https://raw.githubusercontent.com/yclas/guides/master/images/featured-plans1.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/featured-plans1.png)
 
 ## How to mark ads as Featured
 
@@ -54,6 +50,10 @@ The goal here is to give more exposure to featured ads. By default featured ads 
 -   **Featured ads widget**: Create a Featured Ads Widget to show featured ads on Header, Sidebar or Footer.  [Here’s how to create a widget](Widgets-overview-of-widgets.md)
     
 -   **Sort by featured in the listing page**: Show the featured ads first in the listing page. Go to  **_Settings -> Advertisement -> Listing Options -> Sort by in Listing_**  and choose **Featured.**
+
+Note that the Featured Plans are available only for the Premium Users. When you ‘re ready to have a Premium Theme, go to our  [market](https://selfhosted.yclas.com/).
+
+*With our 2.4.0 release, we added the option to create featured plans for ads.*
     
 
   
