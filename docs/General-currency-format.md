@@ -228,7 +228,7 @@ If a currency you want to use is not listed below, feel free to contact our supp
     
 -   **Zimbabwe Dollar**  
     
--   **Default**  To use your chosen locale currency_  
+-   **Default**  (to use your chosen locale currency)  
     
 -   **Without currency sign**  
     
