@@ -6,7 +6,6 @@ Content:
 -   Spam
 -   Delete
 
-*This feature is available on our 2.5.0 release.*
 
 This new feature makes the communication between sellers and buyers regarding an ad much more easy. 
 
@@ -26,7 +25,7 @@ On advertisement’s page, click  **Send Message**. Then, a contact form will ap
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/message-system1.png)
 
-[![](https://raw.githubusercontent.com/yclas/guides/master/images/message-system2.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/message-system2.png)
 
 If your message has been sent, you will be able to see it on your  **Messages**.
 
@@ -43,9 +42,6 @@ To view and reply to this message, click on  **Messages**  and then on the messa
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/ms6.png)
 
 Enter your message and click  **Reply**.
-
-*Since our  2.5.1 release, new options have been added to the messaging system.*
-
 Now you can delete messages or mark them as spam.
 
 ### Spam
@@ -64,4 +60,7 @@ If a sender tries to contact you again, you won’t be notified but the new mess
 If you have a lot of old messages that you don’t want in your inbox, you can delete them. Open the message you want to delete and click “Delete”.
 You will see that the messages will no longer appear in your inbox.
  
-This is how Messaging System works on  [Yclas](https://yclas.com/)!
+This is how Messaging System works! 
+
+*This feature is available on our 2.5.0 release.*
+*Since our  2.5.1 release, new options have been added to the messaging system.*
