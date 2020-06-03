@@ -11,6 +11,6 @@ We weren’t in favor of adding this feature to the software, but after many req
 
 And you’re good to go!
 
-We found that the most convenient style for a theme with this feature is  **[Newspaper theme](https://selfhosted.yclas.com/themes/newspaper.html)**  check the demo  **[here](https://selfhosted.yclas.com/themes/demo/newspaper.html)**.
+We found that the most convenient style for a theme with this feature is the **[Newspaper theme](https://yclas.com/domain/demo/105540?theme=newspaper)**.  
 
 
