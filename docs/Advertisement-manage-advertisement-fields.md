@@ -21,5 +21,5 @@ This feature makes it possible for you to manage the fields in Ad forms when a u
 
 **Related posts:**
 
-[How to manage advertisements?](Classifieds-manage-advertisements.md)
-[How to change settings for Ads?](Advertisement-change-settings-for-ads.md)
+- [How to manage advertisements?](Classifieds-manage-advertisements.md)
+- [How to change settings for Ads?](Advertisement-change-settings-for-ads.md)
