@@ -7,11 +7,7 @@ Content:
 -   Sub-Domain per language
 -   Folder per language
 
-*This guide is only for Yclas Self-Hosted!*
-
-Yclas Self Hosted allows you to have more than 1 language active at the same time.
-
-This means that you can  **easily change the site translation**  to any language you have in the site. Then simply add links in your sidebar or header using our widgets or the menu generator to link languages.
+You can  **easily change the site translation**  to any language you have for your site. Then simply add links in your sidebar or header using our widgets or the menu generator to link languages.
 
 ## Languages Widget
 
@@ -103,6 +99,11 @@ If you don’t want to have many domains/sub domain and save some money maybe th
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/multilingual%20(1).png)
 
- Hope these suggestions will help you. 
+
+*This guide is only for Yclas Self-Hosted!*
+
+Yclas Self-hosted allows you to have more than 1 language active at the same time.
+
+We hope that these suggestions will help you. 
 
 Regards from Chema and Yclas team
