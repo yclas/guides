@@ -5,8 +5,6 @@ Content:
 -   Enable Disqus to your blog
 -   Create a New Blog Post
 
-*We included the possibility to  **have your own blog**  in your classifieds site in the  **2.1.x** Yclas version*
-
 This is a useful tool to share news with your users, post updates, notify about modifications and to give users' the option to ask & answer questions in the comments. 
 Moreover, there’s an RSS for the blog. It’s a simple blog system and you will enjoy the easy and straightforward way of publishing.
 
@@ -37,5 +35,7 @@ If you want to enable Disqus in the bottom of each blog post:
 Now in the header of your site there is the  **Blog Icon**. You can click this icon or go to your blog directly:  _yourdomain.com/blog/_  This way you’ll have listed all your Blog posts, paginated!
 
 The RSS of your Blog is ready as well!  _yourdomain.com/rss/blog.xml_
+
+*We included the option to  **have your own blog**  in your classifieds site in our **2.1.x** Yclas version*
 
 Enjoy!
