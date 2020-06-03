@@ -28,12 +28,10 @@
 4. Once connected he will be able to sell items on your site.
 
 ### Buying Process
-
 1. A user buys an item
 2. The Buyer goes to the checkout page and pays with Escrow
 3. The buyer is redirected to Escrow checkout to create an account or login with an existent account
 4. The buyer makes a payment
-
 5. The buyer can mark an order as **paid** if pays with wire transfer and Escrow has secured the payment
 6.  Now, the seller ships the item and marks the order as **shipped**
 7. Then, the buyer receives the item and marks the order as **received**
