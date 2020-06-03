@@ -16,8 +16,7 @@ This feature makes it possible for you to manage the fields in Ad forms when a u
 -   **Upload File:**  Displays the field File in the Contact form when someone contacts a user for an ad.
 -   **Number of Images:**  The maximum number of images a user can upload when publishing an ad.
 
-## Video
-<iframe width="800" height="450" src="https://www.youtube.com/embed/qOEqw1scauY" frameborder="0" allowfullscreen></iframe>
+
 
 
 **Related posts:**
