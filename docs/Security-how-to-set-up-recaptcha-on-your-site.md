@@ -19,17 +19,15 @@ If the program is still not satisfied or sure, of whether its user has a pulse; 
 
 # How does it work with Yclas?
 
-Yclas 2.3.0 version and those that come after have made it seemingly easy to integrate this service. With the code already built into the software, all our users have to do is get a reCAPTCHA Site Key and a reCAPTCHA Secret Key.
-
-**TIP**: Make sure that you log into Gmail or any other Google product, with the email account that you want to associate these keys with – before getting them.
+With the code already built into the software, all of our users have to get a reCAPTCHA Site Key and a reCAPTCHA Secret Key.
 
 You can get both from  [Google here for free](https://www.google.com/recaptcha)  when you register your site;Please use v2 of recaptcha keys.
-
+**TIP**: Make sure that you log into Gmail or any other Google product, with the email account that you want to associate these keys with – before getting them.
   
 
 # Add reCAPTCHA to your website
 
-So you’ve registered your site with Google and now you want to see it in action, just follow these simple instructions:
+So you’ve registered your site with Google and now you want to activate it, just follow these simple instructions:
 
 1.  Go to your  **website**.
 2.  Login to the  **Admin Panel**.
