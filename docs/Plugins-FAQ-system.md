@@ -14,5 +14,5 @@ With Yclas, it’s possible to create a  **Frequent Asked Questions system - FAQ
 
 *It’s really easy to activate and extremely useful, only applicable for 2.1.x versions*
 
-10. Enjoy!
+
 
