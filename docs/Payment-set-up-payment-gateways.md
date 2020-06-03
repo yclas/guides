@@ -104,11 +104,11 @@ Accept Bitcoins using Bitpay, you can  [register for free](https://bitpay.com/) 
 
 ----------
 
-### Paysbuy
+### Omise
 
-Register  [here!](https://paysbuy.com/)
+Free registration [here!](https://www.omise.co/
 
-**Paysbuy account:**  Enter your Paysbuy account email here.  **Sandbox:**  Enable this for testing mode
+**Omise account:**  Enter your Omise account email here. **Sandbox:**  Enable this for testing mode
 
 ----------
 
