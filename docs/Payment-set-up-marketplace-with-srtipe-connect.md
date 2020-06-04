@@ -1,6 +1,6 @@
 # Marketplace with Stripe Connect 
 
-With  [Stripe Connect](https://stripe.com/connect)  you will be able to charge your customers an application fee (percentage) based on the sale they made using your platform. You (site owner) and your customer (the publisher), will need a Stripe account.
+With  [Stripe Connect](https://stripe.com/connect)  you will be able to charge your customers an application fee (percentage) based on the sale they make by using your platform. You (site owner) and your customer (the publisher) will need a Stripe account.
 
 ### Example
 
