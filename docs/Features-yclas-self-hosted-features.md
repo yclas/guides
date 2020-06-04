@@ -1,30 +1,30 @@
 In this guide, you can find all the features that Yclas Self-hosted offers as well as descriptions on how they work. 
 
-- Open Source
+* [Open Source](Features-open-source.md)
 
--  Use your own server
+* [Use your own server](Features-use-your-own-server.md)
 
-- Basic marketplace management
+* [Basic marketplace management](Basic-market-management.md)
 
-- Support
+* [Support](Features-support.md)
 
 - 15 Pro templates.  [Demo](https://yclas.com/domain/demo?theme=olson)
 
-- 15 payment gateways
+* [15 payment gateways](Features-15-payment-gateways.md)
 
--  Stripe marketplace
+* [Stripe marketplace](Features-stripe-marketplace.md)
 
--  Escrow marketplace
+* [Escrow marketplace](Features-escrow-marketplace.md)
 
--  Memberships
+* [Memberships](Features-membership.md)
 
-- Social login
+* [Social login](Features-social-login.md)
 
-- Custom fields
+* [Custom fields](Features-custom-fields.md)
 
-- User custom fields
+* [User custom fields](User-custom-fields.md)
 
-- Stock control
+* [Stock control]()
 
 - Coupons
 
