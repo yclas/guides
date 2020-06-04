@@ -41,7 +41,7 @@
 
 ## About
 
-This is the official API Documentation for Yclas. With this API you will be able to extend the usage of your site, for example with native iOS and Android APPS. Only available for Yclas Self Hosted 2.5.0 or newer and all Yclas installations.
+This is the official API Documentation for Yclas. With this API you will be able to extend the usage of your site, for example with native iOS and Android APPS.
 
 Contact us if you are interested in purchasing the native mobile APPS  [here](https://yclas.com/contact).
 
@@ -728,3 +728,6 @@ Params
 -   id_message_parent (id of the thread)
 -   message
 -   price (optional)
+
+
+ **Only available for Yclas Self-hosted 2.5.0 or newer and all Yclas installations.**
