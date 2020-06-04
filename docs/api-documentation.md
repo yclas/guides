@@ -1,9 +1,6 @@
-
-Setting moderation: Allows you to change how to publish ads. You can read more here.
-
 # API Documentation for classifieds
 
-_Note: If you are using Yclas Self Hosted you need at least version 2.5.0 and a premium theme. It works on all sites hosted at Yclas.com_
+*Note: If you are using Yclas Self-hosted you need at least version 2.5.0 and a premium theme. It works on all sites hosted at Yclas.com*
 
 ----------
 
