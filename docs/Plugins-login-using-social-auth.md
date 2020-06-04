@@ -6,7 +6,7 @@ Content:
 -   How to enable Open ID (yahoo) login
 -   How to enable Yahoo login
 -   How to enable Twitter login
--  [Other social login
+-   Other social login
 
 
 ## How to enable Google login
