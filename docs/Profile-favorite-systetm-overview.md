@@ -1,6 +1,7 @@
-# How Favorites System Works (2.2.0 feature) ❤️
+# How favorites system works  ❤️
 
-A new option for your users  available now! Your users can mark and save their favorite ads. 
+With this feature users can mark and save their favorite ads. 
+
 This feature offers a better user-experience and I personally find it very useful when browsing through a classified website because it narrows down my search later on.
 
 To  **add an advertisement to your favorites**, open an ad and press the heart shaped button as shown below.
@@ -15,3 +16,4 @@ After this step, all of the chosen advertisements can be found by clicking the d
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/favorites1.png)
   
+*This feature is available for Yclas 2.2.0 version*
