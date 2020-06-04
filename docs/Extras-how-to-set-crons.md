@@ -3,8 +3,6 @@ Content:
 -   How to set up your cron
 -   How to edit or add New Crontab
 
-*This guide is only for Yclas Self-Hosted!*
-
 Cron is a program that enables users to execute commands automatically at a specific time. On Yclas ii is usually used for generating the website's sitemap.
 
 ## How to set up your cron
@@ -41,3 +39,7 @@ If you want to  **add a New Crontab**, click  **New**  on  **Tools**  ->  **Cron
 -   **Output:**  The message returns.
 -   **Running:**  Checked if crontab is running.
 -   **Active:**  Checked if crontab is active.
+
+
+
+*This guide is only for Yclas Self-hosted!*
