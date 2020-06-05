@@ -7,7 +7,6 @@ Content:
 -   Sub-Domain per language
 -   Folder per language
 
-*This guide is only for Yclas Self-hosted!*
 
 Yclas Self-hosted allows you to have more than 1 language active at the same time.
 
@@ -61,3 +60,6 @@ This is probably the best option, imagine you have: MyDomain.com, and you want t
 -   You need different domain names (money expenses)
 -   Separate administration of the site, software updates and moderation
 -   Probably more expenses on hosting
+
+
+*This guide is only for Yclas Self-hosted!*
