@@ -12,7 +12,7 @@ Content:
 
 ### Prerequisites
 
-1.  Activate **Auto locate visitors** (To enable this feature  you need to login to your admin panel, go to  **Settings -> Plugins**, find and enable  **Auto Locate Visitors**  and click  **Save**.)
+1.  Activate **Auto locate visitors** (To enable this feature  you need to login to your admin panel, go to  Settings -> Plugins, find and enable  Auto Locate Visitors  and click  Save.
 2. 
 3.  Your site locations must have Latitude and Longitude.
 4.  Ads need to have Address.
