@@ -1,7 +1,5 @@
 # Error troubleshooting - Wow this seems to be an error...
 
-*This guide is only for Yclas Self-hosted!*
-
 **Have you seen this page?**
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/1.png)
@@ -33,3 +31,7 @@ Here are the error logs that happened in the application and a bit of explanatio
 In your  **cPanel**  it’s located at  **Home**  >  **Logs**  >  **Error Log.**  If you are the admin of your server, you can type:
 
 `sudo tail -f /var/log/apache2/error.log`  or something similar to see all the errors
+
+
+*This guide is only for Yclas Self-hosted!*
+
