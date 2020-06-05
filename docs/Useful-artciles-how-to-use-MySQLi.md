@@ -1,7 +1,5 @@
 # How to use MySQLi?
 
-*This guide is only for Yclas Self-hosted!*
-
 **[MySQLi](https://en.wikipedia.org/wiki/MySQLi)  is an improved driver to connect to MySQL databases**. Unfortunately, not many software solutions out there take advantage it But we at Yclas do! 
 
 The  **MySQLi extension provides various benefits**  with respect to its predecessor, the most prominent of which (according to the PHP website), are:
@@ -29,5 +27,6 @@ If you updated at least to 2.1.4 you can start using this new driver. It’s rec
 
 As you can see it’s pretty simple and absolutely transparent to all of you.
 
+*This guide is only for Yclas Self-hosted!*
   
 PS: Thanks to it [Kohana module](https://github.com/Azuka/Kohana-Database-MySQLi) was done easily.
