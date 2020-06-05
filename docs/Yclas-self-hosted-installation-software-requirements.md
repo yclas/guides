@@ -1,6 +1,6 @@
 # Requirements
 There are a few requriements before proceeding! 
-Make sure to go though them before trying to install Yclas Self-Hosted.
+Make sure to go though them before trying to install Yclas Self-hosted.
 
 **Main requirements**
 
