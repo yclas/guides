@@ -1,6 +1,5 @@
 # How to change folder permissions
 
-*This guide is only for Yclas Self-hosted!*
 
 Yclas Self Hosted requires some folders to be writable.
 
@@ -27,3 +26,5 @@ Clean your cache if there’s an error:
 ```
 sudo rm -f /var/www/yclas/oc/cache
 ```
+
+*This guide is only for Yclas Self-hosted!*
