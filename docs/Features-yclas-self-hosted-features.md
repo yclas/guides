@@ -8,7 +8,7 @@ In this guide, you can find a list with the exclusive features that Yclas Self-h
 
 * [Support](Features-support.md)
 
-- 15 Pro templates.  [Demo](https://yclas.com/domain/demo?theme=olson)
+- [15 Pro templates](Features-15-pro-templates.%20md).  [Demo](https://yclas.com/domain/demo?theme=olson)
 
 * [15 payment gateways](Features-15-payment-gateways.md)
 
