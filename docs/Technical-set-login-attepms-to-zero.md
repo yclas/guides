@@ -1,9 +1,8 @@
 
 # How to set login attempts to 0
 
-*This guide is only for Yclas Self-hosted!*
 
-Sometimes you either forget or mistype your password. Almost all of the web services that require a login have a specified number of consecutive invalid login attempts allowed. After that number of attempts, you are restricted from further login attempts for a certain time period.
+Sometimes you either forget or mistype your password. Almost all of the web services that require a login have a specified number of consecutive invalid login attempts allowed. After that, you are restricted from further login attempts for a certain time period.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/error.png)
 
@@ -23,8 +22,9 @@ If you have access to phpmyadmin, there is nothing to worry about!  **Follow the
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/loginattempts.png)
 
-Now will be are able to login into your website!
+Now you will be are able to login into your website!
 
+*This guide is only for Yclas Self-hosted!*
   
 **Related posts:**
 
