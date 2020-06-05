@@ -2,33 +2,28 @@
 
 Content:
 
--   [What is installed](https://docs.yclas.com/docker-image/#what-is-installed)
--   [Instructions](https://docs.yclas.com/docker-image/#instructions)
+-   What is installed
+-   Instructions
 
 The following guide describes how you can use a docker image to install Yclas Self Hosted.
 
 ### What is installed
 
 -   Official Ubuntu Server 14.04 LTS (Trusty Tahr) builds
-    
 -   Apache2
-    
--   PHP 7
+    -   PHP 7
     -   cURL
     -   GD
     -   mysqli
     -   mcrypt
     -   apcu
 -   MySQL 5.5
-    
 -   phpmyadmin
-    
 -   Installation file for the latest Yclas Self Hosted
 
 ### Instructions
 
 1.  Install  [Docker](https://docs.docker.com/installation/)
-    
 2.  Clone this repo:
     
     ```
