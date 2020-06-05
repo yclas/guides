@@ -1,4 +1,4 @@
-## How to install Yclas Self-Hosted on Digital Ocean, VULTR or Linode
+## How to install Yclas Self-hosted on Digital Ocean, VULTR or Linode
 
 Content:
 -   Creating the image / installing server
@@ -8,7 +8,7 @@ Content:
 
 ***Introduction***
 
-Let’s start by  creating the image / installing server
+Let’s start by creating the image / installing server
 
 In this guide we will teach you how to install Yclas Self Hosted in a VPS. We will be covering, [Digital Ocean](https://www.digitalocean.com/?refcode=ebff5f6941b0), [VULTR](https://www.vultr.com/?ref=6814237) and [Linode](https://www.linode.com/). Here are some requirements that you have to cover before proceeding:
 
