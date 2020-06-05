@@ -34,7 +34,7 @@ Research where potential users might be spending time and create a profile there
 
 ### How Yclas helps you with this:
 
-Our classifieds software offers a variety of tools that you can use to get yourself out there without much effort. I would like to mention an important feature - the  [share widget](Widgets-share-widget.md). This widget  **must**  be on your site, it is really essential. For a full list of features what Yclas can offer, you can check our  **[classified ads script features](https://yclas.com/features.html)**
+Our classifieds software offers a variety of tools that you can use to get yourself out there without much effort. I would like to mention an important feature - the  [share widget](Widgets-share-widget.md). This widget  **must**  be on your site, it is really essential. For a full list of features what Yclas can offer, you can check our  [classified ads script features](https://yclas.com/features.html)
 
 Those are only some ways you may find useful to help you increase traffic and promote a your classifieds website, but I would like to hear your thoughts about this! Post your opinion, give an idea or a creative suggestion in the comment section below.
 
