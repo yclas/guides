@@ -20,3 +20,6 @@ Let us know what guide do you want next and we will create it for you and includ
 
 Regards,
 Yclas team
+
+
+*This guide is only for Yclas Self-hosted!*
