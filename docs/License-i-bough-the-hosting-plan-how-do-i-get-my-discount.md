@@ -1,6 +1,5 @@
 # I bought the hosting plan, how do I get my discount?
 
-*This guide is only for Yclas Self-hosted!*
 
   
 We referred to this in many areas at our site, that if you  **[purchase a web hosting](https://yclas.com/self-hosted.html)**  from our  [referral link](https://yclas.com/hosting-pro), you are entitled to a PRO license no support.
@@ -21,3 +20,4 @@ Once you send us the information, we will provide you with the discount and guid
 
 Want to know more about our  **hosting offer**?  [click here now](https://yclas.com/self-hosted.html)
 
+*This guide is only for Yclas Self-hosted!*
