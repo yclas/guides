@@ -7,9 +7,8 @@ Content:
 -   Styles
 -   JavaScript
 
-*This guide is only for Yclas Self-hosted!*
 
-This guide is written to help you understand how to  **manage your way around our themes**,  **modify a theme**  and, perhaps,  **create your own theme.**  In the following sections we explained theme architecture, HTML structure, file linking, styles and javascript.
+This guide is written to help you understand how to  **manage your way around our themes**,  **modify a theme**  and, perhaps,  **create your own theme.**  In the following sections we explaine theme architecture, HTML structure, file linking, styles and javascript.
 
 *This guide requires a bit of technical knowledge.*
 
@@ -166,3 +165,6 @@ Best regards,
 Yclas team
 
 Second part of this guide [here](Technical-modify-or-create-a-theme.md)
+
+
+*This guide is only for Yclas Self-hosted!*
