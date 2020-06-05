@@ -3,17 +3,11 @@
 
 Content:
 -   Why use child themes in a classifieds script
--   How to use child themes
-
-*This guide is only for Yclas Self-hosted!*
-
-
-
-  
+-   How to use child themes 
 
 **Note: This guide is for advanced users**
 
-When creating a classifieds website you may want to apply a couple of changes to the design, which is why we added child themes to our classified script. This means you can make these changes using the same Yclas license you have for your premium theme.
+When creating a classifieds website you may want to apply a couple of changes to the design, which is why we added child themes to our classified script. With them you can add changes using the Yclas license you already have for your premium theme.
 
 Child themes enable you to create a theme that takes all the files from your premium theme except for the files that you modified. 
 For example, you modified your homepage and changed the background color of your child theme, then the child theme will take all the other files from the parent theme. This way, whenever there is a new update to your child theme, it will take all the updated files from the parent theme when it’s updated, except for the files that you modified.
@@ -55,6 +49,5 @@ There are a couple of reasons why you should use child themes when applying modi
 Theme::$parent_theme = 'kamaleon';
 
 ```
-
   
 Note that child themes only work with the PRO version because they use the same license , if you don’t have a PRO license yet get it now  **[here](https://yclas.com/self-hosted.html)**
