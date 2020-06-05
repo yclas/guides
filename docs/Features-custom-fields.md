@@ -1,6 +1,6 @@
 # Custom fields
 
-Read this [guide](Custom-fields.md) that has all of the infromation regarding custom fields. There are  **3 types of fields**  that can be added to your advertisements. 
+This features offers **3 types of fields**  that can be added to your advertisements. 
 
 1.  **Standard**: mandatory and not changeable. It includes:
 *title,* *category* and *description*
@@ -11,3 +11,5 @@ Read this [guide](Custom-fields.md) that has all of the infromation regarding cu
 3.  **Custom:**  Fully customizable.
 
 *You can have up to 65 custom fields on your website!*
+
+*Note: This feature is available only with Yclas **Self-hosted Pro**.*
