@@ -1,7 +1,5 @@
 # Troubleshooting license error of child theme activation
 
-This guide is only for Yclas Self Hosted!
-
 One common error that users face is related to the license of their child theme. If you are trying to activate your child theme but you are getting an error indicating that your license number is already in use, then you need to  **follow the instructions below**:
 
 1.  **Backup**  your website  **files and database**.
@@ -11,6 +9,8 @@ One common error that users face is related to the license of their child theme.
 5.  Login into your admin panel and activate your theme! 
 
   
+This guide is only for Yclas Self Hosted!
+
 
 If you still have any questions and need some help to activate your child theme, please use our  [professional support](https://selfhosted.yclas.com/support/)!
 
