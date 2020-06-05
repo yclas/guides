@@ -21,7 +21,7 @@ One of the major reasons for using our free classifieds script is that Yclas all
 
 ## Custom Fields
 
-Yclas already has fields to enter general details of the businesses/services including name, email and phone no. **_Update_** [Custom fields](Custom-fields-create-custom-fields.md) are now available with our  [premium themes](https://selfhosted.yclas.com/), ready for you to customize according to your preferences.
+Yclas already has fields to enter general details of the businesses/services including name, email and phone number.
 
 ## Unlimited Categories
 
@@ -35,3 +35,5 @@ We understand that there are countless businesses that can be listed in a busine
 -   Adsense and other CPC/CPM ready
 -   Premium and refreshing themes
 -   Professional support to give your website a completely different interface and feel.
+
+**_Update_** [Custom fields](Custom-fields-create-custom-fields.md) are now available with our  [premium themes](https://selfhosted.yclas.com/), ready for you to customize according to your preferences.
