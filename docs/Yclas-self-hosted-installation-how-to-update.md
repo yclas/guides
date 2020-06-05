@@ -2,7 +2,7 @@
 
 Your website should be always up-to-date! :)
 
-You can find a guid for an **Automatic update** or **Manual update** below. We offer an **update service** as well!
+You can find a guide for an **Automatic update** or **Manual update** below. We offer an **update service** as well!
 
 Follow these simple steps and update to the newest version available. 
 
@@ -10,10 +10,10 @@ Follow these simple steps and update to the newest version available.
 
  
 
- - The 3.1.0 version requires **PHP 7.x** as minimal version. 
- - Make sure that you have a **PHP 7** before updating. You can ask  your hosting provider for it. This is necessary because you need to have a decent updated version of **PHP** installed for your hosting.
+ - The 3.1.0 version requires **PHP 7.x** as a minimal version. 
+ - Make sure that you have a **PHP 7** before updating. You can ask your hosting provider for it. This is necessary because you need to have a decent updated version of **PHP** installed for your hosting.
 
-We don't take fault for fail updates and we can't assist you in fixing any occuring issues during that time. If you are not certain how to do the updates we offer an [update service](https://selfhosted.yclas.com/support/installation-or-update.html) for $150 if you have a version 2.x or latest. Please, contact us before getting the update service, [contact us](https://yclas.com/contact/).
+
 
 
 ### Automatic Update
@@ -57,3 +57,5 @@ You just have to follow the normal automatic update steps listed below:
 10. If you have a premium theme, download it from the market and reupload it from there.  
 
 11.  **That's all!**
+
+Note: We don't take fault for fail updates and we can't assist you in fixing any occurring issues during that time. If you are not certain how to do the updates we offer an [update service](https://selfhosted.yclas.com/support/installation-or-update.html) for $150 if you have a version 2.x or latest. Please, contact us before getting the update service, [contact us](https://yclas.com/contact/).
