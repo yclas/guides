@@ -1,6 +1,5 @@
-# Converting Tables from MyISAM to InnoDB
+# Converting tables from MyISAM to InnoDB
 
-*This guide is only for Yclas Self-hosted!*
 
 MyISAM will be deprecated in future versions of MySQL and you may need to convert tables from MyISAM to InnoDB if you are running a version of Yclas self-hosted below 3.0.
 
@@ -32,3 +31,4 @@ ALTER TABLE oc2_content CHANGE description description MEDIUMTEXT;
 ALTER TABLE oc2_plans CHANGE description description MEDIUMTEXT;
 ALTER TABLE oc2_posts CHANGE description description MEDIUMTEXT;
 ```
+*This guide is only for Yclas Self-hosted!*
