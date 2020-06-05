@@ -12,7 +12,7 @@ If your hosting provider doesn’t support Softaculous don’t worry! **Scroll d
 
   Start by accessing Softaculous in your Panel and then choose the Yclas Self-Hosted in Ads management. Click on the Installation button.
 
-[Video guide](https://www.youtube.com/watch?v=EjNjkUEJS08) 
+ 
 
 
 ## **1 file installation**
