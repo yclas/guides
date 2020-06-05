@@ -24,26 +24,26 @@ In this guide, you can find all the features that Yclas Self-hosted offers as we
 
 * [User custom fields](User-custom-fields.md)
 
-* [Stock control]()
+* [Stock control](Features-stock-control.md)
 
-- Coupons
+* [Coupons](Features-coupons.md)
 
-- Reviews
+* [Reviews](Features-reviews.md)
 
-- Geo-locate users
+* [Geo-locate users](Features-geo-locate-users.md)
 
--  Advanced newsletter
+* [Advanced newsletter](Features-advanced-newsletter.md)
 
-- Interactive map
+* [Interactive map](Features-interactive-map.md)
 
-- Import tools
+* [Import tools](Features-import-tool.md)
 
-- Live translation
+* [Live translation](Features-live-translation.md)
 
--  Forum
+* [Forum](Features-forum.md)
 
-- FAQ
+* [FAQ](Features--FAQ.md)
 
-- API enabled
+* [API enabled](Features-api-enabled.md)
 
-- Any new theme developed
+* [Any new theme developed](Features-any-new-theme-developed.md)
