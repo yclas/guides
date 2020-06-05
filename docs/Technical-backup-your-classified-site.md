@@ -9,11 +9,8 @@ Content:
 -   cPanel Backups
 -   Plesk Backups
 
-*This guide is only for Yclas Self-hosted!*
 
-
-  
-**UPDATE:  [Automatic daily backups](Technical-automatic-daily-backup.md)
+ **UPDATE:  [Automatic daily backups](Technical-automatic-daily-backup.md)
 
 
 **This is a bit advanced “How To”**
@@ -73,7 +70,7 @@ mysql -u USER -pPASSWORD DATABASENAME > file_name.sql
 
 ## Restoring Backup
 
-It really depends on the way you have backed up your data. If it was done from the panel of you hosting, check with them on how to restore it.
+It really depends on the way you have backed up your data. If it was done in the panel of you hosting, check with them on how to restore it.
 
 NOTE: Be sure you have a functional backup before restoring!
 
@@ -123,3 +120,5 @@ mysql -u USER -pPASSWORD DATABASENAME < file_name.sql
 ## Plesk Backups
 
 [![How Do I Backup my Website Using Plesk Control Panel?](https://img.youtube.com/vi/2FKQY1Lmyuk/0.jpg)](https://www.youtube.com/watch?v=2FKQY1Lmyuk)
+
+This guide is only for Yclas Self-hosted!
