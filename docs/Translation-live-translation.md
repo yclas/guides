@@ -1,7 +1,5 @@
 # Live Translations
 
-*This feature is available with our 2.9.0 release and for all of the sites hosted at  [Yclas.com](https://yclas.com/).*
-
 This feature makes it easier for you to translate or modify your website!
 
 To  **enable this feature and translate the website**, follow the steps below:
@@ -17,6 +15,7 @@ To  **enable this feature and translate the website**, follow the steps below:
 
 ![live translator](https://cloud.githubusercontent.com/assets/7003648/16676480/0c0d1272-4490-11e6-8adb-01adef17c505.gif)
 
+  *This feature is available with our 2.9.0 release and for all of the sites hosted at  [Yclas.com](https://yclas.com/).*
   
 **Related guides:**
 
