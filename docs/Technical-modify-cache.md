@@ -8,7 +8,6 @@ Content:
 -   Enable real time
 -   Use other cache
 
-*This guide is only for Yclas Self-hosted!*
 
 ***Before you read:**  This post is a bit more technical, but I will try to keep it as simple as possible.*
 
@@ -57,4 +56,7 @@ If your hosting has APC cache, just replace the previous line with:  `'default' 
 This will work immediately and you will see that everything is faster. APC works in the memory of the server, which makes it lightning fast!
 
 If you need to check other configurations like memcache, please check this guide of  [Kohana](http://kohanaframework.org/3.2/guide/api/Cache).
+
+
+*This guide is only for Yclas Self-hosted!*
 
