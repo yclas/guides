@@ -4,7 +4,6 @@ Content:
 -   Should I use WWW. for my site?
 -   How to do it
 
-*This guide is only for Yclas Self-hosted!*
 
 Users have asked us many times this question - *'How to redirect my website from **www** to **non www.** ? '*
 
@@ -48,3 +47,6 @@ RewriteRule ^(.)$ http://%1/$1 [R=301,L]
 ```
 
 Save your changes and check your site. Try different www and non-www combinations of your domain to see if the redirect is working as expected.
+
+
+*This guide is only for Yclas Self-hosted!*
