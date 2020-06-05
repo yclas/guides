@@ -7,8 +7,6 @@ Content:
     -   Go to your website’s panel to make necessary system changes]
     -   Force a redirect from HTTP to HTTPS]
 
-*This guide is only for Yclas Self-hosted!*
-
 
 In this guide, we will show you how to enable HTTPS on your classifieds site with ease.
 
@@ -80,5 +78,6 @@ Depending on the type of SSL certificate you installed earlier, your website sho
 
 If errors are being displayed by your website, make sure that you retrace your steps; so that the troubleshooting process is easier.
 
-Thank you for reading this guide and make sure that you subscribe to our blog for more useful posts.
 
+
+*This guide is only for Yclas Self-hosted!*
