@@ -6,9 +6,9 @@ Content:
 -   Install Yclas Self Hosted and use your premium theme
 
 
-If you want to develop your theme on local, you can do it by using reoc.lo as hostname. By doing it like this, you will not require an extra license to develop your theme locally.
+If you want to develop your theme on local, you can do it by using reoc.lo as a hostname. By doing that, you will not be required an extra license to develop your theme locally.
 
-*This guide provides the information you need to do this!*
+*This guide provides the information that you need in order to do this!*
 
 ## Requirements
 
