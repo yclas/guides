@@ -1,4 +1,4 @@
-In this guide, you can find all the features that Yclas Self-hosted offers as well as descriptions on how they work. 
+In this guide, you can find a list with the exclusive features that Yclas Self-hosted Lite and Yclas Self-hosted Pro offer.
 
 * [Open Source](Features-open-source.md)
 
