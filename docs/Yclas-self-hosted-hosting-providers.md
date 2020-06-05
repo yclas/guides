@@ -29,6 +29,6 @@ RECOMMENDED
 16.  factoriadigital
 17.  1and1
 
-We recommend   **Hostpapa**  for US or Europe ,  **inmotion**  if you’re in the US and  **A2 hosting**  if you’re in Europe, Middle-east and North Africa all have good 24/7 tech support.
+We recommend   **Hostpapa**  for US or Europe ,  **inmotion**  if you’re in the US and  **A2 hosting**  if you’re in Europe, Middle-east and North Africa as all of them have great 24/7 tech support available.
 
 If you didn’t find your web hosting then make sure it’s compatible with Yclas by checking the  [software requirements](Yclas-self-hosted-installation-software-requirements.md).
