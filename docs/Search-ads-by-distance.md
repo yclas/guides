@@ -33,10 +33,10 @@ If you want to use this feature, you need to enable the following two features:
 **Auto locate visitors** is a feature you can use to bring your visitors more relevant information or save them time while searching for ads. When this option is enabled the visitor’s browser will ask them if they want to share their location. 
 
 *How to enable auto locate user?*
- - Go to your **Admin panel** **->** **Settings -> Plugins**, then find and enable  **Auto Locate Visitors**  and click  **Save**.
- - You need to have a **SSL certificate** installed for your website if you want to use this option. 
- - If you need to get a SSL certificate for your website, please follow [this
-   guide](https://yclas.com/faq/ssl-encryption.htm).
- - If your website is NOT hosted on yclas.com, then you need to follow [this guide](http://guides.yclas.com/#/Technical-http-to-https).
-
+1. Go to your **Admin panel** **->** **Settings -> Plugins**, then find
+    and enable  **Auto Locate Visitors**  and click  **Save**.
+2. You need to have a **SSL certificate** installed for your website if you want to use this option. 
+     - If you need to get a newSSL certificate for your website, please follow [this    guide](https://yclas.com/faq/ssl-encryption.htm).
+     - If your website is NOT hosted on yclas.com, then you need to follow [this
+    guide](http://guides.yclas.com/#/Technical-http-to-https).
 After enabling the **Brows ads by distance** feature visitors can browse your website and sort the ads by distance.
