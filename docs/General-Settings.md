@@ -12,7 +12,7 @@ Good luck! [  ](https://emojipedia.org/four-leaf-clover/)🍀
    - By activating the maintenance mode you can make changes on your website while it's not visible for any visitors.
  
  * [Bots & Crawlers](General-Allow-or-Disallow-Bots-and-Crawlers.md)
-   - By allowing bots and crawlersm, search engines can collect at all sorts of data such as content, links on a page, broken links, sitemaps, and HTML code validation from your website. Yclas allows you to prevent those bots from accessing your classifieds website or give them back their access with a single switch.
+   - Prevent bots from accessing your website's content or give them back their access with a single switch.
   
  * [Change your site name and description](General-change-your-name-site-description.md)
   
