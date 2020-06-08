@@ -7,7 +7,7 @@
 3.  Click  **SAVE**.
 
 
--   **Google Maps API Key**:  [Get your API Key](https://docs.yclas.com/how-to-configure-Google-Map-Settings/#get-your-api-key).
+-   **Google Maps API Key** (step-by-step below ⤵️)
 -   **Google map style**: Custom Google Maps styling.
 -   **Google map zoom level**: Google map default zoom level. It will be applied on the map in the Publish New page and Ad page.
 -   **Map latitude coordinates**: Google map default latitude coordinates. It affects the map in the Publish New page.
