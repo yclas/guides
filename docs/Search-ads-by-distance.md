@@ -39,4 +39,5 @@ If you want to use this feature, you need to enable the following two features:
      - If you need to get a newSSL certificate for your website, please follow [this    guide](https://yclas.com/faq/ssl-encryption.htm).
      - If your website is NOT hosted on yclas.com, then you need to follow [this
     guide](http://guides.yclas.com/#/Technical-http-to-https).
+
 After enabling the **Brows ads by distance** feature visitors can browse your website and sort the ads by distance.
