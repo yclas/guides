@@ -1,4 +1,4 @@
-# How do roles work with our classified ads script?
+# How do user roles work with our classified ads script?
 
 At some stage after the development of your classifieds website, you will need to  **delegate other people to do some work**  for you, from translation and content creation to moderation and website administration.
 
