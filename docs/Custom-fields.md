@@ -1,14 +1,18 @@
 # Custom fields
-* [Create custome fields ](Custom-fields-create-custom-fields.md)
-* [Integrated custome fields into selected categories](Custom-fields-how-to-integrate-your-custom-field-into-selected-categories.md)
-* [EU VAT](Custom-fields-eu-vat.md)
-* [Publish an add with a different contact email](Custom-field-publish-an-add-with-different-contact-email.md)
-* [PayPal email for sellers](Custom-fields-PayPal-email-for-users.md)
-* [Shipping custom field](Custom-fields-how-to-use-shipping-custom-field.md)
-* [Sell digital goods](Custom-fields-sell-digital-goods.md)
-* [Sell event tickets online](Custom-fields-sell-event-tickets-online.md)
-* [Buyer instructions](Custom-fields-buyer-instructions.md)
-* [Publisher to enable/disable comments](Custom-fields-publisher-to-enable-disable-comments.md)
-* [Choose currency on ads](Custom-fields-choose-currency.md)
-* [Vehicle Data](Custom-fields-vehicle-data.md)
-* [Bitcoin wallet address ](Custom-fields-bitcoin-wallet-address.md)
+
+*   [Create custome fields](Custom-fields-create-custom-fields.md)
+
+sdfd
+
+*   [Integrated custome fields into selected categories](Custom-fields-how-to-integrate-your-custom-field-into-selected-categories.md)
+*   [EU VAT](Custom-fields-eu-vat.md)
+*   [Publish an add with a different contact email](Custom-field-publish-an-add-with-different-contact-email.md)
+*   [PayPal email for sellers](Custom-fields-PayPal-email-for-users.md)
+*   [Shipping custom field](Custom-fields-how-to-use-shipping-custom-field.md)
+*   [Sell digital goods](Custom-fields-sell-digital-goods.md)
+*   [Sell event tickets online](Custom-fields-sell-event-tickets-online.md)
+*   [Buyer instructions](Custom-fields-buyer-instructions.md)
+*   [Publisher to enable/disable comments](Custom-fields-publisher-to-enable-disable-comments.md)
+*   [Choose currency on ads](Custom-fields-choose-currency.md)
+*   [Vehicle Data](Custom-fields-vehicle-data.md)
+*   [Bitcoin wallet address](Custom-fields-bitcoin-wallet-address.md)
