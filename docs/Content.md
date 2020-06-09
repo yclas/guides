@@ -5,4 +5,4 @@ here you'll find all of the guides on Content configuration for our website. Enj
 * [Automatic emails sent to users ](Content-automatic-emails-sent-to-users.md)
 * [Send a Newsletter](Content-send-a-newsletter.md)
 * [CSM Images](Content-CSM-images.md)
-* [Add an Interactive Map]()
+* [Add an Interactive Map](Content-create-an-interactive-map.md)
