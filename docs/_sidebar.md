@@ -13,6 +13,7 @@
 * [Multilingual Classifieds](Multilingual.md)
 * [Security](Security.md)
 * [Advertisement](Advertisement.md)
+   - [Search ads by distance](Search-ads-by-distance.md)
 * [Publish options](Publish-options.md)
 * [Payment](Payment.md)
 * [Email settings](Email-settings.md)
