@@ -2,11 +2,11 @@
 
 *   [Create custome fields](Custom-fields-create-custom-fields.md)
 
-      -  Learn how to create the **3 main types of fields** that can be added to advertisements.
+      -  Learn how to create the 3 main types of fields that can be added to advertisements.
 
 *   [Integrated custome fields into selected categories](Custom-fields-how-to-integrate-your-custom-field-into-selected-categories.md)
 
-       - With this feature, you can **make any custom field apply to any category you select**. 
+       - With this feature, you can make any custom field apply to any category you select. 
 
 *   [EU VAT](Custom-fields-eu-vat.md)
 
