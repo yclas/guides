@@ -9,4 +9,4 @@ In this guide, you can learn how to add and import locations, how to add interac
   - Learn how to add a map with the locations of ads and users in distance. 
  
  * [Browse ads by distance](https://github.com/yclas/guides/blob/master/docs/Search-ads-by-distance.md)
-  - This feature allows your users to search for products based on their distance
+  - This feature allows your users to search for products based on distance.
