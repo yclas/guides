@@ -61,7 +61,7 @@ This is a list with everything that you can find on our documentation and guides
 
 [**Plugins**](Plugins.md)
 
-[**Translation**](Translation.md)
+[**Translation**](Translations.md)
 
 [**Media Settings**](Media-settings.md)
 
