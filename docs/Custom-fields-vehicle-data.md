@@ -10,7 +10,7 @@ Content:
 
 Vehicle Data can be used in a car dealer website, a marketplace or any classifieds website where people can buy and sell cars. 
 
-This is a new and important feature because it lets the owners of the websites and their users to list and search for vehicles without having to maintain and update the vehicle information (**_year_,  _model_  and brand**).  Also, new cars and models will be automatically available.
+This is a new and important feature because it lets the owners of the websites and their users to list and search for vehicles without having to maintain and update the vehicle information (**_year_,  _model_  and make**).  Also, new cars and models will be automatically available.
 
 ## Quick configuration
 
@@ -41,7 +41,7 @@ Tip: Name the custom field: **year**
 5.  Press  **Create**
 
 
-**Make**
+Tip: Name the custom field: **make**
 
 1.  Go to  **Classifieds -> Custom Fields**
 2.  Press  **New Field**
@@ -50,7 +50,7 @@ Tip: Name the custom field: **year**
 5.  Press  **Create**
 
 
-**Model**
+Tip: Name the custom field: **model**
 
 1.  Go to  **Classifieds -> Custom Fields**
 2.  Press  **New Field**
