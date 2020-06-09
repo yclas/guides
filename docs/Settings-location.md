@@ -1,4 +1,4 @@
-# Location
+# Locations
 
 In this guide, you can learn how to add and import locations, how to add interactive maps, how to auto locate visitors and sort ads by distance on your website.
 
