@@ -10,7 +10,7 @@ Content:
 
 Vehicle Data can be used in a car dealer website, a marketplace or any classifieds website where people can buy and sell cars. 
 
-This is a new and important feature because it lets the owners of the websites and their users to list and search for vehicles without having to maintain and update the vehicle information (**_year_,  _model_  and  _make_**).  Also, new cars and models will be automatically available.
+This is a new and important feature because it lets the owners of the websites and their users to list and search for vehicles without having to maintain and update the vehicle information (**_year_,  _model_  and brand**).  Also, new cars and models will be automatically available.
 
 ## Quick configuration
 
