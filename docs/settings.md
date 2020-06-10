@@ -52,7 +52,7 @@ Learn how to assign different roles to your users, from translation and content 
 
 - [**Transactional emails**](Payment-pay-directly-from-the-ad-option.md)
 
- - **Newsletters**
+- **Newsletters**
 
   Learn how to create newsletters for your users.
 
