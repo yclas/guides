@@ -28,7 +28,7 @@
    - [Search ads by distance](Search-ads-by-distance.md)
 
 - [Publish options](Publish-options.md)
-- [Payment](Payment.md)
+- [Payments](Payment.md)
 - [Plugins](Plugins.md)
 - [Translations](Translations.md)
 - [Users](Users.md)
