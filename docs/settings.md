@@ -26,11 +26,11 @@
 
 - [**Categories**](Settings-categories.md)
 
- Learn how to add new categories, how to manage already existing ones and how to configure a category widget
+  Learn how to add new categories, how to manage already existing ones and how to configure a category widget
 
 - [**Locations**](Settings-location.md)
 
- Learn how to add and import locations, how to add interactive maps, how to auto locate visitors and sort ads by distance on your website.
+  Learn how to add and import locations, how to add interactive maps, how to auto locate visitors and sort ads by distance on your   website.
 
 - [**Custom fields**](Custom-fields.md)
 
@@ -42,8 +42,7 @@
 
 - [**User roles**](Users-how-do-roles-work.md)
 
-  
-  Learn how to assign different roles to your users, from translation and content creation to moderation and website administration.
+   Learn how to assign different roles to your users, from translation and content creation to moderation and website administration.
 
 - **Updates**
  
@@ -55,7 +54,7 @@
 
 - [**Transactional emails**](Payment-pay-directly-from-the-ad-option.md)
 
-- **Newsletters**
+- [**Newsletters**]
 
   Learn how to create newsletters for your users.
 
