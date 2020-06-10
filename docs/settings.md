@@ -28,7 +28,7 @@
 
  Learn how to add new categories, how to manage already existing ones and how to configure a category widget
 
-- [**Locations**](Settings-locations.md)
+- [**Locations**](Settings-location.md)
 
  Learn how to add and import locations, how to add interactive maps, how to auto locate visitors and sort ads by distance on your website.
 
