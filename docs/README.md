@@ -86,6 +86,7 @@ This is a list with everything that you can find on our documentation and guides
 
 [**Profile**](Profile.md)
 - All available profile features.
+
 [**API documentation**](api-documentation.md)
 
 [**Useful articles**](Useful-articles.md)
