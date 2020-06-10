@@ -46,15 +46,15 @@
 
 - **Updates**
  
- Any new updates in real time.
+  Any new updates in real time.
 
 - [**Coupons**](Classifieds-coupon-system.md)
 
- Learn diffrent ways to create coupons. This tools allows you to give special discounts to your customers.
+  Learn diffrent ways to create coupons. This tools allows you to give special discounts to your customers.
 
 - [**Transactional emails**](Content-automatic-emails-sent-to-users.md)
 
-  When an user does certain action,for example, register, post an ad or request to change their password, they receives an automatic    email for confirmation. Learn how to manage those emails. 
+  When an user does certain action, for example, register, they receives an automatic email for confirmation. Learn how to manage those type of emails. 
 
 - **Newsletters**
 
