@@ -52,7 +52,7 @@
 
  Learn diffrent ways to create coupons. This tools allows you to give special discounts to your customers.
 
-- [**Transactional emails**](Payment-pay-directly-from-the-ad-option.md)
+- [**Transactional emails**](Content-automatic-emails-sent-to-users.md)
 
 - **Newsletters**
 
