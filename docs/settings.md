@@ -2,65 +2,62 @@
 
 - [**General**](General-settings.md)
 
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+  Every general website's setting that you can configurate in the panel.
 
-- **Advertisements**
+- [**Advertisements**](Advertisement.md)
 
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+  Find out all the information on advertisements, how to change their settings and additional features.
 
-- **Payments**
+- [**Payments**](Payment.md)
 
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+  Learn how to work with all available payment gateways
 
 - [**Media settings**](Media-settings.md)
 
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+  Learn how to configure image settings, add watermark and speed up your website by using Cloud Computing Services.
 
 - [**Email**](Email-settings.md)
 
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+  Learn how to change your email, how to use the available SMTP services, how to host email with custom domain and other configurations.
 
-- **Translations**
+- [**Translations**](Translations.md)
 
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+  Find out how to translate your website's content in any langauge.
 
 - [**Categories**](Settings-categories.md)
 
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+ Learn how to add new categories, how to manage already existing ones and how to configure a category widget
 
 - [**Locations**](Settings-locations.md)
 
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+ Learn how to add and import locations, how to add interactive maps, how to auto locate visitors and sort ads by distance on your website.
 
-- **Custom fields**
+- [**Custom fields**](Custom-fields.md)
 
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+  Learn how to create and integrade custom fields for PayPall, shipping, currency, and many others.
 
-- **User custom fields**
+- [**User custom fields**](Users-create-custom-field-for-users.md)
 
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+  Learn how to create custom fields for your users.
 
-- **User roles**
-
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+- [**User roles**](Users-how-do-roles-work.md)
+Learn how to assign different roles to your users, from translation and content creation to moderation and website administration.
 
 - **Updates**
+ Any new updates in real time.
 
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+- [**Coupons**](Classifieds-coupon-system.md)
 
-- **Coupons**
-
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+ Learn diffrent ways to create coupons. This tools allows you to give special discounts to your customers.
 
 - **Transactional emails**
 
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
-
+ 
 - **Newsletters**
 
   Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
 
-- **Interactive map**
+- [**Interactive map**](Content-create-an-interactive-map)
 
   Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
 
