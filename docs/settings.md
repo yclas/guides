@@ -41,9 +41,11 @@
   Learn how to create custom fields for your users.
 
 - [**User roles**](Users-how-do-roles-work.md)
-Learn how to assign different roles to your users, from translation and content creation to moderation and website administration.
+
+  Learn how to assign different roles to your users, from translation and content creation to moderation and website administration.
 
 - **Updates**
+ 
  Any new updates in real time.
 
 - [**Coupons**](Classifieds-coupon-system.md)
@@ -52,7 +54,7 @@ Learn how to assign different roles to your users, from translation and content 
 
 - [**Transactional emails**](Payment-pay-directly-from-the-ad-option.md)
 
-- **Newsletters**
+ - **Newsletters**
 
   Learn how to create newsletters for your users.
 
