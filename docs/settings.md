@@ -54,6 +54,8 @@
 
 - [**Transactional emails**](Content-automatic-emails-sent-to-users.md)
 
+When an user does certain action,for example, register, post an ad or request to change their password, they receives an automatic   email for confirmation. Learn how to manage those emails. 
+
 - **Newsletters**
 
  Learn how to create newsletters for your users.
