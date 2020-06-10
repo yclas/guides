@@ -50,17 +50,17 @@ Learn how to assign different roles to your users, from translation and content 
 
  Learn diffrent ways to create coupons. This tools allows you to give special discounts to your customers.
 
-- **Transactional emails**
+- [**Transactional emails**](Payment-pay-directly-from-the-ad-option.md)
 
- 
-- **Newsletters**
+ - **Newsletters**
 
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+  Learn how to create newsletters for your users.
 
 - [**Interactive map**](Content-create-an-interactive-map)
 
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+  Learn how add an interactive map on your website.
 
-- **Social Auth**
+- [**Social Auth**](Plugins-login-using-social-auth)
 
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis.
+ Learn how to login with Facebook, Google, Twitter, and other platforms. 
+
