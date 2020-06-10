@@ -9,5 +9,5 @@ In this guide, you can find all of the information on translations and available
 *   [Live translations](Translation-live-translation.md)
     -    Quickly translate and modify your website.
 
-*   [How to activate multilingual mode](Translation-how-to-activate-multilingual-mode.md)
+
  
