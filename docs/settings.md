@@ -54,7 +54,7 @@
 
 - [**Transactional emails**](Payment-pay-directly-from-the-ad-option.md)
 
-- [**Newsletters**]
+- **Newsletters**
 
   Learn how to create newsletters for your users.
 
