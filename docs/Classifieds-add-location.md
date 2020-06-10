@@ -13,8 +13,7 @@
 
 ***Warning:**  We do not recommend adding more than 1000 locations if you use shared hosting. Otherwise, your website will work very slow.*
 
-![add-locations1](https://user-images.githubusercontent.com/55290441/80601834-003c2f00-8a37-11ea-95af-a63e7cebce2e.png)
-
+![](https://raw.githubusercontent.com/yclas/guides/master/images/locations.jpg)
 
 ## How to add locations
 
@@ -23,13 +22,12 @@
 **Steps:**
 
 1.  Login to your admin panel.
-2.  Choose  **Classifieds**  ->  **Locations**.
+2.  Choose  **Settings**  ->  **Locations**.
 3.  Select  **Import Geonames Locations**.
 
-![add-location2](https://user-images.githubusercontent.com/55290441/80601840-03cfb600-8a37-11ea-88d1-572f0a3e9490.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/Import%20location.jpg)
 
-
-![add-location3](https://user-images.githubusercontent.com/55290441/80601856-092d0080-8a37-11ea-9ca6-285abb59ce34.png)
+![](https://github.com/yclas/guides/blob/master/images/import%20location%20small.jpg)
 
 This is probably the easiest and fastest way to add multiple locations.  You have to do choose a location (Continent, Country, State/Province, County/Region or City) and press  **Import**  to import its sub-locations.  
 For example, if you choose:  
@@ -58,6 +56,8 @@ If you using  **Yclas Self-Hosted**, please make sure you follow the instruction
 ### Quick Creator
 
 At the quick location creator, add the name of the location, hit  **enter**  on your keyboard and when you have done, press the ‘**Send**’ button as explained in the following screenshot.
+
+
 
 ### Manual method
 
