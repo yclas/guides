@@ -12,7 +12,7 @@ These hosting providers have been all tested by us. You can use their hosting se
 RECOMMENDED
 
 1.  **[HostPapa](https://yclas.com/hosting-pro)**
-2.  **[Inmotion](https://inmotion-hosting.evyy.net/c/1252522/260033/4222)**
+2.  **[Inmotion](https://partners.inmotionhosting.com/c/1252522/260033/4222)**
 3.  **[A2hosting](https://partners.a2hosting.com/solutions.php?id=4636)**
 4.  siteground
 5.  godaddy * only linux based hosting and newly purchased packages
@@ -25,7 +25,6 @@ RECOMMENDED
 12.  justhost
 13.  site5
 14.  dreamhost
-15.  redcoruna
 16.  factoriadigital
 17.  1and1
 
