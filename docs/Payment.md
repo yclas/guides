@@ -1,4 +1,4 @@
-# Payment 💳
+# Payments 💳
 
 In this guide, you can find any information about the payment methods we offer, their features and configuration.
 
