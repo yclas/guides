@@ -94,7 +94,7 @@ With our 2.4.0 release you can add sub-locations fast and easy. All you have to 
 
 ## How to manage locations
 
-Like before: go to  **Panel**, choose  **Classifieds**  >  **Locations**  on the left sidebar.
+Like before: go to  **Panel**, choose  **Settings**  >  **Locations** .
 
 Managing them is very easy. If you want to move locations and change their order you just need to drag and drop selected one to the chosen place.
 
@@ -104,7 +104,8 @@ To  **delete**  press the button with trash bin. Note that when you delete paren
 
 ## Locations widget
 
-The location widget gives you additional options. To activate it, go to  **Panel**  and choose  **Apperance**  >  **Widgets**  on the left sidebar. Choose  **‘Locations’ widget**  from the list and click  **CREATE**. Choose a name to the widget’s title and select if you want to display it in a sidebar or in the footer. You can also keep it  **Inactive**. Thanks to this widget, navigation among locations is easier. A list of them will be displayed at all times at the side or at the bottom of the page
+The location widget gives you additional options. To activate it, go to  **Panel**  and choose  **Design**  >  **Widgets**
+Choose  **User location**  from the list of widgets and click  **CREATE**. Choose a name to the widget’s title and select if you want to display it in a sidebar or in the footer. You can also keep it  **Inactive**. Thanks to this widget, navigation among locations is easier. A list of them will be displayed at all times at the side or at the bottom of the page
 
   
 **Related posts:**
