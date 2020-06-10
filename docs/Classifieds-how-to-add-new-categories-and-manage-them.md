@@ -2,7 +2,7 @@
 
 ### Quick method
 
-In the quick category creator, add the name of the category, hit  **enter**  on your keyboard and when you are done, press the ‘**Send’** button as explained in the following screenshot. In order to get to the **Quick creator**, go to your Admin Panel -> Settings -> Categories and then scrol down. That's how it looks:
+In the quick category creator, add the name of the category, hit  **enter**  on your keyboard and when you are done, press the ‘**Send’** button as explained in the following screenshot. In order to get to the **Quick category creator**, go to your Admin Panel -> Settings -> Categories and then scrol down. That's how it looks:
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/Quck%20category%20creator.jpg)
 
