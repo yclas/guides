@@ -11,10 +11,6 @@ Content:
     -   Add Coupon Name in any URL
 -   Export coupons
 
-**Note that Coupon System is available only on Premium Themes. When you are ready to have a Premium Theme, go to our  [market](https://selfhosted.yclas.com/).*
-
-*This feature is available on our 2.5.0 release.*
-
 This new tool allows you to give special discounts to customers to post on paid categories, top up or upgrade their ads to feature.
 
 ## How to create coupons
@@ -24,7 +20,8 @@ There are three ways to offer coupons: Create single coupon, bulk creation of un
 ### Create single coupon
 
 Login to your Panel, go on  **Classifieds**  ->  **Coupons**  and click  **New**.
-![coupons1](https://user-images.githubusercontent.com/55290441/80603248-d5eb7100-8a38-11ea-82e2-d71d8ade80ad.png)
+
+![](https://raw.githubusercontent.com/yclas/guides/master/images/Coupon%20create.jpg)
 
 
 Fill the fields and press  **Submit**.
@@ -54,8 +51,6 @@ Login to your Panel, go on  **Classifieds**  ->  **Coupons**  and click  **Bulk*
 
 Fill the fields and press  **Submit**.
 
-
-
 Unique coupon names will be created automatically.
 
 ![coupons7](https://user-images.githubusercontent.com/55290441/80603257-d7b53480-8a38-11ea-967f-a94134186c11.png)
@@ -63,7 +58,7 @@ Unique coupon names will be created automatically.
 
 ### Import coupons
 
-Login to your Panel, go on  **Classifieds**  ->  **Coupons**, click  **Import**, choose your CSV file and click  **Upload**.
+Login into your admin panel, go to  **Settings**  ->  **Coupons**, click on **Import**, choose your CSV file and click  **Upload**.
 
 ![coupon8](https://user-images.githubusercontent.com/55290441/80603323-eb609b00-8a38-11ea-953d-05415bf4a713.png)
 
@@ -72,7 +67,7 @@ You can use this tool for example if your provider sends you the coupons.  [Here
 
 ## Edit Coupons
 
-If you made a mistake or you want to update a coupon, you can simply go on  **Classifieds**  ->  **Coupons**  and click to edit the coupon.
+If you made a mistake or you want to update a coupon, you can simply go on  **Settings**  ->  **Coupons**  and click to edit the coupon.
 
 ![coupons9](https://user-images.githubusercontent.com/55290441/80603259-d84dcb00-8a38-11ea-81bf-16bd3748acfc.png)
 
@@ -109,5 +104,10 @@ If the name of the coupon is “FEATURE20%”, then users can add this in any UR
 ## Export coupons
 
 Last but not least, you can export coupons from your panel to CSV file. This will be useful for example to send those coupons to your provider.
+
+
+**Note that Coupon System is available only on Premium Themes. When you are ready to have a Premium Theme, go to our  [market](https://selfhosted.yclas.com/).*
+
+*This feature is available on our 2.5.0 release.*
 
 
