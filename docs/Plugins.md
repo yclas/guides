@@ -1,6 +1,6 @@
 # Plugins
 
-In this guide, you can find all of the available Plugins for your classified website, markeplace or store.
+In this guide, you can find all of the available plugins for your classified website, markeplace or store.
 
 *   [Blog](Plugins-create-a-blog.md)
 *   [Forum section](Plugins-forum-section.md)
