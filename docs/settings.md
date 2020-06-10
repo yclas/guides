@@ -56,7 +56,7 @@
 
 - **Newsletters**
 
-  Learn how to create newsletters for your users.
+ Learn how to create newsletters for your users.
 
 - [**Interactive map**](Content-create-an-interactive-map)
 
