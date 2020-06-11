@@ -9,7 +9,7 @@ In the quick category creator, add the name of the category, hit  **enter**  on 
 
 ### Manual method
 
-1. Go to  **Panel**  - choose  **Classifieds**  >  **Categories**
+1. Go to  **Panel**  - choose  **Settings**  >  **Categories**
 
 2. Press ‘**New category**’ button
 
@@ -36,11 +36,11 @@ While adding categories, you should remember that only 2 levels of categories wi
 
 ### Import Categories
 
-Go to  **Panel**  ->  **Classifieds**  ->  **Categories**, select “Import” and choose your csv file ([example](https://docs.google.com/uc?id=0B60e9iwQucDwTm1NRGlqcEZwdGM&export=download)). !! EDIT: More information  [here](https://docs.yclas.com/use-import-tool-categories-locations/#import-categories).
+Go to  **Panel**  ->  **Settings**  ->  **Categories**, select “Import” and choose your csv file ([example](https://docs.google.com/uc?id=0B60e9iwQucDwTm1NRGlqcEZwdGM&export=download)). !! EDIT: More information  [here](https://docs.yclas.com/use-import-tool-categories-locations/#import-categories).
 
 ## How to manage categories
 
-Managing categories is very easy. Go to  **Panel**, choose  **Classifieds** -> **Categories**  on the left sidebar.
+Managing categories is very easy. Go to  **Panel**, choose  **Settings** -> **Categories**  on the left sidebar.
 
 ### Move/Change order
 
@@ -56,4 +56,4 @@ To delete a category, press the red button with a trash bin. Note that when you 
 
 ## Categories widget
 
-The category widget gives you additional options. To activate it go to  **Panel**  and choose  **Appearance >** **Widgets**  on the left sidebar. Choose  **‘Categories’ widget** from the list and click  **Create**. Give a name to the widget’s title and choose if you want to display it in a sidebar or in the footer. You may also keep it  **Inactive**. Thanks to this widget, navigation between categories is easier. A list of categories will be displayed at all times at the side or at the bottom of the page.
+The category widget gives you additional options. To activate it go to  **Panel**  and choose  **Design >** **Widgets**. Choose  **‘Categories’ widget** from the list and click  **Create**. Give a name to the widget’s title and choose if you want to display it in a sidebar or in the footer. You may also keep it  **Inactive**. Thanks to this widget, navigation between categories is easier. A list of categories will be displayed at all times at the side or at the bottom of the page.
