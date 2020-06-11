@@ -4,7 +4,7 @@ Content:
 -  How it works
 
 
-With it, users have the option to change the **primary image** of their ad. If a user publishes an ad with five images, he can choose which image will be displayed as primary by editing the ad.# How to use Coupon System
+With it, users have the option to change the **primary image** of their ad. If a user publishes an ad with five images, he can choose which image will be displayed as primary by editing the ad.  You can change the primary image as many times as you'd like.
 
 
 ## How it works
@@ -18,6 +18,6 @@ If you want to change the primary image, you have to click “Edit” on the ad 
  ![](https://raw.githubusercontent.com/yclas/guides/master/images/listings22.jpg)
 
 
-Note that you can change the primary image as many times as you'd like!
+
 
 **This feature is available on our 2.5.1 release.**
