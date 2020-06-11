@@ -12,7 +12,7 @@ Here you can view the orders made in your website as well as their details:  _St
 
 You can also edit these details by clicking on the button displayed below:
 
-![orderedit](https://raw.githubusercontent.com/yclas/guides/master/images/order%20edit.jpg)
+![orderedit](https://raw.githubusercontent.com/yclas/guides/master/images/order%20edit1.jpg)
 
 
 
