@@ -1,20 +1,10 @@
 # How to mark image as primary
 
+Content:
 -  How it works
-**This feature is available on our 2.5.1 release.*
+
 
 With it, users have the option to change the **primary image** of their ad. If a user publishes an ad with five images, he can choose which image will be displayed as primary by editing the ad.# How to use Coupon System
-Content:
--   How to create coupons
-    -   Create single coupon
-    -   Bulk creation
-    -   Import coupons
--   Edit Coupons
--   How to use coupons
-    -   On the checkout page
-    -   From widget coupons
-    -   Add Coupon Name in any URL
--   Export coupons
 
 
 ## How it works
@@ -29,3 +19,5 @@ If you want to change the primary image, you have to click “Edit” on the ad 
 
 
 Note that you can change the primary image as many times as you'd like!
+
+**This feature is available on our 2.5.1 release.**
