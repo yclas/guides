@@ -21,11 +21,11 @@ Content:
 
 Let’s say you have published an ad with two images. This is how it’s displayed on the Listing page:
 
-![primary-image1](https://user-images.githubusercontent.com/55290441/80629612-c7628100-8a5b-11ea-93fc-2a36e267099d.png)
+![listings](https://raw.githubusercontent.com/yclas/guides/master/images/listings.jpg)
 
 If you want to change the primary image, you have to click “Edit” on the ad and then click “Primary Image” under the image you want to mark as primary.
 
-![primary-image2](https://user-images.githubusercontent.com/55290441/80629638-cfbabc00-8a5b-11ea-96b5-23a49207373f.png)
+![primaryimage](https://github.com/yclas/guides/blob/master/images/Primary%20image.jpg)
 
 
-Note that you can change the primary image as many times as you'd want!
+Note that you can change the primary image as many times as you'd like!
