@@ -11,11 +11,11 @@ With it, users have the option to change the **primary image** of their ad. If a
 
 Let’s say you have published an ad with two images. This is how it’s displayed on the Listing page:
 
-![listings](https://raw.githubusercontent.com/yclas/guides/master/images/listings.jpg)
+![listings](https://raw.githubusercontent.com/yclas/guides/master/images/listings11.jpg)
 
 If you want to change the primary image, you have to click “Edit” on the ad and then click “Primary Image” under the image you want to mark as primary.
 
- ![](https://raw.githubusercontent.com/yclas/guides/master/images/primary.jpg)
+ ![](https://raw.githubusercontent.com/yclas/guides/master/images/listings22.jpg)
 
 
 Note that you can change the primary image as many times as you'd like!
