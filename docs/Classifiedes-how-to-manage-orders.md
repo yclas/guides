@@ -14,7 +14,10 @@ You can also edit these details by clicking on the button displayed below:
 
 ![orderedit](https://raw.githubusercontent.com/yclas/guides/master/images/order%20edit1.jpg)
 
+Next to the **Edit** button, you have the options to **Mark as paid** or **See order**. If you click on the the **Mark as paid** button the **Status** of order will change to **1** ( 1 = paid order). If you click on the **See order** button, you'll be redirected to the checkout page.
 
+
+## How to edit orders?
 
 -   **Id Product:**
     1.  _Post in paid category_
@@ -22,13 +25,13 @@ You can also edit these details by clicking on the button displayed below:
     3.  _Feature ad_
     4.  _Buy product_
 -   **Paymethod:**  You can change the payment method of this order.
--   **Pay Date:**  In this field you can edit the date user paid.
--   **Currency:**  Which currency is used for this order.
 -   **Amount:**  The amount of this order.
+-   **Currency:**  Which currency is used for this order.
+-   **Pay Date:**  In this field you can edit the date user paid.
+-   **Created:** The date and time your order was placed.
 -   **Status:**
     -   0 = not paid
     -   1 = paid
     -   5 = refused payment
     -   99 = refunded
--   **Description:**  You can add a desctription about this order
--   **Txn Id:**  The transaction id of the payment gateway.
+
