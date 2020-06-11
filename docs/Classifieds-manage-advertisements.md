@@ -4,7 +4,7 @@ As your website advertisements amount increases, it can be a challenge to manage
 
 To access the ads management page, go to  **Panel**, choose  **Classifieds**  and then  **Advertisements**  from the left sidebar. You will see a list of  **all advertisements**  that are published on your site. The newest are on the top. Only 10 ads will be displayed. To go to older ones, navigate among the pages of the list.
 
-![manage-ads](https://user-images.githubusercontent.com/55290441/80600680-7049b580-8a35-11ea-9e38-cbd9f90bbea3.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/advertisement.jpg)
 
 On the list you see the  **name**,  **category,**  **location**  (where the ad was published),  **hits**,  **status**,  **published**,  **created**. What is more, you have the possibility of searching for the adequate ads by using a field:  **Search**. On the right side you have buttons representing different available actions. Just click the one that you need and confirm when the system asks if you’re sure. The following options are available:
 
