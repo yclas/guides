@@ -20,7 +20,7 @@ This is a mandatory step to follow in order to have the currency converter widge
 
 If your website uses SSL, please note that  **SSL encryption**  is only allowed for  **Fixer**  paid plans.
 
-![](https://github.com/yclas/guides/blob/master/images/currenywidget.png)]
+![](https://github.com/yclas/guides/blob/master/images/currenywidget.png)
 
 ## Create Currency Converter Widget
 
