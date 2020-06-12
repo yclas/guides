@@ -27,6 +27,7 @@ This feature gives you and your users two-factor authentication. You can protect
 
 6. Once the QR code is scanned, you will see the account created with a verification code. (There’s no need to write down or memorize the verification code because it changes every 30 seconds.)
 7. Now you will be redirected to enter the verification code and press “Send”. If the code is valid 2 Step Authentication will be enabled, otherwise you will have to scan QR code and enter the verification code again.
+
 ![2step3](https://user-images.githubusercontent.com/55290441/80509193-be04e600-8981-11ea-82fe-69ca403bf4bc.png)
 
 ## How to use it:
