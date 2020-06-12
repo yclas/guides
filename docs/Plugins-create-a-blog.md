@@ -36,6 +36,5 @@ Now in the header of your site there is the  **Blog Icon**. You can click this i
 
 The RSS of your Blog is ready as well!  _yourdomain.com/rss/blog.xml_
 
-*We included the option to  **have your own blog**  in your classifieds site in our **2.1.x** Yclas version*
 
 Enjoy!
