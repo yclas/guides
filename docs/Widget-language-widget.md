@@ -61,4 +61,4 @@ Here’s a full list of the available languages:
 -   **vi_VN**  Vietnamese
 -   **zh_CN**  Chinese
 
-*This feature is available on our 2.7.0 release.*
+
