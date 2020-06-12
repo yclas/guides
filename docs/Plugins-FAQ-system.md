@@ -12,7 +12,6 @@ With Yclas, it’s possible to create a  **Frequent Asked Questions system - FAQ
 8. Go to your site home page, in the header there’s an icon with FAQ.
 9. There you have listed all your FAQs, with a nice search box.
 
-*It’s really easy to activate and extremely useful, only applicable for 2.1.x versions*
 
 
 
