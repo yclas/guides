@@ -149,9 +149,9 @@ With this option users will be able to login using an Open ID account. In Yclas 
 7.  Back in your Twitter app, go to the Permissions tab and make sure the Access is set to “Read and Write”.
 8.  Done!
 
-Since our version 2.1, it’s really easy to login using a  **social network account**  like  **Twitter, Facebook, Google Sign-In , LinkedIn etc.** 
+Since our latest release, it’s really easy to login using a  **social network account**  like  **Twitter, Facebook, Google Sign-In , LinkedIn etc.** 
 
-For doing so, we use a third party open source project called **[HybridAuth](https://hybridauth.github.io/hybridauth/)**  (awesome project!).
+For doing that we use a third party open source project called **[HybridAuth](https://hybridauth.github.io/hybridauth/)**  (awesome project!).
 
 To activate any of these social logins, you need first to purchase a premium theme from our  **[market](https://selfhosted.yclas.com/)**.
 
