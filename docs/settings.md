@@ -1,6 +1,6 @@
 # Settings
 
-- [**General**](General-settings.md)
+- [**General**](General-Settings.md)
 
   Every general website's setting that you can configurate in the panel.
 
