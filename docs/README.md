@@ -100,6 +100,6 @@ This is a list with everything that you can find on our documentation and guides
 * [Technical](Yclas-self-hosted-technical.md)
   * [Technical issues](Technical-issues.md)
   
-  *Note: You need to have the **latest version of Yclas Self-hosted** to get most of the features listed below.*
+*Note: You need to have the **latest version of Yclas Self-hosted** to get most of the features listed below.*
 
 
