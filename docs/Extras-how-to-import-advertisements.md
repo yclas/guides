@@ -50,7 +50,6 @@ You can use this easy import tool to add all of your ads with a press of a butto
 
 Now, you can see the imported ads on  **Classifieds**  ->  **Advertisements**.
 
-Import tool for ads is a new feature included in our  *[2.4.0 release*](http://open-classifieds.com/2015/04/28/open-classifieds-2-4-0/)  as well as many other features.
   
 **Related posts:**
 
