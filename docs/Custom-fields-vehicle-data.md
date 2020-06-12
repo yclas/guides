@@ -6,7 +6,6 @@ Content:
     -  Create the custom fields
 -   How it works
 
-*This feature is available on our 3.4.0 release and for all sites hosted at  [Yclas.com](https://yclas.com/)*
 
 Vehicle Data can be used in a car dealer website, a marketplace or any classifieds website where people can buy and sell cars. 
 
