@@ -108,9 +108,6 @@ Available currencies will be: JPY, HKD, SGD, TWD, KRW, PHP, IDR, INR, CNY, MYR, 
 Available currencies will be: EUR, CAD, CNY, NOK, PHP, USD
 
 
-*This feature is available with our 2.8.0 release and for all sites hosted at  [Yclas.com](https://yclas.com/)*
-
-
 
 You may also be interested in:
 
