@@ -108,6 +108,5 @@ Last but not least, you can export coupons from your panel to CSV file. This wil
 
 **Note that Coupon System is available only on Premium Themes. When you are ready to have a Premium Theme, go to our  [market](https://selfhosted.yclas.com/).*
 
-*This feature is available on our 2.5.0 release.*
 
 
