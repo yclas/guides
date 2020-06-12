@@ -53,7 +53,7 @@ The goal here is to give more exposure to featured ads. By default featured ads 
 
 Note that the Featured Plans are available only for the Premium Users. When you ‘re ready to have a Premium Theme, go to our  [market](https://selfhosted.yclas.com/).
 
-*With our 2.4.0 release, we added the option to create featured plans for ads.*
+
     
 
   
