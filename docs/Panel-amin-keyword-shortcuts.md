@@ -1,7 +1,6 @@
 
 # Admin Keyboard Shortcuts
 
-*This feature is available with our 2.8.0 release and on all sites hosted at  [Yclas.com](https://yclas.com/)*
 
 If you want to take your admin panel browsing to a whole new level of proficiency, it’s time to learn the keyboard shortcuts that are built into our software.
 
