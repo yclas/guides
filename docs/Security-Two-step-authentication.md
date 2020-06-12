@@ -36,6 +36,7 @@ This feature gives you and your users two-factor authentication. You can protect
 3.  Now you will be redirected to  **enter the Verification Code**  (Run the Google Authenticator app to find the verification code.)
 4.  Click  **Send**.
 5.  Now you are logged into your website!
+
 ![2step4](https://user-images.githubusercontent.com/55290441/80509206-c0ffd680-8981-11ea-8717-0de4b26f5fcd.png)
 
-**This feature is available with our 2.8.0 release and on all sites hosted at  [Yclas.com](https://yclas.com/)*
+
