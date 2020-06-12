@@ -59,5 +59,3 @@ Membership plans paid via  [Stripe payment gateway](Payment-set-up-marketplace-w
 
 Users have the option to cancel their subscription renewal. In order to do that, they need to go to the user **Edit Profile** page and press a button called  **Cancel Subscription**.
 
-
-**This feature is available with our 2.7.0 release and it's only available in our premium themes!**
