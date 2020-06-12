@@ -7,7 +7,7 @@ If you have an international classifieds website or your users speak different l
 
 ## Create
 
-To do that, go to your Panel,  **Appearance**  ->  **Widgets**  and create the widget called  **Languages**. You can select where this widget will appear, the title of the widget and the languages you want to display (leave the field empty to display them all).
+To do that, go to your Panel,  **Design**  ->  **Widgets**  and create the widget called  **Languages**. You can select where this widget will appear, the title of the widget and the languages you want to display (leave the field empty to display them all).
 
 
 ## Configure
