@@ -3,7 +3,7 @@
 
 -  Available options
 
-When you buy one of our  **[Premium Themes](https://selfhosted.yclas.com/),**  you can enjoy plenty of additional options that help you to adjust the page to your needs. You can manage them by going to  **Panel**  and choose  **Theme options**  (note, that this tab is only visible, if you’re currently using premium theme - read related post:  [How to change theme?](https://docs.yclas.com/how-to-change-theme)).
+When you buy one of our  **[Premium Themes](https://selfhosted.yclas.com/),**  you can enjoy plenty of additional options that help you to adjust the page to your needs. You can manage them by going to  **Panel**  and choose  **Theme options**  (note, that this tab is only visible, if you’re currently using a premium theme).
 
 ![](https://github.com/yclas/guides/blob/master/images/theme-options.png)
 
