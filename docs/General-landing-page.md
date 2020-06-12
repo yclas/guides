@@ -12,4 +12,3 @@ The **Home**  page (with slider and selection of categories),  **Listing**  page
 
 ![landing-page](https://user-images.githubusercontent.com/55290441/80503424-80e92580-897a-11ea-9739-dd4eb60fc951.png)
 
-*New function included in **2.0.6** version makes it possible to choose what will be displayed in your **landing page** - first page that will be visible for your visitors after typing your address.
