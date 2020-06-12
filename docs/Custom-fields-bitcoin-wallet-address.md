@@ -4,8 +4,6 @@ Content:
 -   Bitcoin address on user profile and ads
 -   Bitcoin address on each ad
 
-*This feature is available on our 3.4.0 release and for all of the sites hosted at  [Yclas.com](https://yclas.com/)*
-
 Give your classifieds website users the ability to share their Bitcoin address in their ads and user profile page. 
 
 With this new feature, your customers can simply enter their Bitcoin wallet address in their user profile or in the ads and it will automatically show the address and a QR code of that address.
