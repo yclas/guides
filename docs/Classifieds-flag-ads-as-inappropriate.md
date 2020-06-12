@@ -14,4 +14,3 @@ By clicking on this button, they will be redirected to the contact page, where S
 An email will be send to the administrator of the website so that they can review the reported ad.
   
  
-*Since our 2.6.0 release, users can report an ad as inappropriate.*
