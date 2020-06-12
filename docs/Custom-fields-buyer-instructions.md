@@ -1,8 +1,6 @@
 # Buyer instructions  👨‍🏫
 
 
-*This feature is available on our 2.7.0 release.*
-
 This feature allows you to attach a text to the email that’s sent to buyers after they purchase an ad. You can use it to add instructions to buyers  [coupons](https://github.com/yclas/guides/blob/master/docs/Classifieds-coupon-system.md) or links. This makes it possible to sell digital goods in your website.
 
 To enable this feature, you need to  **follow these steps:**
