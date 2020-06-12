@@ -23,4 +23,4 @@ You can **create a new page** through your panel. Go to **Settings -> General**,
 
 ![private-site3](https://user-images.githubusercontent.com/55290441/80505273-c60e5700-897c-11ea-8b8a-ec1a299878bf.png)
 
-*This feature is available with our 2.8.0 release and for all of the sites hosted with Yclas.com
+
