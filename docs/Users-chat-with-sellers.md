@@ -46,4 +46,4 @@ Users can enter their  **telegram username**  to this field on register page or 
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/chat-seller.png)
 
-*Since our 2.7.0 version, users can contact sellers or advertisers directly on Whatsapp, Skype or Telegram.*
+
