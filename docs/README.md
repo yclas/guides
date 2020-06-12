@@ -21,6 +21,8 @@ You can get started right away without any technical knowledge. You can create y
  - 📝 [Blog](https://yclas.com/blog) - We update our blog on a weekly basis. Here you can find information on our latest updates and info on latest marketing & business realted topics.
  - 🗣 Social Media - This is the informal place for Yclas users. Follow us for daily updates & great tips, strategies and recommendations on [Twitter](https://twitter.com/Yclascom) and [Facebook](https://www.facebook.com/yclascom/). 
 
+*Note: You need to have the **latest version of Yclas Self-hosted** to get most of the features listed below.*
+
 This is a list with everything that you can find on our documentation and guides! 
 
 [**Getting Started**](README.md)
@@ -97,5 +99,7 @@ This is a list with everything that you can find on our documentation and guides
 * [Development](Yclas-self-hosted-development.md)
 * [Technical](Yclas-self-hosted-technical.md)
   * [Technical issues](Technical-issues.md)
+  
+  *Note: You need to have the **latest version of Yclas Self-hosted** to get most of the features listed below.*
 
 
