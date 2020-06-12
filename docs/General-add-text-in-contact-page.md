@@ -12,4 +12,4 @@ To do this, just  **follow these simple steps:**
 
 ![contact-page2](https://user-images.githubusercontent.com/55290441/80504895-4bddd280-897c-11ea-913f-e74137046803.png)
 
-**This feature is available on our 2.5.0 release.*
+
