@@ -61,5 +61,4 @@ If a sender tries to contact you again, you won’t be notified but the new mess
 If you have a lot of old messages that you don’t want in your inbox, you can delete them. Open the message you want to delete and click “Delete”.
 You will see that the messages will no longer appear in your inbox.
 
-*This feature is available on our 2.5.0 release.*
-*Since our  2.5.1 release, new options have been added to the messaging system.*
+
