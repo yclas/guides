@@ -102,4 +102,4 @@ To let sellers manually insert the VAT rate, you need to create a custom field o
 4.  Enter  **vatnoneu**  into the field called Name. It’s important to enter  _vatnoneu_  as name and choose Number Decimal in the field type to make this feature work.
 5.  **Fill the fields**  and  **press Create**.
 
-This feature is available on our 3.0.0 release and for all the sites hosted at  [Yclas.com](https://yclas.com/)
+
