@@ -8,6 +8,5 @@ Go to your admin panel and select  **Settings**  ->  **Images.**
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/Amazons3_1.png)
 
-*This feature is  NOT  available since our 2.7.0 release!*
 
 **Warning:**  _Using Amazon Simple Storage Service is NOT for free!  [Amazon S3 Pricing](https://aws.amazon.com/s3/pricing/)_
