@@ -2,7 +2,6 @@
 
 ## How to publish an ad with a different contact email?
 
-*This feature is available on our 2.4.1 release.*
 
 Imagine that you publish an ad and there are some people who are interested in contacting another department within your company based on your add. They'll need a business email address.  
 
