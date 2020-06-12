@@ -20,4 +20,3 @@ If you want to change the primary image, you have to click “Edit” on the ad 
 
 
 
-**This feature is available on our 2.5.1 release.**
