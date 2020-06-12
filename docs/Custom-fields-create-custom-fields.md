@@ -99,8 +99,6 @@ While editing,  **Name**  and  **Type**  **fields**  will become disabled. In ca
 
 **Just for your information, the rest of the options are still open to edit and add.*
 
-*The new feature is included in the  **2.0.7**  version, which makes it possible to create multiple new custom fields.*
-
- *Note that custom fields are available only on the sites hosted on  [Yclas.com](https://yclas.com/)  and on  [Yclas Self-Hosted Pro](https://selfhosted.yclas.com/themes/yclas-self-hosted-pro.html)*.
+*Note that custom fields are available only on the sites hosted on  [Yclas.com](https://yclas.com/)  and on  [Yclas Self-Hosted Pro](https://selfhosted.yclas.com/themes/yclas-self-hosted-pro.html)*.
 
 
