@@ -23,4 +23,4 @@ Yclas provides comprehensive statistics about your advertisements. If you publis
 
 ![](https://github.com/yclas/guides/blob/master/images/ad-stats.png)
 
-**Since our 2.6.0 version we have improved the statistics panel, displaying data that will be useful and valuable to you.**
+
