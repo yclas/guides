@@ -10,5 +10,5 @@ The **Home**  page (with slider and selection of categories),  **Listing**  page
 4.  Click  **save**
 5.  That's it!
 
-![landing-page](https://user-images.githubusercontent.com/55290441/80503424-80e92580-897a-11ea-9739-dd4eb60fc951.png)
+![landing page](https://raw.githubusercontent.com/yclas/guides/master/images/landing%20page.png)
 
