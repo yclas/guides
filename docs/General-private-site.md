@@ -12,7 +12,7 @@ Follow the steps above to make your site private:
 4.  Click  **Save**.
 
 Now, if you logout, and try to visit your site,  a message will pop out stating that this website is private and you need to log in in order to see its content. This is what should be displayed:
-![private site 400](https://raw.githubusercontent.com/yclas/guides/master/images/priavte%20site%20400.jpg)
+![private site 411](https://raw.githubusercontent.com/yclas/guides/master/images/priavte%20site%20411.jpg)
 
 -   Registered users can login using the login form on the bottom of the page.
     
@@ -21,6 +21,6 @@ Now, if you logout, and try to visit your site,  a message will pop out stating 
 The content of the page that is displayed to unregistered users is editable. 
 You can **create a new page** through your panel. Go to **Settings -> General**, choose this page on **Private Site landing page content** and click **Save**
 
-![private site 401](https://raw.githubusercontent.com/yclas/guides/master/images/private%20site%20401.jpg)
+![private site 412](https://raw.githubusercontent.com/yclas/guides/master/images/private%20site%20412.jpg)
 
 
