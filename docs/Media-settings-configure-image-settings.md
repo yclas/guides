@@ -1,7 +1,7 @@
 # How to configure Image Settings
 
 The Images setting page allows you to configure a variety of settings for images uploaded to your Yclas site.  
-You can modify these settings when you go to the Panel,  **Settings**  ->  **Media**.
+You can modify these settings when you go to the Panel,  **Settings**  ->  **Media settings**.
 
 When a user uploads an image, Yclas automatically resizes that image, changes its quality and generates a thumbnail. More details about these settings are listed below:
 
