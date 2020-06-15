@@ -8,7 +8,7 @@ Yclas offers an email subscriber feature which allows users and visitors to subs
 
 ## Configuration
 
-[!](https://github.com/yclas/guides/blob/master/images/subsribe%20widget.png?raw=true)
+![](https://github.com/yclas/guides/blob/master/images/subsribe%20widget.png?raw=true)
 
 1. Go to your admin panel -> **Design -> Widgets**.
 2. Press  **Create**  into the Subsccribe widget box.
