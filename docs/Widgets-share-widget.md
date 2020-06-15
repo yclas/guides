@@ -24,10 +24,10 @@ Here’s a list with all the available social media. Next to each social media y
 
 **Example:**
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/share-widget.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/widgets%20share.jpg)
 
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/share-widget-front.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/widgets%20share1.jpg)
 
   
 **Related guides:**
