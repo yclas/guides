@@ -6,7 +6,7 @@ The **Home**  page (with slider and selection of categories),  **Listing**  page
 
 1.  Go to  **admin panel**
 2.  Choose  **settings > general**
-3.  In the second field select  **Home**,  **Listing**  or  **Users**
+3.  Find the field **Landing page** and choose between  **Home**,  **Listing**  or  **Users**
 4.  Click  **save**
 5.  That's it!
 
