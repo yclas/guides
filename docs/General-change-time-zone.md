@@ -6,5 +6,5 @@ It’s important to have your Time Zone correctly set up. For example, ads, orde
 To change the Time Zone, follow these steps:
 
 1.  Go to Panel,  **Settings**  ->  **General**
-2.  In the  _Regional Settings_  section,  **Time Zone**  field, select your city or the city with the same timezone as yours.
+2.  In the  _Regional Configuration_  section,  **Time Zone**  field, select your city or the city with the same timezone as yours.
 3.  Press  **Save**
