@@ -30,7 +30,7 @@ You can change the content of the Analytics Tracking ID field whenever you want 
 
 This will work if you need to add any other tracking code, but if you have a code from your provider just use this method.
 
-1.  Go to  **Panel**,choose  **Settings**  >  **General**  on the left sidebar.
+1.  Go to  **Panel** and then choose  **Integrations**
 2.  Paste your tracking code into the **HTML in HEAD element field** or into the **HTML in footer field**.
 3.  Press **SAVE**
 
