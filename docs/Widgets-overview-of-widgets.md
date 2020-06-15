@@ -20,79 +20,79 @@ After creating or editing the widgets, changes might not be visible on the site 
  ## Available widgets
 
 -   **Ads**  
-    Helps you to place on the site a banner the Latest Ads, Popular Ads, last month or Featured Ads. You can regulate how many ads should be displayed.  
+    Helps you to place a banner on your site with the Latest Ads, Popular Ads, last month or Featured Ads. You can regulate how many ads are being displayed.  
     
 -   **Featured Ads**  
-    One of a type ads to display.  
+   Only featured ads will be displayed.  
     
 -   **Subscribe**  
-    Subscribe for categories functions that give your users a possibility to subscribe and get an email whenever new advertisement appears in the category or locations they choose. They can select also price range they’re interested in.  
+    Subscribe for categories functions that give your users the option to subscribe and get an email whenever a new advertisement appears in the category or locations they choose. They can select also price range in which they are interested.  
     
 -   **Text**  
-    Place on the site a banner in which you can put whatever you want. It could be text or HTML code.  
+    Places a banner on your site in which you can display whatever you want: it can be text or HTML code.  
     
 -   **Share**  
-    On the page, there will be displayed buttons enabling users to share the content in the social media.  
+    On the page **buttons** enabling users to share the content in the social media will be available.  
     
 -   **Pages**  
-    Displays banner with a links to existing CMS pages ( check: [How to add pages](Content-Add-pages.md) )
+    Displays a banner with links to existing CMS pages ( check: [How to add pages](Content-Add-pages.md) )
     
 -   **Contact**  
-    Shows a contact form in the ad pages so potential buyers can contact the seller.  
+    Shows a contact form in the ad pages so that potential buyers can contact the seller.  
     
 -   **Locations**  
-    Display locations in a banner to make easier among between them (see: [How to add locations?](Classifieds-add-location.md)
+    Display locations in a banner to make easier to scroll between them and locate the ads. (see: [How to add locations?](Classifieds-add-location.md)
     
 -   **Stats**  
-    Display site statistics: number of views, ads and users.  
+    Displays your site's statistics: number of views, ads and users.  
     
 -   **Categories**  
-    Displays banner with a list of categories and subcategories for improving navigation among them (see: [How to add categories and manage them?](Classifieds-how-to-add-new-categories-and-manage-them.md) 
+    Displays a banner with a list of categories and subcategories for improving navigation between them (see: [How to add categories and manage them?](Classifieds-how-to-add-new-categories-and-manage-them.md) 
     
 -   **RSS**  
     RSS reader to publish news from selected RSS channels.  
     
 -   **Map**  
-    Place on your site Google Maps showing localisations of ads (see: [Why is my map widget not showing anything?](Widgets-map-widget.md).  
+    Places Google Maps on your website and shows localisations of ads (see: [Why is my map widget not showing anything?](Widgets-map-widget.md).  
     
 -   **Disqus**  
-    Widget to display latest comments using Disqus (see: [How to activate comments with Disqus?](Publish-options-active-comments-with-disquse.md)
+   This widget displays the latest comments by Disqus for your website (see: [How to activate comments with Disqus?](Publish-options-active-comments-with-disquse.md)
     
 -   **Chat**  
-    Widget that allows you to chat with your users ( see:  [How to add a chat room to my classifieds website?](Widgets-chat-room.md).  
+    This widget allows you to chat with your users ( see:  [How to add a chat room to my classifieds website?](Widgets-chat-room.md).  
     
 -   **Links**  
-    Create a link network to easily navigate through the information on your website.  
+    With this widget you can create a link network to easily navigate the information on your website.  
     
 -   **Tools**  
-    Use admin Tools to editing ads.  
+    Enables you to use admin Tools to editing ads.  
     
 -   **Search**  
-    Make it easy for users to find specific information using the option of advanced search.  
+    Makes it easy for users to find specific information using the option of advanced search.  
     
 -   **Forum topics**  
-    Easy way to build, establish and keep contact with users by offering support and letting them express their own opinion (see: [How to add a forum section?](Plugins-forum-section.md)  
+    An easy way to build and establish a bond with your users by offering support and letting them express their opinion (see: [How to add a forum section?](Plugins-forum-section.md)  
     
 -   **Interactive Map**  
-    Display Interactive Map (see:  [How to add an Interactive Map?](Content-create-an-interactive-map.md)
+    Displays an Interactive Map (see:  [How to add an Interactive Map?](Content-create-an-interactive-map.md)
 -   **User Location**  
-    Allows users to change their selected location. Also it’s possible to select their location from the map.
+    Allows users to change their selected location. Also it’s possible to select their location directly from the map.
 -   **User Search**  
-    Let users to search for another user. Search can also include [users custom fields](Users-create-custom-field-for-users.md).
+    Allows users search for other users. Search can also include [users custom fields](Users-create-custom-field-for-users.md).
 -   **Recently searched**  
-    Display previous user searches.
+    Displays previous user search on your site.
 -   **Coupon**  
-    The users can use their coupon using this widget. You just need to add the coupon name and click Add.
+    The users can use their coupon using this widget. You just need to add the coupon name and click **Add**.
 -   **Language**  
-    Let users to choose in which language your website will be translated to them. For more information, follow [this guide](Widget-language-widget.md).
+    Allowes users to choose in which language your website will be translated. For more information, follow [this guide](Widget-language-widget.md).
 -   **Currency Converter**  
-    Users can choose between your selected currencies and have ads prices converter to their chosen currency. More information  [here!](Widgets-how-to-set-the-currency-format.md)
+    Users can choose between your selected currencies and have an ad prices converter for their chosen currency. More information  [here!](Widgets-how-to-set-the-currency-format.md)
 -   **Follow**  
-    Add social media follow buttons. Insert the URL of your Facebook, Twitter, Instagram, Pinterest, Google+, LinkedIn, Youtube and Flickr page to create the buttons to make it easier to your website visitors to follow you on social media.
+    Add social media follow buttons. Insert the URL of your Facebook, Twitter, Instagram, Pinterest, Google+, LinkedIn, Youtube and Flickr page to create the buttons that will make it easier for visitors to follow you on social media direclty from your website.
 -   **Image**  
-    Use the URL of an image to show it as a responsive image in your website.
+    Uses the URL of an image to show it as a responsive image on your website.
 -   **Blog Posts**  
-    Diplay the latest blog posts of your website in a widget.
+    Diplays the latest blog posts of your website in a widget.
     
 
 
