@@ -27,9 +27,9 @@ The site name carries the identity of your whole website and it is complimented 
 
 Although the site's name and description are important elements in your website content, remember that you can always **add more content** to your site with the following tools  🛠️
 
--   [Text widget](https://docs.yclas.com/overview-of-widgets) (add new link)
--   [Creating a blog](https://docs.yclas.com/how-to-create-a-blog) (add new link)
--   [Add an FAQ section](https://docs.yclas.com/create-frequent-asked-questions-faq) (add new link) 
--   [Add a forums section](https://docs.yclas.com/add-forums-section/) (add new link)
+-   [Overview of widgets](Widgets-overview-of-widgets.md)
+-   [Creating a blog](Plugins-create-a-blog) 
+-   [Add an FAQ section](Plugins-FAQ-system.md)
+-   [Add a forums section](Plugins-forum-section.md) 
 
-We recommend using these tools but there's plenty of other options! :)
+We recommend these tools but there's plenty of other options! :)
