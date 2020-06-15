@@ -10,9 +10,9 @@ One of the most commonly asked question by our users is how to deal with the  **
 
 ## How to do it
 
-You can go to  **Settings**  >  **General**  >  **Regional**  and select your preferred currency. Once you press  **Save**, then the currency will show next to each amount.
+You can go to  **Settings**  >  **General**  >  **Regional configuration**  and select your preferred currency. Once you press  **Save**, then the currency will show next to each amount.
 
-![currency-format](https://user-images.githubusercontent.com/55290441/80508281-877a9b80-8980-11ea-80e9-d24d1bd8e83a.png)
+![currency](https://raw.githubusercontent.com/yclas/guides/master/images/currency.jpg)
 
 ## List of currency formats
 
