@@ -20,7 +20,6 @@ This is a mandatory step to follow in order to have the currency converter widge
 
 If your website uses SSL, please note that  **SSL encryption**  is only allowed for  **Fixer**  paid plans.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/currency.jpg)
 
 ## Create Currency Converter Widget
 
@@ -33,6 +32,8 @@ It’s really simple to create and use this widget:
 5.  Type the  **Currencies to display**, comma separated, or leave it empty to display all the currencies.
 6.  Enter the currency of your site on  **Choose the default currency**  field. Use this field ONLY in case you are using a different currency than your local one and make sure that the prices of the ads have the same currency.
 7.  Click  **Save Changes**.
+
+![](https://raw.githubusercontent.com/yclas/guides/master/images/currency%20conventor%20widget.png)
 
 ## Currencies to display
 
