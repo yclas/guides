@@ -13,13 +13,13 @@ First of all, GA is the best because it’s free and it’s giving you much more
 
 Secondly, GA makes it easy for anyone managing a site to track and analyze these data. Its custom reports allow you to see your data the way you need to see it, whenever you need it.
 
-Lastly, everybody trusts Google Analytics data. Currently it’s in the use of around 55% of the 10,000 most popular websites and 49.95% of the top 1,000,000 websites.
+Lastly, everybody trusts Google Analytics data. Currently, around 55% of 10,000 most popular websites are using it and it's in  49.95% of the top 1,000,000 websites.
 
 ## Adding the Analytics Tracking ID
 
 ### Quick method
 
-1.  Go to  **Panel**, choose  **Settings > General**  on the left sidebar.
+1.  Go to  **Panel**, choose  **Integrations**.
 2.  Add your **Google Analytics Tracking ID** into the **Analytics Tracking ID field.**
 3.  Press **SAVE**.
 
