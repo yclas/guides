@@ -12,7 +12,7 @@ The reason that you should use it it’s because, since 2011, every website that
 With Yclas, we give you the option to enable the Cookie Consent alert. It will be displayed once for each visitor to let them know that your site uses cookies. 
 You can acitvate it in a few simple steps:
 1.  Go to  **Settings**  ->  **General**
-2.  Find and enable  **Cookie Consent**
+2.  Scroll down, find and tick the  **Cookie Consent** box to enable this feature.
 3.  Press  **Save**
 
 That's all!
