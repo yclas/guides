@@ -7,9 +7,7 @@
 3.  Set **Maintenance Mode** option by ticking the box that's displayed before it.
 4.  Click **Save** button
 
-While Maintenance Mode is being activated, anyone who tries to access your website will see following page:
-
-!\[\](https://raw.githubusercontent.com/yclas/guides/master/images/Maintain.jpg)
+While Maintenance Mode is being activated, anyone who tries to access your website will see [following page](https://raw.githubusercontent.com/yclas/guides/master/images/Maintain.jpg):
 
 They'll be able to see the whole website only by logging in.
 
