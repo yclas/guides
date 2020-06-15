@@ -10,6 +10,6 @@ To do this, just  **follow these simple steps:**
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/contact%20page%20final.png)
 - **Save** the changes, and you are ready!
 
-![contact-page2](https://user-images.githubusercontent.com/55290441/80504895-4bddd280-897c-11ea-913f-e74137046803.png)
+![contact page display](https://raw.githubusercontent.com/yclas/guides/master/images/contact%20page%20display.png)
 
 
