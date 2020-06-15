@@ -29,9 +29,9 @@ Let's learn how to allow/disallow these 🤖
 1.  Go to your  **website**.
 2.  Login to the  **admin panel**.
 3.  Select  **settings -> general**.
-4.  Toggle the  **disallows (blocks) bots and crawlers on this website**  option ON (to  **disallow**  the bots)  
+4.  Tick the  **disallows (blocks) bots and crawlers on this website**  box  (to  **disallow**  the bots)  
     _OR_  
-    Toggle the  **disallows (blocks) bots and crawlers on this website**  option OFF (to  **allow**  the bots).
+   Untick/Leave empty the  **disallows (blocks) bots and crawlers on this website**  box  (to  **allow**  the bots).
     
 5.  Click the  **save**  button.
 
