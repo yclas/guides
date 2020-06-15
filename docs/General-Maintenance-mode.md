@@ -9,9 +9,7 @@
 
 While Maintenance Mode is being activated, anyone who tries to access your website will see following page:
 
-```
-![](https://raw.githubusercontent.com/yclas/guides/master/images/Maintain.jpg)
-```
+!\[\](https://raw.githubusercontent.com/yclas/guides/master/images/Maintain.jpg)
 
 They'll be able to see the whole website only by logging in.
 
