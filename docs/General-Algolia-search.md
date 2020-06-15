@@ -26,6 +26,6 @@ Follow the steps below to use Algolia search in your website:
 
 Yclas automatically reindex the records of your site every hour. However we have created an option in the panel so you can manually reindex the records and keep Algolia up to date with your website.
 
-To reindex the records go to  **Tools**  ->  **Algolia Search**.
+To reindex the records go to  **Integrations**  ->  **Algolia Search**.
 
 ![algolia](https://raw.githubusercontent.com/yclas/guides/master/images/angolia.jpg)
