@@ -24,7 +24,7 @@ By doing this, you will have the image inserted next to the category, at the sli
 
 If you decide to change or delete your image, the steps are very easy as well. The red button :  **Delete icon**  will apprear under the uploaded icon. Just press a button, accept the operation and impose the changes.
 
-### Icont font
+### Icon font
 
 1.  Go to  **Admin Panel > Categories**  and create or edit a category.
 2.  Find the field  **Icon Font**
