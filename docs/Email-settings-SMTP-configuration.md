@@ -27,7 +27,7 @@ Go to  **Settings**  ->  **Email Settings** and scroll down to **SMTP** to speci
 
 
 
-When you finish with the configuration, click  **SAVE**
+When you finish with this configurations, click  **SAVE**
 
 ## Zoho
 
