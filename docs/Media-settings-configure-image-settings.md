@@ -7,6 +7,7 @@ When a user uploads an image, Yclas automatically resizes that image, changes it
 
 -   **Allowed image formats:**  Set this up to restrict image formats that are being uploaded to your server.
 -   **Max image size:**  Control the size of images being uploaded. Enter an integer value to set a maximum image size in megabytes (Mb).
+-   **Image quality:**  Choose the quality of the stored images (1-100% of the original)
 
 Each image is resized when uploaded.
 
@@ -17,9 +18,9 @@ A thumb is a small image resized to fit certain elements.
 
 -   **Thumb height**  (in pixels): This is the height of the thumb.
 -   **Thumb width**  (in pixels): This is the width of the thumb.
--   **Image quality:**  Choose the quality of the stored images (1-100% of the original).
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/image-settings-2.png)
+![watermark11](https://raw.githubusercontent.com/yclas/guides/master/images/watermark11.png)
+
 
 -   **Watermark:**  Appends watermark to images.
 -   **Watermark path:**  Relative path to the image to use as watermark.
