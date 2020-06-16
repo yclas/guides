@@ -11,7 +11,7 @@ Below we listed the most common error messages you may get. If there’s an erro
     Email Settings are not properly configured. You need to review  **SMTP user**  and  **SMTP password**  on Settings -> Email Settings.
     
 -   **Mailer Error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed**  
-    On Settings -> Email Settings, switch  **SMTP secure**  from SSL to TLS and  **SMTP port**  from 465 to 587.
+    On Settings -> Email, switch  **SMTP secure**  from SSL to TLS and  **SMTP port**  from 465 to 587.
     
 You may also be interested in:
 
