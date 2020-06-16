@@ -18,13 +18,14 @@ It’s now mandatory to have your site working using SMTP or  [Elasticemail](Ema
 
 Go to  **Settings**  ->  **Email Settings**  ->  **SMTP Configuration**  and specify or enable:
 
--   **Smtp active**: Enable this to activate SMTP
--   **Smtp Secure**: Enable if the SMTP connection needs to occur over ssl
 -   **Smtp host**
 -   **Smtp port**
--   **Smtp auth**: If SMTPAuth should be used
+-   **Smtp Secure**: Enable if the SMTP connection needs to occur over ssl
+-   **Smtp auth**: If SMTPAuth should be used 
 -   **Smtp user**
 -   **Smtp password**
+
+
 
 When you finish with the configuration, click  **SAVE**
 
