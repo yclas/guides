@@ -22,14 +22,13 @@ A thumb is a small image resized to fit certain elements.
 ![thumwater](https://raw.githubusercontent.com/yclas/guides/master/images/thumbwater.png)
 
 
--   **Watermark:**  Appends watermark to images.
 -   **Watermark path:**  Relative path to the image to use as watermark.
+-   **Watermark:**  Appends watermark to images.
 -   **Watermark position:**  You can select where you want the watermark to be placed.
-
-*Learn more about  **Watermark**,  **Watermark path**  and  **Watermark position**  in  _[this](Media-settings-add-watermark.md)_  guide.*
-
 -   **Disallow nude pictures:**  Restrict likely nude pictures that are being uploaded to your server.
     
  ![waterpath](https://github.com/yclas/guides/blob/master/images/watermakrpath.png)   
     
+*Learn more about  **Watermark**,  **Watermark path**  and  **Watermark position**  in  _[this](Media-settings-add-watermark.md)_  guide.*
+
 -   **Upload pictures from URL:**  When is enabled, it gives users an alternative option to upload images to their ads by using the image URL. Users can use this option when the image is already uploaded to the web.
