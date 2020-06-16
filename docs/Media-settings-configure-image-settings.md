@@ -31,4 +31,4 @@ A thumb is a small image resized to fit certain elements.
     
 *Learn more about  **Watermark**,  **Watermark path**  and  **Watermark position**  in  _[this](Media-settings-add-watermark.md)_  guide.*
 
--   **Upload pictures from URL:**  When is enabled, it gives users an alternative option to upload images to their ads by using the image URL. Users can use this option when the image is already uploaded to the web.
+-   **Upload pictures from URL:**  When enabled, it gives users an alternative option to upload images to their ads by using the image URL. Users can use this option when the image is already uploaded to the web.
