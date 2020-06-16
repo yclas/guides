@@ -2,7 +2,7 @@
 Content
 -   How to do it
     -   Image icon
-    -   Font icon
+    -   Icon font
 
 To make your categories recognisable, it is possible to add an icon to every category you have on your site. This option is available only in the  **[premium themes](https://selfhosted.yclas.com/)**. The uploaded logo appears in the  **home page**, next to the category description as shown below.
 
@@ -24,7 +24,7 @@ By doing this, you will have the image inserted next to the category, at the sli
 
 If you decide to change or delete your image, the steps are very easy as well. The red button :  **Delete icon**  will apprear under the uploaded icon. Just press a button, accept the operation and impose the changes.
 
-### Font icon
+### Icont font
 
 1.  Go to  **Admin Panel > Categories**  and create or edit a category.
 2.  Find the field  **Icon Font**
