@@ -16,7 +16,7 @@ You can easily use you own domain to send emails by using [Zoho for free](Email-
 
 It’s now mandatory to have your site working using SMTP or  [Elasticemail](Email-settings-elasticemail.md). This guide explains how to set up the SMTP configuration of your website.
 
-Go to  **Settings**  ->  **Email Settings**  ->  **SMTP Configuration**  and specify or enable:
+Go to  **Settings**  ->  **Email Settings** and scroll down to **SMTP** to specify or enable:
 
 -   **Smtp host**
 -   **Smtp port**
