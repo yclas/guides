@@ -27,7 +27,7 @@ A thumb is a small image resized to fit certain elements.
 -   **Watermark position:**  You can select where you want the watermark to be placed.
 -   **Disallow nude pictures:**  Restrict likely nude pictures that are being uploaded to your server.
     
- ![waterpath](https://github.com/yclas/guides/blob/master/images/watermakrpath.png)   
+ ![waterpath](https://raw.githubusercontent.com/yclas/guides/master/images/watermakrpath.png)   
     
 *Learn more about  **Watermark**,  **Watermark path**  and  **Watermark position**  in  _[this](Media-settings-add-watermark.md)_  guide.*
 
