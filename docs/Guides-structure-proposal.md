@@ -22,7 +22,7 @@
 - [Settings](settings.md)
 -  [Design](Design.md)
 - [Addons](Addons.md)
-- [Integrations](Integration.md)
+- [Integrations](Integrations.md)
 
 
 ## Tools
