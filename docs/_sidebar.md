@@ -32,7 +32,7 @@
 - [Plugins](Plugins.md)
 - [Translations](Translations.md)
 - [Users](Users.md)
-- [Extras](Extras.md)
+- [Tools](Extras.md)
 - [Profile](Profile.md)
 - [API documentation](api-documentation.md)
 - [Useful artciles](Useful-articles.md)
