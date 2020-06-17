@@ -10,7 +10,7 @@ In this guide, you can find all of the available plugins for your classified web
 *   Revews
 *   [Subscription/Membership](Plugins-membership-plans-to-post.md)
 *   [Social loing](Plugins-login-using-social-auth.md)
-*   [Black list](Plugins-activate-black-list.md
+*   [Black list](Plugins-activate-black-list.md)
 *   [Auto locate](Plugins-auto-locate-users.md)
 *   Adblock detector
 *   Add to home screen
