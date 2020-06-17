@@ -1,6 +1,6 @@
 # How to setup infinite ads?
 
-**Infinite ads**  is a feature we introduced to our *latest release* 2.1.4. With this feature activated you can  **see ads will be loading automatically**  whenever the user scrolls down, without the need to click on a page number or next page.
+ With this feature activated you can  **see ads will be loading automatically**  whenever the user scrolls down, without the need to click on a page number or next page.
 
 **To activate infinite scroll**  follow the next steps:
 
