@@ -56,7 +56,7 @@
 
   When an user does certain action, for example, register, they receives an automatic email for confirmation. Learn how to manage those type of emails. 
 
-- **Newsletters**
+- [**Newsletters**](Content-send-a-newsletter.md)
 
  Learn how to create newsletters for your users.
 
