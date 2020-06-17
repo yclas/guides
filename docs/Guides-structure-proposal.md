@@ -20,10 +20,10 @@
 ## Configure
 
 - [Settings](settings.md)
--  [Design](Appearance.md)
+-  [Design](Design.md)
 - [Addons](Addons.md)
 - [Integrations](Integration.md)
-- [Multilingual Classifieds](Multilingual.md)
+
 
 ## Tools
 
