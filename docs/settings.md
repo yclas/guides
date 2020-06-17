@@ -2,7 +2,8 @@
 
 - [**General**](General-Settings.md)
 
-  Every general website's setting that you can configurate in the panel.
+  Every general setting that you can configurate in the panel.
+  - [Multilingual Mode](multilingual-mode.md)
 
 - [**Advertisements**](Advertisement.md)
 
