@@ -7,6 +7,7 @@
 - [**Advertisements**](Advertisement.md)
 
   Find out all the information on advertisements, how to change their settings and additional features.
+  -    [Search ads by distance](Search-ads-by-distance.md)
 
 - [**Payments**](Payment.md)
 
