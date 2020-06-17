@@ -5,7 +5,9 @@ Content:
 
 When an user of your classified site does certain actions, e.g. register, post an ad or request to change the password, he receives an  **automatic email for confirmation**. 
 
-To see and manage those emails go to  **Panel**  and choose  **Content**  > **Email**  from the left sidebar. 
+To see and manage those emails go to  **Panel**  and choose  **Settings**  > **Newsletters**.
+
+*Note: You need to [add your SMTP configuration](Email-settings-SMTP-configuration.md) before activating this feaure.*
 
 Email templates are already created and translated to multiple languages. You can  **Edit**  them according to your needs by clicking blue button next to the template.
 ![](https://github.com/yclas/guides/blob/master/images/editemail.png)
