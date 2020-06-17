@@ -1,6 +1,6 @@
 # How to send a newsletter? 📰
 
-Yclas has a function that enables you to send  **newsletters**  to all of the registered users of your site. To make use of this option, go to  **Panel**  and choose  **Content**  > **Newsletters**  from the left sidebar.
+Yclas has a function that enables you to send  **newsletters**  to all of the registered users of your site. To make use of this option, go to  **Panel**  and choose  **Settings**  > **Newsletters**  
 
 **To send a message**  fill in the form:
 
