@@ -27,7 +27,7 @@
 
 ## Tools
 
- - [Tools](Extras.md)
+ - [Tools](Tools.md)
 ---
 ## Yclas Self-hosted
 - [Installation](Yclas-self-hosted-installation.md)
