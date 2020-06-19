@@ -10,25 +10,27 @@ Moreover, there’s an RSS for the blog. It’s a simple blog system and you wil
 
 ### Activate blog posting
 
-1.  Login to your  **Classifieds Panel**
-2.  Go to  **Settings**  >  **Plugins**
-3.  **Blog System = ON**, will add the Blog icon to the header of your theme and also in the sidebar of the panel if you are admin.
+1.  Login to your  **Admin Panel**
+2.  Go to  **Addons**  >  **Blog**
+3.  After clicking on **Blog**, you need to tick the white box on the right side in order to active this tool.
 4.  Click  **Save**
+5. The **Blog** category will appear automatically,under the **Content** section, in your admin panel after the activation of the tool. 
+
 
 ### Enable Disqus to your blog
 
 If you want to enable Disqus in the bottom of each blog post:
 
-1.  Go to  **Settings**  ->  **General**  ->  **Comments**,  **Disqus for Blog**
+1.  Go to  **Integrations**  -> find  **Disqus** and click on it ->  **Disqus for Blog**
 2.  Enter your Disqus ID.
 3.  Click  **Save**
 
 
 ### Create a New Blog Post
 
-1.  Click on  **Content**  ->  **Blog**  ->  **New**.
+1.  Go to **Content**  ->  **Blog**  ->  **New blog post**.
 2.  Fill the fields. Don’t forget to check  **Active**!
-3.  Click  **Create**.
+3.  Click on **Save**.
 4.  Your Blog Post is published!
 
 
