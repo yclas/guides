@@ -15,7 +15,7 @@ Much faster than emails! By using this tool, you can avoid sharing an email addr
 
 ### How to enable Messaging System
 
-To enable messaging system, you simply need to login to your Panel, go to  **Settings**  ->  **Plugins**  and set  **Messaging System**  to  **Enabled**.
+To enable messaging system, you simply need to login to your Panel, go to  **Configuration**  ->  **Addons**  and set  **Messaging System**  to  **Enabled**.
 
 Now, buyers can contact the seller through the messaging system.
 
