@@ -8,10 +8,10 @@
 ## [Panel](panel.md)
 
 ## Manage
-  - [Classifieds](Classifieds.md) 
+- [Classifieds](Classifieds.md) 
 - [Users](Users.md)
    - [Profile](Profile.md)
-   - [Orders](Orders.md)
+- [Orders](Orders.md)
 
 ## Content
 
