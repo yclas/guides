@@ -12,11 +12,11 @@ Monetize your Yclas website by adding commercial banners. Banners can be added t
 4.  Go to your website panel,  **Classifieds**  ->  **Categories**  or  **Locations**  and click to edit a category or location.
 5.  In the toolbar of the description field, click to upload an image and choose the image you exported from canva.com.
 
-**Create an Image Widget:**  For more information about the Image Widget, click  [here](https://docs.yclas.com/image-widget/).
+**Create an Image Widget:**  For more information about the Image Widget, click  [here](Widgets-image-widget.md).
 
 1.  Upload the exported image to a free image hosting service
 2.  Login to your admin panel
-3.  Go to Appearance -> Widgets and create an Image Widget
+3.  Go to Design -> Widgets and create an Image Widget
 4.  Enter the title that will appear above the image or leave it empty for no title.
 5.  Enter the URL of the image.
 6.  Enter the URL users will be redirected to when they click on the image. Leave empty to make image not clickable.
@@ -27,7 +27,7 @@ Monetize your Yclas website by adding commercial banners. Banners can be added t
 2.  Copy the URL of the image and paste it in the HTML code.
 3.  Insert the HTML code to:
     
-    -   **Appearance**  ->  **Theme Options**  ->  **General**  ->  **Header**  or  **Footer banner, allows HTML**
+    -   **Design**  ->  **Theme Options**  ->  **General**  ->  **Header**  or  **Footer banner, allows HTML**
     -   **Appearance**  ->  **Widgets**  -> create a  **Text Widget**  that allows HTML
 
 **To add your ads.txt file in Yclas Cloud**
