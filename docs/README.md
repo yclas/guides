@@ -47,7 +47,7 @@ This is a list with everything that you can find on our documentation and guides
 - [Design](Appearance.md)
 - [Addons](Addons.md)
 - [Integrations](Integration.md)
-- [Multilingual Classifieds](Multilingual.md) 
+  - [Multilingual Classifieds](Multilingual.md) 
 
 ## Tools
 
