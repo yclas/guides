@@ -5,7 +5,7 @@
 **Just a few steps:**
 1.  Log in to your  **Admin Panel**
 2.  Go to  **Configure** and  then choose **Addons**
-3. Find **Forum** and click on it. Then check it and press **Save**  
+3. Find **Forum** and click on it. Then check the white box and hit **Save**  
 4.  Go to  **Content > Forums** 
 5. Press on  **New**
 6. Fill in the required fields and press  **Create**
