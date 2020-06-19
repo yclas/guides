@@ -15,7 +15,7 @@ Yclas makes it easy for you to **upload** your favicon because it’s possible t
 **Follow the steps to add a favicon:**
 
 1.  Log in to your panel as admin
-2.  Go to  **Appearance**  ->  **Theme Options**
+2.  Go to  **Design**  ->  **Theme Options**
 3.  Select your logo on field  _Upload your favicon_
 4.  Click  **Update**  at the bottom of the page!
 
