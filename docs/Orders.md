@@ -1,6 +1,6 @@
 # How to place orders?
 
-You can create orders for **products** and **features** on your classified website.  For example, you can place an order to be able to  ***post in paid category*** , to ***create a feature ad*** or even ***pay an application fee.***  
+You can create orders for **products** and **features** on your website.  For example, you can place an order to be able to  ***post in paid category*** , to ***create a feature ad*** or even ***pay an application fee.***  
 Of course, you can also place orders for products.
 
 Go to your **Admin panel**, then under **Manage**, you can see the category **Order**. To create a new order, click on the blue button **New**  which is placed in the right corner of the page. A new page will open, and there you have all of the categories (that are displayed below ⬇️ ) you need to fill for your order to be successfully placed.
