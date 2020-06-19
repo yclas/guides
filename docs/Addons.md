@@ -7,7 +7,7 @@ In this guide, you can find all of the available plugins for your classified web
     -  [View/edit forum topics](Plugins-view-edit-forum-topics.md)
 *   [FAQ](Plugins-FAQ-system.md)
 *   [Messaging](Plugins-message-system.md)
-*   Revews
+*   [Reviews](Addons-Review.md)
 *   [Subscription/Membership](Plugins-membership-plans-to-post.md)
 *   [Social loing](Plugins-login-using-social-auth.md)
 *   [Black list](Plugins-activate-black-list.md)
