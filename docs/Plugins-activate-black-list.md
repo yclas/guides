@@ -5,12 +5,15 @@ The  **black list**  function  **blocks the users that published any ad you mark
 **How to activate?**
 
 1.  Log in to your  **Admin Panel**.
-2.  Go to  **Settings**  >  **Plugins**.
-3.  Set  **Black list**  value to  **ON**.
+2.  Go to  **Configuration**  >  **Addons**.
+3.  Find **Black list** and enable it by checking the box on the right. 
+4. Press **Save**
 
-  Once you do that, whenever you mark an ad as spam you will receive a  **warning message**  saying that the e-mail related to the user who published that ad is now blacklisted and prevented from posting.
+  Once you do that, whenever you mark an ad as spam you will receive an immediate  **warning message** in the same tab, saying that 
+  the e-mail related to the user who published that ad is now blacklisted and prevented from posting.
 
 To see a  **full list of blacklisted users**  follow those steps:
 
 1.  Log in to your  **Admin Panel**
-2.  Go to  **Users**  >  **Black list**
+2.  Go to  **Users** 
+3.  To find a particular user, use the **Filter** to search users via **Status** or **Role**.  
