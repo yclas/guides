@@ -16,6 +16,6 @@ To see a  **full list of blacklisted users**  follow those steps:
 
 1.  Log in to your  **Admin Panel**
 2.  Go to  **Users** 
-3.  To find a particular user, use the **Filter** to search users via **Status** or **Role**. For example, to find blacklisted users, use the following search criteria and press **Filter** :
+3.  To find a particular user, use the **Filter** to search users via **Status** or **Role**. For example, to find blacklisted users, use the following search criteria and press **Filter**:
 
 ![search users](https://raw.githubusercontent.com/yclas/guides/master/images/search%20users.png)
