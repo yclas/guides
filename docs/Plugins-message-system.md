@@ -23,9 +23,11 @@ Now, buyers can contact the seller through the messaging system.
 
 On advertisement’s page, click  **Send Message**. Then, a contact form will appear in a popup window, where you can write your message to the seller, the price you want to pay for the productc or service of an ad, and fill out the captcha field.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/message-system1.png)
+![messagesystem](https://raw.githubusercontent.com/yclas/guides/master/images/messagesystem.png)
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/message-system2.png)
+
+![messagesystem1](https://raw.githubusercontent.com/yclas/guides/master/images/messagesystem1.png)
+
 
 If your message has been sent, you will be able to see it on your  **Messages**.
 
@@ -35,24 +37,17 @@ If your message has been sent, you will be able to see it on your  **Messages**.
 
 If you are a seller and someone contacts you regarding an ad of yours, you will see a notification when you log in to the website.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/message-system5.png)
-
-To view and reply to this message, click on  **Messages**  and then on the message you want to open.
-
-![](https://raw.githubusercontent.com/yclas/guides/master/images/ms6.png)
+To view and reply to a message, click on  **Messages**  and then on the message you want to open.
 
 Enter your message and click  **Reply**.
+
 Now you can delete messages or mark them as spam.
 
 ### Spam
 
 If you have been contacted for an ad, but you think the message is a spam, you can mark it as spam.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/messaging-system7.png)
-
 You can find those messages under the Spam tab.
-
-![](https://raw.githubusercontent.com/yclas/guides/master/images/messaging-system8.png)
 
 If a sender tries to contact you again, you won’t be notified but the new message will be received under the Spam tab and you can read it if you click on the conversation with the sender.
 
