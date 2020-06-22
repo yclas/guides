@@ -9,11 +9,11 @@ This feature gives you and your users two-factor authentication. You can protect
 ## How to configure two-step authentication:
 
 1.  Login to your  **Admin Panel**.
-2.  Go to  **Settings -> General**.
-3.  Activate  **2 Step Authentication**.
+2.  Go to  **Configuration -> Integrations**.
+3.  Activate  **Google Authenticator**.
 4.  Press  **Save**
 
-![2step1](https://user-images.githubusercontent.com/55290441/80509170-b5141480-8981-11ea-9f1e-afe8f77bd1fc.png)
+![2step](https://raw.githubusercontent.com/yclas/guides/master/images/2step.png)
 
 ## How to enable the two-step authentication on your profile:
 
@@ -23,7 +23,7 @@ This feature gives you and your users two-factor authentication. You can protect
 4.  Run the app on your mobile phone, click  **Set up account**  from the options and  **scan the QR code**.
 5.  In the “2 Step Authentication” section, scan the QR code. 
 
-![2step-auth-enable2](https://user-images.githubusercontent.com/55290441/80509188-bb09f580-8981-11ea-8b19-79bf1fdb0490.png)
+![editprofile](https://raw.githubusercontent.com/yclas/guides/master/images/editprofile.png)
 
 6. Once the QR code is scanned, you will see the account created with a verification code. (There’s no need to write down or memorize the verification code because it changes every 30 seconds.)
 7. Now you will be redirected to enter the verification code and press “Send”. If the code is valid 2 Step Authentication will be enabled, otherwise you will have to scan QR code and enter the verification code again.
