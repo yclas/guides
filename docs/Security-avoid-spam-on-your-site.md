@@ -39,7 +39,7 @@ Go to the control panel and navigate to  **Configuration** -> **Settings > Gener
 
 **Black List**
 
-Next step is to activate the “Black List”. There's a [guide](Plugins-activate-black-list.md) on how to do that in our documentation.
+Next step is to activate the **Black List**. There's a [guide](Plugins-activate-black-list.md) on how to do that in our documentation.
 
 
 
