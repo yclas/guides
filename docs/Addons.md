@@ -12,5 +12,5 @@ In this guide, you can find all of the available plugins for your classified web
 *   [Social loing](Plugins-login-using-social-auth.md)
 *   [Black list](Plugins-activate-black-list.md)
 *   [Auto locate](Plugins-auto-locate-users.md)
-*   [Adblock detector](Addons- adblock-detector.md)
+*   [Adblock detector](Addons-adblock-detector.md)
 *   [Add to home screen](Addons-add-to-homescreen.md)
