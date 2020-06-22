@@ -14,6 +14,6 @@ To enable this feature for your website you need to login to the admin panel, go
 
 You probably already noticed the text below the Auto Locate option which indicates that it's required to have an SSL certificate installed for your website if you want to use this option. 
 
-To get an SSL certificate for your website please follow [this guide](https://yclas.com/faq/ssl-encryption.htm).
+To get an SSL certificate for your website please follow [this guide](https://yclas.com/faq/ssl-encryption.html).
 
 If your website is NOT hosted on yclas.com, then you need to follow [this guide](Technical-http-to-https.md).
