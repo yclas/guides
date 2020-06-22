@@ -18,7 +18,7 @@ This feature gives you and your users two-factor authentication. You can protect
 ## How to enable the two-step authentication on your profile:
 
 1.  **Login**  to your website.
-2.  Go to  **[Edit Profile](https://docs.yclas.com/how-to-edit-your-profile/)**.
+2.  Go to  **[Edit Profile](Profile-edit-users-profile.md)**.
 3.  If you don’t have  **Google Authenticator**  app installed on your mobile phone, you can choose  **Android**  or  **iOS**  below to get one.
 4.  Run the app on your mobile phone, click  **Set up account**  from the options and  **scan the QR code**.
 5.  In the “2 Step Authentication” section, scan the QR code. 
