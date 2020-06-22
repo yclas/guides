@@ -11,18 +11,6 @@ Content:
 
 ![hate-spam](https://user-images.githubusercontent.com/55290441/80505840-8b58ee80-897d-11ea-9daa-788967714fa1.png)
 
-**$ Spammers Wanted - Disconnected and Alive $**
-
-Do you own a classifieds site and you are tired of getting ads like..
-
--   African Witches Spell Caster, Magic Healer
--   Best Love Spell Caster, Black Magic Spells
--   World class traditional healer, witchcraft charms and spells
--   Work while studying
-![spammers-wanted2](https://user-images.githubusercontent.com/55290441/80505887-990e7400-897d-11ea-961b-b1ed273bd5a8.png)
-
-And lot of other annoying stuff….
-
 Spam is a serious issue, that’s why at Yclas we have developed a set of tools to help/prevent getting these ads and making your site look unprofessional.
 
 ## WE HAVE THE SOLUTION!
