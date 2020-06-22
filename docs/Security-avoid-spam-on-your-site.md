@@ -55,6 +55,7 @@ To integrate **Akismet** to your website, you have to go to **Configuration** ->
 To configure Captcha:
 
 Go to  **Configuration> Settings> Advertisement**
+
 Find and enable the **Captcha**
 
 
