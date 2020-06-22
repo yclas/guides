@@ -46,13 +46,13 @@ To enable or disable this option, go to back to **Configure**  ->  **Addons** ->
 
 When users click to  **Publish new ad**, they will be redirected to the pricing page where they can choose among the membership plans. Once they subscribe and pay, they will be able to post.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/membershipplan.png)
+![pricing](https://raw.githubusercontent.com/yclas/guides/master/images/pricing.png)
 
 Users can find information about their subscription at the bottom of the  **Edit profile**  page.
 
-Once the subscription expires, an email will be sent to the user with a link to pay and renew his plan. More information about this on  **Content**  ->  **Email**,  _plan-expired_.
+Once the subscription expires, an email will be sent to the user with a link to pay and renew his plan. 
 
-You can find information about all the users subscriptions on Panel,  **Classifieds**  ->  **Subscriptions**.
+You can find information about all the users subscriptions when you go to your **Panel** ->  **Addons**  ->  **Subscriptions**.
 
 ### Recurring Membership Plans
 
