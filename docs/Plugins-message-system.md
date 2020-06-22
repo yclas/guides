@@ -33,7 +33,6 @@ If your message has been sent, you will be able to see it on your  **Messages**.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/message-system3.png)
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/message-system4.png)
 
 If you are a seller and someone contacts you regarding an ad of yours, you will see a notification when you log in to the website.
 
