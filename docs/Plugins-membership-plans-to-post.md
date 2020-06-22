@@ -12,15 +12,16 @@ With Subscriptions/Memberships you can charge daily, weekly, monthly or yearly s
 ### How to activate it?
 
 Steps to follow:
-1.  Go to your Panel,  **Settings**  ->  **Plugins**.
-2.  Activate  **Subscriptions / Memberships**.
+1.  Go to your Panel,  **Configure**  ->  **Addons**.
+2.  Find  **Subscriptions / Memberships** and activate the feature.
 3.  Click  **Save**.
 
 
 ### Create Plans
 
-1.  Go to  **Classifieds**  ->  **Plans**.
-2.  Click  **New**.
+1.  Again, go to  **Configure**  ->  **Addons** ->  **Subscriptions / Memberships** and click on configure.
+2.  You can find the field **Plans** in the down part of the page. 
+3.  Click on **New plan**
 3.  Fill the fields.
 4.  Click  **Submit**.
 
@@ -33,11 +34,13 @@ Steps to follow:
 -   **Marketplace Fee:**  If  [Marketplace feature](Payment-set-up-marketplace-with-srtipe-connect.md)  is activated then seller is charged this fee instead of the one is configured.
 -   **Status:**  If is checked, the plan is activated. Uncheck if you want to deactivate the plan.
 
+![membership](https://raw.githubusercontent.com/yclas/guides/master/images/membership.png)
+
 ### Subscription Expire
 
 With this option enabled, the user’s ads will expire and the profile becomes disabled. The ads and the user’s profile become available when the user renews or purchases their subscription plan.
 
-To enable or disable this option, go to  **Settings**  ->  **General**  ->  **Additional Features**  ->  **Subscription Expire**.
+To enable or disable this option, go to back to **Configure**  ->  **Addons** ->  **Subscriptions / Memberships**  ->  **Subscription Expire**. You can check the box to enable this feature.
 
 ### How it works
 
