@@ -1,10 +1,10 @@
 # How to Setup Payment Gateways
 Content:
 -   Payment methods
+    -   Paypal
     -   Alternative payment
     -   Stripe
     -   Escrow
-    -   Paypal
     -   2checkout
     -   Authorize.net
     -   Paymill
@@ -32,6 +32,14 @@ Let’s first go through the payment settings we have here, of course you can ac
 
 ## Payment methods:
 
+
+### Paypal
+
+To accept Paypal payments you need to  **set up a Paypal account**,  **enable Instant payment notifications**  in your PayPal account (Seller Preferences -> Instant payment notifications), enter your website URL (http://example.com) into the Notification URL field and then input the paypal e-mail in its designated box in your website admin panel:
+
+**Paypal account:**  Input here your Paypal email  
+**Sandbox:**  Enable testing mode  
+
 ### Alternative payment:
 
 Here you can choose a page that you created to pop up when a client clicks on alternative payment, we added this in case you needed to charge clients in another way so you can create a page with the instructions and it will pop up.
@@ -54,14 +62,6 @@ To get paid via credit card you can also use a Stripe account, It’s also  [fre
 
 With escrow the money gets on hold until the buyer receives the item. To configure Escrow follow  [this guide](Payment-marketplace-with-escrow.md)
 
-----------
-
-### Paypal
-
-To accept Paypal payments you need to  **set up a Paypal account**,  **enable Instant payment notifications**  in your PayPal account (Seller Preferences -> Instant payment notifications), enter your website URL (http://example.com) into the Notification URL field and then input the paypal e-mail in its designated box in your website admin panel:
-
-**Paypal account:**  Input here your Paypal email  
-**Sandbox:**  Enable testing mode  
 
 ----------
 
