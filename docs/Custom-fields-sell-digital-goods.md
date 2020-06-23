@@ -56,8 +56,7 @@ If this feature is properly configured, the result should be this:
 
 5. Choose  **Credentials**  on the left sidebar and click  **Create Credentials**  ->  **OAuth Client ID**
 6. Click  **Configure consent screen**
-![](https://github.com/yclas/guides/blob/master/images/ncf7.png)
-![](https://github.com/yclas/guides/blob/master/images/ncf8.png)
+
 
 7. Choose your Email address, enter the  **Product name**,  **Privacy Policy URL**  and click  **Save**
 ![](https://github.com/yclas/guides/blob/master/images/ncf9.png)
