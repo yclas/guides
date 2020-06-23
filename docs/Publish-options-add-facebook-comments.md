@@ -25,7 +25,7 @@ This feature requires  **two steps**  one on  **Facebook side**  and one on  **Y
 ## Yclas side
 
 1.  Log in to your  **admin panel**.
-2.  Go to  **Settings**  >  **Advertisement**  >  **Advertisement Display Options**.
+2.  Go to  **Configure**  >  **Integrations**  >  **Social** -> **Facebook**
 3.  Enter the  **Facebook App ID**  into the  **Facebook comments**  box.
 4.  Press  **Save**!
 
