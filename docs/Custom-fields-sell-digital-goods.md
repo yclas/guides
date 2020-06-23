@@ -66,7 +66,7 @@ If this feature is properly configured, the result should be this:
 ![](https://github.com/yclas/guides/blob/master/images/ncf12.png)
 
 11. Copy the Client ID and paste it to your website admin panel -> **Configure**  ->  **Integrations**  ->  **Google Picker**  ->  **Google Picker Client ID**  and press  **Save**
-![]https://github.com/yclas/guides/blob/master/images/ncf13.png)
+
 
 10. Go to  **Libary**, find and enable  **Google Picker API**
 ![](https://github.com/yclas/guides/blob/master/images/ncf14.png)
