@@ -14,7 +14,7 @@ This is a new and important feature because it lets the owners of the websites a
 ## Quick configuration
 
 1.  Login into your admin panel
-2.  Go to  **Classifieds -> Custom Fields**  and press  **Templates**.
+2.  Go to  **Configure** -> **Settings** -> **Custom Fields**  and press  **Custom fields templates**.
 3.  Select  **Type: Car**  and choose the categories you want the fields to be applied in the input below. Leave the categories input empty if you want the fields to be applied to all the categories of your website.
 4.  Press  **Create**
 
@@ -25,7 +25,7 @@ This action will automatically enable  _CarQuery_  on Settings -> General -> Car
 ### Enable CarQuery
 
 1.  Login to your admin panel
-2.  Go to  **Settings -> General -> CarQuery**
+2.  Go to  **Configure -> Integrations-> CarQuery**
 3.  Enable  **CarQuery**  and press  **Save**
 
 
@@ -33,7 +33,7 @@ This action will automatically enable  _CarQuery_  on Settings -> General -> Car
 
 Tip: Name the custom field: **year** 
 
-1.  Go to  **Classifieds -> Custom Fields**
+1.  Go to  **Configure** -> **Settings** -> **Custom Fields**
 2.  Press  **New Field**
 3.  Enter  **year**  in the  _Name_  input and in the  _Type_  input, choose  **Select**. This is important in order to have the desired functionality.
 4.  Fill the other fields.
@@ -42,7 +42,7 @@ Tip: Name the custom field: **year**
 
 Tip: Name the custom field: **make**
 
-1.  Go to  **Classifieds -> Custom Fields**
+1.  Go to  **Configure** -> **Settings** -> **Custom Fields**
 2.  Press  **New Field**
 3.  Enter  **make**  in the  _Name_  input and in the  _Type_  input, choose  **Select**. This is important in order to have the desired functionality.
 4.  Fill the other fields.
@@ -51,7 +51,7 @@ Tip: Name the custom field: **make**
 
 Tip: Name the custom field: **model**
 
-1.  Go to  **Classifieds -> Custom Fields**
+1.  Go to  **Configure** -> **Settings** -> **Custom Fields**
 2.  Press  **New Field**
 3.  Enter  **model**  in the  _Name_  input and in the  _Type_  input, choose  **Select**. This is important in order to have the desired functionality.
 4.  Fill the other fields.
