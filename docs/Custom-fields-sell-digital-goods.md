@@ -17,31 +17,29 @@ Now sellers can upload files to their ads from Dropbox or Google Picker and sell
 ## Prerequisites
 
 -   Dropbox  or  Google Picker app is created and configured.
--   [Buyer instructions custom field](/Custom-fields-buyer-instructions.md)  is created.
+-   [Buyer instructions custom field](Custom-fields-buyer-instructions.md)  is created.
 -   Seller fills the “Buyer instructions” custom field while posting the ad.
 -   File download custom field  is created.
 -   Seller selects the file while posting the ad.
 
 ## Create the File field
 
-1.  Create a Custom Field on  **Classifieds -> Custom Fields -> New**
+1.  Create a Custom Field on  **COnfigure** -> **Settings** -> **Custom Fields** -> **New**
 2.  The custom field  _Name_  must be  **file_download**  and  _Type_  must be  **File Dropbox**  or  **File Google Drive**
 3.  The custom field values are comma separated allowed file extensions
 4.  Now you need to configure one of the methods described below
 
-![](https://github.com/yclas/guides/blob/master/images/newcustomfiled1.png)
 
 
 ## Dropbox
 
 1.  Create a new app on the  [Dropbox Platform](https://www.dropbox.com/developers/apps/create)
 2.  While you create the app, add your website URL to  **Chooser/Saver domains**
-3.  Copy the  **App key**  from your app and paste it in your website panel,  **Setting -> Advertisement -> Dropbox -> App key**
+3.  Copy the  **App key**  from your app and paste it in your website panel,  **Configure -> Integrations -> Dropbox -> App key**
 
 If this feature is properly configured, the result should be this:
 
 ![](https://github.com/yclas/guides/blob/master/images/newcustomfield2.png)
-
 
 
 ## Google Picker
@@ -53,8 +51,9 @@ If this feature is properly configured, the result should be this:
 3. Choose  **Credentials**  on the left sidebar and click  **Create Credentials**  ->  **API key**
 ![](https://github.com/yclas/guides/blob/master/images/newcustomfield4.png)
 
-4. Copy your  **API key**  and paste it to your website admin panel ->  **Settings**  ->  **Advertisement**  ->  **Google Picker**  ->  **Google Picker API Key** ![](https://github.com/yclas/guides/blob/master/images/ncs5.png)
-![](https://github.com/yclas/guides/blob/master/images/ncf6.png)
+4. Copy your  **API key**  and paste it to your website admin panel ->  **Configure**  ->  **Integrations**  ->  **Google Picker**  ->  **Google Picker API Key** ![](https://github.com/yclas/guides/blob/master/images/ncs5.png)
+![Google picker](https://raw.githubusercontent.com/yclas/guides/master/images/google%20picker.png)
+
 5. Choose  **Credentials**  on the left sidebar and click  **Create Credentials**  ->  **OAuth Client ID**
 6. Click  **Configure consent screen**
 ![](https://github.com/yclas/guides/blob/master/images/ncf7.png)
@@ -67,7 +66,7 @@ If this feature is properly configured, the result should be this:
 ![](https://github.com/yclas/guides/blob/master/images/ncf10.png)
 ![](https://github.com/yclas/guides/blob/master/images/ncf12.png)
 
-11. Copy the Client ID and paste it to your website admin panel ->  **Settings**  ->  **Advertisement**  ->  **Google Picker**  ->  **Google Picker Client ID**  and press  **Save**
+11. Copy the Client ID and paste it to your website admin panel -> **Configure**  ->  **Integrations**  ->  **Google Picker**  ->  **Google Picker Client ID**  and press  **Save**
 ![]https://github.com/yclas/guides/blob/master/images/ncf13.png)
 
 10. Go to  **Libary**, find and enable  **Google Picker API**
