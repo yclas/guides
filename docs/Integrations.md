@@ -1,6 +1,7 @@
 ## Integrations 
 
 ### Popular
+
 * [Elastic Email](Email-settings-elasticemail.md)
 * [PayPall](Payment-set-up-payment-gateways.md)
 * [Google Analytics](General-add-tracking-codes.md)
@@ -32,6 +33,7 @@
 
  ---
 ## Social
+
 * [Facebook](Publish-options-add-facebook-comments.md)
 * [Logbee]()
 * [Pinterest]()
