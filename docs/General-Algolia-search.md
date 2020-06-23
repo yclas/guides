@@ -14,7 +14,7 @@ Follow the steps below to use Algolia search in your website:
 
 ![algolia1](https://user-images.githubusercontent.com/55290441/80630311-aea69b00-8a5c-11ea-9b2f-b10bda82c4c4.png)
 
-6. Copy the  **Application ID**,  **Admin API Key**  and  **Search-Only API Key**  and paste them into your website admin panel,  **Settings**  ->  **General**  ->  **Algolia Search**.
+6. Copy the  **Application ID**,  **Admin API Key**  and  **Search-Only API Key**  and paste them into your website admin panel,  **Configuration**  ->  **Integrations**  ->  **Algolia**.
 
 ![algolia2](https://user-images.githubusercontent.com/55290441/80630301-ad756e00-8a5c-11ea-8695-7201112924e3.png)
 
