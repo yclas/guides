@@ -35,8 +35,8 @@
 ## Social
 
 * [Facebook](Publish-options-add-facebook-comments.md)
-* [Logbee]()
-* [Pinterest]()
-* [Twitter]()
+* [Logbee](Logbee.md)
+* [Pinterest](Pinterest.md)
+* [Twitter](Twitter.md)
 
 
