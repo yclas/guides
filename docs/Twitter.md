@@ -14,7 +14,7 @@ Here’s how to connect your website to your Twitter account and automatically s
 
 6. On the same page, get the  **Access Token**  and  **Access Token Secret**
 
-7. Login to your admin panel and go to  **Settings -> Advertisement -> Social**
+7. Login to your website's admin panel ->  **Configure -> Integrations -> Social** and find **Twitter**
 
 8. Enable  **Twitter -> Auto Post**  and enter the  **Consumer Key**,  **Consumer Secret**,  **Access Token**  and  **Access Token Secret**
 
