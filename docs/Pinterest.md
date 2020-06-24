@@ -16,6 +16,9 @@ If you still don't know how to find your App ID, App Secret or Board, read more 
 
 If you still don't know how to find your App ID, App Secret or Board, read more [here](https://developers.pinterest.com/docs/api/overview/?)
 
+
+---
+
 **Related guides:**
 
 -   [How to Auto Post on Social media](Publilsh-options-auto-post-on-social-media.md)
