@@ -44,9 +44,9 @@ This is a list with everything that you can find on our documentation and guides
 ## Configure
 
 - [Settings](settings.md)
-- [Design](Appearance.md)
+- [Design](Design.md)
 - [Addons](Addons.md)
-- [Integrations](Integration.md)
+- [Integrations](Integrations.md)
 
 
 ## Tools
