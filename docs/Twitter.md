@@ -21,8 +21,8 @@ Here’s how to connect your website to your Twitter account and automatically s
 9. Click  **Save**
 
 
+---
 
+  **Related guides:**
 
-**Related guides:**
-
--   [How to Auto Post on Social media](Publilsh-options-auto-post-on-social-media.md)
+ -   [How to Auto Post on Social media](Publilsh-options-auto-post-on-social-media.md)
