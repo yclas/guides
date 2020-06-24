@@ -1,8 +1,8 @@
 # Logbee 🐝
 
  Integrate LogBee delivery services into your website in a few simple steps.
- 1. Go to your **admin panel** -> **Configure** -> **Integrations** ->  find **Social** and click on **Logbee** 
-
+ 1. Go to your **admin panel** -> **Configure** -> **Integrations** ->  find **Social** and click on **Logbee**
+ 2. Create an account on [Logbee's official website](https://www.logbee.com/login;jsessionid=gzTkxwGG6yRuaO5-PKOAnho7?0)
 Logbee makes daily deliveries and offers optimized routes so that your product reaches your customers fast and for a resonable price. 
 The higher the volume of deliveries, the lower the price, thanks to their special optimization process.
 
