@@ -57,15 +57,13 @@ The traditional installation is suitable for anyone who wants to use it.
 
 Note: To install it, you will need a Database and a Username created in your hosting. Follow [this link](https://docs.yclas.com/create-mysql-database) to learn how to create a MySQL Database.
 
-[Video Guide](https://www.youtube.com/watch?v=PLW0qfeWudE) 
-
 **
 
 ## Theme Installation
 
 **For 2.x versions**
 
--   Go to Panel > Appearance > Themes
+-   Go to Panel > Design > Themes
     
 -   Input your license number
     
@@ -79,7 +77,7 @@ Note: To install it, you will need a Database and a Username created in your hos
     
 -   Uncompress the folder /themes/
     
--   Go to the Admin Panel, area Appearance > Themes and select the theme
+-   Go to the Admin Panel, Design > Themes and select the theme
     
 
 [Old 1.X version installation video](https://www.youtube.com/watch?v=u8KbTWoy4jM)
