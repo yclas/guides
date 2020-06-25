@@ -1,3 +1,9 @@
+## About
+
+This is the official API Documentation for Yclas. With this API you will be able to extend the usage of your site, for example with native iOS and Android APPS. 
+
+More information native [iOS app](https://yclas.com/ios-app.html) and native [Android app](https://yclas.com/android-app.html)
+
 <!-- MarkdownTOC -->
 
 - [About](#about)
@@ -34,14 +40,6 @@
     - [Messages](#messages)
 
 <!-- /MarkdownTOC -->
-
-
-
-## About
-
-This is the official API Documentation for Yclas. With this API you will be able to extend the usage of your site, for example with native iOS and Android APPS. Only available for Yclas Self Hosted 2.5.0 or newer and all Yclas installations.
-
-Contact us if you are interested to purchase the native mobile APPS [here](https://yclas.com/contact).
 
 
 ### REST
