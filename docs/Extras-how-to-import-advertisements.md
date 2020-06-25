@@ -1,4 +1,4 @@
-# How to Import Advertisements
+# How to import ads
 Content:
 -   How to use this feature
 
@@ -39,16 +39,11 @@ Now it’s possible to import ads with custom fields. All you need to do is to a
 You can use this easy import tool to add all of your ads with a press of a button. You simply need to follow those steps:
 
 -   Log into your  **Admin Panel**
--   Go to  **Extras**  >  **Import**
--   Click  **Browse**  to select your CVS file and then press  **Upload**
+-   Go to  **Tools**  >  **Import Ads**
+-   Click on  **Choose File**  to select your CVS file and then press  **Upload**
+-   Now click on **Process**  on the **Process Queue** box which is displayed on the right side of the page.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/import-ads1.png)
-
--   Click  **Process**  on the right box.
-
-![](https://raw.githubusercontent.com/yclas/guides/master/images/import-ads2.png)
-
-Now, you can see the imported ads on  **Classifieds**  ->  **Advertisements**.
+Now, you can see the imported ads on **Manage** -> **Advertisements**.
 
   
 **Related posts:**
