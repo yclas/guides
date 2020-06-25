@@ -2,6 +2,7 @@
 Content:
 -   How to set up your cron
 -   How to edit or add New Crontab
+-   How to filter Crontabs
 
 Cron is a program that enables users to execute commands automatically at a specific time. On Yclas ii is usually used for generating the website's sitemap.
 
@@ -21,7 +22,14 @@ Login to your Panel,  **Extras**  ->  **Crontab**  and click the  **Edit**  butt
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/crontab2.png)
 
-If you want to  **add a New Crontab**, click  **New**  on  **Tools**  ->  **Crontab**.
+If you want to  **add a New Crontab**, go to **Tools**  ->  **Crontab** and clik on **New**
+
+
+## How to filter Crontabs
+
+ Go to **Tools**  ->  **Crontab** -> **Filter**
+ You can use the filter to search for specific Crontabs. You can filter Crontabs on the basis of **running** and **active**
+ 
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/crontab3.png)
 
