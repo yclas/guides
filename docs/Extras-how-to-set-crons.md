@@ -10,7 +10,7 @@ Cron is a program that enables users to execute commands automatically at a spec
 
 Crons are enabled by default but you can disable it if you want.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/crontab1.png)
+![disablecrontab](https://raw.githubusercontent.com/yclas/guides/master/images/disablecrontab.png)
 
 ## How to edit or add New Crontab
 
@@ -18,11 +18,13 @@ This part is only for advanced users.
 
 **Steps:**
 
-Login to your Panel,  **Extras**  ->  **Crontab**  and click the  **Edit**  button next to the crotab you want to update.
+Login to your Panel,  **Tools**  ->  **Crontab**  and click the  **Edit**  button next to the crotab you want to update.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/crontab2.png)
+![crontabedit](https://raw.githubusercontent.com/yclas/guides/master/images/crontabedit.png)
 
-If you want to  **add a New Crontab**, go to **Tools**  ->  **Crontab** and clik on **New**
+If you want to  **add a New Crontab** clik on **New**
+
+![crontabnew](https://raw.githubusercontent.com/yclas/guides/master/images/crontabnew.png)
 
 
 ## How to filter Crontabs
@@ -30,8 +32,8 @@ If you want to  **add a New Crontab**, go to **Tools**  ->  **Crontab** and clik
  Go to **Tools**  ->  **Crontab** -> **Filter**
  You can use the filter to search for specific Crontabs. You can filter Crontabs on the basis of **running** and **active**
  
+![crontab](https://raw.githubusercontent.com/yclas/guides/master/images/crontab.png)
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/crontab3.png)
 
 *The function needs to be a static method.
 
