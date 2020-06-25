@@ -24,6 +24,7 @@ You can get started right away without any technical knowledge. You can create y
 
 This is a list with everything that you can find on our documentation and guides! 
 
+## Home
 - [How to use Yclas support system](Home-how-to-use-yclas-support-system.md)
 - [API documentation](api-documentation.md)
 - [Useful artciles](Useful-articles.md)
