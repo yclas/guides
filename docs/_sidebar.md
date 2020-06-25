@@ -3,7 +3,7 @@
 ## [Home](README.md)
   - [How to use Yclas support system](Home-how-to-use-yclas-support-system.md)
   -  [API documentation](api-documentation.md)
-- [Useful artciles](Useful-articles.md)
+  - [Useful artciles](Useful-articles.md)
 ---
 
 ## [Panel](panel.md)
@@ -35,4 +35,4 @@
 - [License](License.md)
 - [Development](Yclas-self-hosted-development.md)
 - [Technical](Yclas-self-hosted-technical.md)
-   - [Technical issues](Technical-issues.md)
+- [Technical issues](Technical-issues.md)
