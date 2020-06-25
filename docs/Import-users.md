@@ -36,6 +36,4 @@ You can use this easy import tool to add all of your users with a press of a but
 
 -   Click  on **Process**  in the right box, named "**Process Queue**".
 
-![import users1](https://raw.githubusercontent.com/yclas/guides/master/images/import%20users1.png)
-
 Now, you can see the imported users on  **Manage**  ->  **Users**.
