@@ -75,21 +75,21 @@ To create values,write them down followed by comma (e.g. Paris, London, Madrid, 
 
 ( see:  [Integrated custome fields into selected categories](Custom-fields-how-to-integrate-your-custom-field-into-selected-categories.md) )
 
-## 7. **Required**
+## 7. **Required:**
 
-: this will make it a required field needing validation.
+this will make it a required field needing validation.
 
-## 8. **Searchable**:
+## 8. **Searchable:**
 
  this makes the field searchable.It will appear in Advanced searchs too.
 
-## 9. **Admin privileged**
+## 9. **Admin privileged:**
 
-: this field can be seen and edited only by the admin.
+ this field can be seen and edited only by the admin.
 
-## 10. **Show listing**:
+## 10. **Show listing:**
 
-Users will see the custom field in listings view without having to enter the ad.
+users will see the custom field in listings view without having to enter the ad.
 
 Once you have written down all the required information, click  **Create**. New field is created and added to database, and it will appear in Post new ad, Edit ad and Advanced search.
 
