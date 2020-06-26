@@ -1,22 +1,18 @@
 # Verified User
 
-This new feature allows admins and moderators to mark a user account as verified. A verified user is usually a trustworthy user. Once a user is verified a badge is added next to the username.
+This  feature allows admins and moderators to mark a user account as verified. 
+A verified user would be considerate a more trustworthy user. Once a user is verified a badge is displayed next to their username. It can be viewed in the user's ad pages, their profile and listing page.
 
-The following steps explain how to enable this feature:
+Follow these steps to verify a user:
 
 1.  Login to your admin panel.
-2.  Go to  **Users -> User Custom Fields**  and press  **New Field**.
-3.  Enter  **verifiedbadge**  in the field called name, for the type choose  **Checkbox**  and check  **Searchable**. Also fill the fields Label and Tooltip and press  **Save**.
+2.  Create a new custom field named " **verifiedbadge** "  ( [How to create a custom field](Custom-fields-create-custom-fields.md)  )
+3.  Then go to **Configure -> Settings - > Custom Fields**  and select  **New Field**.
+4.  Enter  **verifiedbadge** as the new field's name, choose  **Checkbox** as a type  and tick the  **Searchable** option.  You have to fill the fields Label and Tooltip and press  **Save**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/verify.png)
+![verifieduser](https://raw.githubusercontent.com/yclas/guides/master/images/verifieduser.png)
 
-The user custom field is created, you can edit it on  **Users -> Users**  by updating a user profile. 
-
-![](https://raw.githubusercontent.com/yclas/guides/master/images/verify1.png)
-
-The verified badge is visible on the verified user ad pages, user profile page and the users list page.
-
-![](https://raw.githubusercontent.com/yclas/guides/master/images/verify2.png)
+After the user custom field is created, you can edit it on  **Users -> Users**  by updating a user profile. 
 
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/verify3.png)
+
