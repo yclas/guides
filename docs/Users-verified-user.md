@@ -12,7 +12,7 @@ Follow these steps to verify a user:
 
 ![verifieduser](https://raw.githubusercontent.com/yclas/guides/master/images/verifieduser.png)
 
-After the user custom field is created, you can edit it on  **Users -> Users**  by updating a user profile. 
+After the custom field is created, you can edit it direclty from **Manage** -> **Users -> **Edit**  and update it in the user's profile. 
 
 
 
