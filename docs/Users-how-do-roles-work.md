@@ -1,33 +1,38 @@
-# How do user roles work with our classified ads script?
+# How do user roles work ?
 
-At some stage after the development of your classifieds website, you will need to  **delegate other people to do some work**  for you, from translation and content creation to moderation and website administration.
+Learn how to assign people to work for your website as translatiors, content creatiors, moderatiors or website administratiors.
 
-With our open source classifieds script you could do that easily! Let’s do an example of setting things up for a person, whom we will delegate to create content on our classifieds website.
+Follow the steps:
 
-1.  First go to your classifieds website  **Admin Panel**
-2.  Go to  **Users**  >  **Roles**
-3.  Create a  **New Role**  and press  **Submit**
+ -  First go to your **Admin Panel**
+ -  Then go to **Manage** -> **Users**  
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/newrole.png)
+**a)**  If you want to create a **new user's account** and assign a certain role. 
+
+   Follow this steps to create a new user:
+ -  click on create  **New** and add all of the necessary infromation including **Role**.  Choose between:  translator,  moderator and  admin
+ -  press  **Submit**
+
+![newuser](https://raw.githubusercontent.com/yclas/guides/master/images/newuser.png)
+
+**b)**  If you want to  **Edit**  an already created user's profile.  
+1. When you click on **Edit** the selected user's profile will open and you'll be able to change any information and settings.  
+
+![useredit](https://raw.githubusercontent.com/yclas/guides/master/images/useredit.png)
+
+2. To edit a user's assigned role, click on **Role** and select another role from the list.   
+
+![userrole](https://raw.githubusercontent.com/yclas/guides/master/images/userroles.png)
   
-4.  **Edit**  the newly created role  
-5. You will find a long list of  **privileges**, pick the ones you need to give access to and press  **Update**  Have the person helping you can  **create a new user**  or you can create one for him.
-6.  Go to  **Users**  >  **Users**  in your  **Admin Panel**
-7.  Edit the account
-8.  Change the role to the new one you created
-9.  Done!  
-      
+  ## Roles and functions
     
-![](https://raw.githubusercontent.com/yclas/guides/master/images/newrole1.png)
-
-Normal  **user**  has access to:
+ **Normal  users**  have access to:
 
 -   messages.*
 -   myads.*
 -   profile.*
 
-  
-**Translator**  can access:
+   **Translators**  can access:
 
 -   content.*
 -   messages.*
@@ -36,7 +41,7 @@ Normal  **user**  has access to:
 -   translations.*
 
   
-**Moderator**  can access:
+**Moderators**  can access:
 
 -   blog.*
 -   category.*
@@ -49,4 +54,4 @@ Normal  **user**  has access to:
 -   translations.*
 
   
-**Admin**  can access all the areas.
+**Admins**  can access all of the areas and functions.
