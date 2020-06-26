@@ -8,10 +8,11 @@ This feature requires  **two steps**  one on  **Facebook side**  and one on  **Y
 
 ## Facebook side
 
-**(might change depending on Facebook!)**
+*Note : This  might change depending on Facebook set up and configuration*
 
-1.  First you need to  **log in to Facebook**  and go to https://developers.facebook.com
+1.  First, please access https://developers.facebook.com on your preferred computer device.
 2.  Click on  **Apps**  (register as a developer if you haven’t already)
+
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/fb1.png)
 
 
@@ -22,6 +23,7 @@ This feature requires  **two steps**  one on  **Facebook side**  and one on  **Y
 4.  **Copy the App ID**  that shows up after creation
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/fb3.png)
+
 ## Yclas side
 
 1.  Log in to your  **admin panel**.
