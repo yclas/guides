@@ -32,7 +32,7 @@ To create a new field, go to  **Admin Panel**, press  **Classifieds**  select  *
 
 Then click  **New Field**  button on the right corner.
 
-![custom-fields1](https://user-images.githubusercontent.com/55290441/80696889-c6bffe00-8ae0-11ea-9269-b9a488e8ef58.png) 
+![customfiledcreate](https://raw.githubusercontent.com/yclas/guides/master/images/customfieldcreate.png) 
 
 
 This is a  **New Custom Field**  screen. There are 10 options in total.
