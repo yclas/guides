@@ -53,6 +53,6 @@ This is a list with everything that you can find on our documentation and guides
 - [Technical issues](Technical-issues.md)
 
   
-*Note: You need to have the **latest version of Yclas Self-hosted** to get most of the features listed below.*
+*Note: You need to have the **latest version of Yclas Self-hosted** to get most of the features listed below1.*
 
 
