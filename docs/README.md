@@ -1,10 +1,10 @@
 # Welcome to Yclas
 
-Welcome to our documentation pages **👋** Here you can find all of the information you need to get started with Yclas
+Welcome to our documentation pages **👋** Here, you can find all of the information you need to get started with Yclas.
 
 ## About Yclas
     
-Yclas is a platform where you can create and **build classifieds websites** within minutes without the need of technical knowledge!
+Yclas is a platform where you can create and **build classified websites** with just easy steps within minutes.
 
 Thousands of entrepreneurs and business owners built their marketplaces by using our software. 
 
@@ -28,7 +28,7 @@ This is a list with everything that you can find on our documentation and guides
 - [How to use Yclas support system](Home-how-to-use-yclas-support-system.md)
 - [API documentation](api-documentation.md)
 - [Useful artciles](Useful-articles.md)
----
+
 ## [Panel](panel.md)
 ## Manage
 - [Classifieds](Classifieds.md) 
