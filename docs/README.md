@@ -29,7 +29,10 @@ This is a list with everything that you can find on our documentation and guides
 - [API documentation](api-documentation.md)
 - [Useful artciles](Useful-articles.md)
 
-## [Panel](panel.md)
+## Panel
+* [Site & advertisements stats](Panel-site-advertising-stats.md)
+* [Admin keyword shortcuts](Panel-amin-keyword-shortcuts.md)
+
 ## Manage
 - [Classifieds](Classifieds.md) 
 - [Users](Users.md)
