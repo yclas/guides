@@ -2,7 +2,7 @@
 
 Welcome to our documentation pages **👋** Here, you can find all of the information you need to get started with Yclas.
 
-## About Yclas
+# About Yclas
     
 Yclas is a platform where you can create and **build classified websites** with just easy steps within minutes.
 
@@ -22,33 +22,36 @@ You can get started right away without any technical knowledge. You can create y
 
 *Note: You need to have the **latest version of Yclas Self-hosted** to get most of the features listed below.*
 
-This is a list with everything that you can find on our documentation and guides! 
+This is a list with everything that you can find on our documentation and guides.
 
-## Home
+# Home
 - [How to use Yclas support system](Home-how-to-use-yclas-support-system.md)
 - [API documentation](api-documentation.md)
 - [Useful artciles](Useful-articles.md)
 
-## Panel
+# Panel
 * [Site & advertisements stats](Panel-site-advertising-stats.md)
 * [Admin keyword shortcuts](Panel-amin-keyword-shortcuts.md)
 
-## Manage
+# Manage
 - [Classifieds](Classifieds.md) 
 - [Users](Users.md)
 - [Profile](Profile.md)
 - [Orders](Orders.md)
-## Content
+
+# Content
 - [Content](Content.md)
-## Configure
+
+# Configure
 - [Settings](settings.md)
 - [Design](Design.md)
 - [Addons](Addons.md)
 - [Integrations](Integrations.md)
-## Tools
+
+# Tools
 - [Tools](Extras.md)
 ---
-## Yclas Self-hosted
+# Yclas Self-hosted
 - [Installation](Yclas-self-hosted-installation.md)
 - [License](License.md)
 - [Development](Yclas-self-hosted-development.md)
