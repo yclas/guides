@@ -123,6 +123,6 @@ From what you read in the earlier section you can see that the names and descrip
 
 So my first advice is to write well designed category and location descriptions, not exceeding 155 and with good language (no typos or grammatical mistakes).
 
-Second: remember that Yclas lets you have a blog, an FAQ section and a forum section, so you can also use those to your advantage to create content that is designed for your targeted users and filled with relevant keywords.
+Second, remember that Yclas lets you have a blog, an FAQ section and a forum section, so you can also use those to your advantage to create content that is designed for your targeted users and filled with relevant keywords.
 
 Remember that  [Yclas](http://yclas.com/)  doesn’t do all the work for you but it gives you a good push on the right track but make sure you keep on link building, creating content, maintaining good language on the site and no link or keyword cluttering.
