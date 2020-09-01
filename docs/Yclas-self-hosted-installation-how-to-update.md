@@ -12,6 +12,7 @@ Follow these simple steps and update to the newest version available.
 
  - 4.x version requires **PHP 7.2** as a minimal version. 
  - Make sure that you have a **PHP 7** before updating. You can ask your hosting provider for it. This is necessary because you need to have a decent updated version of **PHP** installed for your hosting.
+ - If you have Yclas Self-hosted Pro, be sure your susbscription is active so you get latest Pro version. [Please buy here](https://yclas.com/self-hosted.html)
 
 
 
