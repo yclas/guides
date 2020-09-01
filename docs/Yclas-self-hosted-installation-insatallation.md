@@ -55,30 +55,19 @@ The traditional installation is suitable for anyone who wants to use it.
 -   You are all ready to start!
     
 
-Note: To install it, you will need a Database and a Username created in your hosting. Follow [this link](https://docs.yclas.com/create-mysql-database) to learn how to create a MySQL Database.
+Note: To install it, you will need a Database and a Username created in your hosting. Follow [this link](https://guides.yclas.com/#/Yclas-self-hosted-installation-mySQL-database) to learn how to create a MySQL Database.
 
 **
 
 ## Theme Installation
 
-**For 2.x versions**
-
--   Go to Panel > Design > Themes
-    
--   Input your license number
-    
--   You are ready
-    
 
 
 **Traditional installation**
 
--   Download the compressed file, either from the link in your e-mail or from your account at our [market](https://selfhosted.yclas.com/oc-panel/profile)
+-   Download the compressed file, either from the link in your e-mail or from your account
     
 -   Uncompress the folder /themes/
     
 -   Go to the Admin Panel, Design > Themes and select the theme
     
-
-[Old 1.X version installation video](https://www.youtube.com/watch?v=u8KbTWoy4jM)
-
