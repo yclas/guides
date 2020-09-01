@@ -20,6 +20,6 @@ Make sure to go though them before trying to install Yclas Self-hosted.
     -   ZipArchive
     -   Be sure the php.ini has short_open_tag = On
 
-We definitely recommend using our  **affiliate’s web hosting**, because it is 100% compatible with Yclas Self Hosted.
+We definitely recommend a VPS or Dedicated server with at least 1 core, 512MB Ram and 20GB SSD. All this will depend on the amount of data and traffic your site receives. Please consult your system administrator.
 
 **[Get started now](https://yclas.com/self-hosted.html)**
