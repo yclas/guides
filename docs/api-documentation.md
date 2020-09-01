@@ -1,6 +1,6 @@
 ## About
 
-This is the official API Documentation for Yclas. With this API you will be able to extend the usage of your site, for example with native iOS and Android APPS. 
+This is the official API Documentation for Yclas. With this API you will be able to extend the usage of your site, for example with native iOS and Android apps. 
 
 More information native [iOS app](https://yclas.com/ios-app.html) and native [Android app](https://yclas.com/android-app.html)
 
@@ -93,7 +93,7 @@ Example of usage:
 This are sent as parameter (Post or Query) to the endpoint.
 
 #### Filter
-You can pass any field we indicate in the documentation, ex:
+You can pass any field we indicate in the documentation, E.G:
 
 `GET /api/v1/category?id_category_parent=1&has_image=1`
 
@@ -108,7 +108,7 @@ To user the operator `__between` the value needs to be comma separated, and the 
 This will filter ads with field `price` bigger or equal than 100 and smaller or equal to 303.
 
 #### Sorting
-Sorting: Similar to filtering, a generic parameter sort can be used to describe sorting rules. The sort parameter takes in list of comma separated fields, each with a possible unary negative to imply descending sort order. 
+Similar to filtering, a generic parameter sort can be used to describe sorting rules. The sort parameter takes in list of comma separated fields, each with a possible unary negative to imply descending sort order. 
 Let's look at some examples:
 
 - `GET /api/v1/listings?sort=-published` - Retrieves a list of tickets in descending published date
@@ -124,7 +124,7 @@ You can paginate any result by using the params page (number of page) and items_
 
 `GET /api/v1/listings?q=something+to+search&page=3&items_per_page=10`
 
-We return `X-Total-Count` header with the total amount of elements found and a header `link` with next,prev,last,first links.
+We return `X-Total-Count` header with the total amount of elements found and a header `link` with next ,prev ,last ,first links.
 
 
 #### Limiting fields returned
@@ -150,13 +150,13 @@ This API uses 3 different kind of endpoints. 2 are authenticated and 1 does not 
 
 In order to use some api endpoint you will be required to have an API Key of your site.
 
-To get it:
+Here's how you can obtain the API Key:
 
 1. Login at your classifieds site
 2. Go to Settings->General
-3. Check for API Key, thats your code you will need to make requests
+3. Check for Key API
 
-That's your `api_key` for your site to use in further requests. Ex:
+That's your `api_key` for your site to use in further requests. E.G:
 
 `GET /api/v1/listing/3?apikey=ajdnasjdlk_iym`
 
@@ -167,7 +167,7 @@ We recommend sending the apikey using a header.
 
 Some of the API points are user based actions, so we need the specific API key `user_token` of the user in order to login the user for the request and filter the results.
 
-To get it:
+Here's how you can obtain the API Token:
 
 1. Use [Login User](#login-user) end point using your `apikey`
 2. Store `user_token` somewhere safe
@@ -359,7 +359,7 @@ Get ads closer to the user using latitude and longitude
 
 `GET /api/v1/listings?longitude=41.4075167&latitude=2.204625299999975&sort=distance`
 
-This will add an extra value return named `distance` which will return the Km to the add from the location.
+This will add an extra value return named `distance` which will return the KM to the add from the location.
 
 Example with more parameters, pagination, sorted etc...
 
@@ -392,7 +392,7 @@ Get all orders, you can filter, search, paginate...
 
 `GET /api/v1/orders`
 
-Example
+Example : 
 
 Get all orders for a specific users
 
@@ -425,7 +425,7 @@ Get all orders for a specific users
 
 Mandatory , id_user, id_ad, id_product (see get products)
 
-Example will create an order for user 1 and ad 5 for product 1. Will be marked as paid immediately.
+For example, it will create an order for user 1 and ad 5 for product 1. Will be marked as paid immediately.
 
 `POST /api/v2/orders/create?id_user=1&id_ad=5&id_product=1`
 
@@ -501,6 +501,7 @@ Available from yclas v4.
 This will return the translation texts of your website. By default you will  get the translations for the "apps"
 
 **Get locales**
+
 Returns all the locales for the site and also we get then the last change to the translation was done.
 
     GET /api/v1/translation/
@@ -520,7 +521,7 @@ if last_update_XXX is null, was never saved. So if you already got the translati
     GET /api/v1/translation/translate/it_IT
 
 
-To get all translations even not translated specify the all parameter to 1
+To get all translations even not translated specify the all parameter to 1.
 
     GET /api/v1/translation/translate/it_IT?all=1
 
@@ -678,7 +679,7 @@ Will add the image, adding it as last in order.
 
 #### Delete Advertisement
 
-Actually does not deletes the Ad formt he database it deactivates it.
+Deactivates the form from the database. 
 
 `DELETE /api/v1/ads/5`
 
@@ -694,7 +695,7 @@ Will return us the info of the favorites for the user. ID_AD when was created an
 
 **Favorite Advertisement**
 
-We use the ID_AD to delete the favorite, aswell to create it.
+We use the ID_AD to delete the favorite, as well as creating it.
 
 Favorite ad 5
 
@@ -751,7 +752,7 @@ IMPORTANT: The ID we use to retrieve all the thread is always id_message_parent 
 
 `GET /api/v1/messages/5`
 
-Returns all the messages for that threat. Marks all of them as read if he is the destinatary the first time we read. Ordered by date asc.
+Returns all the messages for that threat. Marks all of them as read if it is the destinatary the first time we read. Ordered by date asc.
 
 
 **Send Message**
