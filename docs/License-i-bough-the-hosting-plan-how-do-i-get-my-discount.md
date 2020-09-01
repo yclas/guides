@@ -14,7 +14,7 @@ So it is a very good deal!
 
 You can send the above information through the following contact page:
 
-**[https://yclas.com/contact/](https://yclas.com/contact/)**
+**[https://yclas.com/contact/](https://yclas.com/contact.html)**
 
 Once you send us the information, we will provide you with the discount and guide you through the process, until your website is up and running.
 
