@@ -48,3 +48,4 @@ Support does **not** include:
 -   Mentoring for technologies CSS, PHP, HTML, JavaScript or other technologies used in our software.
 -   Sign up or support for third party services.
 -   Customization of software or themes.
+-   Configuration of your server or system
