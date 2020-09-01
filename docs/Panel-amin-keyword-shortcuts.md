@@ -4,7 +4,7 @@
 
 If you want to take your admin panel browsing to a whole new level of proficiency, it’s time to learn the keyboard shortcuts that are built into our software.
 
- There’s nothing you have to do before, just login into your admin panel and  **use the following keyboard shortcuts**:
+ There’s nothing you have to do before, just login into your admin panel and  use the following keyboard shortcuts:
 
 _Focus search input_
 
