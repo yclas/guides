@@ -10,7 +10,7 @@ The basic features provided by this free classifieds script are enough to get on
 
 ## Location Based Listings
 
-Locations' form is inseparable when building a business directory. 
+Locations form is inseparable when building a business directory. 
 A location based category not only saves time by directing the user to the services available in their area, but also makes it easy to get rid of any extra fields in your business listings. 
 
 Yclas does not only allow you to add multiple locations but it allows you to add multiple sub-locations under a single location. This means that you can break down your website in many smaller parts depending on the locations that exist geographically.
@@ -25,7 +25,7 @@ Yclas already has fields to enter general details of the businesses/services inc
 
 ## Unlimited Categories
 
-We understand that there are countless businesses that can be listed in a business directory and within each category there can be hundreds of small or sub-categories... That’s why Yclas allows you to create unlimited categories and sub-categories. Each of these categories can be either created for free, or it can be paid, depending on your specific idea and need.
+We understand that there are countless businesses that can be listed in a business directory and within each category there can be hundreds of small or sub-categories. That’s why Yclas allows you to create unlimited categories and sub-categories. Each of these categories can be either created for free, or it can be paid, depending on your specific idea and need.
 
 ## Apart from the above features there are a few more  that might help you in using Yclas as a business directory
 
