@@ -49,3 +49,6 @@ Support does **not** include:
 -   Sign up or support for third party services.
 -   Customization of software or themes.
 -   Configuration of your server or system
+
+*Note: Additional customization may require charges depending on the requested changes. Kindly send an email to info@yclas.com to get a quote.*
+
