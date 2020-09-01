@@ -36,7 +36,7 @@ You just have to follow the normal automatic update steps listed below:
 
 3.  **Activate the default theme**  if you had a premium theme.  
 
-4.  **[Download the latest version](https://github.com/yclas/yclas/releases/latest)**  and extract the files in its folder.  
+4.  **[Download the latest version](https://yclas.com/selfhosted/latest)**  and extract the files in its folder.  
 
 5.  **Enable maintenance mode.**  
 
