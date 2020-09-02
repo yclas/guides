@@ -14,7 +14,7 @@ Here are few things you can do, however, the advice we give you doesn't guarante
 This action will help you increase the number of emails sent to valid email addresses and users who will open your email. If many of your contacts do not open your emails, their email provider will consider your mail as “unwanted” and therefore as spam. 
  
   It’s important to avoid sending emails to inactive users or subscribers and here is what you can do in your Yclas website: 
-  Login to your admin panel, go to **Users** -> Users, click on the heading  “Last Login” to sort be last login date and find those who have not logged in recently. In this case “recently” usually means 12 months. 
+  Login to your admin panel, go to **Users** and click on the heading  **“Last Login”** to sort be last login date and find those who have not logged in recently. In this case “recently” usually means 12 months. 
 
 What you can do with those users is to mark them as inactive in order to avoid sending newsletters to them. To mark a user as **inactive**, you need to click to **edit** the **user's account**, change the “**Status**” to “**5**” and press **Submit.**
     
