@@ -17,8 +17,8 @@ Content:
 3.  Your site locations must have Latitude and Longitude.
 4.  Ads need to have Address.
 5.  Google Maps in Publish New must be enabled on **Settings** -> **Advertisement** -> **Publish Options**.
-6.  Create a User Location widget on **Appearance** -> **Widgets (optional step)
-7.  Set the maximum distance of closest suggested locations to the visitor on **Settings** -> **Advertisement** -> **Google Maps** -> **Auto locate distance. (optional step)
+6.  Create a User Location widget on **Appearance** -> **Widgets** (optional step)
+7.  Set the maximum distance of closest suggested locations to the visitor on **Settings** -> **Advertisement** -> **Google Maps** -> **Auto locate distance** (optional step).
 
 ### Workflow
 
