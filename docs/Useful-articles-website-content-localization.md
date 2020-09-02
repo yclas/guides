@@ -12,18 +12,18 @@ Content:
 
 ### Prerequisites
 
-1.  Activate **Auto locate visitors** (To enable this feature  you need to login to your admin panel, go to  Settings -> Plugins, find and enable  Auto Locate Visitors  and click  Save.
-2. 
+1.  Activate **Auto locate visitors** (To enable this feature  you need to login to your admin panel, go to **Settings** -> **Plugins**.
+2.  Find and enable  **Auto Locate Visitors**  and click  **Save**.
 3.  Your site locations must have Latitude and Longitude.
 4.  Ads need to have Address.
-5.  Google Maps in Publish New must be enabled on Settings -> Advertisement -> Publish Options.
-6.  Create a User Location widget on Appearance -> Widgets (optional step)
-7.  Set the maximum distance of closest suggested locations to the visitor on Settings -> Advertisement -> Google Maps -> Auto locate distance. (optional step)
+5.  Google Maps in Publish New must be enabled on **Settings** -> **Advertisement** -> **Publish Options**.
+6.  Create a User Location widget on **Appearance** -> **Widgets (optional step)
+7.  Set the maximum distance of closest suggested locations to the visitor on **Settings** -> **Advertisement** -> **Google Maps** -> **Auto locate distance. (optional step)
 
 ### Workflow
 
-1.  Users who visit your site will consent to share their location
-2.  They will get a pop up window with your website locations listed in order to choose their closest location
+1.  Users who visit your site will consent to share their location.
+2.  They will get a pop up window with your website locations listed in order to choose their closest location.
 3.  After that, they will only see ads close to their location.
 
 ## Currency Converter Widget
