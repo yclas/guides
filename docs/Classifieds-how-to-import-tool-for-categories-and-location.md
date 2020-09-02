@@ -6,7 +6,7 @@
 
 You are building a large scale  **classifieds website**  with lots of categories and locations, but you’re having a problem with adding them all in without spending so much time typing each one out.
 
-We have the solution for you! You can use an easy import tool to add all of your locations and categories with a single button press. You simply need to follow these steps:
+We have the solution for you. You can use an easy import tool to add all of your locations and categories with a single button press. You simply need to follow these steps:
 
 **Warning:** We do not recommend adding more than 100 categories or 1000 locations if you use shared hosting. Otherwise, your website will work very slowly.
 
