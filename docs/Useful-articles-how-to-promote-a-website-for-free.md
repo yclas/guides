@@ -15,17 +15,17 @@ Spreading word of mouth strategies changed a lot since the existence of social m
 
 -   Make sure you know where your users are. Is Facebook their popular social media platform? Or are they active on Twitter?
 -   Make it easy for them to spread the word; add social media like buttons or integrate a social log in into your classifieds website (this is available in our  [premium themes](Themes-configuration-of-premuim-themes.md)
--   Give them a reason to share! Of course, “free” is the most popular word among classifieds websites, but that is not enough to convince users to share your website. Adding useful content or having something unique on your website will give them motive to share it.
+-   Give them a reason to share. Of course, “free” is the most popular word among classifieds websites, but that is not enough to convince users to share your website. Adding useful content or having something unique on your website will give them motive to share it.
 -   Track referrals, keep checking who is referring to your website and try to find who has the most impact in increasing traffic, then make use of that information.
 
 ### Media exposure
 
-Every business can spend some money and place an ad on TV or in the local newspaper. But, you can advertise without spending a dime! 
-Ask around,  your family,friends and people you know. There could be a guy who knows a guy at the local TV station, don’t hesitate to ask for help!  A simple mention of your website on TV in the morning show will have a significant effect on the website traffic.
+Every business can spend some money and place an ad on TV or in the local newspaper. But, you can advertise without spending a dime.
+Ask around,  your family, friends and people you know. There could be a guy who knows a guy at the local TV station, don’t hesitate to ask for help.  A simple mention of your website on TV in the morning show will have a significant effect on the website traffic.
 
 ### Interacting with potential returning users
 
-Depending on your targeted niche, there are certain people who could prove useful to know and get in contact with personally! Once, I read  about a guy who went door to door to many business owners, told them about his website and posted ads himself until he got his classifieds website popular. Hard work always pays off!
+Depending on your targeted niche, there are certain people who could prove useful to know and get in contact with personally. Once, I read  about a guy who went door to door to many business owners, told them about his website and posted ads himself until he got his classifieds website popular. Hard work always pays off.
 
 ### Give a personal touch and exist on many platforms
 
