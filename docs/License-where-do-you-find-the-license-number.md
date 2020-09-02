@@ -17,4 +17,3 @@ As you can see in those e-mails, the first one has your  **log in information** 
 
 Another way to get your license number is to log in to your panel  **[here](https://selfhosted.yclas.com/oc-panel/auth/login)**  and go to  **Purchases**, there you will find your license number (as indicated in the picture below).
 
-We hope that this helps. Regards from Kinan and the Yclas team
