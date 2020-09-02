@@ -8,7 +8,7 @@ Content:
 -   Outlook
 -   Yahoo
 
-For efficient email delivery, we highly recommend using a specialized SMTP service like  **Zoho**,  **Mailgun**,  **SendPulse**  or  **Amazon SES**
+For efficient email delivery, we highly recommend using a specialized SMTP service like  **Zoho**,  **Mailgun**,  **SendPulse**  or  **Amazon SES**.
 
 To have a good deliverabilty of your emails you need to use your own email domain such as info@YOURDOMAIN.com and not something like mywebsite@gmail.com. Using free SMTP serivces like Gmail, Outlook or Yahoo it’s a bad idea since there’s lot of limitations on the amount of emails you can send. Please do not use them.
 
@@ -16,13 +16,13 @@ You can easily use you own domain to send emails by using [Zoho for free](Email-
 
 It’s now mandatory to have your site working using SMTP or  [Elasticemail](Email-settings-elasticemail.md). This guide explains how to set up the SMTP configuration of your website.
 
-Go to  **Settings**  ->  **Email Settings** and scroll down to **SMTP** to specify or enable:
+Go to  **Settings**  ->  **Email** and scroll down to **SMTP** to specify or enable:
 
 -   **Smtp host**
 -   **Smtp port**
 -   **Smtp Secure**: Enable if the SMTP connection needs to occur over ssl
 -   **Smtp auth**: If SMTPAuth should be used 
--   **Smtp user**
+-   **Smtp username**
 -   **Smtp password**
 
 
@@ -56,7 +56,7 @@ Using SSL:
 -   **Smtp host**: smtp.zoho.com
 -   **Smtp port**: 465
 -   **Smtp auth**: ON
--   **Smtp user**:  _(example@zoho.com, or your own domain’s email address)_
+-   **Smtp username**:  _(example@zoho.com, or your own domain’s email address)_
 -   **Smtp password**:  _password_
 
 Using TLS:
@@ -66,7 +66,7 @@ Using TLS:
 -   **Smtp host**: smtp.zoho.com
 -   **Smtp port**: 587
 -   **Smtp auth**: ON
--   **Smtp user**:  _(example@zoho.com, or your own domain’s email address)_
+-   **Smtp username**:  _(example@zoho.com, or your own domain’s email address)_
 -   **Smtp password**:  _password_
 
 ## Mailgun
@@ -81,7 +81,7 @@ Using TLS:
 -   **Smtp host**: smtp.mailgun.org
 -   **Smtp port**: 465
 -   **Smtp auth**: ON
--   **Smtp user**:  _[your Default SMTP Login](https://app.mailgun.com/app/domains)_
+-   **Smtp username**:  _[your Default SMTP Login](https://app.mailgun.com/app/domains)_
 -   **Smtp password**:  _password_
 
 ## SendPulse
@@ -95,7 +95,7 @@ Using TLS:
 -   **Smtp host**: smtp-pulse.net
 -   **Smtp port**: 465
 -   **Smtp auth**: ON
--   **Smtp user**:  _mail@domain.com_
+-   **Smtp username**:  _mail@domain.com_
 -   **Smtp password**:  _password_
 
 ## Amazon Simple Email Service
@@ -109,7 +109,7 @@ Using TLS:
 -   **Smtp host**:  _Enter the SMTP endpoint for the AWS Region in which you use Amazon SES. For a list of endpoints, see  [Amazon SES Endpoints](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/regions.html#region-endpoints)._
 -   **Smtp port**: 587
 -   **Smtp auth**: ON
--   **Smtp user**:  _SMTP user name_
+-   **Smtp username**:  _SMTP user name_
 -   **Smtp password**:  _SMTP password_
 
 ## Gmail
@@ -123,7 +123,7 @@ If your website is using SSL (https://):
 -   **Smtp host**: smtp.gmail.com
 -   **Smtp port**: 465
 -   **Smtp auth**: ON
--   **Smtp user**:  _email address (example@gmail.com)_
+-   **Smtp username**:  _email address (example@gmail.com)_
 -   **Smtp password**:  _gmail account password_
 
 If your website is using TLS (http://):
@@ -133,7 +133,7 @@ If your website is using TLS (http://):
 -   **Smtp host**: smtp.gmail.com
 -   **Smtp port**: 587
 -   **Smtp auth**: ON
--   **Smtp user**:  _email address (example@gmail.com)_
+-   **Smtp username**:  _email address (example@gmail.com)_
 -   **Smtp password**:  _gmail account password_
 
 ## Outlook
@@ -143,10 +143,10 @@ If your website is using TLS (http://):
 -   **Smtp host**: smtp-mail.outlook.com
 -   **Smtp port**: 587
 -   **Smtp auth**: ON
--   **Smtp user**:  _email address (example@outlook.com)_
+-   **Smtp username**:  _email address (example@outlook.com)_
 -   **Smtp password**:  _password_
 
-**Important! Settings -> Email settings -> Notify Email must match your Smtp user**
+**Important! Settings -> Email settings -> Notify Email must match your SMTP user**
 
 ## Yahoo
 
@@ -155,7 +155,7 @@ If your website is using TLS (http://):
 -   **Smtp host**: smtp.mail.yahoo.com
 -   **Smtp port**: 587
 -   **Smtp auth**: ON
--   **Smtp user**:  _email address (example@yahoo.com)_
+-   **Smtp username**:  _email address (example@yahoo.com)_
 -   **Smtp password**:  _password_
 
   
