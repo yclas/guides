@@ -13,15 +13,13 @@
 
 ***Warning:**  We do not recommend adding more than 1000 locations if you use shared hosting. Otherwise, your website will work very slow.*
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/locations.jpg)
-
 ## How to add locations
 
 ### Geonames
 
 **Steps:**
 
-1.  Login to your admin panel.
+1.  Login to your **Admin Panel**.
 2.  Choose  **Settings**  ->  **Locations**.
 3.  Select  **Import Geonames Locations**.
 
@@ -29,7 +27,7 @@
 
 ![](https://github.com/yclas/guides/blob/master/images/import%20location%20small.jpg)
 
-This is probably the easiest and fastest way to add multiple locations.  You have to do choose a location (Continent, Country, State/Province, County/Region or City) and press  **Import**  to import its sub-locations.  
+This is probably the easiest and fastest way to add multiple locations.  You have to do choose a location (**Continent**, **Country**, **State/Province**, **County/Region** or **City**) and click  **Import**  to import its sub-locations.  
 For example, if you choose:  
 Continent = Europe  
 Country = Spain  
@@ -49,40 +47,40 @@ and click “Import” to add all the sub-locations of Barcelona.
 
 If you are trying to import geolocations but you can see just empty dropdown menus, you need to review your **SSL certificate configuration.**
 
-For  **websites hosted on Yclas, you have to login in your Cloudflare account, press the  **Crypto**  tab and disable  **Always use HTTPS**.
+For  websites hosted on Yclas, you have to login in your Cloudflare account, press the  **Crypto**  tab and disable  **Always use HTTPS**.
 
 If you using  **Yclas Self-Hosted**, please make sure you follow the instructions of [this guide](Technical-http-to-https.md) 
 
 ### Quick Creator
 
-At the quick location creator, add the name of the location, hit  **enter**  on your keyboard and when you have done, press the ‘**Send**’ button as explained in the following screenshot.
+At the quick location creator, add the name of the location, hit  enter  on your keyboard and when you have done, click  the ‘**Send**’ button as explained in the following screenshot.
 
 
 
 ### Manual method
 
-1. Go to  **Panel**, choose  **Classifieds**  >  **Locations**  on the left sidebar  
-2. Press ‘**New location**’ button  
+1. Login to your **Admin Panel**, choose  **Classifieds**  >  **Locations**  on the left sidebar.
+2. Press ‘**New location**’ button.
 3. Fill  **in the fields:**
 
--   **Name:**  Choose a name for the location that will be displayed, eg. city or city quarter. Basically, this field is the most important, the rest is kind of optional.  
+-   **Name->**  Choose a name for the location that will be displayed, eg. city or city quarter. Basically, this field is the most important, the rest is kind of optional.  
     
--   **Parent:**  Choose under one of the existing main locations, where the new location will be displayed. Choosing the Home Location while make it the main location. Locations can be easily moved to other parent locations.  
+-   **Parent->**  Choose under one of the existing main locations, where the new location will be displayed. Choosing the Home Location while make it the main location. Locations can be easily moved to other parent locations.  
     
--   **Seoname:**  A seoname will be auto-generated based on the name, but you can change it if you want it to be different.
--   **Description:**  You can add a few words about the place.
+-   **Seoname->**  A seoname will be auto-generated based on the name, but you can change it if you want it to be different.
+-   **Description->**  You can add a few words about the place.
 
 It’s possible to add manually the Latitude and Longitude of the location or enter the name of the location and find latitude & longitude automatically.
 
-4. Press  **SUBMIT**
+4. Click  **SUBMIT**.
 
-After submitting, you should get this message:
+After submitting, you should get a message same as below. 
 
-_“Success. Location created”_.
+_“Success. Location created”_
 
-Continue creating new locations if necessary amd remember to  **delete cache**  after finishing to see the changes. To delete cache go to:  **Extra**  >  **Tools**  >  **Cache**  and press the button  **Delete all**.
+Continue creating new locations if necessary and remember to  **delete cache**  after finishing to see the changes. You can delete the cache by going to  **Extra**  >  **Tools**  >  **Cache**  and press the button  **Delete all** in your **Admin Panel**.
 
-New locations now will be available to choose in  **Publish New Advertisement**  form and visible in  **‘Locations’ widget**.
+New locations now will be available to choose in  **Publish New Advertisement**  form and visible in  **Locations** widget.
 
 ### Import Locations
 
@@ -94,18 +92,19 @@ With our 2.4.0 release you can add sub-locations fast and easy. All you have to 
 
 ## How to manage locations
 
-Like before: go to  **Panel**, choose  **Settings**  >  **Locations** .
+Login to your **Admin Panel** -> **Panel**, ->   **Settings**  ->  **Locations**.
 
 Managing them is very easy. If you want to move locations and change their order you just need to drag and drop selected one to the chosen place.
 
-To change something, e.g. name or description of the location, you can click the  **Edit**  button.
+You can click the **Edit** button to change the locations description. 
 
-To  **delete**  press the button with trash bin. Note that when you delete parent locations inside of it, it will be moved to level up - to the parent of the deleted location.
+To  **delete**, simply  click  the button with trash bin. 
+
+_Note that when you delete parent locations inside of it, it will be moved to level up - to the parent of the deleted location._
 
 ## Locations widget
 
-The location widget gives you additional options. To activate it, go to  **Panel**  and choose  **Design**  >  **Widgets**
-Choose  **User location**  from the list of widgets and click  **CREATE**. Choose a name to the widget’s title and select if you want to display it in a sidebar or in the footer. You can also keep it  **Inactive**. Thanks to this widget, navigation among locations is easier. A list of them will be displayed at all times at the side or at the bottom of the page
+The location widget gives you additional options. You can activate them by logging in to your  **Admin Panel** ->   **Design**  ->  **Widgets** ->  **User location** ->  **CREATE**. Choose a name to the widget’s title and select if you want to display it in a sidebar or in the footer. You can also keep it  **Inactive**. Thanks to this widget, navigation among locations is easier. A list of them will be displayed at all times at the side or at the bottom of the page
 
   
 **Related posts:**
