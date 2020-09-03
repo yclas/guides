@@ -19,23 +19,23 @@ There are three ways to offer coupons: Create single coupon, bulk creation of un
 
 ### Create single coupon
 
-Login to your Panel, go on  **Classifieds**  ->  **Coupons**  and click  **New**.
+Login to your **Panel**, go on  **Classifieds**  ->  **Coupons**  and click  **New**.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/Coupon%20create.jpg)
 
 
-Fill the fields and press  **Submit**.
+Fill the fields and click  **Submit**.
 
 ![coupons2](https://user-images.githubusercontent.com/55290441/80603249-d6840780-8a38-11ea-9800-e25af3934b54.png)
 
 
--   **Name:**  It must be unique, cannot be repeated.
--   **Id Product:**  Any means will work for any product. If you choose a product, then the coupon will work only for that product.
--   **Discount Amount:**  (If Fixed discount is selected) Fixed amount to be discounted, ex. 3 (will discount 3$ from the total).
--   **Discount Percentage:**  (If Percentage discount is selected) Percentage of discount, ex. 50 (will remove 3$ from a $6 order).
--   **Number Coupons:**  Number of times that unique coupon can be used.
+-   **Name->**  It must be unique, cannot be repeated.
+-   **Id Product->**  Any means will work for any product. If you choose a product, then the coupon will work only for that product.
+-   **Discount Amount->**  (If Fixed discount is selected) Fixed amount to be discounted, ex. 3 (will discount 3$ from the total).
+-   **Discount Percentage->**  (If Percentage discount is selected) Percentage of discount, ex. 50 (will remove 3$ from a $6 order).
+-   **Number Coupons->**  Number of times that unique coupon can be used.
 
--   **Valid until:**  Until when can you use that coupon.
+-   **Valid until->**  Until when can you use that coupon.
 
 ![coupons3](https://user-images.githubusercontent.com/55290441/80603252-d71c9e00-8a38-11ea-8902-b46ac219162b.png)
 ![coupons4](https://user-images.githubusercontent.com/55290441/80603254-d71c9e00-8a38-11ea-9ef5-5ac5eebcea3b.png)
@@ -49,7 +49,7 @@ Login to your Panel, go on  **Classifieds**  ->  **Coupons**  and click  **Bulk*
 ![coupons5](https://user-images.githubusercontent.com/55290441/80603255-d71c9e00-8a38-11ea-99b2-d5c1af611f68.png)
 
 
-Fill the fields and press  **Submit**.
+Fill the fields and click  **Submit**.
 
 Unique coupon names will be created automatically.
 
@@ -58,7 +58,7 @@ Unique coupon names will be created automatically.
 
 ### Import coupons
 
-Login into your admin panel, go to  **Settings**  ->  **Coupons**, click on **Import**, choose your CSV file and click  **Upload**.
+Login into your **Panel**, go to  **Settings**  ->  **Coupons**, click on **Import**, choose your CSV file and click  **Upload**.
 
 ![coupon8](https://user-images.githubusercontent.com/55290441/80603323-eb609b00-8a38-11ea-953d-05415bf4a713.png)
 
@@ -75,7 +75,7 @@ You can edit all the fields except from the name of the coupon.
 
 ## How to use coupons
 
-At first, give the  **coupon name**  to the beneficiary. After that, there are three ways for the beneficiary to use the coupon:
+Given that you have already provided the **coupon code** to the beneficiary, they can be used in either way as stated below : n:
 
 ### On the checkout page
 
@@ -87,7 +87,7 @@ Add the coupon name in the field on the right bottom of the checkout form.
 
 ### From widget coupons
 
-Users can enter the name of the coupon, click add and if the coupon exists and it’s valid, then it’s automatically added on the checkout page. Before that, you need to create a coupon widget. If you don’t know how to create a widget, please find the needed information on our documentation. :)
+Users can enter the name of the coupon, click add and if the coupon exists and it’s valid, then it’s automatically added on the checkout page. Before that, you need to create a coupon widget. If you don’t know how to create a widget, please find the needed information on our documentation.
 
 ![coupon12](https://user-images.githubusercontent.com/55290441/80603335-f0254f00-8a38-11ea-81da-40087cc2f611.png)
 
