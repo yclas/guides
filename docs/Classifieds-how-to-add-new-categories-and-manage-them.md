@@ -9,38 +9,38 @@ In the quick category creator, add the name of the category, hit  **enter**  on 
 
 ### Manual method
 
-1. Go to  **Panel**  - choose  **Settings**  >  **Categories**
+1. Go to  **Panel**  ->  **Settings**  ->  **Categories**
 
-2. Press ‘**New category**’ button
+2. Click ‘**New category**’ button
 
 3.  **Fill in the fields:**
 
--   **Name:**  Choose a name for the category that will be displayed in a listing, e.g. “Jobs”, “Apartments”. Basically, this field is the most important, the rest are kind of optional.
--   **Order:**  You can choose the order in which the subcategories will be displayed within a parent category. It’s not obligatory - later you can just use “drag & drop” to change the order.
--   **Parent:**  Here you can choose and create main and sub categories. If you choose “Home Category”, that category will become the main one. If a category is choosen as “Parent”, everything within that category is a subcategory.
--   **Seoname:**  A seoname will be auto-generated based on the name of category, but you can change it if you want it to be different.
--   **Description:**  You can add a few words about what is available in this category.
--  **Icon Font:** Change your design with symblos and glyphs instead of letters or numbers.
--   **Price:**  If you want people to pay for posting in this category, set your price here. Leave blank if it’s free to post.
+-   **Name->**  Choose a name for the category that will be displayed in a listing, e.g. “Jobs”, “Apartments”. Basically, this field is the most important, the rest are kind of optional.
+-   **Order->**  You can choose the order in which the subcategories will be displayed within a parent category. It’s not obligatory - later you can just use “drag & drop” to change the order.
+-   **Parent->**  Here you can choose and create main and sub categories. If you choose “Home Category”, that category will become the main one. If a category is choosen as “Parent”, everything within that category is a subcategory.
+-   **Seoname->**  A seoname will be auto-generated based on the name of category, but you can change it if you want it to be different.
+-   **Description->**  You can add a few words about what is available in this category.
+-  **Icon Font->** Change your design with symblos and glyphs instead of letters or numbers.
+-   **Price->**  If you want people to pay for posting in this category, set your price here. Leave blank if it’s free to post.
 
-4. Press  **SUBMIT**
+4. Click  **SUBMIT**
 
 
 After submitting, you should receive a message stating:
 
 *“_Success. Item created. Please, to see the changes, delete the cache”_.*
 
-Continue creating new categories if necessary, but remember to always  **delete cache**  after finishing to see the changes. To delete cache, go to:  **Tools**  >  **Cache**  on the left sidebar and press ‘**Delete all**’. You can visit the site to see the changes you’ve made.
+Continue creating new categories if necessary, but remember to always  **delete cache**  after finishing to see the changes. To delete cache, go to:  **Tools**  >  **Cache**  on the left sidebar and press ‘**Delete all**’. 
 
 While adding categories, you should remember that only 2 levels of categories will be displayed in the theme and be accessible to view from the main page. If you want to add deeper categories, its recommended to use the “Categories” widget (watch how below).
 
 ### Import Categories
 
-Go to  **Panel**  ->  **Settings**  ->  **Categories**, select “Import” and choose your csv file ([example](https://docs.google.com/uc?id=0B60e9iwQucDwTm1NRGlqcEZwdGM&export=download)). !! EDIT: More information  [here](https://docs.yclas.com/use-import-tool-categories-locations/#import-categories).
+Go to  **Panel**  ->  **Settings**  ->  **Categories**, select “Import” and choose your csv file ([example](https://docs.google.com/uc?id=0B60e9iwQucDwTm1NRGlqcEZwdGM&export=download)). 
 
 ## How to manage categories
 
-Managing categories is very easy. Go to  **Panel**, choose  **Settings** -> **Categories**  on the left sidebar.
+Managing categories is very easy. Go to  **Panel** ->  **Settings** -> **Categories**  on the left sidebar.
 
 ### Move/Change order
 
@@ -56,4 +56,4 @@ To delete a category, press the red button with a trash bin. Note that when you 
 
 ## Categories widget
 
-The category widget gives you additional options. To activate it go to  **Panel**  and choose  **Design >** **Widgets**. Choose  **‘Categories’ widget** from the list and click  **Create**. Give a name to the widget’s title and choose if you want to display it in a sidebar or in the footer. You may also keep it  **Inactive**. Thanks to this widget, navigation between categories is easier. A list of categories will be displayed at all times at the side or at the bottom of the page.
+The category widget gives you additional options. To activate kindly login to your  **Admin Panel**  ->  **Design >** **Widgets** ->  **‘Categories’** from the list and click  **Create**. Give a name to the widget’s title and choose if you want to display it in a sidebar or in the footer. You may also keep it  **Inactive**. Thanks to this widget, navigation between categories is easier. A list of categories will be displayed at all times at the side or at the bottom of the page.
