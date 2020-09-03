@@ -1,14 +1,11 @@
 # Add location for users
-Content:
--   Prerequisites
--   How it works
 
-The location for users is a feature that allows you to show the location of a user on a map in the profile page. This way, sellers can display their location and attract more local customers.
+The location for **users** is a feature that allows you to show the location of a user on a map in the profile page. This way, sellers can display their location and attract more local customers.
 
 ## Prerequisites
 
-1.  On  **Settings -> Advertisement -> Display Option**, enable  **Google Maps in Ad and Profile page**
-2.  The user needs to edit his profile, fill the address field and press  **Update**
+1.  On  **Settings -> Advertisement -> Display Option**, enable  **Google Maps in Ad and Profile page**.
+2.  The user needs to edit his profile, fill the address field and click  **Update**.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/adress.png)
 
