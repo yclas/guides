@@ -1,12 +1,12 @@
 # How favorites system works  ❤️
 
-With this feature users can mark and save their favorite ads. 
+With this feature, users can mark and save their favorite ads. 
 
-This feature offers a better user-experience and I personally find it very useful when browsing through a classified website because it narrows down my search later on.
+This feature offers a better user-experience and users find it very useful when browsing through a classified website because it narrows down my search later on.
 
-To  **add an advertisement to your favorites**, open an ad and press the heart shaped button as shown below.
+To  **add an advertisement to your favorites**, open an ad and click the heart-shape button as shown below.
 
-*Note that the highlight color should be in **red.*** If you press the button on the icon  and it changed its color to white, then the ad will not be included in your list of favorites.
+*Note that the highlight color should be in **red.*** If you click  the button on the icon  and it changed its color to white, then the ad will not be included in your list of favorites.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/favorites.png)
   
