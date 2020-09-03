@@ -1,6 +1,6 @@
 # How to edit your profile  ✏️
 
-This feature allows you to change your displayed name, your email, add a description, upload a profile picture, add your account to the website’s subscribers and change your password at any time! 
+This feature allows you to change your **displayed name**, **your email**, **add a description**, **upload a profile picture**, **add your account to the website’s subscribers** and change your password at any time.
 
 **How to edit your profile?**
 
