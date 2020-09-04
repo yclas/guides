@@ -19,7 +19,7 @@ This way users will be able to contact sellers directly just by clicking on the 
 
 ## How to create custom fields for users
 
-Login to your **Admin Panel ->  **Users**  ->  **User Custom Fields** ->  **New Field**.
+Login to your **Admin Panel** ->  **Users**  ->  **User Custom Fields** ->  **New Field**.
 
 
 *Note that custom fields for users are available only for the Premium Users and on all sites hosted on  [Yclas.com](https://yclas.com/).* 
