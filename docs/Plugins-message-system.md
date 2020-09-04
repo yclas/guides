@@ -11,17 +11,17 @@ This new feature makes the communication between sellers and buyers regarding an
 
 Instead of having a contact form on the advertisement’s page, you can activate Messaging System and send instant messages to the seller. 
 
-Much faster than emails! By using this tool, you can avoid sharing an email address and the seller can choose with who to communicate.
+Much faster than emails. By using this tool, you can avoid sharing an email address and the seller can choose with who to communicate.
 
 ### How to enable Messaging System
 
-To enable messaging system, you simply need to login to your Panel, go to  **Configuration**  ->  **Addons**  and set  **Messaging System**  to  **Enabled**.
+To enable messaging system, you simply need to login to your **Admin Panel** ->  **Configuration**  ->  **Addons**  and set  **Messaging System**  to  **Enabled**.
 
 Now, buyers can contact the seller through the messaging system.
 
 ### How it works
 
-On advertisement’s page, click  **Send Message**. Then, a contact form will appear in a popup window, where you can write your message to the seller, the price you want to pay for the productc or service of an ad, and fill out the captcha field.
+On advertisement’s page, click  **Send Message**. A contact form will appear in a popup window, where you can write your message to the seller, the price you want to pay for the productc or service of an ad, and fill out the captcha field.
 
 ![messagesystem](https://raw.githubusercontent.com/yclas/guides/master/images/messagesystem.png)
 
