@@ -1,11 +1,11 @@
-# How to Move a Classifieds Site From Http to Https
+# How to Move a Classifieds Site From HTTPS to HTTPS. 
 
 Content:
 -   What is HTTPS and why should I use it?
 -   What tasks will you need to do?
-    -   Get an SSL certificate and install it on your server
-    -   Go to your website’s panel to make necessary system changes]
-    -   Force a redirect from HTTP to HTTPS]
+    -   Get an SSL certificate and install it on your server.
+    -   Go to your website’s panel to make necessary system changes.
+    -   Force a redirect from HTTP to HTTPS.
 
 
 In this guide, we will show you how to enable HTTPS on your classifieds site with ease.
@@ -30,7 +30,7 @@ Follow this link to read more about how and why  **[Google is also encouraging t
 
 ### Get an SSL certificate and install it on your server
 
-to do this, please note that seeking for assistance from a person with the technical experience/know-how OR contacting a hosting company for installation is advised. The use of CloudFlare is also another alternative.
+To do this, please note that seeking for assistance from a person with the technical experience/know-how OR contacting a hosting company for installation is advised. The use of CloudFlare is also another alternative.
 
 For a free certificate (to install it on your server), you can go to:  [www.startssl.com](http://www.startssl.com/). An example of a hosting company that offers paid certificates is Namecheap:  [www.namecheap.com/security/ssl-certificates.aspx](https://www.namecheap.com/security/ssl-certificates.aspx)
 
@@ -67,8 +67,6 @@ Once you have completed this, proceed to the next step.
     
 
 **Save the file and close it.**
-
-You have finished every the task and your site should have its https:// enabled.
 
 ## Short Summary
 
