@@ -1,14 +1,10 @@
 # How to add new pages: **Example with 'Terms of Service page'**
 
-Content:
--   Creating new pages
--   Widget
--   Terms of Service
 
 ## Creating new pages
 
 Follow these steps:
-1. To add new pages go to  **Panel**, find **Content** and below it, select **Pages**. In **Pages** choose the option '**New page**' that's placed in the top right corner.
+1. Login to  **Admin Panel** -> **Content** ->  **Pages**. In **Pages** choose the option '**New page**' that's placed in the top right corner.
 
 2. When you are creating the new page, make sure to fill  **in the following fields:**
 
@@ -18,7 +14,7 @@ Follow these steps:
 -   **Seotitle**
 -   **Status**: make sure that the box is checked, only then the site will be active.
 
-3. Press  **CREATE**
+3. Click  **CREATE**
 
 After deleting cache (go to  **Tools**  >  **Cache**  and hit  **Delete All**, your site will be available at URL build according to this scheme: http://your_site.com/chosen_seotitle.html
 
