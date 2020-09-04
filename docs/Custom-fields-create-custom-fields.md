@@ -1,34 +1,17 @@
 # How to create Custom Fields?
 
+**Take note that the maximum number of Custom Fields you can have in your website is  **65**
 
+1.  **Standard** (mandatory and not changeable). Includes title, category, description.
 
-<div class="alert alert-warning">
-<strong><i class="glyphicon glyphicon-warning-sign"></i> </strong> The maximum number of Custom Fields you can have in your website is <strong><u>65</u></strong>!
-</div>
+2.  **Optional**( they are part of the open-classifieds. You have the possibility to turn them on/off). Includes Phone, Website, Location, Address, Price, Captcha, Upload file.
 
-Content:
--   Create New Field
--   Edit Custom Field
--   Tricks
-
-**The maximum number of Custom Fields you can have in your website is  **65**!**
-
-Now there are  **3 types of fields**  that can be added to advertisements.
-
-1.  **Standard**: mandatory and not changeable.
-
-## **Title, Category, Description.**
-
-2.  **Optional**: they are part of the open-classifieds. You have the possibility to turn them on/off
-
-## **Phone, Website, Location, Address, Price, Captcha, Upload file.**
-
-3.  **Custom:**  Fully customizable.
+3.  **Custom**  (Fully customizable).
 
 
 ## Create New Field
 
-To create a new field, go to  **Admin Panel**, press  **Classifieds**  select  **Custom Fields**  option.
+To create a new field, login to your **Admin Panel** ->  **Classifieds**  ->  **Custom Fields** .
 
 Then click  **New Field**  button on the right corner.
 
@@ -42,7 +25,7 @@ This is a  **New Custom Field**  screen. There are 10 options in total.
 3.  **Tooltip**: assign a text to the custom field tooltip.
 
 
-## *4. **Type**:*
+## 4. **Type**:*
 
     
     1.  _Text 256 chars_  (standard input field, string)  
@@ -71,25 +54,25 @@ To create values,write them down followed by comma (e.g. Paris, London, Madrid, 
 
 ## 6. **Categories:**
 
- the category that the New Custom Field should be applied to.
+ The category that the New Custom Field should be applied to.
 
 ( see:  [Integrated custom fields into selected categories](Custom-fields-how-to-integrate-your-custom-field-into-selected-categories.md) )
 
 ## 7. **Required:**
 
-this will make it a required field needing validation.
+This will make it a required field needing validation.
 
 ## 8. **Searchable:**
 
- this makes the field searchable.It will appear in Advanced searchs too.
+ This makes the field searchable.It will appear in Advanced searchs too.
 
 ## 9. **Admin privileged:**
 
- this field can be seen and edited only by the admin.
+ This field can be seen and edited only by the admin.
 
 ## 10. **Show listing:**
 
-users will see the custom field in listings view without having to enter the ad.
+Users will see the custom field in listings view without having to enter the ad.
 
 Once you have written down all the required information, click  **Create**. New field is created and added to database, and it will appear in Post new ad, Edit ad and Advanced search.
 
