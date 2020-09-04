@@ -4,19 +4,19 @@ Learn how to assign people to work for your website as translatiors, content cre
 
 Follow the steps:
 
- -  First go to your **Admin Panel**
+ -  Login  to your **Admin Panel**
  -  Then go to **Manage** -> **Users**  
 
 **a)**  If you want to create a **new user's account** and assign a certain role. 
 
    Follow this steps to create a new user:
- -  click on create  **New** and add all of the necessary infromation including **Role**.  Choose between:  translator,  moderator and  admin
- -  press  **Submit**
+ -  Click  **New** button then fill in all of the necessary infromation including **Role**.  Choose between:  translator,  moderator and  admin
+ -  Click  **Submit**
 
 ![newuser](https://raw.githubusercontent.com/yclas/guides/master/images/newuser.png)
 
 **b)**  If you want to  **Edit**  an already created user's profile.  
-1. When you click on **Edit** the selected user's profile will open and you'll be able to change any information and settings.  
+1. When you click on **Edit**, the selected user's profile will open and you'll be able to change any information and settings.  
 
 ![useredit](https://raw.githubusercontent.com/yclas/guides/master/images/useredit.png)
 
@@ -28,30 +28,30 @@ Follow the steps:
     
  **Normal  users**  have access to:
 
--   messages.*
--   myads.*
--   profile.*
+-   messages
+-   myads
+-   profile
 
    **Translators**  can access:
 
--   content.*
--   messages.*
--   myads.*
--   profile.*
--   translations.*
+-   content
+-   messages
+-   myads
+-   profile
+-   translations
 
   
 **Moderators**  can access:
 
--   blog.*
--   category.*
--   content.*
--   location.*
--   menu.*
--   messages.*
--   myads.*
--   profile.*
--   translations.*
+-   blog
+-   category
+-   content
+-   location
+-   menu
+-   messages
+-   myads
+-   profile
+-   translations
 
   
 **Admins**  can access all of the areas and functions.
