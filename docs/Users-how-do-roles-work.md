@@ -10,8 +10,8 @@ Follow the steps:
 **a)**  If you want to create a **new user's account** and assign a certain role. 
 
    Follow this steps to create a new user:
- -  Click  **New** button then fill in all of the necessary infromation including **Role**.  Choose between:  translator,  moderator and  admin
- -  Click  **Submit**
+ -  Click  **New** button then fill in all of the necessary infromation including **Role**.  Choose between:  translator,  moderator and  admin.
+ -  Click  **Submit**.
 
 ![newuser](https://raw.githubusercontent.com/yclas/guides/master/images/newuser.png)
 
