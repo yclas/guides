@@ -12,11 +12,11 @@
 
 - [**Payments**](Payment.md)
 
-  Learn how to work with all available payment gateways
+  Learn how to work with all available payment gateways.
 
 - [**Media settings**](Media-settings.md)
 
-  Learn how to configure image settings, add watermark and speed up your website by using Cloud Computing Services.
+  Learn how to configure image settings, add watermark and speed up your website by using **Cloud Computing Services**.
 
 - [**Email**](Email-settings.md)
 
@@ -28,7 +28,7 @@
 
 - [**Categories**](Settings-categories.md)
 
-  Learn how to add new categories, how to manage already existing ones and how to configure a category widget
+  Learn how to add new categories, how to manage already existing ones and how to configure a category widget.
 
 - [**Locations**](Settings-location.md)
 
