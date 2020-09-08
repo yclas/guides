@@ -12,4 +12,4 @@ In this guide, you can read all of the information on configuring media settings
 
 *   [Configure Amazon S3](Media-settings-amazon-s3.md)
 
-     -  Learn how to speed up your website by using Cloud Computing Services.
+     -  Learn how to speed up your website by using **Cloud Computing Services**.
