@@ -1,6 +1,6 @@
 # Locations
 
-In this guide, you can learn how to add and import locations, how to add interactive maps, how to auto locate visitors and sort ads by distance on your website.
+In this guide, you can learn how to add and import locations, add interactive maps,  auto locate visitors and sort ads by distance on your website.
 
 * [How to add location](Classifieds-add-location.md)
    -  By adding location  users can narrow their search ads within their geographical territory.
