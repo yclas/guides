@@ -4,7 +4,7 @@
 Dear Yclas user, 
 
 In this guide, you'll find all of the general settings that you can configurate in your Admin Panel, listed as separate topics below ⬇️. You can learn how to change any of your website's settings by following any of the following guides.
-Good luck! [  ](https://emojipedia.org/four-leaf-clover/)🍀
+
 
 ## Content
 
