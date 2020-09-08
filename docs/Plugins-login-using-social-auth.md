@@ -17,11 +17,11 @@ Content:
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/login1.png)
 
   
-1.  Choose a Project name, then select “Yes” or “No” for the other options and press  **Create**.  
+1.  Choose a Project name, then select “**Yes**” or “**No**” for the other options and press  **Create**.  
 2.  Then choose  **Credentials**, on the left menu.  
 3.  Choose  **Create Credentials**  ->  **OAuth client ID**  and then click on  **Configure consent screen**.  
 4.  Now you need to enter a  **Product name**  and you can fill any of the other optional fields you want. Click  **Save**.  
-5.  After that you will be redirected to create client ID.
+5.  After that, you will be redirected to create client ID.
 
 -   Application type: Web application
 -   Authorized Javascript origins: Your site URL here. ex: https://yclas.com/
@@ -36,9 +36,9 @@ Content:
 14. Fill  **ID = Client ID**  as appears at Google page  
 15. Fill  **Secret = Client secret**  as in Google  
 16. Click  **Update**  in the bottom of the page  
-17. Logout  
-18. Go to login, Google should appear there  
-19. Now test it!  
+17. Logout.
+18. Go to login, Google should appear there.  
+19. You can now test it. 
 
   
 
@@ -46,7 +46,7 @@ Content:
 
 Since March 2018 it’s required to get an SSL certificate for your domain in order to use Facebook Login. If your website is hosted on yclas.com follow  [this guide](https://yclas.com/faq/ssl-encryption.html)  to get an SSL certificate. If you are using Yclas Self-Hosted read more about it  [here](https://docs.yclas.com/move-classifieds-site-http-https/).
 
-This social login  **might change depending on Facebook**  !
+This social login  **might change depending on Facebook**.
 
 1. Go to  [Facebook for developers](https://developers.facebook.com/apps/).
 2. Click  **Add a New App**.
@@ -91,22 +91,22 @@ _https://yourdomain.com/social/login/1?hauth_done=Facebook_
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/login9.png)
 
 12. Go to http://yourdomain.com/oc-panel/social/index  
-13. Set  **Facebook =**  **TRUE**  
-14. Fill  **ID = App ID**  as appears at FB page  
-15. Fill  **Secret = App secret**  as in FB  
-16. Click  **Update**  in the bottom of the page  
-17. Logout  
-18. Go to login, Facebook should appear there  
-19. Now you can try it out!  
+13. Set  **Facebook =**  **TRUE** .
+14. Fill  **ID = App ID**  as appears at FB page.
+15. Fill  **Secret = App secret**  as in FB.
+16. Click  **Update**  in the bottom of the page.  
+17. Logout.  
+18. Go to login, Facebook should appear there.  
+19. Now you can try it out.
 
 ## How to enable AOL login
 
 1.  Go to http://yourdomain.com/oc-panel/social/index
-2.  Set  **AOL = TRUE**
-3.  Click  **Update**  in the bottom of the page
-4.  Logout
-5.  Go to login, AOL should appear there
-6.  Now you can try it out!
+2.  Set  **AOL = TRUE**.
+3.  Click  **Update**  in the bottom of the page.
+4.  Logout.
+5.  Go to login, AOL should appear there.
+6.  Now you can try it out.
 
 ## How to enable Open ID (yahoo) login
 
@@ -115,9 +115,9 @@ With this option users will be able to login using an Open ID account. In Yclas 
 1.  Go to http://yourdomain.com/oc-panel/social/index
 2.  Set  **Open ID = TRUE**
 3.  Click  **Update**  in the bottom of the page
-4.  Logout
-5.  Go to login, Open ID should appear there
-6. Now you can try it out!
+4.  Logout.
+5.  Go to login, Open ID should appear there.
+6. Now you can try it out.
 
 ## How to enable Yahoo login
 
@@ -127,16 +127,17 @@ With this option users will be able to login using an Open ID account. In Yclas 
 4.  Set  **Application Type**  to  _Web Application_.
 5.  Choose  **API Permissions**  ->  **OpenID Connect Permissions**
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/login10.png)
+
+[](https://raw.githubusercontent.com/yclas/guides/master/images/login10.png)
 
 6. Go to your panel,  **Settings -> Plugins**, enable  **Social Auth**, click  **Save**  and then go to  **Settings**  ->  **Social Auth**  or http://yourdomain.com/oc-panel/social/index  
 7. Set  **Yahoo = TRUE**  
 8. Fill  **ID**  = Client ID as appears at Yahoo  
 9. Fill  **Secret**  = Client secret as in Yahoo  
 10. Click  **Update**  in the bottom of the page  
-11. Logout  
-12. Go to login, Yahoo should appear there  
-13. Now test it!  
+11. Logout.
+12. Go to login, Yahoo should appear there.  
+13. Now test it.
 
 ## How to enable Twitter login
 
@@ -144,10 +145,10 @@ With this option users will be able to login using an Open ID account. In Yclas 
 2.  Fill the fields Name, Description and Website.
 3.  In the  **Callback URL**  field enter: http://yourdomain.com/social/login/1?hauth_done=Twitter
 4.  Press  **Create your Twitter application**
-5.  Go to the “Keys and Access Tokens” tab
+5.  Go to the “Keys and Access Tokens” tab.
 6.  Copy the  **Consumer Key**  and  **Consumer Secret**  and paste in your website admin panel. Settings -> Social Auth -> Twitter Key and Secret.
 7.  Back in your Twitter app, go to the Permissions tab and make sure the Access is set to “Read and Write”.
-8.  Done!
+8.  You're all set.
 
 Since our latest release, it’s really easy to login using a  **social network account**  like  **Twitter, Facebook, Google Sign-In , LinkedIn etc.** 
 
