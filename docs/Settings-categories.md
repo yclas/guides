@@ -1,6 +1,6 @@
 # Categories
 
-In this guide, you can learn how to  add new categories, how to manage already existing ones and how to configure a category widget. 
+In this guide, you can learn how to  add new categories,  manage already existing ones and configure a category widget. 
 
 * [ Add categories and manage them](Classifieds-how-to-add-new-categories-and-manage-them.md)
    -   Learn how to create and manage categories.
