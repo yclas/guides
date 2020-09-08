@@ -38,7 +38,7 @@
 
 *   [Publisher to enable/disable comments](Custom-fields-publisher-to-enable-disable-comments.md)
 
-    - Allow users to leave comments on your website's ads
+    - Allow users to leave comments on your website's ads.
 
 *   [Choose currency on ads](Custom-fields-choose-currency.md)
 *   [Vehicle Data](Custom-fields-vehicle-data.md)
