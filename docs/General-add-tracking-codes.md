@@ -19,7 +19,7 @@ Lastly, everybody trusts Google Analytics data. Currently, around 55% of 10,000 
 
 ### Quick method
 
-1.  Go to  **Panel**, choose  **Integrations**.
+1.  Login to your **Admin Panel** ->  **Integrations**.
 2.  Add your **Google Analytics Tracking ID** into the **Analytics Tracking ID field.**
 3.  Press **SAVE**.
 
@@ -30,7 +30,7 @@ You can change the content of the Analytics Tracking ID field whenever you want 
 
 This will work if you need to add any other tracking code, but if you have a code from your provider just use this method.
 
-1.  Go to  **Panel** and then choose  **Settings** -> **General**
+1.  Login to your **Admin Panel** ->  **Settings** -> **General**.
 2.  Paste your tracking code into the **HTML in HEAD element field** or into the **HTML in footer field**.
-3.  Press **SAVE**
+3.  Press **SAVE**.
 
