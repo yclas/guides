@@ -2,8 +2,8 @@
 
 With Yclas, it is possible to create a  **Frequent Asked Questions system - FAQ** that will help your clients to solve common issues and learn their way around your website.
 
-1.  Login in your **Admin panel**
-2.  Go to  **Addons**  ->  **Faq**
+1.  Login in your **Admin panel**.
+2.  Go to  **Addons**  ->  **Faq**.
 3.  Enable the **FAQ** by checking the box next to it, and click  **Save**. This will add the FAQ icon to the header of your theme.
 4.  Go to  **Integrations**  ->  find **Disqus** and activate **Disqus for FAQ**. This will add Disqus system in the bottom (providing your Disqus ID is necessary to enable the service.
 5.  Click  **Save**.
