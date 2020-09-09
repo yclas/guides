@@ -1,12 +1,12 @@
 # Private Site 🔒 
 
 
-The “Private site” option could be useful in cases you want to share your website with only a few people. 
+The **“Private Site”** option could be useful in cases you want to share your website with only a few people. 
 If you enable this option, then only registered users can access your website and only the administrator of the website can register new users!
 
 Follow the steps above to make your site private:
 
-1.  **Login**  to your panel
+1.  Login to your **Admin Panel**.
 2.  Go to  **Settings**  ->  **General**.
 3.  **Enable Private Site**.
 4.  Click  **Save**.
