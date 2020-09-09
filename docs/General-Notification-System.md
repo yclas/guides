@@ -9,7 +9,7 @@ By using the Notification System, you can notify your website users that an emai
 
 ### How to enable the Notification System
 
-1. Register on  [pusher.com](https://dashboard.pusher.com/accounts/sign_up)  
+1. Register on  [pusher.com.](https://dashboard.pusher.com/accounts/sign_up)  
 2. After the registeration, you will be asked to enter your app details as displayed below:
 
 ![NS2](https://user-images.githubusercontent.com/55290441/80630266-9f275200-8a5c-11ea-8bf7-56401f84687c.png)
