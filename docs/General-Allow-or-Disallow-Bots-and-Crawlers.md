@@ -9,7 +9,7 @@ These bots can have a difference purpose but they operate more or less in the sa
 
 The process of collecting information from online web documents helps to reveal a website’s structure and purpose. 
 
-Therefore, the web bots/crawlers return these results to their respective search engines whenever the keywords match the search – for example, Bing, Google or Yahoo.
+Therefore, the web bots/crawlers return these results to their respective search engines whenever the keywords match the search – for example, **Bing**, **Google** or **Yahoo**.
 
 ## Why would I want to block the bots?
 
@@ -21,19 +21,18 @@ There are many reasons why webmasters and developers might want to block robots 
 
 However, allowing bots/crawlers to navigate your website has its advantages; particularly with regards to a great SEO (Search Engine Optimization) campaign. 
 
-So you shouldn’t block all bots because some are ‘good’ 😇 !
+So you shouldn’t block all bots because some are ‘good’.
 
 ## How to allow/disallow bots and crawlers:
 Let's learn how to allow/disallow these 🤖
- Follow the steps **successively**.
-1.  Go to your  **website**.
-2.  Login to the  **admin panel**.
-3.  Select  **settings -> general**.
-4.  Tick the  **disallows (blocks) bots and crawlers on this website**  box  (to  **disallow**  the bots)  
+ Follow the steps below.
+1.  Login to the  **Admin Panel**.
+2.  Select  **Settings -> General**.
+3.  Tick the  **disallows (blocks) bots and crawlers on this website**  box  (to  **disallow**  the bots)  
     _OR_  
    Untick/Leave empty the  **disallows (blocks) bots and crawlers on this website**  box  (to  **allow**  the bots).
     
-5.  Click the  **save**  button.
+4.  Click the  **save**  button.
 
 ✔ **The change is successful – general configuration updated.**
 
