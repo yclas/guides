@@ -4,7 +4,7 @@
 -   List of currency formats
 
 
-One of the most commonly asked question by our users is how to deal with the  **currency in which prices are displayed**. 
+One of the most commonly asked question by our users is how to deal with the  currency in which prices are displayed. 
 
  We use PHP function  **[money_format](https://php.net/manual/en/function.money-format.php)**  to solve all problems in a very easy way.
 
@@ -16,7 +16,7 @@ You can go to  **Settings**  >  **General**  >  **Regional configuration**  and 
 
 ## List of currency formats
 
-If a currency you want to use is not listed below, feel free to contact our support team let them know!
+If a currency you want to use is not listed below, feel free to contact our support team let them know.
 
 -   **US Dollar**  
     
