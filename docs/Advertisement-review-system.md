@@ -4,10 +4,10 @@ Review system can be a great opportunity for you to obtain useful feedback from 
 
 To enable the review system follow the steps below:
 
-1.  Log in your  **Admin Panel**
-2.  Choose  **Settings**  >  **Advertisement**  >  **Reviews**
-3.  **Enable reviews = ON**
-4.  **Save**  the changes
+1.  Log in your  **Admin Panel**.
+2.  Choose  **Settings**  >  **Advertisement**  >  **Reviews**.
+3.  **Enable reviews = ON**.
+4.  **Save**  the changes.
 
 
  Then, go to your website, click on an ad and you can see that the option of leaving a review appeared as shown in the below screenshot.
@@ -21,10 +21,10 @@ Also, the user review score will take the average score out of all the reviews h
 
 What is more, an additional option is provided for you! You are able to give an access to the review system only for the users who make a transaction. If the user doesn’t purchase the item mentioned in the ad then he wont be able to post a review to that ad.
 
-To activate this option, log in your  **Admin Panel**, choose  **Settings**  >  **Advertisement**  >  **Reviews Configuration**  and in the field:  **Only for paid transactions**  - select  **ON**. Save the changes and you’re ready!
+To activate this option, log in your  **Admin Panel** ->  **Settings**  >  **Advertisement**  >  **Reviews Configuration**  and in the field:  **Only for paid transactions**  - select  **ON**. Save the changes and you’re ready!
 
   
-**IMPORTANT!**  Make sure that the user paypal link option is activated, otherwise the reviews cannot work properly. To get this working, go to Settings > Payment > Paypal, Set “Buy Now” to “On” and Save changes.
+**IMPORTANT!**  Make sure that the user paypal link option is activated, otherwise the reviews cannot work properly. To get this working, go to **Settings** -> **Payment** -> **Paypal**, Set “Buy Now” to “On” and **Save** changes.
 
 We hope that with our new Yclas solutions managing your website is imporved and easy to work with! And remember that this is a premium feature which you can get now starting with [a small montly fee](https://yclas.com/self-hosted.html)
 
