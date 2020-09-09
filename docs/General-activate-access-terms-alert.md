@@ -4,7 +4,7 @@
 This feature creates window of  **Access Terms**  to allow or deny user’s access to webpage. Unless the admin approves it, access to website is denied and the user will be redirected outside of the website.
 
 1. To activate this feature go to  **Admin Panel**, and create new page. 
-2. By clicking on  **Content**  >  **Page**  option, then a blue button  **New pages**. After click on this button, the following will appear:
+2. By clicking on  **Content**  ->  **Page**  option, then a blue button  **New pages**. After click on this button, the following will appear:
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/access%20terms%20alerts.png)
 
