@@ -2,10 +2,10 @@
 
 **If you'd like to activate Maintenance Mode you have to follow these steps:**
 
-1.  Go to **Admin Panel**
-2.  Select **Settings** -> **General**
+1.  Login to **Admin Panel**.
+2.  Select **Settings** -> **General**.
 3.  Set **Maintenance Mode** option by ticking the box that's displayed before it.
-4.  Click **Save** button
+4.  Click **Save** button.
 
 While Maintenance Mode is being activated, anyone who tries to access your website will see following page:
 
