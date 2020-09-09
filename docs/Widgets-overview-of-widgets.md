@@ -7,14 +7,14 @@ Content:
 
 **Widgets**  are useful elements of interface that will help you to navigate and give additional options to your site. You can select which one you want to activate and embed it on your website. There is no limit for adding widgets per page.
 
-To see a full list with available widgets, go to  **Panel**, select  **Appearance**  and choose **Widgets**  from the left sidebar or simply select this option from the bookmark in the headline.
+To see a full list with available widgets, login to the  **Admin Panel** ->  **Appearance**  -> **Widgets**  from the left sidebar or simply select this option from the bookmark in the headline.
 
 
 Select a widget and press  **Create**. Choose the  **place**  where you want a widget displayed (sidebar or footer). In the same way you can render widgets inactive by selecting an option  **Inactive**. Select other settings and hit  **Save Changes**.
 
 On the right side of the screen, you will see all created widgets. You can always edit them. Change the place and order of displaying the widget simply by dragging and dropping.
 
-After creating or editing the widgets, changes might not be visible on the site unless you  **delete cache**  (**Tools > Cache**  on the left sidebar and press  **Delete all**).
+After creating or editing the widgets, changes might not be visible on the site unless you  **delete cache**  -> **Tools > Cache**  on the left sidebar and press  **Delete all**).
 
 
  ## Available widgets
@@ -35,7 +35,7 @@ After creating or editing the widgets, changes might not be visible on the site 
     On the page **buttons** enabling users to share the content in the social media will be available.  
     
 -   **Pages**  
-    Displays a banner with links to existing CMS pages ( check: [How to add pages](Content-Add-pages.md) )
+    Displays a banner with links to existing CMS pages. ( check: [How to add pages](Content-Add-pages.md) )
     
 -   **Contact**  
     Shows a contact form in the ad pages so that potential buyers can contact the seller.  
@@ -86,7 +86,7 @@ After creating or editing the widgets, changes might not be visible on the site 
 -   **Language**  
     Allowes users to choose in which language your website will be translated. For more information, follow [this guide](Widget-language-widget.md).
 -   **Currency Converter**  
-    Users can choose between your selected currencies and have an ad prices converter for their chosen currency. More information  [here!](Widgets-how-to-set-the-currency-format.md)
+    Users can choose between your selected currencies and have an ad prices converter for their chosen currency. More information  [here](Widgets-how-to-set-the-currency-format.md)
 -   **Follow**  
     Add social media follow buttons. Insert the URL of your Facebook, Twitter, Instagram, Pinterest, Google+, LinkedIn, Youtube and Flickr page to create the buttons that will make it easier for visitors to follow you on social media direclty from your website.
 -   **Image**  
