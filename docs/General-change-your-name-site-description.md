@@ -1,6 +1,6 @@
 # How to change your site's name and description
 
-When you  [create a classifieds website with Yclas](http://yclas.com/)  you can change your site's name and description very easily.
+When you  create a classifieds website with Yclas,  you can change your site's name and description very easily.
 
 Both terms are pretty straight forward and self-explanatory. 
 
@@ -16,20 +16,19 @@ The site name carries the identity of your whole website and it is complimented 
 
 ### How to change them step-by-step:
 
-1.  Go to your  **website**.
-2.  Login to the  **admin panel**.
-3.  Select  **settings -> general**.
-4.  Enter the site name into the input box labeled  **site name**.
-5.  Enter the description into the input box labeled  **site description**.
-6.  Click the  **save**  button.
+1.  Login to the  **Admin Panel**.
+2.  Select  **Settings -> General**.
+3.  Enter the site name into the input box labeled  **Site Name**.
+4.  Enter the description into the input box labeled  **site description**.
+5.  Click the  **Save**  button.
 
 ✔ **The change is successful – general configuration updated.**
 
-Although the site's name and description are important elements in your website content, remember that you can always **add more content** to your site with the following tools  🛠️
+Although the site's name and description are important elements in your website content, remember that you can always **add more content** to your site with the following tools  🛠️.
 
 -   [Overview of widgets](Widgets-overview-of-widgets.md)
 -   [Creating a blog](Plugins-create-a-blog) 
 -   [Add an FAQ section](Plugins-FAQ-system.md)
 -   [Add a forums section](Plugins-forum-section.md) 
 
-We recommend these tools but there's plenty of other options! :)
+We recommend these tools but there's plenty of other options.
