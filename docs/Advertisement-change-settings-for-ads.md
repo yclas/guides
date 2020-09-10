@@ -1,8 +1,8 @@
 # How to change settings for ads
 
-Yclas allows you to control the number of advertisements you want to display per page, in RSS and Map. You can also choose how to sort them in listing and which ads to display on your homepage!
+Yclas allows you to control the number of advertisements you want to display per page, in RSS and Map. You can also choose how to sort them in listing and which ads to display on your homepage.
 
-To access these settings, go to the Panel,  **Settings**  ->  **Advertisement**. Choose  **Listing Options**  section to find the following fields:
+To access these settings,login to your **Admin Panel** ->  **Settings**  ->  **Advertisement** ->  **Listing Options**  section to find the following fields:
 
 -   **Advertisements per page:**  This is to control how many advertisements are being displayed per page. Insert an integer value as a number limit.
 -   **Advertisements in RSS:**  How many ads are going to appear in the RSS of your site.
