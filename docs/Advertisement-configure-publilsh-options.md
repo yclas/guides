@@ -1,6 +1,6 @@
 # How to configure publish options
 
-You can access these options by logging into your admin panel and going to  **Settings**  ->  **Advertisement**  ->  **Publish Options**.
+You can access these options by logging into **Admin Panel** ->  **Settings**  ->  **Advertisement**  ->  **Publish Options**.
 
 
 -   **Require login to post:**  Force your users to register or login before they post any ad on your website.
