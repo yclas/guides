@@ -1,4 +1,4 @@
-# How to Setup Payment Gateways
+# How to Setup Payment Gateways.
 Content:
 -   Payment methods
     -   Paypal
@@ -18,12 +18,12 @@ Content:
     -   Payline
   
 
-**Heads Up!**  Authorize, Stripe, Paymill, 2checkout, Paysbuy, SecurePay, Robokassa, Paguelofacil and Bitpay are only available with premium themes and on all sites hosted at  [Yclas.com](https://yclas.com/)!
+**Heads Up**  Authorize, Stripe, Paymill, 2checkout, Paysbuy, SecurePay, Robokassa, Paguelofacil and Bitpay are only available with premium themes and on all sites hosted at  [Yclas.com](https://yclas.com/).
 
   
-Let’s first go through the payment settings we have here, of course you can access payment settings by logging into your admin panel  then go to  **Settings**  >  **Payments**  :
+Let’s first go through the payment settings we have here, of course you can access payment settings by logging into your **Admin Panel ->  **Settings**  >  **Payments**  :
 
--   **Payment Currency:**  Pick the currency you want to get paid with. Make sure that your chosen Payment Gateway supports that currency!
+-   **Payment Currency:**  Pick the currency you want to get paid with. Make sure that your chosen Payment Gateway supports that currency.
 -   **Featured ads:**  Turn On or Off the option to feature ad.
 -   **Featured Plans:**  This feature allows you to give users the option to select between different length of the featured of their ad and pay according to your plans. Follow  [this guide](Payment-featured-plans.md)  for more.
 -   **Bring to top Ad:**  Turn On or Off the option to bring an ad to top of the list.
@@ -37,8 +37,8 @@ Let’s first go through the payment settings we have here, of course you can ac
 
 To accept Paypal payments you need to  **set up a Paypal account**,  **enable Instant payment notifications**  in your PayPal account (Seller Preferences -> Instant payment notifications), enter your website URL (http://example.com) into the Notification URL field and then input the paypal e-mail in its designated box in your website admin panel:
 
-**Paypal account:**  Input here your Paypal email  
-**Sandbox:**  Enable testing mode  
+**Paypal account:**  Input here your Paypal email.
+**Sandbox:**  Enable testing mode.
 
 ### Alternative payment:
 
@@ -67,8 +67,8 @@ With escrow the money gets on hold until the buyer receives the item. To configu
 
 ### 2checkout
 
-**Sandbox:**  Enable testing mode  
-**Account Number**  and  **Secret Word**  can be obtained from your account info at  [2checkout](https://www.2checkout.com/)
+**Sandbox:**  Enable testing mode.
+**Account Number**  and  **Secret Word**  can be obtained from your account info at  [2checkout].(https://www.2checkout.com/)
 
 You can find more information about 2checkout configuration  [here](Payment-2checkout-configuration.md)
 
@@ -78,7 +78,7 @@ You can find more information about 2checkout configuration  [here](Payment-2che
 
 To accept credit card payments you need to set up an account with authorize.net and you will also need an SSL certificate. Take a look at their [payment types](https://www.authorize.net/our-features/payment-types.html). You need to register at [here](https://support.authorize.net/s/article/How-can-I-sign-up-for-Visa-Checkout). This is their [price list](https://www.authorize.net/sign-up/pricing.html) and a [full guide](https://support.authorize.net/s/article/Authorize-Net-Getting-Started-Guide) of the services they offer. If you want to check if Autorize.net supports certain payment processors in your country [click here](https://support.authorize.net/s/article/As-a-merchant-located-outside-the-United-States-can-I-use-Authorize-Net-as-my-payment-gateway)
 
-**Sandbox:**  Enable this for testing mode  **Authorize API login**  and  **Authorize transaction key**  can be obtained from your account info at authorize.net
+**Sandbox:**  Enable this for testing mode  **Authorize API login**  and  **Authorize transaction key**  can be obtained from your account info at authorize.net.
 
 ----------
 
@@ -108,13 +108,13 @@ Accept Bitcoins using Bitpay, you can  [register for free](https://bitpay.com/) 
 
 Free registration [here!](https://www.omise.co/)
 
-**Omise account:**  Enter your Omise account email here. **Sandbox:**  Enable this for testing mode
+**Omise account:**  Enter your Omise account email here. **Sandbox:**  Enable this for testing mode.
 
 ----------
 
 ### Paytabs
 
-Free registration [here](https://www.paytabs.com/en/)
+Free registration [here].(https://www.paytabs.com/en/)
 
 **Merchant email:**  Your Paytabs account email.  **Secret Key:**  Secret key available on the merchant dashboard, under the menu “Ecommerce Plugins and API”.
 
@@ -132,9 +132,9 @@ Your  **Merchant ID**  and  **Merchant Key**  can be found by logging into your 
 
 To setup  **Mercadopago**  for your classifieds sites, please follow the steps:
 
-1.  Register  in [Mercadopago](https://www.mercadopago.com.ar/registration-mp?confirmation_url=https%3A%2F%2Fwww.mercadopago.com.ar%2F) 
+1.  Register  in [Mercadopago].(https://www.mercadopago.com.ar/registration-mp?confirmation_url=https%3A%2F%2Fwww.mercadopago.com.ar%2F) 
 2.  Get you  **Client-id**  and  **Client-Secret**.
-3.  Go to your admin panel ->  **Settings**  ->  **Payments**  ->  **MercadoPago**  and paste the Client-id and Client-Secret.
+3.  Go to your **Admin panel** ->  **Settings**  ->  **Payments**  ->  **MercadoPago**  and paste the Client-id and Client-Secret.
 
 ----------
 
