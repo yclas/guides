@@ -16,7 +16,7 @@ Follow these steps:
 
 3. Click  **CREATE**
 
-After deleting cache (go to  **Tools**  >  **Cache**  and hit  **Delete All**, your site will be available at URL build according to this scheme: http://your_site.com/chosen_seotitle.html
+After deleting cache (go to  **Tools**  >  **Cache**  ->  **Delete All**, your site will be available at URL build according to this scheme: http://your_site.com/chosen_seotitle.html
 
 ## Widget
 
