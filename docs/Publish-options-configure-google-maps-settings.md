@@ -2,7 +2,7 @@
 
 **Steps:**
 
-1.  Go on  **Panel**,  **Settings**  ->  **Advertisement**  ->  **Google Maps**.
+1.  Login to  **Admin Panel** -> **Settings**  ->  **Advertisement**  ->  **Google Maps**.
 2.  Fill the fields.
 3.  Click  **SAVE**.
 
