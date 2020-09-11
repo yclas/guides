@@ -7,7 +7,7 @@ Imagine that you publish an ad and there are some people who are interested in c
 
 **Follow the steps:**
 1.Create a new custom field for this specific purpose. 
-If you don’t know how, you can follow [this guide]( **Custom-fields-create-custom-fields.md).
+If you don’t know how, you can follow [this guide](Custom-fields-create-custom-fields.md).
 
 2. This custom field must be called  **contactemail**.
  If that field exists emails will be sent to that address instead of the user’s email address. 
