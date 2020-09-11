@@ -2,7 +2,7 @@
 
 By using  [Zoho mail](https://www.zoho.com/mail/), you can send and receive emails associated with your domain.
 
-To setup Zoho Mail, follow these easy steps:
+To setup Zoho Mail, please refer to the steps below :
 
 1.  **Choose your plan**:  [https://www.zoho.com/mail/zohomail-pricing.html](https://www.zoho.com/mail/zohomail-pricing.html)
 2.  Enter your domain name and click “Add Domain”.
