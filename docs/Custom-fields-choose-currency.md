@@ -9,13 +9,13 @@ Here’s the steps you need to follow to give the sellers the option to choose t
 
 ## Create the Currency custom field
 
-1.  Go to your panel,  **Classifieds -> Custom Fields**.
+1.  Login to your **Admin Panel** ->  **Classifieds -> Custom Fields**.
 2.  Click  **New Field**.
 3.  It’s important to name the field  **currency**.
 4.  In the Type input choose  **Select**.
 5.  Into the Values field, enter the currencies you want to allow users to choose, comma separated. All the available currencies can be found in this guide.
 6.  Fill the fields.
-7.  Press Create.
+7.  Click **Create**.
 
 Now the field is created and sellers have the option to select a currency from the available options.
 
