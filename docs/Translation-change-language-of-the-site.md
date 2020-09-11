@@ -8,7 +8,7 @@ Content:
 
 It’s super simple:
 
-Go to  **Panel,**  choose  **Settings**  and press  **Translations**  from the left sidebar. From the list of available language versions choose your locale. Press  **Activate**  next to the locale you’ve chosen. Your page is already translated!
+Go to  **Admin Panel**  ->  **Settings**  -> **Translations**  from the left sidebar. From the list of available language versions choose your locale. Press  **Activate**  next to the locale you’ve chosen. Your page is already translated.
 
 You can also  **Edit**  translation by clicking orange button with a pen ([see how](https://docs.yclas.com/how-to-change-texts)).
 
@@ -51,4 +51,4 @@ Ukrainian - (**uk_AU**)
 
 Here you can find an example for  **[list of all locales](http://www.roseindia.net/tutorials/I18N/locales-list.shtml)**.
 
-If you want to have your site translated in a language that is not listed above, **[contact us](https://yclas.com/contact/)**! For anyone who would help us software translation (to a new language that is not listed above) will we offer them a license discount!
+If you want to have your site translated in a language that is not listed above, **[contact us](https://yclas.com/contact/)**. For anyone who would help us software translation (to a new language that is not listed above) will we offer them a license discount.
