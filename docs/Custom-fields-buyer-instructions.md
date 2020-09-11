@@ -5,11 +5,11 @@ This feature allows you to attach a text to the email that’s sent to buyers af
 
 To enable this feature, you need to  **follow these steps:**
 
-1.  Go to your panel,  **Classifieds -> Custom Fields**.
+1.  Login to your **Admin Panel** ->  **Classifieds -> Custom Fields**.
 2.  Click  **New Field**.
 3.  It’s important to call this field  **buyer_instructions**.
 4.  Fill the fields.
-5.  Press  **Create**.
+5.  Click  **Create**.
 
 
 **Tips:**
