@@ -33,5 +33,5 @@ Now users can choose if their product is available for shipping, pick up or both
 
  This field will add an option in the “Publish new” form, titled 'Shipping Pickup'.
 
-2. If the option for pick up is **checked,** users will be able to choose the shipping method in the checkout page.
+2. If the option for pick up is checked, users will be able to choose the shipping method in the checkout page.
 
