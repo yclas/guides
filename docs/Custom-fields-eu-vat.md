@@ -20,7 +20,7 @@ Follow the steps below to add the VAT to the features of your website,  **Featur
 
 ### EU countries
 
-1.  Login to your panel.
+1.  Login to your **Admin Panel**.
 2.  Go to  **Settings -> Payment -> General**.
 3.  Enter the  **VAT country**  and  **VAT number**.
 4.  Click  **Save**.
@@ -31,7 +31,7 @@ _Error: Invalid EU Vat Number, please verify number and country match_
 
 ### Non EU countries
 
-1.  Login to your panel.
+1.  Login to your **Admin Panel**.
 2.  Go to  **Settings -> Payment -> General**.
 3.  Enter the  **VAT country**,  **VAT number**  and  **VAT rate only for Non-EU countries**.
 4.  Click  **Save**.
@@ -46,7 +46,7 @@ At checkout, your website will try to calculate the VAT using the Advertisement 
 
 ### Advertisement VAT number
 
-1.  Login to your panel.
+1.  Login to your **Admin Panel**.
 2.  Go to  **Classifieds -> Custom Fields**.
 3.  Click  **New Field**.
 4.  Enter  **vatcountry**  into the field called Name. It’s important to enter  _vatcountry_  as name and choose Country as the field type in order to make the feature works. Choosing Country will automatically create dropdown menu with all the countries included.
@@ -59,7 +59,7 @@ At checkout, your website will try to calculate the VAT using the Advertisement 
 
 ### User VAT number
 
-1.  Login to your panel.
+1.  Login to your **Admin Panel**.
 2.  Go to  **Users -> User Custom Fields**.
 3.  Click  **New Field**.
 4.  Enter  **vatcountry**  into the field called “Name”. It’s important to enter  _vatcountry_  as name and choose Country as the field type in order to make the feature works. Choosing “Country” will automatically create dropdown menu with all the countries included.
@@ -96,10 +96,10 @@ If your selected country is an EU member, the VAT rate is calculated automatical
 
 To let sellers manually insert the VAT rate, you need to create a custom field or user custom field called  **vatnoneu**.
 
-1.  Login to your panel.
+1.  Login to your **Admin Panel**.
 2.  Go to  **Classifieds -> Custom Fields**  or  **Users -> User Custom Fields**.
 3.  Click  **New Field**.
 4.  Enter  **vatnoneu**  into the field called Name. It’s important to enter  _vatnoneu_  as name and choose Number Decimal in the field type to make this feature work.
-5.  **Fill the fields**  and  **press Create**.
+5.  **Fill the fields**  and  click **Create**.
 
 
