@@ -25,7 +25,7 @@ This is a  **New Custom Field**  screen. There are 10 options in total.
 3.  **Tooltip**: assign a text to the custom field tooltip.
 
 
-## 4. **Type**:*
+## 4. **Type**:
 
     
     1.  _Text 256 chars_  (standard input field, string)  
