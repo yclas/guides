@@ -6,8 +6,6 @@ With this option, and by creating this custom field, ads will be integrated into
 
 Let's try publishing a new ad in one of those categories :) How to do that?
 
-(https://github.com/yclas/guides/blob/master/images/integrade%20custom%20fields.png)
-
 In my example, when I chose the “Apartment” category, our new custom field was shown automatically where the arrow is pointing.
 
 If you want to add a custom field to any ad published regardless of its category, you can simply **leave the category option empty** and your new custom field will show every time a new ad is being published.
