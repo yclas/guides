@@ -4,9 +4,9 @@
 
 With this option, and by creating this custom field, ads will be integrated into the “Housing”, “Apartment” and “English” categories.
 
-Let's try **publishing a new ad** in one of those categories :) How to do that?
+Let's try publishing a new ad in one of those categories :) How to do that?
 
-![integrade custom fields.png](https://github.com/yclas/guides/blob/master/images/integrade%20custom%20fields.png)
+(https://github.com/yclas/guides/blob/master/images/integrade%20custom%20fields.png)
 
 In my example, when I chose the “Apartment” category, our new custom field was shown automatically where the arrow is pointing.
 
