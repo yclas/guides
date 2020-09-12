@@ -5,14 +5,14 @@ Content:
 
 The Custom CSS can be used for changing the visual aspects of your site. You can modify fonts, colors, backgrounds, padding, margins, floats, etc.
 
-*We recommend coding knowledge in order to use Custom CSS!*
+*We recommend coding knowledge in order to use Custom CSS.*
 
 ### Adding Custom CSS
 
-1.  Go to  **Panel**, choose  **Design**  ->  **Custom CSS**.
-2. Insert your code in the textarea
+1.  Login to your **Admin Panel** ->  **Design**  ->  **Custom CSS**.
+2. Insert your code in the textarea.
 3. Tick the active box.
-3. Press  **SAVE**
+3. Click  **SAVE**.
 
 
   
