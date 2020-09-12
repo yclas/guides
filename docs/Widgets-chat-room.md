@@ -4,11 +4,11 @@ You have a limited-user classifieds website or a even a larger website? The chat
 
 **To add a chat box to your website you need to follow the next steps:**
 
-1.  Log in to your  **Admin Panel**
-2.  Go to  **Design**  >  **Widgets**
-3.  Select  **Chat**  and press  **Create**
+1.  Log in to your  **Admin Panel**.
+2.  Go to  **Design**  >  **Widgets**.
+3.  Select  **Chat**  and click  **Create**.
 
-4.  **Input your settings**  (here you have to make sure that you input a ***name*** for your chat room that is unique and ***not used*** before, otherwise you will get an empty box) and select  **Save Changes**
+4.  **Input your settings**  (here you have to make sure that you input a ***name*** for your chat room that is unique and ***not used*** before, otherwise you will get an empty box) and select  **Save Changes**.
 
 
 **After following the steps you can visit your website and see the chat room functioning.*
