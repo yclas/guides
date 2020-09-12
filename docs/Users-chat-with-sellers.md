@@ -14,7 +14,7 @@ Now users can enter their  **phone number**  and use Whatsapp for messaging and 
 
 ![customfield](https://raw.githubusercontent.com/yclas/guides/master/images/customfield.png)
 
-**Remember!**  It’s important to enter  **whatsapp**  in the name field while creating the custom field.
+**Remember:**  It’s important to enter  **whatsapp**  in the name field while creating the custom field.
 
 ![whatsapp](https://raw.githubusercontent.com/yclas/guides/master/images/whatsapp.png)
 
@@ -27,7 +27,7 @@ Now users can enter their  **phone number**  and use Whatsapp for messaging and 
 
 Users can enter their  **Skype ID**  to this field on register page or when are update their profile.
 
-**Remember!**  It’s important to enter  **skype**  in the name field while creating the custom field.
+**Remember:**  It’s important to enter  **skype**  in the name field while creating the custom field.
 
 ## Telegram
 
@@ -37,7 +37,7 @@ Users can enter their  **Skype ID**  to this field on register page or when are 
 
 Users can enter their  **telegram username**  to this field on register page or when  updating their profile.
 
-**Remember!**  It’s important to enter  **telegram**  in the name field while creating the custom field.
+**Remember:**  It’s important to enter  **telegram**  in the name field while creating the custom field.
 
 ## The result.
 
