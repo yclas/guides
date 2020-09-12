@@ -1,4 +1,4 @@
-The appearance guide has everything you need to configure on your website! 🏗
+The appearance guide has everything you need to configure on your website. 🏗
 
 Content of this guide:
 
