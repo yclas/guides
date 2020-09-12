@@ -1,6 +1,6 @@
 ## Widgets 🛠️
 
-In this guide, you can find information on about available widgets and their functions. 
+In this guide, you can find information about available widgets and their functions. 
   
    * [Overview of widgets](Widgets-overview-of-widgets.md)
    * [Chat room](Widgets-chat-room.md)
