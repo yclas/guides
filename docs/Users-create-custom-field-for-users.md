@@ -1,10 +1,8 @@
 # How to create custom fields for users
 
 
-## Examples
-
 For example, if you create a **Custom Field** and name it **“Age”**, on the user registration form, a new field named **“Age”** will appear, so your users will have to provide their age when they register.
-Other ideas :  **_birthday_**,  **_province_**,  **_phone number_**,  **_address_**,  etc.
+Other ideas :  **_birthday_**,  **_province_**,  **_phone number_**,  **_address_**,  etc...
 
 ## Tricks
 
