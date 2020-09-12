@@ -11,7 +11,7 @@
  
 **Locations**  makes it possible to segregate ads by place or city. Thanks to this users can narrow their search ads within their geographical territory.
 
-***Warning:**  We do not recommend adding more than 1000 locations if you use shared hosting. Otherwise, your website will work very slow.*
+**Warning:**  We do not recommend adding more than 1000 locations if you use shared hosting. Otherwise, your website will work very slow.*
 
 ## How to add locations
 
@@ -59,7 +59,7 @@ At the quick location creator, add the name of the location, hit  enter  on your
 
 ### Manual method
 
-1. Login to your **Admin Panel**, choose  **Classifieds**  >  **Locations**  on the left sidebar.
+1. Login to your **Admin Panel** -> **Classifieds**  >  **Locations**  on the left sidebar.
 2. Press ‘**New location**’ button.
 3. Fill  **in the fields:**
 
