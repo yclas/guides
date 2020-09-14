@@ -2,7 +2,7 @@
 
 This is the official API Documentation for Yclas. With this API you will be able to extend the usage of your site, for example with native iOS and Android apps. 
 
-More information native [iOS app](https://yclas.com/ios-app.html) and native [Android app](https://yclas.com/android-app.html)
+More information native [iOS app](https://yclas.com/ios-app.html) and native [Android app].(https://yclas.com/android-app.html)
 
 <!-- MarkdownTOC -->
 
@@ -133,7 +133,7 @@ Limiting which fields are returned by the API
 `GET /api/v1/listings?fields=id,subject,customer_name,updated_at&state=open&sort=-updated_at`
 
 
-**Remember: You can use all this parameters together!**
+**Remember: You can use all this parameters together**
 
 `GET /api/v1/listings?q=something+to+search&status>=1&id_category=77&sort=-title,price&page=3&items_per_page=10`
 
@@ -152,9 +152,9 @@ In order to use some api endpoint you will be required to have an API Key of you
 
 Here's how you can obtain the API Key:
 
-1. Login at your classifieds site
-2. Go to Settings->General
-3. Check for Key API
+1. Login at your classifieds site.
+2. Go to Settings->General.
+3. Check for Key API.
 
 That's your `api_key` for your site to use in further requests. E.G:
 
