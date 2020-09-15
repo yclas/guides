@@ -1,7 +1,4 @@
 # How to set up reCAPTCHA on your website
-Content:
--   How does it work with Yclas?
--   Add reCAPTCHA to your website
 
 ![recaptcha1](https://user-images.githubusercontent.com/55290441/80510474-73846900-8983-11ea-839e-4503b3e909fa.png)
 
@@ -23,9 +20,9 @@ So you’ve registered your site with Google and now you want to activate it, ju
 1.  Go to your  **website**.
 2.  Login to the  **Admin Panel**.
 3.  Select  **Configuration -> Integration -> reCaptcha**.
-4.  Enable the  **reCAPTCHA**
-5.  Place your website’s ‘Site Key’ in the  **reCAPTCHA Site Key**  input box. v2 of recaptcha
-6.  Place your website’s ‘Secret Key’ in the  **reCAPTCHA Secret Key**  input box. v2 of recaptcha
+4.  Enable the  **reCAPTCHA**.
+5.  Place your website’s ‘Site Key’ in the  **reCAPTCHA Site Key**  input box. v2 of recaptcha.
+6.  Place your website’s ‘Secret Key’ in the  **reCAPTCHA Secret Key**  input box. v2 of recaptcha.
 7.  Click the  **Save**  button.
 
 ![recaptcha](https://raw.githubusercontent.com/yclas/guides/master/images/recaptcha.png)
