@@ -1,13 +1,5 @@
 # Cloudinary
 
-How to create a video custom field with Cloudinary
-
-Content:
-
--   Prerequisites
--   Create the Video field
--   Cloudinary
-
 This feature allows sellers to add videos to their ads.
 
 ## Prerequisites
@@ -18,20 +10,20 @@ This feature allows sellers to add videos to their ads.
 
 ## Create the Video field
 
-1.  Create a Custom Field on  **Configure -> Settings -> Custom fields**
-2.  Click on **New Field** ->  The custom field  _Type_  must be  **Video**
+1.  Create a Custom Field on  **Configure -> Settings -> Custom fields**.
+2.  Click on **New Field** ->  The custom field  _Type_  must be  **Video**.
 
 ![video cf](https://raw.githubusercontent.com/yclas/guides/master/images/video%20cf.png)
 
 ## Cloudinary
 
-1. Go to  [Cloudinary Upload Settings](https://cloudinary.com/console/settings/upload)
+1. Go to  [Cloudinary Upload Settings].(https://cloudinary.com/console/settings/upload)
 
-2. Press  **Upload presents**  ->  **Add upload present**
+2. Press  **Upload presents**  ->  **Add upload present**.
 
 ![upload1](https://raw.githubusercontent.com/yclas/guides/master/images/upload1.png)
 
-3. Choose  **Unsigned**  on Signing Mode
+3. Choose  **Unsigned**  on Signing Mode.
 
 ![upload2](https://raw.githubusercontent.com/yclas/guides/master/images/upload2.png)
 
@@ -43,18 +35,18 @@ This feature allows sellers to add videos to their ads.
 
 ![upload4](https://raw.githubusercontent.com/yclas/guides/master/images/upload4.png)
 
-6. Copy your  **Upload present name**  and paste it to your website admin panel ->  **Configure**  ->  **Integrations**  ->  **Cloudinary**  
+6. Copy your  **Upload present name**  and paste it to your website admin panel ->  **Configure**  ->  **Integrations**  ->  **Cloudinary** .
 
 ![upload5](https://raw.githubusercontent.com/yclas/guides/master/images/upload5.png)
 
-7. Go to  [Cloudinary Console](https://cloudinary.com/console)
+7. Go to  [Cloudinary Console].(https://cloudinary.com/console)
 
-8. Copy your  **Cloud name**,  **API Key**,  **API Secret**  and paste it to your website admin panel ->  **Configure**  ->  **Integrations**  ->  **Cloudinary**  ->  **Cloudinary API Key**,  **Cloudinary API Secret**  and  **Cloudinary Cloud Name**
+8. Copy your  **Cloud name**,  **API Key**,  **API Secret**  and paste it to your website admin panel ->  **Configure**  ->  **Integrations**  ->  **Cloudinary**  ->  **Cloudinary API Key**,  **Cloudinary API Secret**  and  **Cloudinary Cloud Name**.
 
 ![upload6](https://raw.githubusercontent.com/yclas/guides/master/images/upload6.png)
 
 ![cloudinary](https://raw.githubusercontent.com/yclas/guides/master/images/cloudinary.png)
 
-9. Done! You can now go to the  _Publish new_  page to see the result
+9. Done. You can now go to the  _Publish new_  page to see the result.
 
 ![upload7](https://raw.githubusercontent.com/yclas/guides/master/images/upload7.png)
