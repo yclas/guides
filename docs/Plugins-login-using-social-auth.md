@@ -1,17 +1,9 @@
 # How to login using Social Auth (Facebook, Google, Twitter ...)
-Content:
--   How to enable Google login
--   How to enable Facebook login
--   How to enable AOL login
--   How to enable Open ID (yahoo) login
--   How to enable Yahoo login
--   How to enable Twitter login
--   Other social login
 
 
 ## How to enable Google login
 
-1.  Open in a new window the  **[Google Developers Console](https://cloud.google.com/console#/project)**
+1.  Open in a new window the  **[Google Developers Console](https://cloud.google.com/console#/project)**.
 2.  Press  **Project**  on the top and choose  **Create project**.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/login1.png)
@@ -23,9 +15,9 @@ Content:
 4.  Now you need to enter a  **Product name**  and you can fill any of the other optional fields you want. Click  **Save**.  
 5.  After that, you will be redirected to create client ID.
 
--   Application type: Web application
+-   Application type: Web application.
 -   Authorized Javascript origins: Your site URL here. ex: https://yclas.com/
--   Authorized redirect URI: ex: https://yclas.com/social/login/1?hauth.done=Google
+-   Authorized redirect URI: ex: https://yclas.com/social/login/1?hauth.done=Google.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/login2.png)
 
@@ -90,8 +82,8 @@ _https://yourdomain.com/social/login/1?hauth_done=Facebook_
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/login9.png)
 
-12. Go to http://yourdomain.com/oc-panel/social/index  
-13. Set  **Facebook =**  **TRUE** .
+12. Go to http://yourdomain.com/oc-panel/social/index .
+13. Set  **Facebook =**  **TRUE**.
 14. Fill  **ID = App ID**  as appears at FB page.
 15. Fill  **Secret = App secret**  as in FB.
 16. Click  **Update**  in the bottom of the page.  
@@ -113,8 +105,8 @@ _https://yourdomain.com/social/login/1?hauth_done=Facebook_
 With this option users will be able to login using an Open ID account. In Yclas we use Yahoo as Open ID provider since it’s really easy to implement.
 
 1.  Go to http://yourdomain.com/oc-panel/social/index
-2.  Set  **Open ID = TRUE**
-3.  Click  **Update**  in the bottom of the page
+2.  Set  **Open ID = TRUE**.
+3.  Click  **Update**  in the bottom of the page.
 4.  Logout.
 5.  Go to login, Open ID should appear there.
 6. Now you can try it out.
@@ -131,10 +123,10 @@ With this option users will be able to login using an Open ID account. In Yclas 
 [](https://raw.githubusercontent.com/yclas/guides/master/images/login10.png)
 
 6. Go to your panel,  **Settings -> Plugins**, enable  **Social Auth**, click  **Save**  and then go to  **Settings**  ->  **Social Auth**  or http://yourdomain.com/oc-panel/social/index  
-7. Set  **Yahoo = TRUE**  
-8. Fill  **ID**  = Client ID as appears at Yahoo  
-9. Fill  **Secret**  = Client secret as in Yahoo  
-10. Click  **Update**  in the bottom of the page  
+7. Set  **Yahoo = TRUE** .
+8. Fill  **ID**  = Client ID as appears at Yahoo.
+9. Fill  **Secret**  = Client secret as in Yahoo.
+10. Click  **Update**  in the bottom of the page.
 11. Logout.
 12. Go to login, Yahoo should appear there.  
 13. Now test it.
