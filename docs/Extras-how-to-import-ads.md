@@ -1,6 +1,4 @@
 # How to import ads
-Content:
--   How to use this feature
 
 It’s much easier to import advertisements instead of inserting them one by one. 
 
@@ -8,19 +6,19 @@ It’s much easier to import advertisements instead of inserting them one by one
 
 Create a CSV file in utf8 with header (lower case): user_name user_email title description date category location price address phone website locale* stock* image_1 image_2 image_3 image_4 .. (as many images as you have setup in the system)
 
-**user_name:**  Name for user if doesn’t exists will get created  
-**user_email:**  Email address of user if doesn’t exists will get created  
-**title:**  Title of the ad, will be used later for the url for SEO  
-**description:**  Ad description details. Allows bbcode  
-**date:**  Published date, in format YYYY-MM-DD (for example 2014-05-09)  
-**category:**  Name of the category will be created if doesnt exists  
-**location:**  Name of the location will be created if doesnt exists  
-**price:**  Price, numeric (optional)  
-**address:**  Address of the ad, (optional)  
-**phone:**  Phone number (optional)  
-**website:**  Website (optional)  
-**locale:**  locale of the ad, ex fr_FR (* optional, only add in the header if you have multilingual enabled)  
-**stock:**  number (* optional, only add in the header if you have stock control enabled)  
+**user_name:**  Name for user if doesn’t exists will get created.
+**user_email:**  Email address of user if doesn’t exists will get created.  
+**title:**  Title of the ad, will be used later for the url for SEO.  
+**description:**  Ad description details. Allows bbcode.
+**date:**  Published date, in format YYYY-MM-DD (for example 2014-05-09).  
+**category:**  Name of the category will be created if doesnt exists.  
+**location:**  Name of the location will be created if doesnt exists.  
+**price:**  Price, numeric (optional). 
+**address:**  Address of the ad, (optional).  
+**phone:**  Phone number (optional).  
+**website:**  Website (optional).  
+**locale:**  locale of the ad, ex fr_FR (* optional, only add in the header if you have multilingual enabled).  
+**stock:**  number (* optional, only add in the header if you have stock control enabled).  
 
 **Images:**
 
@@ -38,12 +36,12 @@ Now it’s possible to import ads with custom fields. All you need to do is to a
 
 You can use this easy import tool to add all of your ads with a press of a button. You simply need to follow those steps:
 
--   Log into your  **Admin Panel**
--   Go to  **Tools**  >  **Import Ads**
--   Click on  **Choose File**  to select your CVS file and then press  **Upload**
+-   Log into your  **Admin Panel**.
+-   Go to  **Tools**  >  **Import Ads**.
+-   Click on  **Choose File**  to select your CVS file and then press  **Upload**.
 -   Now click on **Process**  on the **Process Queue** box which is displayed on the right side of the page.
 
-Now, you can see the imported ads on **Manage** -> **Advertisements**.
+You can now see the imported ads on **Manage** -> **Advertisements**.
 
   
 **Related posts:**
