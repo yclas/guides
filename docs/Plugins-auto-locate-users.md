@@ -1,13 +1,10 @@
 # Auto locate users
-Content:
--  How it works
--  SSL 
 
 ## How it works
 
 **Auto locate** is a feature you can use to bring your visitors more relevant information or to save them time while searching. When this option is enabled the visitor's browser will ask them if they want to share their location. If they consent, their browser estimates their location and shares it with your website. User location can be used in the listing page, if user consent to share their location it shows results based on it.
 
-To enable this feature for your website you need to login to the admin panel, go to **Configure -> Addons**, find and enable **Auto Locate** and click **Save**.
+To enable this feature for your website you need to login to your  **Admin Panel** -> **Configure -> Addons**, find and enable **Auto Locate** and click **Save**.
 
 
 ## SSL
