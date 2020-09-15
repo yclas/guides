@@ -3,7 +3,7 @@
 Integrate Pinterest into your website! 
 
 **How to enable Pinterest?**
-1. Go to your **admin panel** -> **Configure** -> **Integrations** ->  find **Social** and click on **Pinterest**. 
+1. Login  to your **Admin Panel** -> **Configure** -> **Integrations** ->  find **Social** and click on **Pinterest**. 
 2. Enable **Pinterest** by checking the box in the right corner. The add the necessary configuration data into the fields. 
 3. Login to your **Pinterest account**.
 4. Create a new **Board**, in case that you don’t have the Board you want to pin your ads/website with already created.
