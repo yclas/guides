@@ -1,27 +1,20 @@
 # Memberships plans to post
-Content:
--   How to activate it
--   Create Plans
--   Subscription Expire
--   How it works
--   Recurring Membership Plans
--   Cancel Subscriptions
 
 With Subscriptions/Memberships you can charge daily, weekly, monthly or yearly subscription to your users to be able to post to your site.
 
 ### How to activate it?
 
 Steps to follow:
-1.  Go to your Panel,  **Configure**  ->  **Addons**.
+1.  Login to your **Admin Panel** ->  **Configure**  ->  **Addons**.
 2.  Find  **Subscriptions / Memberships** and activate the feature.
 3.  Click  **Save**.
 
 
 ### Create Plans
 
-1.  Again, go to  **Configure**  ->  **Addons** ->  **Subscriptions / Memberships** and click on configure.
+1.  Login to your **Admin Panel** -> **Configure**  ->  **Addons** ->  **Subscriptions / Memberships** and click on configure.
 2.  You can find the field **Plans** in the down part of the page. 
-3.  Click on **New plan**
+3.  Click on **New plan**.
 3.  Fill the fields.
 4.  Click  **Submit**.
 
@@ -52,7 +45,7 @@ Users can find information about their subscription at the bottom of the  **Edit
 
 Once the subscription expires, an email will be sent to the user with a link to pay and renew his plan. 
 
-You can find information about all the users subscriptions when you go to your **Panel** ->  **Addons**  ->  **Subscriptions**.
+You can find information about all the users subscriptions when you go to your **Admin Panel** ->  **Addons**  ->  **Subscriptions**.
 
 ### Recurring Membership Plans
 
