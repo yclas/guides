@@ -1,9 +1,5 @@
 # Two-Step Authentication
 
--   How to configure two-step authentication
--   How to enable the two-step authentication on your profile
--   How to use it
-
 This feature gives you and your users two-factor authentication. You can protect your account with both your password and your phone.
 
 ## How to configure two-step authentication:
@@ -11,13 +7,13 @@ This feature gives you and your users two-factor authentication. You can protect
 1.  Login to your  **Admin Panel**.
 2.  Go to  **Configuration -> Integrations**.
 3.  Activate  **Google Authenticator**.
-4.  Press  **Save**
+4.  Click  **Save**.
 
 ![2step](https://raw.githubusercontent.com/yclas/guides/master/images/2step.png)
 
 ## How to enable the two-step authentication on your profile:
 
-1.  **Login**  to your website.
+1.  Login to your  **Admin Panel**.
 2.  Go to  **[Edit Profile](Profile-edit-users-profile.md)**.
 3.  If you don’t have  **Google Authenticator**  app installed on your mobile phone, you can choose  **Android**  or  **iOS**  below to get one.
 4.  Run the app on your mobile phone, click  **Set up account**  from the options and  **scan the QR code**.
@@ -32,11 +28,11 @@ This feature gives you and your users two-factor authentication. You can protect
 
 ## How to use it:
 
-1.  Go to your website and choose to log in.
+1.  Login to your  **Admin Panel**.
 2.  Enter your  **Email**  and  **Password**  and click  **Login**.
 3.  Now you will be redirected to  **enter the Verification Code**  (Run the Google Authenticator app to find the verification code.)
 4.  Click  **Send**.
-5.  Now you are logged into your website!
+5.  Now you are logged into your website.
 
 ![2step4](https://user-images.githubusercontent.com/55290441/80509206-c0ffd680-8981-11ea-8717-0de4b26f5fcd.png)
 
