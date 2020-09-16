@@ -1,11 +1,5 @@
 # How to create MySQL database?
 
-Content:
--   CPanel
--   Plesk
--   DirectAdmin
--   MySQL (advanced users
-
 
 If you want to install Yclas Self-hosted, besides the required PHP, you will need a  **MySQL server**  with a database and a user name.
 
@@ -13,7 +7,7 @@ If you want to install Yclas Self-hosted, besides the required PHP, you will nee
 
 To make your life easier, I added some videos, made by users, explaining this process in different panels.
 
-## CPanel
+## cPanel
 
 [![Create A MySQL Database with cPanel - EASY tutorial](https://img.youtube.com/vi/YbIn--iNmKE/0.jpg)](https://www.youtube.com/watch?v=YbIn--iNmKE)
 
@@ -47,7 +41,7 @@ To make your life easier, I added some videos, made by users, explaining this pr
 
 ## MySQL (advanced users)
 
-**Step 1:**  **Login to MySQL**  ( you will need an account )
+**Step 1:**  Login to **MySQL**.  ( you will need an account )
 
 ```
 user@server:~$ mysql -u mysql_user -p
@@ -55,28 +49,28 @@ Enter password:
 
 ```
 
-**Step 2:**  Create the  **Database**
+**Step 2:**  Create the  **Database**.
 
 ```
 mysql > create database db_name;
 
 ```
 
-**Step 3:**  **Verify**  that it’s there
+**Step 3:**  **Verify**  that it’s there.
 
 ```
 mysql > show databases;
 
 ```
 
-**Step 4: Create the User**
+**Step 4: Create the User**.
 
 ```
 mysql > create user db_user;
 
 ```
 
-**Step 5:**  Grant privileges while assigning the password
+**Step 5:**  Grant privileges while assigning the password.
 
 ```
 mysql > grant all on db_name.* to 'db_user'@'localhost' identified by 'db_password';
@@ -99,4 +93,4 @@ via  [lanexa.net](http://www.lanexa.net/2011/08/create-a-mysql-database-username
 We hope that you find this information useful! If you want you can read more on **[how to use MySQLi](Useful-artciles-how-to-use-MySQLi.md)** in our article on the topic.
 
 
-*This guide is only for Yclas Self-hosted!*
+*This guide is only for Yclas Self-hosted*
