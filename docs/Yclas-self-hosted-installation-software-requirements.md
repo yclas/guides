@@ -4,8 +4,8 @@ Make sure to go though them before trying to install Yclas Self-hosted.
 
 **Main requirements**
 
--   Firstly, and most imporantly you need a computer that has a working internet connection.  💻
--   An internet browser 🌐
+-   First and most imporantly you need a computer that has a working internet connection.  💻
+-   An internet browser. 🌐
 -   A web hosting that supports: 
     -   Apache 2+
     -   PHP 7
