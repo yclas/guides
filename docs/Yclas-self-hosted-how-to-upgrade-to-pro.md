@@ -1,6 +1,6 @@
 # How to upgrade to Yclas Self-hosted PRO
 
-This guide is only for Yclas Self-Hosted!
+This guide is only for Yclas Self-Hosted.
 
 With  [Yclas Self-Hosted PRO](https://selfhosted.yclas.com/themes/yclas-self-hosted-pro.html) you get everything you need to start a classifieds or a marketplace site.
 
@@ -14,7 +14,7 @@ To upgrade to Yclas Self-hosted PRO and get all the Yclas themes and features,  
 -   **Extract**  the themes pack.
 -   Log in to your website  **admin panel, Appearance -> Themes**.
 -   **Activate**  your desired theme using your license number.
--   Ready!
+-   Ready.
 
 ## Yclas Self-Hosted Pro:
 
