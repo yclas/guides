@@ -1,10 +1,5 @@
 ## How to install Yclas Self-hosted on Digital Ocean, VULTR or Linode
 
-Content:
--   Creating the image / installing server
--   Creating user DB
--   Install Yclas Self Hosted
-
 
 ***Introduction***
 
@@ -40,9 +35,9 @@ In this guide we will teach you how to install Yclas Self Hosted in a VPS. We wi
 
 For [Digital Ocean](https://www.digitalocean.com/?refcode=ebff5f6941b0)
 
--   Ubuntu 14.04 Droplet
+-   Ubuntu 14.04 Droplet.
     
--   Create a non-root user with sudo privileges. You can follow steps 1-4 in the [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04/) guide
+-   Create a non-root user with sudo privileges. You can follow steps 1-4 in the [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04/) guide.
     
 
 For [VULTR](https://www.vultr.com/?ref=6814237)
@@ -90,10 +85,9 @@ Exit MySQL
 
 ## Install Yclas Self-hosted
 
--   Download  **[install-yclas.php](https://raw.githubusercontent.com/yclas/yclas/master/install-yclas.php)**
--   Upload it to Apache’s document root
--   Run  **http://yourdomain.com/install-yclas.php**
--   Press  **Download and Install**
--   Follow the steps
--   Log in to your  **Admin Panel**, create some  **Categories**  and  **Locations**
--   It should be working!
+-   Download  **[install-yclas.php](https://raw.githubusercontent.com/yclas/yclas/master/install-yclas.php)**.
+-   Upload it to Apache’s document root.
+-   Run  **http://yourdomain.com/install-yclas.php**.
+-   Press  **Download and Install**.
+-   Follow the steps.
+-   Log in to your  **Admin Panel**, create some  **Categories**  and  **Locations**.
