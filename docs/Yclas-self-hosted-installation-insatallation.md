@@ -8,7 +8,7 @@ You only need a compatible hosting and you will be one step away from installing
 
 If your hosting provider supports [Softaculous](https://www.softaculous.com/softwares/admanager/Yclas)  (Installer tools that you can access through your Cpanel), the installation process will take just a moment.
 
-If your hosting provider doesn’t support Softaculous don’t worry! **Scroll down**
+If your hosting provider doesn’t support Softaculous don’t worry! **Scroll down**.
 
   Start by accessing Softaculous in your Panel and then choose the Yclas Self-Hosted in Ads management. Click on the Installation button.
 
@@ -19,17 +19,17 @@ If your hosting provider doesn’t support Softaculous don’t worry! **Scroll d
 
 Another way to install this version is 1 file installation. Follow the steps one by one:
 
--   Download  [install-yclas.php](https://raw.githubusercontent.com/yclas/yclas/master/install-yclas.php)
+-   Download  [install-yclas.php].(https://raw.githubusercontent.com/yclas/yclas/master/install-yclas.php)
     
--   Upload it to the root of your domain or wherever you want to install Yclas
+-   Upload it to the root of your domain or wherever you want to install Yclas.
     
--   Press Download
+-   Click  Download.
     
--   Follow the steps that will appear on your screen
+-   Follow the steps that will appear on your screen.
     
--   Log in to your Admin Panel, create some Categories and Locations
+-   Log in to your Admin Panel, create some Categories and Locations.
     
--   You are all ready to start!
+-   You are all ready to start.
     
 
  [Video Guide](www.youtube.com/watch?v=L2-b8r8DAfU%5D%29) 
@@ -52,7 +52,7 @@ The traditional installation is suitable for anyone who wants to use it.
     
 -   Login in Admin Panel, create some Categories and Locations
     
--   You are all ready to start!
+-   You are all ready to start.
     
 
 Note: To install it, you will need a Database and a Username created in your hosting. Follow [this link](https://guides.yclas.com/#/Yclas-self-hosted-installation-mySQL-database) to learn how to create a MySQL Database.
@@ -65,9 +65,9 @@ Note: To install it, you will need a Database and a Username created in your hos
 
 **Traditional installation**
 
--   Download the compressed file, either from the link in your e-mail or from your account
+-   Download the compressed file, either from the link in your e-mail or from your account.
     
--   Uncompress the folder /themes/
+-   Uncompress the folder /themes/.
     
--   Go to the Admin Panel, Design > Themes and select the theme
+-   Go to the Admin Panel, Design > Themes and select the theme.
     
