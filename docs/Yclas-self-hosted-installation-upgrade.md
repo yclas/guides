@@ -18,4 +18,4 @@ Also, please check your PHP time limit. If you have too many ads, you won’t be
 
 
 
-*This guide is only for Yclas Self-hosted!*
+*This guide is only for Yclas Self-hosted*
