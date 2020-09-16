@@ -1,8 +1,4 @@
 # How to set crons
-Content:
--   How to set up your cron
--   How to edit or add New Crontab
--   How to filter Crontabs
 
 Cron is a program that enables users to execute commands automatically at a specific time. On Yclas ii is usually used for generating the website's sitemap.
 
@@ -18,11 +14,11 @@ This part is only for advanced users.
 
 **Steps:**
 
-Login to your Panel,  **Tools**  ->  **Crontab**  and click the  **Edit**  button next to the crotab you want to update.
+Login to your **Admin Panel** ->  **Tools**  ->  **Crontab**  and click the  **Edit**  button next to the crotab you want to update.
 
 ![crontabedit](https://raw.githubusercontent.com/yclas/guides/master/images/crontabedit.png)
 
-If you want to  **add a New Crontab** clik on **New**
+If you want to  **add a New Crontab** clik on **New**.
 
 ![crontabnew](https://raw.githubusercontent.com/yclas/guides/master/images/crontabnew.png)
 
@@ -30,12 +26,12 @@ If you want to  **add a New Crontab** clik on **New**
 ## How to filter Crontabs
 
  Go to **Tools**  ->  **Crontab** -> **Filter**
- You can use the filter to search for specific Crontabs. You can filter Crontabs on the basis of **running** and **active**
+ You can use the filter to search for specific Crontabs. You can filter Crontabs on the basis of **running** and **active**.
  
 ![crontabfilter](https://raw.githubusercontent.com/yclas/guides/master/images/crontabfilter.png)
 
 
-*The function needs to be a static method.
+The function needs to be a static method.
 
 -   **Name:**  The name of the crontab.
 -   **Period:**  When this command will be executed.
@@ -52,4 +48,4 @@ If you want to  **add a New Crontab** clik on **New**
 
 
 
-*This guide is only for Yclas Self-hosted!*
+*This guide is only for Yclas Self-hosted*
