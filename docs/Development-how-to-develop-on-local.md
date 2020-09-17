@@ -8,7 +8,7 @@ Content:
 
 If you want to develop your theme on local, you can do it by using reoc.lo as a hostname. By doing that, you will not be required an extra license to develop your theme locally.
 
-*This guide provides the information that you need in order to do this!*
+*This guide provides the information that you need in order to do this*
 
 ## Requirements
 
@@ -83,9 +83,9 @@ sudo service apache2 reload
 Now you have reoc.lo activated! The last step is to install Yclas Self-hosted following  [this guide](Yclas-self-hosted-installation-insatallation.md).  
 Note that if you used the above reoc.lo.conf file, you have to install Yclas Self-hosted into /var/www/yclas.
 
-To use your premium theme, go to your panel Appearance -> Theme, choose to activate your theme and enter a valid or invalid license number.
+To use your premium theme, go to your **Admin Panel** -> **Appearance** -> **Theme**, choose to activate your theme and enter a valid or invalid license number.
 
-You can now develop your theme on local!
+You can now develop your theme on local.
 
   
 **Related guides:**
