@@ -1,7 +1,5 @@
 # Where to find my license number?
 
-We prepared this guide after seeing many questions regarding the purchase process, so here are the simple steps you need to take to make a purchase and add it to your site:
-
 1.  Go to  **[our market](https://selfhosted.yclas.com/)**  to  **choose a product** .
 2.  Go through the  **payment process** .
 3.  **Download**  the product . 
