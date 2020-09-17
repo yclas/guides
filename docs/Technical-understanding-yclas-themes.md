@@ -127,7 +127,7 @@ All styles could be found in css folder as well as the relevant files for this a
 
 Since we are using Bootstrap, as previously mentioned, this file contains only general styles that are overwriting bootstrap ones. And extra styles to suit the needs of our software.
 
-Style.css is always included after bootstrap, as you can see in example above. But this IS a right place to add your own styles. Unless you want to add your own!?
+Style.css is always included after bootstrap, as you can see in example above. But this IS a right place to add your own styles. Unless you want to add your own.
 
 ### JavaScript
 
@@ -159,7 +159,7 @@ If you don’t remember how, refer to  **File linking**  section again, and incl
 
 This will activate Chosen for all HTML select elements on the page.
 
-We hope this article helps all of you out there who are thinking of having your own design and building your own idea! 
+We hope this article helps all of you out there who are thinking of having your own design and building your own idea.
 
 Best regards,
 Yclas team
@@ -167,4 +167,4 @@ Yclas team
 Second part of this guide [here](Technical-modify-or-create-a-theme.md)
 
 
-*This guide is only for Yclas Self-hosted!*
+*This guide is only for Yclas Self-hosted.*
