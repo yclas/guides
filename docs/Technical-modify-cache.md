@@ -1,17 +1,8 @@
 # How to modify cache time?
 
-Content:
--   How it works?
--   Where is it implemented?
--   How can I change the duration?
--   How can I disable it?
--   Enable real time
--   Use other cache
+**Before you read:**  This post is a bit more technical, but I will try to keep it as simple as possible.
 
-
-***Before you read:**  This post is a bit more technical, but I will try to keep it as simple as possible.*
-
-Thanks to the  **Cache**, we are able to  **serve more hits in your web without scaling your system**. That means you get a  **cheaper hosting**, a lot  **more of page views**  and  **faster page loading**  !
+Thanks to the  **Cache**, we are able to  **serve more hits in your web without scaling your system**. That means you get a  **cheaper hosting**, a lot  **more of page views**  and  **faster page loading**.
 
 ### How it works?
 
@@ -27,7 +18,7 @@ That will take you a lot of time, right?
 
 But you will write down in a paper every match and next time someone asks you for that information you wont need to go to the library and you will have the results in seconds.
 
-That’s exactly what the cache does!
+That’s exactly what the cache does.
 
 ### Where is it implemented?
 
@@ -53,10 +44,10 @@ This means that the cache is stored in the HD of your hosting. This has some adv
 
 If your hosting has APC cache, just replace the previous line with:  `'default' => 'apc',`
 
-This will work immediately and you will see that everything is faster. APC works in the memory of the server, which makes it lightning fast!
+This will work immediately and you will see that everything is faster. APC works in the memory of the server, which makes it lightning fast.
 
 If you need to check other configurations like memcache, please check this guide of  [Kohana](http://kohanaframework.org/3.2/guide/api/Cache).
 
 
-*This guide is only for Yclas Self-hosted!*
+*This guide is only for Yclas Self-hosted.*
 
