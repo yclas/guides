@@ -22,9 +22,9 @@ If you have access to phpmyadmin, there is nothing to worry about!  **Follow the
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/loginattempts.png)
 
-Now you will be are able to login into your website!
+Now you will be are able to login into your website.
 
-*This guide is only for Yclas Self-hosted!*
+*This guide is only for Yclas Self-hosted.*
   
 **Related posts:**
 
