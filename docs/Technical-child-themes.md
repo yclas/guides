@@ -1,10 +1,6 @@
 
 # How to Modify Yclas Self Hosted Themes (child themes)
 
-Content:
--   Why use child themes in a classifieds script
--   How to use child themes 
-
 **Note: This guide is for advanced users**
 
 When creating a classifieds website you may want to apply a couple of changes to the design, which is why we added child themes to our classified script. With them you can add changes using the Yclas license you already have for your premium theme.
@@ -20,8 +16,8 @@ There are a couple of reasons why you should use child themes when applying modi
 
 1.  When you modify an existing theme and a new release with an update to that theme comes out it’s very complex to update that theme. But a child theme would be updated automatically when the parent one is updated.
 2.  It is the best way to start learning how to customize yclas themes.
-3.  Child themes use the same license as their parent theme
-4.  It will save you development time
+3.  Child themes use the same license as their parent theme.
+4.  It will save you development time.
 
 ## How to use child themes
 
