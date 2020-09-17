@@ -1,9 +1,5 @@
 # How to redirect www to non www
 
-Content:
--   Should I use WWW. for my site?
--   How to do it
-
 
 Users have asked us many times this question - *'How to redirect my website from **www** to **non www.** ? '*
 
@@ -11,7 +7,7 @@ Users have asked us many times this question - *'How to redirect my website from
 
 ## Should I use WWW. for my site?
 
-**Short answer:**  Only if you want to! It's not obligatory.
+**Short answer:**  Only if you want to. It's not obligatory.
 
 Since the beginning of the Internet we've always had websites with the famous WWW. in front of all the domain names.
 
@@ -19,7 +15,7 @@ Since the beginning of the Internet we've always had websites with the famous WW
 
 That’s something some companies still use, but almost none of the new websites are using the WWW.
 
-**What should I do?**  Redirect all the request from www.yclas.com to yclas.com, it's that’s easy! You can do this from almost all the hosting panels in a simple and timely manner.
+**What should I do?**  Redirect all the request from www.yclas.com to yclas.com, it's that’s easy. You can do this from almost all the hosting panels in a simple and timely manner.
 
 **Why not the WWW?**  The WWW. is actually another subdomain in your server and your clients need to type the WWW to enter your site. So always have a redirect, just in case, they don’t type it.
 
@@ -49,4 +45,4 @@ RewriteRule ^(.)$ http://%1/$1 [R=301,L]
 Save your changes and check your site. Try different www and non-www combinations of your domain to see if the redirect is working as expected.
 
 
-*This guide is only for Yclas Self-hosted!*
+*This guide is only for Yclas Self-hosted*
