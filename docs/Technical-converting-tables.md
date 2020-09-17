@@ -31,4 +31,4 @@ ALTER TABLE oc2_content CHANGE description description MEDIUMTEXT;
 ALTER TABLE oc2_plans CHANGE description description MEDIUMTEXT;
 ALTER TABLE oc2_posts CHANGE description description MEDIUMTEXT;
 ```
-*This guide is only for Yclas Self-hosted!*
+*This guide is only for Yclas Self-hosted.*
