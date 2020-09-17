@@ -10,4 +10,4 @@ The only way to remove this caption is to get a  **commercial lifetime license**
 
 Premium themes are also free of publicity - if you don’t want extra banners to appear at your site, please consider buying one of them!
 
-*This guide is only for Yclas Self-hosted!*
+*This guide is only for Yclas Self-hosted.*
