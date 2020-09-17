@@ -1,8 +1,5 @@
 # Vagrant configuration for Yclas Self-hosted
 
-Content:
--   What is installed?
--   Instructions
 
 *The following guide contains the Vagrant configuration for Yclas Self-hosted.*
 
@@ -23,9 +20,9 @@ Content:
 
 ### Instructions
 
-1.  [Download](https://www.vagrantup.com/downloads.html)  and  [install](https://docs.vagrantup.com/v2/installation/index.html)  Vagrant
+1.  [Download](https://www.vagrantup.com/downloads.html)  and  [install](https://docs.vagrantup.com/v2/installation/index.html)  Vagrant.
     
-2.  [Download](https://www.virtualbox.org/wiki/Downloads)  and install VirtualBox
+2.  [Download](https://www.virtualbox.org/wiki/Downloads)  and install VirtualBox.
     
 3.  Clone repo:
     
@@ -43,14 +40,14 @@ Content:
     
     ```
     
-5.  To prove that it is running, you can SSH into the machine: (Optional)
+5.  To prove that it is running, you can SSH into the machine: (Optional).
     
     ```
      vagrant ssh
     
     ```
     
-6.  Run: (if you have followed the step 5, type  _exit_  before the following command)
+6.  Run: (if you have followed the step 5, type  _exit_  before the following command).
     
     ```
      sudo vim /etc/hosts
