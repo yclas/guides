@@ -1,9 +1,5 @@
 # Docker configuration for Yclas Self Hosted
 
-Content:
-
--   What is installed
--   Instructions
 
 The following guide describes how you can use a docker image to install Yclas Self Hosted.
 
@@ -23,7 +19,7 @@ The following guide describes how you can use a docker image to install Yclas Se
 
 ### Instructions
 
-1.  Install  [Docker](https://docs.docker.com/installation/)
+1.  Install  [Docker].(https://docs.docker.com/installation/)
 2.  Clone this repo:
     
     ```
