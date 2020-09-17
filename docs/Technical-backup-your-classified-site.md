@@ -43,11 +43,11 @@ You don’t need to download everything. These are the unique files for your ins
 -   oc/config/database.php
 -   And /themes if you customized your themes
 
-**NEVER LOSE THESE FILES!**
+**NEVER LOSE THESE FILES.**
 
 ### 2. Database
 
-This is probably the most important part of the process: always have backups of your DB!
+This is probably the most important part of the process: always have backups of your DB.
 
 **Using phpmyadmin:**
 
@@ -57,7 +57,7 @@ This is probably the most important part of the process: always have backups of 
 -   Export method Custom
 -   Select all the tables (normally they start with oc3_)
 -   Compression zip
--   Go to the bottom of the page, click Go!
+-   Go to the bottom of the page, click Go.
 
 **Manually:**
 
@@ -72,7 +72,7 @@ mysql -u USER -pPASSWORD DATABASENAME > file_name.sql
 
 It really depends on the way you have backed up your data. If it was done in the panel of you hosting, check with them on how to restore it.
 
-NOTE: Be sure you have a functional backup before restoring!
+NOTE: Be sure you have a functional backup before restoring.
 
 ### 1. Restoring Files
 
@@ -89,7 +89,6 @@ Unless there is an easier way at your hosting then I recommend the next to resto
     -   oc/config/auth.php
     -   oc/config/database.php
     -   And if you have any custom theme
--   Ready! now restore the DB ;)
 
 ### 2. Restoring Database
 
@@ -100,7 +99,6 @@ Unless there is an easier way at your hosting then I recommend the next to resto
 -   If theres data select all the tables and delete them, since the data will be wrong if you are restoring…
 -   Go to import
 -   Select your zipped file
--   Done!
 
 **Manually:**
 
@@ -121,4 +119,4 @@ mysql -u USER -pPASSWORD DATABASENAME < file_name.sql
 
 [![How Do I Backup my Website Using Plesk Control Panel?](https://img.youtube.com/vi/2FKQY1Lmyuk/0.jpg)](https://www.youtube.com/watch?v=2FKQY1Lmyuk)
 
-This guide is only for Yclas Self-hosted!
+This guide is only for Yclas Self-hosted.
