@@ -6,10 +6,10 @@ One common error that users face is related to the license of their child theme.
 2.  Login into your hosting  **cPanel**, go to your  **Database**, table oc2_config,  **find and delete**  the entry with “group_name” = “theme” and “config_key” = “_your premium theme name_”, if exists.
 3.  **Find**  the entry with config_key =  _theme_  and  **change**  config_value to  _default_.
 4.  Go into your  **cPanel File Manager**  and delete everything inside oc/cache/
-5.  Login into your admin panel and activate your theme! 
+5.  Login into your admin panel and activate your theme.
 
   
-This guide is only for Yclas Self Hosted!
+This guide is only for Yclas Self Hosted.
 
 
 If you still have any questions and need some help to activate your child theme, please use our  [professional support](https://selfhosted.yclas.com/support/)!
