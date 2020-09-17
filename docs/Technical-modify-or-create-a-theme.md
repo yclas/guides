@@ -4,7 +4,7 @@
 Content:
 -   [I bought a Kamaleon premium theme and I want to modify it.]
 
-*This guide is only for Yclas Self-hosted!*
+*This guide is only for Yclas Self-hosted.*
 
  *This is the second part of our guide on  [Understanding Yclas Themes](Technical-understanding-yclas-themes.md).* 
  
@@ -33,7 +33,4 @@ Finally, just a quick reminder:
 -   Not all the views are in all the themes, if one is not present in your theme you can copy it from /themes/default/views/
 -   /themes/THEMENAME/css/ and /themes/THEMENAME/js/ contains the CSS/JS styles of the site.
 
-We hope that you find this information useful!
-
-Kind regards,
-Yclas team
+We hope that you find this information useful.
