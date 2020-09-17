@@ -6,19 +6,19 @@ It’s much easier to import advertisements instead of inserting them one by one
 
 Create a CSV file in utf8 with header (lower case): user_name user_email title description date category location price address phone website locale* stock* image_1 image_2 image_3 image_4 .. (as many images as you have setup in the system)
 
-**user_name:**  Name for user if doesn’t exists will get created.
-**user_email:**  Email address of user if doesn’t exists will get created.  
-**title:**  Title of the ad, will be used later for the url for SEO.  
-**description:**  Ad description details. Allows bbcode.
-**date:**  Published date, in format YYYY-MM-DD (for example 2014-05-09).  
-**category:**  Name of the category will be created if doesnt exists.  
-**location:**  Name of the location will be created if doesnt exists.  
-**price:**  Price, numeric (optional). 
-**address:**  Address of the ad, (optional).  
-**phone:**  Phone number (optional).  
-**website:**  Website (optional).  
-**locale:**  locale of the ad, ex fr_FR (* optional, only add in the header if you have multilingual enabled).  
-**stock:**  number (* optional, only add in the header if you have stock control enabled).  
+ - **user_name:**  Name for user if doesn’t exists will get created.
+ -  **user_email:**  Email address of user if doesn’t exists will get created.  
+ -  **title:**  Title of the ad, will be used later for the url for SEO.  
+ -  **description:**  Ad description details. Allows bbcode.
+ -  **date:**  Published date, in format YYYY-MM-DD (for example 2014-05-09).  
+ -  **category:**  Name of the category will be created if doesnt exists.  
+ -  **location:**  Name of the location will be created if doesnt exists.  
+ -  **price:**  Price, numeric (optional). 
+ -  **address:**  Address of the ad, (optional).  
+ -  **phone:**  Phone number (optional).  
+ -  **website:**  Website (optional).  
+ -  **locale:**  locale of the ad, ex fr_FR (* optional, only add in the header if you have multilingual enabled).  
+ -  **stock:**  number (* optional, only add in the header if you have stock control enabled).
 
 **Images:**
 
