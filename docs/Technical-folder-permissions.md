@@ -27,4 +27,4 @@ Clean your cache if there’s an error:
 sudo rm -f /var/www/yclas/oc/cache
 ```
 
-*This guide is only for Yclas Self-hosted!*
+*This guide is only for Yclas Self-hosted*
