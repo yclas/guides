@@ -18,7 +18,7 @@ Content:
     -   Payline
   
 
-**Heads Up**  Authorize, Stripe, Paymill, 2checkout, Paysbuy, SecurePay, Robokassa, Paguelofacil and Bitpay are only available with premium themes and on all sites hosted at  [Yclas.com](https://yclas.com/).
+**Heads Up**  Authorize, Stripe, Paymill, 2checkout, Paysbuy, SecurePay, Robokassa, Paguelofacil and Bitpay are only available with Pro version and on all sites hosted at  [Yclas.com](https://yclas.com/).
 
   
 Let’s first go through the payment settings we have here, of course you can access payment settings by logging into your **Admin Panel ->  **Settings**  >  **Payments**  :
