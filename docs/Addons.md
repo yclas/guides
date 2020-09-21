@@ -9,7 +9,7 @@ In this guide, you can find all of the available plugins for your  website, mark
 *   [Messaging](Plugins-message-system.md)
 *   [Reviews](Addons-Review.md)
 *   [Subscription/Membership](Plugins-membership-plans-to-post.md)
-*   [Social loing](Plugins-login-using-social-auth.md)
+*   [Social login](Plugins-login-using-social-auth.md)
 *   [Black list](Plugins-activate-black-list.md)
 *   [Auto locate](Plugins-auto-locate-users.md)
 *   [Adblock detector](Addons-adblock-detector.md)
