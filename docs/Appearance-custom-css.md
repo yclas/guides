@@ -16,4 +16,4 @@ The Custom CSS can be used for changing the visual aspects of your site. You can
 
 
   
-*Note: If you want to disable your Custom CSS and bring your website back to your theme’s default style, go to Panel, choose **Design** -> **Custom CSS** and deactivate it by removing the tick from the **active** box.
+*Note: If you want to disable your Custom CSS and bring your website back to your theme’s default style, go to **Admin Panel** -> **Design** -> **Custom CSS** and deactivate it by removing the tick from the **active** box.
