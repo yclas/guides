@@ -4,11 +4,9 @@ The slider is considered one of the main parts in a classifieds site homepage, i
 
 **You need to follow those steps:**
 
-1.  Log into your  **Admin Panel**
-2.  Go to  **Settings**  >  **Advertisement**
+1.  Log into your  **Admin Panel**.
+2.  Go to  **Settings**  >  **Advertisement**.
 3.  At the  **Advertisements in home**  section choose one of the four available options.
-
-![](https://raw.githubusercontent.com/yclas/guides/master/images/ads%20in%20slider.jpg)
  
 The  **available options**  are:
 
