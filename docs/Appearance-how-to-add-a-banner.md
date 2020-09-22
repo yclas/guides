@@ -2,7 +2,7 @@
 
 Monetize your Yclas website by adding commercial banners. Banners can be added to the header, footer, sidebar or in a random position in the listings page, as an image or HTML code.
 
-***This guide explains how you can create a banner** for free using  [canva.com](https://www.canva.com/), export it as an image (.png or .jpg) and use it in your website*.
+**This guide explains how you can create a banner** for free using  [canva.com](https://www.canva.com/), export it as an image (.png or .jpg) and use it in your website.
 
 **Steps to add a banner to a category or location page:**
 
@@ -14,9 +14,9 @@ Monetize your Yclas website by adding commercial banners. Banners can be added t
 
 **Create an Image Widget:**  For more information about the Image Widget, click  [here](Widgets-image-widget.md).
 
-1.  Upload the exported image to a free image hosting service
-2.  Login to your admin panel
-3.  Go to Design -> Widgets and create an Image Widget
+1.  Upload the exported image to a free image hosting service.
+2.  Login to your **Admin Panel**.
+3.  Go to Design -> Widgets and create an Image Widget.
 4.  Enter the title that will appear above the image or leave it empty for no title.
 5.  Enter the URL of the image.
 6.  Enter the URL users will be redirected to when they click on the image. Leave empty to make image not clickable.
@@ -32,10 +32,10 @@ Monetize your Yclas website by adding commercial banners. Banners can be added t
 
 **To add your ads.txt file in Yclas Cloud**
 
-1.  Login to your admin panel
-2.  Go to Settings -> General -> Ads.txt
+1.  Login to your **Admin Panel**.
+2.  Go to **Settings -> General -> Ads.txt**.
 3.  Paste the content of your ads.txt in the form.
-4.  Click Save
+4.  Click Save.
 5.  Ads.txt will appear on http://yourdomain.com/ads.txt
 
 *Note: This is a PRO feature and you can use it only on PRO Themes*
