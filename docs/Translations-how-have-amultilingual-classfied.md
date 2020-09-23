@@ -1,18 +1,10 @@
 # How to have a Multilingual Classifieds
-Content:
--   Languages Widget
--   Different languages - the same installation
--   Domain per language
--   Sub-Domain per language
--   Folder per language
-
-- Yclas Self Hosted allows you to have more than 1 language active at the same time.
 
 This means that you can  **easily change the site translation**  to any language you have in the site. Then simply add links in your sidebar or header using our widgets or the menu generator to link languages.
 
 ## Languages Widget
 
-The languages widget let users choose in which language your website will be translated to them. To create this widget, go to your panel,  **Appearance**  ->  **Widgets**  and click to create the Languages Widget.
+The languages widget let users choose in which language your website will be translated to them. To create this widget, login to your **Admin Panel** -> **Appearance**  ->  **Widgets**  and click to create the Languages Widget.
 
 After that, a list with your selected languages will appear in your website so users can choose their prefered language. For more information, check out  [this guide](Widget-language-widget.md).
 
@@ -21,23 +13,23 @@ After that, a list with your selected languages will appear in your website so u
 
 **Pros**:
 
--   Easy to activate
--   Share the same users and ads database
--   The same domain
--   The same theme license
+-   Easy to activate.
+-   Share the same users and ads database.
+-   The same domain.
+-   The same theme license.
 
 **Cons:**
 
--   Ads don’t have language attribute, this means you can not filter by language
+-   Ads don’t have language attribute, this means you can not filter by language.
 -   Categories and locations are not filter by language either, so once you write a category name it would be the same for all languages.
 
 **I don’t like this option at all**. As a better alternatives and also better for SEO, we recommend the  **3 other options**.
 How to configure:
 
-1.  Go to http://yourdomain.com/oc-panel/config/update/allow_query_language
-2.  Set Config Value to 1
-3.  Save
-4.  Now to link to a language simply : http://domain.com/?language=ca_ES
+1.  Go to http://yourdomain.com/oc-panel/config/update/allow_query_language.
+2.  Set Config Value to 1.
+3.  Click Save.
+4.  Now to link to a language simply : http://domain.com/?language=ca_ES.
 
   
 
@@ -47,17 +39,17 @@ This is probably the best option, imagine you have: MyDomain.com, and you want t
 
 **Pros**:
 
--   Better SEO per domain language, MAKES A HUGE difference
--   You can use the same design
--   Users are not confused or lost between languages
+-   Better SEO per domain language, MAKES A HUGE difference.
+-   You can use the same design.
+-   Users are not confused or lost between languages.
 -   If you want, you can add a localized server for the domain extension, so the domain is in the language of the country.
 
 **Cons:**
 
--   You need a license for each domain for your premium theme
--   You need different domain names (that cost money)
--   Separate administration of the site, software updates and moderation
--   Maybe more expenses on hosting
+-   You need a license for each domain for your premium theme.
+-   You need different domain names (that cost money).
+-   Separate administration of the site, software updates and moderation.
+-   Maybe more expenses on hosting.
 
   
 
@@ -67,12 +59,12 @@ If you don’t want to have many domains and you want to save some money then th
 
 **Pros**:
 
--   It’s better SEO per domain language
--   You can use the same design
--   The user will not be confused nor lost between the two different languages
--   Same domain / hosting
--   If you want, you can add a localized server for the sub-domain, so the sub-domain is in the language of the country
--   1 license works on as many subdomains as you want!
+-   It’s better SEO per domain language.
+-   You can use the same design.
+-   The user will not be confused nor lost between the two different languages.
+-   Same domain / hosting.
+-   If you want, you can add a localized server for the sub-domain, so the sub-domain is in the language of the country.
+-   1 license works on as many subdomains as you want.
 
 **Cons:**
 
@@ -86,21 +78,18 @@ If you don’t want to have many domains/sub domain and save some money maybe th
 
 **Pros**:
 
--   You can use the same design, theme and license
--   The same domain / hosting
--   The same license
+-   You can use the same design, theme and license.
+-   The same domain / hosting.
+-   The same license.
 
 **Cons:**
 
--   Separate administration of the site, software updates and moderation
+-   Separate administration of the site, software updates and moderation.
 
 **How to configure:**
 
 -   You simply do a  [new installation](Yclas-self-hosted-installation-insatallation.md) in a new folder within your website, follow the screenshot below to see how to do it using Softaculous.
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/multilingual.png)
   
-  *This guide is applicable only for Yclas Self-hosted!*
+  *This guide is applicable only for Yclas Self-hosted*
 
-Hope that these suggestions helped you. 
-
-Regards from Chema and Yclas team
