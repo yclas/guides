@@ -1,22 +1,15 @@
 # How to create and use Featured Plans
 
-Content:
--   How to create Featured Plans
--   How to mark ads as Featured
--   How to promote featured ads:
-
 
 This feature allows you to give users the option to select among different length of their featured ad and pay according to your payment plans.
 If you don’t know how to enable featured ads, please follow [this guide](Payment-set-up-payment-gateways.md)!
 
 ## How to create Featured Plans:
 
-1.  Log in to your Admin Panel.
-2.  **Settings**  ->  **Payment**, enable Featured Ads
-3.  On Featured Plans click  **Add a plan**  if you want to create a new plan or click to  **edit**  an existing plan
-4.  Fill the fields and click  **Save plan**
-
-![](https://raw.githubusercontent.com/yclas/guides/master/images/featured-plans.png)
+1.  Log in to your **Admin Panel**.
+2.  **Settings**  ->  **Payment**, enable Featured Ads.
+3.  On Featured Plans click  **Add a plan**  if you want to create a new plan or click to  **edit**  an existing plan.
+4.  Fill the fields and click  **Save plan**.
 
 From now on, when a user wants to mark theird ad as featured, by clicking on the option, they will be redirected to the checkout page to choose the featured plan they want to buy.
 
@@ -29,8 +22,8 @@ There are several ways to mark an ad as featured.
 1. The  **admin**  of the site can mark any ad as featured, even if it is published by a different user. Here’s how the admin can mark ads as featured:
 
 -   **Admin Panel**  ->  **Classifieds**  ->  **Advertisements**  -> click the settings button ->  **Featured**
--   Go to an ad page and click  **Go Featured!**.
--   Click to edit an ad and choose  **Go Featured!**.
+-   Go to an ad page and click  **Go Featured!*.
+-   Click to edit an ad and choose  **Go Featured**.
 
 2. And here’s how  **users**  can mark their ads as featured:
 
