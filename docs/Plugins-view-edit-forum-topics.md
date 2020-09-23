@@ -8,11 +8,9 @@ First of all, you need to have forums activated on your website.
 
 So, if you have forums activated and topics created, you are able to manage these topics.
 
-Go to  **Panel**  and select  **Content**  ->  **Topics**  to see all the topics of your forum.
+Login to your **Admin Panel** -> **Content**  ->  **Topics**  to see all the topics of your forum.
 
-  
-![](https://raw.githubusercontent.com/yclas/guides/master/images/forumtopic.png)
-
+ 
   
 If you want to edit a topic, click on the green**edit** button with to the right, which is next to the delete button in red.
 
