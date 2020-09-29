@@ -14,6 +14,9 @@ As your website advertisements amount increases, it can be a challenge to manage
 * [Mark image as primary](Classifieds-mark-image-as-primary.md)
 * [Flag ads as inappropriate](Classifieds-flag-ads-as-inappropriate.md)
 * [Import tool for categories and locations](Classifieds-how-to-import-tool-for-categories-and-location.md)
+* [How ADS moderation works](how-ads-moderation-works.md)
+
+
 
 
 
