@@ -18,7 +18,11 @@
       //repo: 'yclas/guides',
       //loadNavbar: true,
       loadSidebar: true,
-      search: 'auto',
+      search: {
+        paths: 'auto',
+        depth: 6,
+        hideOtherSidebarContent: true, 
+      },
       ga: 'UA-55615337-3',
       plugins: [
         EditOnGithubPlugin.create('https://github.com/yclas/guides/blob/master/docs/')
