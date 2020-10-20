@@ -47,7 +47,6 @@ This is a list with everything that you can find on our documentation and guides
 - [Design](Design.md)
 - [Addons](Addons.md)
 - [Integrations](Integrations.md)
-- [Settings](new.md)
 
 
 # Tools
