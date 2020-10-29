@@ -5,7 +5,7 @@ The  **black list**  function  **blocks the users that published any ad you mark
 **How to activate?**
 
 1.  Log in to your  **Admin Panel**.
-2.  Go to  **Configuration**  >  **Addons**.
+2.  Go to  **Configure**  >  **Addons**.
 3.  Find **Black list** and enable it by checking the box on the right. 
 4. Click **Save**.
 
