@@ -30,6 +30,7 @@ This action will automatically enable  _CarQuery_  on Settings -> General -> Car
 
 
 ### Create the custom fields
+NOTE in latest versions of Yclas the fields are automatically created if they do not exist.
 
 Tip: Name the custom field: **year** 
 
