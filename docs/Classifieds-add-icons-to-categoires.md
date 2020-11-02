@@ -10,11 +10,11 @@ Adding icons to your categories is super easy. First of all, you have to create 
 
 ### Image icon
 
-1.  If you’ve already created the categories, you need to go to  **Admin Panel > Categories**. There you can find the lists of the categories you have created.
+1.  If you’ve already created the categories, you need to go to  **Admin Panel -> Settings -> Categories**. There you can find the lists of the categories you have created.
 2.  Click on the **category** iteself to edit or update it. 
 3.  Find the field **"Upload Category"** icon. 
 4.  Upload your icon (note: get your icon file ready in your preferred format with the recommended dimensions of 250px by 40px).
-5.  Click  **Submit**
+5.  Click  **Submit**.
 
 By doing this, you will have the image inserted next to the category, at the slider small box and the full sized image after clicking on the category.
 
