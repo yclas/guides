@@ -1,8 +1,8 @@
 <!-- docs/_sidebar.md -->    
 
-## [Get support](Home-how-to-use-yclas-support-system.md)
+## [Support](Home-how-to-use-yclas-support-system.md)
 
-## [Guides Home](README.md)
+## [Guides](README.md)
 
 ---
   
