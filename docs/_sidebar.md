@@ -1,10 +1,11 @@
 <!-- docs/_sidebar.md -->    
 
-## [Home](README.md)
-  - [How to get support](Home-how-to-use-yclas-support-system.md)
-  
----
+## [Get support](Home-how-to-use-yclas-support-system.md)
 
+## [Guides Home](README.md)
+
+---
+  
 ## [Panel](panel.md)
 
 ## Manage
