@@ -10,7 +10,6 @@
 ## Manage
 - [Classifieds](Classifieds.md) 
 - [Users](Users.md)
-   - [Profile](Profile.md)
 - [Orders](Orders.md)
 
 ## Content
@@ -34,7 +33,6 @@
 - [License](License.md)
 - [Development](Yclas-self-hosted-development.md)
 - [Technical](Yclas-self-hosted-technical.md)
-   - [Technical issues](Technical-issues.md)
  
 ## Yclas API
  -  [API documentation](api-documentation.md)
