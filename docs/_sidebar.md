@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->    
 
 ## [Home](README.md)
-  - [How to use Yclas support system](Home-how-to-use-yclas-support-system.md)
+  - [How to get support](Home-how-to-use-yclas-support-system.md)
   
 ---
 
