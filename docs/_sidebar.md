@@ -1,18 +1,4 @@
-<!-- docs/_sidebar.md -->
-
-  <div class="search"><div class="input-wrap">
-      <input type="search" value="" aria-label="Search text" placeholder="Type to search" id="search-algolia" class="search-algolia">
-      <button class="clear-button" aria-label="Clear search">
-                <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-                    <circle cx="8" cy="8" r="8" fill="black"></circle>
-                    <path stroke="white" stroke-width="1.5" d="M4.5,4.5,11.5,11.5" vector-effect="non-scaling-stroke"></path>
-                    <path stroke="white" stroke-width="1.5" d="M4.5,11.5,11.5,4.5" vector-effect="non-scaling-stroke"></path>
-                </svg>
-            </button>
-    </div>
-    <div class="results-panel"></div>
-    </div>
-    
+<!-- docs/_sidebar.md -->    
 
 ## [Home](README.md)
   - [How to use Yclas support system](Home-how-to-use-yclas-support-system.md)
