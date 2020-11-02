@@ -10,7 +10,7 @@ It's a new and important feature because it lets the website owners and users pu
 ## Configuration
 
 1.  Login in to your **Admin Panel**.
-2.  Go to  **Configure** -> **Integrations** -> **Auto-Data API**  ->  **Enable Auto-Data**.
+2.  Go to  **Configure** -> **Integrations** -> **Auto-Data API**  ->  **Enable Auto-Data**. Paste your API Token.
 3.  Click  **Save**.
 
 This action will enable  _Auto-Data-API_ and create all the required custom fields: Brand, model, generation.
