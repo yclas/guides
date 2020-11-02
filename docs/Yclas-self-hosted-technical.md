@@ -2,6 +2,7 @@
 
 In this guide, you can find all the technical information you need for your classified website.
 
+*   [Technical issues](Technical-issues.md)
 *   [How to change folder permissions](Technical-folder-permissions.md)
 *   [Backup your Classifieds site](Technical-backup-your-classified-site.md)
 *   [Automatic daily backup](Technical-automatic-daily-backup.md)
