@@ -8,6 +8,7 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 <!-- Theme: Simple (latest v0.x.x) -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
   </head>
 <body>
   <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
@@ -18,11 +19,6 @@
       //repo: 'yclas/guides',
       //loadNavbar: true,
       loadSidebar: true,
-      search: {
-        paths: 'auto',
-        depth: 6,
-        hideOtherSidebarContent: true, 
-      },
       ga: 'UA-55615337-3',
       plugins: [
         EditOnGithubPlugin.create('https://github.com/yclas/guides/blob/master/docs/')
@@ -35,11 +31,21 @@
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <!-- docsify-themeable (latest v0.x.x) -->
 <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
+  
+  
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js"></script>
+<script type="text/javascript"> docsearch({
+apiKey: 'd552c6cbc21353c747126ee464f3aed1',
+indexName: 'yclas',
+inputSelector: 'search-algolia',
+debug: false // Set debug to true if you want to inspect the dropdown
+});
+</script>
+  
 </body>
 </html>
