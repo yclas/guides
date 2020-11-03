@@ -1,8 +1,10 @@
-## About
+## API Documentation for Yclas sites
 
 This is the official API Documentation for Yclas. With this API you will be able to extend the usage of your site, for example with native iOS and Android apps. 
 
-More information native [iOS app](https://yclas.com/ios-app.html) and native [Android app].(https://yclas.com/android-app.html)
+To use the API you will need a Yclas Cloud website or a Yclas Sel-Hosted Pro website. [More information here](https://yclas.com/get-started.html).
+
+More information regarding our native iOS and Android apps please visit our [page](https://yclas.com/mobile-apps.html).
 
 <!-- MarkdownTOC -->
 
