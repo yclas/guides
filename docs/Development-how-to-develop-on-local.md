@@ -18,11 +18,10 @@ First, you have to check the requirements for running Yclas Self Hosted:
 -   An internet browser
 -   A web hosting that supports:
     -   Apache 2+
-    -   PHP 5.6+
+    -   PHP 7.4+
     -   Short Tags
     -   GD support
     -   mod_rewrite
-    -   mcrypt
     -   Gettext
     -   Curl
     -   MySQL 5+
