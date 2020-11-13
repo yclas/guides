@@ -15,6 +15,6 @@ Yclas makes it easy for you to **upload** your favicon because it’s possible t
 1.  Log in to your **Admin Panel**.
 2.  Go to  **Design**  ->  **Theme Options**.
 3.  Select your logo on field  _Upload your favicon_.
-4.  Click  **Update**  at the bottom of the page.
+4.  Click  **Save**  at the bottom of the page.
 
 After this is done, you could see the favicon displayed next to your website name/address on browser tab.
