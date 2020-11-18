@@ -17,9 +17,6 @@ Content:
     -   Zenith GlobalPAY
     -   Payline
   
-
-**Heads Up**  Authorize, Stripe, Paymill, 2checkout, Paysbuy, SecurePay, Robokassa, Paguelofacil and Bitpay are only available with Pro version and on all sites hosted at  [Yclas.com](https://yclas.com/).
-
   
 Let’s first go through the payment settings we have here, of course you can access payment settings by logging into your **Admin Panel ->  **Settings**  >  **Payments**  :
 
@@ -153,7 +150,7 @@ Of course you can enable as many payment gateways as you want simultaneously wit
 
   
 
-Note: Only paypal works with the free Yclas self-hosted version [premium themes!](https://selfhosted.yclas.com/).  Upgrade your Yclas site to activate this feature.
+Note: Only Paypal works with the free Yclas self-hosted version [buy Pro to enable all payment gateways](https://yclas.com/self-hosted.html). 
 
   
 **Related posts:**
