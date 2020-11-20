@@ -1,5 +1,9 @@
 ## Integrations
 
+### Mobile app configuration
+* (android_set-up.md)
+
+
 ### Popular
 
 * [Elastic Email](Email-settings-elasticemail.md)
