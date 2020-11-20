@@ -13,7 +13,7 @@ Steps to follow:
 ### Create Plans
 
 1.  Login to your **Admin Panel** -> **Configure**  ->  **Addons** ->  **Subscriptions / Memberships** and click on configure.
-2.  You can find the field **Plans** in the down part of the page. 
+2.  You can find the field **Plans** in the down part of the page.
 3.  Click on **New plan**.
 3.  Fill the fields.
 4.  Click  **Submit**.
@@ -43,9 +43,13 @@ When users click to  **Publish new ad**, they will be redirected to the pricing 
 
 Users can find information about their subscription at the bottom of the  **Edit profile**  page.
 
-Once the subscription expires, an email will be sent to the user with a link to pay and renew his plan. 
+Once the subscription expires, an email will be sent to the user with a link to pay and renew his plan.
 
 You can find information about all the users subscriptions when you go to your **Admin Panel** ->  **Addons**  ->  **Subscriptions**.
+
+> **Note**: The amount of ads left for the subscriptions is discounted on every new published ad. Even if your users delete/deactivate any ad, it doesn't increase the amount of ads left. If there are no ads left, your user must upgrade to a plan with more ads.
+>
+> Logged in as an admin, you can always manually set the amount of ads left of your subscribers on Panel -> Subscriptions -> Edit -> Amount ads left.
 
 ### Recurring Membership Plans
 
@@ -54,4 +58,3 @@ Membership plans paid via  [Stripe payment gateway](Payment-set-up-marketplace-w
 ### Cancel Subscriptions
 
 Users have the option to cancel their subscription renewal. In order to do that, they need to go to the user **Edit Profile** page and press a button called  **Cancel Subscription**.
-
