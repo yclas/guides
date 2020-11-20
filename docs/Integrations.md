@@ -1,7 +1,7 @@
 ## Integrations
 
 ### Mobile app configuration
-* (android_set-up.md)
+* * [MobileApp](android_set-up.md)
 
 
 ### Popular
