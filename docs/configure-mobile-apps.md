@@ -4,7 +4,18 @@
 
 1. Login to your  **Account**  (https://yclas.com/panel/auth/login) ->  **Details**  ->  **Configure Mobile Apps**.
 
-2. On the field, fill in the **name** and the **API key**. *“Terms and conditions url is optional if you intend to add it on your mobile app.*
+2. On the field, fill in the desired information and let  *“Terms and conditions url is optional if you intend to add it on your mobile app.*
+
+**Name**,  
+**API Key**, 
+**Terms and conditions url**,
+**Locale**, 
+**Currency**.
+**Logo**,
+**Font**,
+**Colors**,
+
+
 
 3.  Select to upload your logo.
 
