@@ -35,7 +35,7 @@ While adding categories, you should remember that only 2 levels of categories wi
 
 ### Import Categories
 
-Go to  **Panel**  ->  **Settings**  ->  **Categories**, select “Import” and choose your csv file ([example](https://raw.githubusercontent.com/yclas/yclas/master/install/samples/import/categories.csv)).
+Go to  **Panel**  ->  **Settings**  ->  **Categories**, select “Import” and choose your csv file ([example](https://raw.githubusercontent.com/yclas/guides/master/samples/import_categories_example.csv)).
 
 ## How to manage categories
 

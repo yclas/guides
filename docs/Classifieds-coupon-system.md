@@ -63,7 +63,7 @@ Login into your **Panel**, go to  **Settings**  ->  **Coupons**, click on **Impo
 ![coupon8](https://user-images.githubusercontent.com/55290441/80603323-eb609b00-8a38-11ea-953d-05415bf4a713.png)
 
 
-You can use this tool for example if your provider sends you the coupons.  [Here’s a sample CSV file](https://cdn.rawgit.com/yclas/yclas/master/install/samples/import/coupons.csv).
+You can use this tool for example if your provider sends you the coupons.  [Here’s a sample CSV file](https://raw.githubusercontent.com/yclas/guides/master/samples/import_coupons_example.csv).
 
 ## Edit Coupons
 
@@ -107,6 +107,3 @@ Last but not least, you can export coupons from your panel to CSV file. This wil
 
 
 **Note that Coupon System is available only on Premium Themes. When you are ready to have a Premium Theme, go to our  [market](https://selfhosted.yclas.com/).*
-
-
-
