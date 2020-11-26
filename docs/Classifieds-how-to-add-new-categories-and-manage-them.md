@@ -29,13 +29,13 @@ After submitting, you should receive a message stating:
 
 *“_Success. Item created. Please, to see the changes, delete the cache”_.*
 
-Continue creating new categories if necessary, but remember to always  **delete cache**  after finishing to see the changes. To delete cache, go to:  **Tools**  >  **Cache**  on the left sidebar and press ‘**Delete all**’. 
+Continue creating new categories if necessary, but remember to always  **delete cache**  after finishing to see the changes. To delete cache, go to:  **Tools**  >  **Cache**  on the left sidebar and press ‘**Delete all**’.
 
 While adding categories, you should remember that only 2 levels of categories will be displayed in the theme and be accessible to view from the main page. If you want to add deeper categories, its recommended to use the “Categories” widget (watch how below).
 
 ### Import Categories
 
-Go to  **Panel**  ->  **Settings**  ->  **Categories**, select “Import” and choose your csv file ([example](https://docs.google.com/uc?id=0B60e9iwQucDwTm1NRGlqcEZwdGM&export=download)). 
+Go to  **Panel**  ->  **Settings**  ->  **Categories**, select “Import” and choose your csv file ([example](https://raw.githubusercontent.com/yclas/yclas/master/install/samples/import/categories.csv)).
 
 ## How to manage categories
 

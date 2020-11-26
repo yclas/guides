@@ -19,8 +19,8 @@ We have the solution for you. You can use an easy import tool to add all of your
 
 ![import-categories](https://raw.githubusercontent.com/yclas/guides/master/images/import%20categories.jpg)
 
-You can find an example of the correct CSV format [here](https://docs.google.com/uc?id=0B60e9iwQucDwTm1NRGlqcEZwdGM&export=download) 
-  
+You can find an example of the correct CSV format [here](https://raw.githubusercontent.com/yclas/yclas/master/install/samples/import/categories.csv)
+
   ## Import Locations
 
 1.  Log into your  **Admin Panel**
@@ -29,4 +29,3 @@ You can find an example of the correct CSV format [here](https://docs.google.com
 4.  Upload CSV files for your locations.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/imaport%20location.jpg)
-
