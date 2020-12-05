@@ -10,7 +10,7 @@ Did you know that sellers posting ads of their products in your classified site 
 
 It works under  **4 conditions**:
 
-1.  As an admin, you have to activate the option. In  **Admin Panel**  ->  **Settings -> Payment -> PayPal**. In the last field  **Buy Now Button**  set  **Enabled**.
+1.  As an admin, you have to activate the option. In  **Admin Panel**  ->  **Integrations -> PayPal**. In the last field  **Buy Now Button**  set  **Enabled**.
 2.  Email submitted by the user while registration has to be the  **paypal email address**  connected with the sellers account. If you want users to be able to use a different email for their PayPal account, follow  [this guide](Custom-fields-PayPal-email-for-users.md).
 3.  A seller, while posting an ad, has to set the  **price**  in the ‘Price’ field.
 4.  If  **Stock Amount**  is enabled, the stock amount of the product has to be more than zero.
