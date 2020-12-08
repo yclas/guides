@@ -20,7 +20,7 @@ The new feature  is that you have the option to **specify the PayPal email addre
 
 **Follow the steps:**
 
-1.  Login to your **Admin Panel** ->  **Users**  ->  **Custom Fields** ->  **New Field**.
+1.  Login to your **Admin Panel** ->  **Settings**  ->  **Custom Fields** ->  **New Field**.
 2.  (Important!) On the field  _Name_  enter  **paypalaccount**.
 3.  Fill the other fields.
 4.  Click  **Create**.
@@ -35,7 +35,7 @@ Now, when users are publishing a new ad, they will see this new field to enter t
 
 **Follow the steps:**
 
-1.  Login to your **Admin Panel** ->  **Classifieds**  ->  **Custom Fields** -> **New Field**.
+1.  Login to your **Admin Panel** ->  **Settings**  ->  **Custom Fields** -> **New Field**.
 2.  (Important!) On the field  _Name_  enter  **paypalaccount**.
 3.  Fill the other fields.
 4.  Click  **Create**.
