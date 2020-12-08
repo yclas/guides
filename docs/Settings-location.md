@@ -8,5 +8,5 @@ In this guide, you can learn how to add and import locations, add interactive ma
 * [Add an interactive map](Content-create-an-interactive-map.md)
   - Learn how to add a map with the locations of ads and users in distance. 
  
-* [Browse ads by distance](https://github.com/yclas/guides/blob/master/docs/Search-ads-by-distance.md)
+* [Browse ads by distance](Search-ads-by-distance.md)
    - This feature allows your users to search for products based on distance.
