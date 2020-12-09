@@ -6,7 +6,7 @@ We weren’t in favor of adding this feature to the software, but after many req
 
 1.  Log into your  **Admin Panel**.
 2.  Go to  **Settings**  >  **Advertisement**  >  **Publish Options**.
-3.  Set  **Require login to post**  value to  **ON**.
+3.  Set  **Require login to post**  value to  **ON** by checking the box.
 4.  Click  **Save**.
 
 We found that the most convenient style for a theme with this feature is the **[Newspaper theme](https://yclas.com/domain/demo/105540?theme=newspaper)**.  

@@ -114,7 +114,9 @@ Using TLS:
 
 ## Gmail
 
-If you are using a Gmail account use the information provided below:
+If you are using a Gmail account use the information provided below.
+
+In order to get Gmail to work with SMPT you have to enable Gmail to allow less secure apps to use it's service.
 
 If your website is using SSL (https://):
 
