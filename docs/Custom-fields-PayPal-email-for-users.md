@@ -5,8 +5,9 @@ Yclas allows your users to accept PayPal payments from their ads. For that, the 
 
 The new feature  is that you have the option to **specify the PayPal email address for sellers.** There are two ways to do that:
 
-1.  **[Add an extra field]**(Custom-fields-create-custom-fields.md) on the Publish New form.
-2.  **[Add an extra field]**(Users-create-custom-field-for-users.md) on the Users Registration form.
+1.  [Add an extra field](Custom-fields-create-custom-fields.md) on the Publish New form.
+2.  [Add an extra field](Users-create-custom-field-for-users.md) on the Users Registration form.
+
 
 ### How it works
 
