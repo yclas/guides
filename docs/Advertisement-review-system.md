@@ -5,7 +5,7 @@ Review system can be a great opportunity for you to obtain useful feedback from 
 To enable the review system follow the steps below:
 
 1.  Log in your  **Admin Panel**.
-2.  Choose  **Settings**  >  **Advertisement**  >  **Reviews**.
+2.  Choose  **Configure**  >  **Addons**  >  **Reviews**.
 3.  **Enable reviews = ON**.
 4.  **Save**  the changes.
 
