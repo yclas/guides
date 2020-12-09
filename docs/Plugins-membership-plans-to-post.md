@@ -35,6 +35,14 @@ With this option enabled, the user’s ads will expire and the profile becomes d
 
 To enable or disable this option, go to back to **Configure**  ->  **Addons** ->  **Subscriptions / Memberships**  ->  **Subscription Expire**. You can check the box to enable this feature.
 
+### Give extra ad on mark as sold
+
+With this option enabled, when users mark an ad as sold, they will have one extra ad on their membership.
+
+![Mark as sold](https://raw.githubusercontent.com/yclas/guides/master/images/extra-ad-on-mark-as-sold.png)
+
+To enable or disable this option, go to back to **Configure**  ->  **Addons** ->  **Subscriptions / Memberships**  ->  **Give extra ad on mark as sold**. You can check the box to enable this feature.
+
 ### How it works
 
 When users click to  **Publish new ad**, they will be redirected to the pricing page where they can choose among the membership plans. Once they subscribe and pay, they will be able to post.
