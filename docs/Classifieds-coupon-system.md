@@ -42,20 +42,6 @@ Fill the fields and click  **Submit**.
 
 
 
-### Bulk creation
-
-Login to your Panel, go on  **Classifieds**  ->  **Coupons**  and click  **Bulk**.
-
-![coupons5](https://user-images.githubusercontent.com/55290441/80603255-d71c9e00-8a38-11ea-99b2-d5c1af611f68.png)
-
-
-Fill the fields and click  **Submit**.
-
-Unique coupon names will be created automatically.
-
-![coupons7](https://user-images.githubusercontent.com/55290441/80603257-d7b53480-8a38-11ea-967f-a94134186c11.png)
-
-
 ### Import coupons
 
 Login into your **Panel**, go to  **Settings**  ->  **Coupons**, click on **Import**, choose your CSV file and click  **Upload**.
