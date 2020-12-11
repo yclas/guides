@@ -22,7 +22,7 @@ Now sellers can publish an event date to their ads and sell tickets. With this f
 
 ## Create the Event Date field
 
-1.  Create a Custom Field on  **Classifieds -> Custom Fields -> New**.
+1.  Create a Custom Field on  **Settings -> Custom Fields -> New**.
 2.  The custom field  _Name_  must be  **eventdate**  and  _Type_  must be  **Date**.
 
 Done! You can now go to the Publish new page to see the result and your users can select a calendar view.
