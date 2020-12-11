@@ -24,7 +24,7 @@ Now sellers can upload files to their ads from Dropbox or Google Picker and sell
 
 ## Create the File field
 
-1.  Create a Custom Field on  **COnfigure** -> **Settings** -> **Custom Fields** -> **New**.
+1.  Create a Custom Field on  **Configure** -> **Settings** -> **Custom Fields** -> **New**.
 2.  The custom field  _Name_  must be  **file_download**  and  _Type_  must be  **File Dropbox**  or  **File Google Drive**.
 3.  The custom field values are comma separated allowed file extensions.
 4.  Now you need to configure one of the methods described below.
