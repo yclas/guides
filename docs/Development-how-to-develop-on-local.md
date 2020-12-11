@@ -21,6 +21,7 @@ First, you have to check the requirements for running Yclas Self Hosted:
     -   PHP 7.4+
     -   Short Tags
     -   GD support
+    -   Imagick
     -   mod_rewrite
     -   Gettext
     -   Curl
