@@ -601,6 +601,8 @@ Will return the ads of the user loged in. Perfect to list them so he can edit et
 - latitude (optional)
 - longitude (optional)
 
+You can post custom fields as post Like cf_nameofthefield
+
 **Return**
 
 If all is good you get:
@@ -640,6 +642,9 @@ Edit ad number 5
 - stock (numeric optional)
 - latitude (optional)
 - longitude (optional)
+
+You can edit custom fields sending the CF name like cf_nameofthefield
+
 
 **Return**
 
