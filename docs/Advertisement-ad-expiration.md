@@ -18,7 +18,7 @@ This feature allows users to enter an expiration date on the publish new ad form
 
 Here are the steps you need to follow to give the sellers the option to choose an expiration date for their ads:
 
-1.   Login to your **Admin Panel** ->  **Settings  -> User Custom Fields**.
+1.   Login to your **Admin Panel** ->  **Settings  -> Ad Custom Fields**.
 2.  Click  **New Field**.
 3.  It’s essential to call the field  **expiresat**.
 4.  In the Type input choose  **Date**.
