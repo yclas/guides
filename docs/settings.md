@@ -12,7 +12,7 @@
 
 - [**Payments**](Payment.md)
 
-  Learn how to work with all available payment gateways.
+  Learn how to earn money online with your website and yo setup the payment gateways.
 
 - [**Media settings**](Media-settings.md)
 
