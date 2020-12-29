@@ -24,7 +24,7 @@ Go to Admin Panel and choose Settings > General.
 
 In the field Moderation, choose the way ads will be published. To earn money you can choose Payment On - then whenever someone wants to post an ad on your page, he will be asked to pay. You can also choose Payment with moderation - users will pay to publish an ad. You will still have the possibility to moderate the ad before it becomes visible on your site.
 
-You can also choose some categories where your users will have to pay to posting ads, while in others it will be for free. To do that, go to Panel > Classifieds > Categories, choose the ones that will need payment and hit Edit. In the last field of the form, write the price for posting in this category and click Submit. 
+You can also choose some categories where your users will have to pay to posting ads, while in others it will be for free. To do that, go to Panel > Settings > Categories, choose the ones that will need payment and hit Edit. In the last field of the form, write the price for posting in this category and click Submit. 
 
 # Email confirmation on
 This advertisement is set to “UNCONFIRMED”. With this option every advertisement needs to be confirmed by the USER. It’s a standard way of confirming by email. The user receives an email, clicks on link that is provided and then this advertisement is validated and published. It will stay in moderation until then.
