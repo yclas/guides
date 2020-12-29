@@ -3,7 +3,7 @@
 Yclas offers you a few features that will help you to monetize your website. Here is an overview of some of the options that will allow you to start to earning money with your classifieds.
 
 
-*   [Pay to post] (https://guides.yclas.com/#/how-ads-moderation-works?id=payment-on)
+*   [Pay to post](https://guides.yclas.com/#/how-ads-moderation-works?id=payment-on)
 
     - With this option enabled your customers will need to pay to be able to post an advertisement.
 
