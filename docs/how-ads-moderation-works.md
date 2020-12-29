@@ -15,9 +15,16 @@ This option introduces limitation on publishing. Every new advertisement created
 EMAIL: One email is sent to user, notifying him of creation. But, in this case, he has a link that redirects him to advertisement edit. He can modify this ad, but it won’t be published until the admin activates it.
 
 # Payment on
-When the payment is active, the user is redirected to a payment gateway. But not every case. This happens only in cases in which the user have set fixed an amount of money that’s considered to be valid. Other ones are dealt like a case of “Post directly”. Example: the category “Rent a cat” have fixedan amount of 10 USD. After a user has set all the necessary fields and have clicked on button to post, he will be redirected to “Paypal”. Than he makes payment and, after this payment has been validated by “Paypal” and our back-office, his advertisement is published with the current date and time. But if the category “Rent a car” doesn’t have an amount (amount of money = 0 ), the user’s advertisement will get published with a current date and time and set on top of the list.
 
-EMAIL: One email is sent, that confirms that this advertisement is now active. Same as in “Post directly”.
+Also known as **Pay to Post**.
+
+You can make your users pay to publish an advertisement.
+
+Go to Admin Panel and choose Settings > General.
+
+In the field Moderation, choose the way ads will be published. To earn money you can choose Payment On - then whenever someone wants to post an ad on your page, he will be asked to pay. You can also choose Payment with moderation - users will pay to publish an ad. You will still have the possibility to moderate the ad before it becomes visible on your site.
+
+You can also choose some categories where your users will have to pay to posting ads, while in others it will be for free. To do that, go to Panel > Classifieds > Categories, choose the ones that will need payment and hit Edit. In the last field of the form, write the price for posting in this category and click Submit. 
 
 # Email confirmation on
 This advertisement is set to “UNCONFIRMED”. With this option every advertisement needs to be confirmed by the USER. It’s a standard way of confirming by email. The user receives an email, clicks on link that is provided and then this advertisement is validated and published. It will stay in moderation until then.
