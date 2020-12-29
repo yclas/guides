@@ -30,3 +30,7 @@ Yclas offers you a few features that will help you to monetize your website. Her
 *   [Setup payment gateways](Payment-set-up-payment-gateways.md) 
 
     -  Go through the available payment settings and learn how to add them to your website.
+
+*   [Advertising banners](Appearance-how-to-add-a-banner.md) 
+
+    -  Monetize your Yclas website by adding commercial banners. Banners can be added to the header, footer, sidebar or in a random position in the listings page, as an image or HTML code.
