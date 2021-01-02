@@ -1,5 +1,7 @@
 # Custom fields
 
+With Custom fields you can create new fields of information that will appear in your advertisement. You can search by this new fields, display different kind of information and easily extend the functionality of your website.
+
 *   [Create custom fields](Custom-fields-create-custom-fields.md)
 
       -  Learn how to create new custom fields that can be added to advertisements.
