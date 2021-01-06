@@ -19,12 +19,6 @@ To enable messaging system, you simply need to login to your **Admin Panel** -> 
 
 Now, buyers can contact the seller through the messaging system.
 
-### Custom Orders
-
-There’s an additional option to enable sellers to create custom orders, which means that sellers can create a custom order when negotiating a price in the messaging system and let the buyer pay the order created. To enable this option, check the box that’s displayed next to the option.
-
-![customorder](https://raw.githubusercontent.com/yclas/guides/master/images/custom-order.png)
-
 ### How it works
 
 On advertisement’s page, click  **Send Message**. A contact form will appear in a popup window, where you can write your message to the seller, the price you want to pay for the productc or service of an ad, and fill out the captcha field.
@@ -60,3 +54,9 @@ If a sender tries to contact you again, you won’t be notified but the new mess
 
 If you have a lot of old messages that you don’t want in your inbox, you can delete them. Open the message you want to delete and click “Delete”.
 You will see that the messages will no longer appear in your inbox.
+
+### Custom Orders
+
+There’s an additional option to enable sellers to create custom orders, which means sellers can create a custom order when negotiating a price in the messaging system and let the buyer pay the order created. To enable this option, check the box that’s displayed next to the option.
+
+![customorder](https://raw.githubusercontent.com/yclas/guides/master/images/custom-order.png)
