@@ -7,9 +7,9 @@ Content:
 -   Delete
 
 
-This new feature makes the communication between sellers and buyers regarding an ad much more easy. 
+This new feature makes the communication between sellers and buyers regarding an ad much more easy.
 
-Instead of having a contact form on the advertisement’s page, you can activate Messaging System and send instant messages to the seller. 
+Instead of having a contact form on the advertisement’s page, you can activate Messaging System and send instant messages to the seller.
 
 Much faster than emails. By using this tool, you can avoid sharing an email address and the seller can choose with who to communicate.
 
@@ -18,6 +18,12 @@ Much faster than emails. By using this tool, you can avoid sharing an email addr
 To enable messaging system, you simply need to login to your **Admin Panel** ->  **Configuration**  ->  **Addons**  and set  **Messaging System**  to  **Enabled**.
 
 Now, buyers can contact the seller through the messaging system.
+
+### Custom Orders
+
+There’s an additional option to enable sellers to create custom orders, which means that sellers can create a custom order when negotiating a price in the messaging system and let the buyer pay the order created. To enable this option, check the box that’s displayed next to the option.
+
+![customorder](https://raw.githubusercontent.com/yclas/guides/master/images/custom-order.png)
 
 ### How it works
 
@@ -54,5 +60,3 @@ If a sender tries to contact you again, you won’t be notified but the new mess
 
 If you have a lot of old messages that you don’t want in your inbox, you can delete them. Open the message you want to delete and click “Delete”.
 You will see that the messages will no longer appear in your inbox.
-
-
