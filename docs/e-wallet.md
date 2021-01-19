@@ -5,8 +5,8 @@ This new feature adds eWallet functionality to your marketplace so sellers and b
 ## Configuration
 
 1.  Login in to your **Admin Panel**.
-2.  Go to  **Configure** -> **Integrations** -> **eWallet**  ->  **Enable eWallet**.
-3.  Go to  **Configure** -> **Integrations** -> **eWallet**  ->  **Set your desired money symbol**.
+2.  Go to  **Configure** -> **Addons** -> **eWallet**  ->  **Enable eWallet**.
+3.  Go to  **Configure** -> **Addons** -> **eWallet**  ->  **Set your desired money symbol**.
 4.  Click  **Save**.
 
 ## How it works
