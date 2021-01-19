@@ -19,7 +19,7 @@ Go to the user profile and click on send money.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/send-money.png)
 
-### Send money to an user logged as an admin
+### Send money to any user logged as an admin
 
 Go to the user profile and click on send money.
 
@@ -50,7 +50,7 @@ You can let users add money to their eWallet.
 
 ## Mark order as received
 
-Buyers shoudl mark an order as received before transfer the money to the seller.
+Buyers should mark an order as received before transfer the money to the seller.
 
 You can send a reminder to the buyer to mark an order as received n days after the order was paid.
 
