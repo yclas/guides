@@ -14,3 +14,4 @@ In this guide, you can find all of the available plugins for your  website, mark
 *   [Auto locate](Plugins-auto-locate-users.md)
 *   [Adblock detector](Addons-adblock-detector.md)
 *   [Add to home screen](Addons-add-to-homescreen.md)
+*   [eWallet](e-wallet.md)
