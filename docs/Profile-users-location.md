@@ -1,4 +1,4 @@
-# Add location for users
+# Add address for users
 
 The location for **users** is a feature that allows you to show the location of a user on a map in the profile page. This way, sellers can display their location and attract more local customers.
 
