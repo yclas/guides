@@ -23,7 +23,7 @@
 
 10. Click  **Create**.  
 11. Now you have to verify (register) your domain name. Go to  **Google Console Developers**  ->  **Credentials**, choose the last tab,  **Domain verification**  and follow the steps there.  
-12. Go to http://yourdomain.com/oc-panel/social/index  
+12. Go to https://akosibadak.tk/oc-panel/addons/sociallogin
 13. Set  **Google = TRUE**  
 14. Fill  **ID = Client ID**  as appears at Google page  
 15. Fill  **Secret = Client secret**  as in Google  
@@ -82,7 +82,7 @@ _https://yourdomain.com/social/login/1?hauth_done=Facebook_
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/login9.png)
 
-12. Go to http://yourdomain.com/oc-panel/social/index .
+12. Go to https://akosibadak.tk/oc-panel/addons/sociallogin
 13. Set  **Facebook =**  **TRUE**.
 14. Fill  **ID = App ID**  as appears at FB page.
 15. Fill  **Secret = App secret**  as in FB.
@@ -93,7 +93,7 @@ _https://yourdomain.com/social/login/1?hauth_done=Facebook_
 
 ## How to enable AOL login
 
-1.  Go to http://yourdomain.com/oc-panel/social/index
+1.  Go to https://akosibadak.tk/oc-panel/addons/sociallogin
 2.  Set  **AOL = TRUE**.
 3.  Click  **Update**  in the bottom of the page.
 4.  Logout.
@@ -104,7 +104,7 @@ _https://yourdomain.com/social/login/1?hauth_done=Facebook_
 
 With this option users will be able to login using an Open ID account. In Yclas we use Yahoo as Open ID provider since it’s really easy to implement.
 
-1.  Go to http://yourdomain.com/oc-panel/social/index
+1.  Go to https://akosibadak.tk/oc-panel/addons/sociallogin
 2.  Set  **Open ID = TRUE**.
 3.  Click  **Update**  in the bottom of the page.
 4.  Logout.
@@ -122,7 +122,7 @@ With this option users will be able to login using an Open ID account. In Yclas 
 
 [](https://raw.githubusercontent.com/yclas/guides/master/images/login10.png)
 
-6. Go to your panel,  **Settings -> Plugins**, enable  **Social Auth**, click  **Save**  and then go to  **Settings**  ->  **Social Auth**  or http://yourdomain.com/oc-panel/social/index  
+6. Go to your panel,  **Settings -> Plugins**, enable  **Social Auth**, click  **Save**  and then go to  **Settings**  ->  **Social Auth**  or https://akosibadak.tk/oc-panel/addons/sociallogin 
 7. Set  **Yahoo = TRUE** .
 8. Fill  **ID**  = Client ID as appears at Yahoo.
 9. Fill  **Secret**  = Client secret as in Yahoo.
