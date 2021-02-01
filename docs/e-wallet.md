@@ -40,8 +40,8 @@ Go to the user profile and click on current balance.
 You can let users add money to their eWallet.
 
 1.  Login in to your **Admin Panel**.
-2.  Go to  **Configure** -> **Integrations** -> **eWallet**  ->  **Enable Add money**.
-3.  Go to  **Configure** -> **Integrations** -> **eWallet**  ->  **Set your money packages**.
+2.  Go to  **Configure** -> **Addons** -> **eWallet**  ->  **Enable Add money**.
+3.  Go to  **Configure** -> **Addons** -> **eWallet**  ->  **Set your money packages**.
 4.  Click  **Save**.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/add-money-1.png)
@@ -55,7 +55,7 @@ Buyers should mark an order as received before transfer the money to the seller.
 You can send a reminder to the buyer to mark an order as received n days after the order was paid.
 
 1.  Login in to your **Admin Panel**.
-2.  Go to  **Configure** -> **Integrations** -> **eWallet**  ->  **Mark as received reminder** and **Auto mark unreceived orders as received**.
+2.  Go to  **Configure** -> **Addons** -> **eWallet**  ->  **Mark as received reminder** and **Auto mark unreceived orders as received**.
 4.  Click  **Save**.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/mark-as-received-1.png)
@@ -69,7 +69,7 @@ You can send a reminder to the buyer to mark an order as received n days after t
 You can let users earn money for specific actions within your marketplace.
 
 1.  Login in to your **Admin Panel**.
-2.  Go to  **Configure** -> **Integrations** -> **eWallet**  ->  **Enable gamification**.
+2.  Go to  **Configure** -> **Addons** -> **eWallet**  ->  **Enable gamification**.
 4.  Click  **Save**.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/gamification.png)
