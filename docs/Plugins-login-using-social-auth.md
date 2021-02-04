@@ -4,13 +4,13 @@
 ## How to enable Google login
 
 1.  Open in a new window the  **[Google Developers Console](https://cloud.google.com/console#/project)**.
-2.  Press  **Project**  on the top and choose  **Create project**.
+2.  Select a  **Project**  on the top and choose  **New  project**.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/login1.png)
 
   
-1.  Choose a Project name, then select “**Yes**” or “**No**” for the other options and press  **Create**.  
-2.  Then choose  **Credentials**, on the left menu.  
+1.  Choose a Project name and press  **Create**.  
+2.  Go to APIs overview then choose  **Credentials**, on the left menu.  
 3.  Choose  **Create Credentials**  ->  **OAuth client ID**  and then click on  **Configure consent screen**.  
 4.  Now you need to enter a  **Product name**  and you can fill any of the other optional fields you want. Click  **Save**.  
 5.  After that, you will be redirected to create client ID.
@@ -23,7 +23,7 @@
 
 10. Click  **Create**.  
 11. Now you have to verify (register) your domain name. Go to  **Google Console Developers**  ->  **Credentials**, choose the last tab,  **Domain verification**  and follow the steps there.  
-12. Go to https://akosibadak.tk/oc-panel/addons/sociallogin
+12. Go to https://yourdomain.com/oc-panel/addons/sociallogin
 13. Set  **Google = TRUE**  
 14. Fill  **ID = Client ID**  as appears at Google page  
 15. Fill  **Secret = Client secret**  as in Google  
