@@ -93,7 +93,7 @@ _https://yourdomain.com/social/login/1?hauth_done=Facebook_
 
 ## How to enable AOL login
 
-1.  Go to https://akosibadak.tk/oc-panel/addons/sociallogin
+1.  Go to https://yourdomain.com/oc-panel/addons/sociallogin
 2.  Set  **AOL = TRUE**.
 3.  Click  **Update**  in the bottom of the page.
 4.  Logout.
@@ -104,7 +104,7 @@ _https://yourdomain.com/social/login/1?hauth_done=Facebook_
 
 With this option users will be able to login using an Open ID account. In Yclas we use Yahoo as Open ID provider since it’s really easy to implement.
 
-1.  Go to https://akosibadak.tk/oc-panel/addons/sociallogin
+1.  Go to https://yourdomain.com/oc-panel/addons/sociallogin
 2.  Set  **Open ID = TRUE**.
 3.  Click  **Update**  in the bottom of the page.
 4.  Logout.
