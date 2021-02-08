@@ -62,7 +62,7 @@ This social login  **might change depending on Facebook**.
 8. Enable  **Client OAuth Login**  and  **Web OAuth Login**  and fill the fields:  
 
 **Valid OAuth redirect URIs**:  
-_http://yourdomain.com/social/login/1?hauth_done=Facebook_  
+_https://yourdomain.com/social/login/1?hauth_done=Facebook_  
 or  
 _https://yourdomain.com/social/login/1?hauth_done=Facebook_  
 
