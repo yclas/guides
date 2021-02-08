@@ -14,4 +14,4 @@ Moreover, it’s really easy to use it because you can log in with any social pr
 -   You need to copy/paste the disqus ID here in order to enable any available feature.
 -   Save the changes.
 
-_Note : Please allow 3 - 4 hours to complete the propagation and check your website again to show the disqus comment.
+_Note : Please allow 3 - 4 hours to complete the propagation and check your website again to show the disqus comment._
