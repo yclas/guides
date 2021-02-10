@@ -62,11 +62,11 @@ This social login  **might change depending on Facebook**.
 8. Enable  **Client OAuth Login**  and  **Web OAuth Login**  and fill the fields:  
 
 **Valid OAuth redirect URIs**:  
-_https://yourdomain.com/social/login/1?hauth_done=Facebook_  
+https://yourdomain.com/social/login/1?hauth_done=Facebook
 or  
-_https://yourdomain.com/social/login/1?hauth_done=Facebook_  
+https://yourdomain.com/social/login/1?hauth_done=Facebook
 
-**Deauthorize Callback URL**:  _https://yourdomain.com_
+**Deauthorize Callback URL**:  _https://yourdomain.com
 
 7. Click  **Save Changes**.
 
