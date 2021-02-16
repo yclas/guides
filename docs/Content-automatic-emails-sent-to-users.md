@@ -103,6 +103,23 @@ Message sent to inform admin about a new reply on the forum. Users that particip
 - _Your plan [PLAN.NAME] has expired (_**_plan-expired_**_)_:  
 Email sent to user with a link to pay and renew his subscription.
 
+- _Password Changed [SITE.NAME] -> password-changed_:
+
+  Message to inform user that his password has been changed. 
+
+- _New reply: [TITLE] -> messaging-reply_:
+
+  Message to inform if a message response has been received. 
+
+- _Welcome to [SITE.NAME]! -> auth-verify-email_:
+
+  Message sent to customers  for email verification. 
+
+- _Mark as received reminder for [ORDER.DESC] #[ORDER.ID] -> mark-as-received_:
+
+   Message to inform that the email has been received. 
+
+
 ## Set Email from
 
 This feature is currently available only on all sites hosted at  [Yclas.com](https://yclas.com/)
