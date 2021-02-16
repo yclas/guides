@@ -5,7 +5,7 @@ Content:
 
 When a user of your classified site does certain actions, e.g. register, post an ad or request to change the password, he receives an  **automatic email for confirmation**. 
 
-To see and manage those emails, please loginto  **Admin Panel**  ->  **Settings**  > **Email**.
+To see and manage those emails, please loginto  **Admin Panel**  ->  **Settings**  > **Transactional Emails**.
 
 *Note: You need to [add your SMTP configuration](Email-settings-SMTP-configuration.md) before activating this feaure.*
 
