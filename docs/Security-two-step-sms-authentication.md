@@ -25,8 +25,8 @@ Go to  **Settings**  ->  **General**  ->  **Regional**  ->  **Country**  and sel
 
 ## How it works:
 
-1.  An user registers on your website or posts an ad.
-2.  An user account is created and the user goes to Edit Profile page and enters his phone number.
+1.  A user registers on your website or posts an ad.
+2.  A user account is created and the user goes to Edit Profile page and enters his phone number.
 3.  After updating the profile details, the user will get a verification code by message on his mobile phone, which he will need to enter in the next page.
 4.  Now the user is authenticated and the Two-step SMS authentication is enabled on his account.
 
