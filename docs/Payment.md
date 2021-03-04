@@ -9,7 +9,7 @@ Yclas offers you a few features that will help you to monetize your website. Her
 
 *   [Featured plans](Payment-featured-plans.md)
 
-      - Allow your users to select among different length of their featured ad and pay according to your payment plans.
+     - Allow your users to select among different length of their featured ad and pay according to your payment plans.
 
 *   [Buy now button](Payment-pay-directly-from-the-ad-option.md)
 
@@ -17,7 +17,7 @@ Yclas offers you a few features that will help you to monetize your website. Her
 
 *   [Bring to top ads](Payment-set-up-payment-gateways.md) 
 
-      - With this option your customers will be able to bring an ad to top of the list by paying a fee.
+     - With this option your customers will be able to bring an ad to top of the list by paying a fee.
 
 *   [Memberships plans to post](Plugins-membership-plans-to-post.md) 
 
