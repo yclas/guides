@@ -82,7 +82,7 @@ https://yourdomain.com/social/login/1?hauth_done=Facebook
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/login9.png)
 
-12. Go to https://akosibadak.tk/oc-panel/addons/sociallogin
+12. Go to https://yourdomain.com/oc-panel/addons/sociallogin
 13. Set  **Facebook =**  **TRUE**.
 14. Fill  **ID = App ID**  as appears at FB page.
 15. Fill  **Secret = App secret**  as in FB.
