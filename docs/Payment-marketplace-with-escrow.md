@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-+ Configure your site to use Escrow Pay, see below.
++ Configure your site to use [Escrow Pay](https://www.escrow.com/pay), see below.
 + Your customer (publisher) needs to have a different Escrow account to receive payments.
 
 ### Payment flow
