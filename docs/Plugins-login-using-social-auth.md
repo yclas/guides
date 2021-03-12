@@ -91,56 +91,6 @@ https://yourdomain.com/social/login/1?hauth_done=Facebook
 18. Go to login, Facebook should appear there.  
 19. Now you can try it out.
 
-## How to enable AOL login
-
-1.  Go to https://yourdomain.com/oc-panel/addons/sociallogin
-2.  Set  **AOL = TRUE**.
-3.  Click  **Update**  in the bottom of the page.
-4.  Logout.
-5.  Go to login, AOL should appear there.
-6.  Now you can try it out.
-
-## How to enable Open ID (yahoo) login
-
-With this option users will be able to login using an Open ID account. In Yclas we use Yahoo as Open ID provider since it’s really easy to implement.
-
-1.  Go to https://yourdomain.com/oc-panel/addons/sociallogin
-2.  Set  **Open ID = TRUE**.
-3.  Click  **Update**  in the bottom of the page.
-4.  Logout.
-5.  Go to login, Open ID should appear there.
-6. Now you can try it out.
-
-## How to enable Yahoo login
-
-1.  Go to  [https://developer.yahoo.com/apps/create/](https://developer.yahoo.com/apps/create/)  and create a new application.
-2.  Fill out any required fields such as the  **Application Name**  and the  **Description**  one.
-3.  In the  **Redirect URI(s)**  field enter: http://yourdomain.com/social/login/1
-4.  Set  **Application Type**  to  _Web Application_.
-5.  Choose  **API Permissions**  ->  **OpenID Connect Permissions**
-
-
-[](https://raw.githubusercontent.com/yclas/guides/master/images/login10.png)
-
-6. Go to your panel,  **Settings -> Plugins**, enable  **Social Auth**, click  **Save**  and then go to  **Settings**  ->  **Social Auth**  or https://akosibadak.tk/oc-panel/addons/sociallogin 
-7. Set  **Yahoo = TRUE** .
-8. Fill  **ID**  = Client ID as appears at Yahoo.
-9. Fill  **Secret**  = Client secret as in Yahoo.
-10. Click  **Update**  in the bottom of the page.
-11. Logout.
-12. Go to login, Yahoo should appear there.  
-13. Now test it.
-
-## How to enable Twitter login
-
-1.  Go to  [https://apps.twitter.com/](https://apps.twitter.com/)  and press  **Create new app**
-2.  Fill the fields Name, Description and Website.
-3.  In the  **Callback URL**  field enter: http://yourdomain.com/social/login/1?hauth_done=Twitter
-4.  Press  **Create your Twitter application**
-5.  Go to the “Keys and Access Tokens” tab.
-6.  Copy the  **Consumer Key**  and  **Consumer Secret**  and paste in your website admin panel. Settings -> Social Auth -> Twitter Key and Secret.
-7.  Back in your Twitter app, go to the Permissions tab and make sure the Access is set to “Read and Write”.
-8.  You're all set.
 
 Since our latest release, it’s really easy to login using a  **social network account**  like  **Twitter, Facebook, Google Sign-In , LinkedIn etc.** 
 
@@ -149,13 +99,3 @@ For doing that we use a third party open source project called **[HybridAuth](ht
 To activate any of these social logins, you need first to purchase a premium theme from our  **[market](https://selfhosted.yclas.com/)**.
 
 
-
-## Other social login
-
-From documentation Hybrid Auth, follow similar procedure.
-1.  [Twitter](https://hybridauth.github.io/hybridauth//userguide/IDProvider_info_Twitter.html)
-2.  [Yahoo](https://hybridauth.github.io/hybridauth//userguide/IDProvider_info_Yahoo.html) (deep integration, but check better Open ID)
-3.  [MySpace](https://hybridauth.github.io/hybridauth//userguide/IDProvider_info_MySpace.html)
-4.  [Windows Live](https://hybridauth.github.io/hybridauth//userguide/IDProvider_info_Live.html)
-5.  [LinkedIn](https://hybridauth.github.io/hybridauth//userguide/IDProvider_info_LinkedIn.html)
-6.  [Foursquare](https://hybridauth.github.io/hybridauth//userguide/IDProvider_info_Foursquare.html)
