@@ -34,17 +34,19 @@ Another way to install this version is 1 file installation. Follow the steps one
 
  [Video Guide](www.youtube.com/watch?v=L2-b8r8DAfU%5D%29) 
 
-**
+
 
 ## Traditional installation
 
-**
+
 
 The traditional installation is suitable for anyone who wants to use it.
 
 -   [Download](https://yclas.com/self-hosted.html)
     
 -   Unpack
+
+-   Upload all files to the root of your domain
     
 -   Run the installation in http://yourdomain.com/
     
@@ -57,7 +59,7 @@ The traditional installation is suitable for anyone who wants to use it.
 
 Note: To install it, you will need a Database and a Username created in your hosting. Follow [this link](https://guides.yclas.com/#/Yclas-self-hosted-installation-mySQL-database) to learn how to create a MySQL Database.
 
-**
+
 
 ## Theme Installation
 
