@@ -2,7 +2,6 @@
 Content:
 -   Only Featured Ads
 -   Twitter
--   Pinterest
 -   Facebook
 -   Instagram
 
@@ -38,33 +37,6 @@ Here’s how to connect your website to your Twitter account and automatically s
 8. Enable  **Twitter -> Auto Post**  and enter the  **Consumer Key**,  **Consumer Secret**,  **Access Token**  and  **Access Token Secret**.
 
 9. Click  **Save**.
-
-----------
-
-## Pinterest
-
-The following instructions explain how to pin your website ads automatically to your Pinterest account.
-
-1. Login to your Pinterest account.
-
-2. Create a new Board, if you don’t already have the Board you want to pin the ads from your website.
-
-3. Create a new app  [here](https://developers.pinterest.com/apps/). Enter the Name and Description of the app.
-
-![](https://raw.githubusercontent.com/yclas/guides/master/images/sociacontent2.png)
-
-4. Go back to your Pinterest app, copy the  **App ID**  and  **App secret**  and paste to your website admin panel,  **Settings**  ->  **Advertisement**  ->  **Social**  ->  **App ID**  and  **App Secret**. Also enter the Pinterest Board that you want to pin the ads from your website.
-
-![](https://raw.githubusercontent.com/yclas/guides/master/images/socialcontent3.png)
-
-![](https://raw.githubusercontent.com/yclas/guides/master/images/sc4.png)
-
-5. Click  **Save**.
-
-6. Go to  **Settings -> Advertisement -> Social**  and press Generate access token
-
-7. Log in to your Pinterest account and press ***Okay*** to grant permissions.
-
 
 ----------
 
