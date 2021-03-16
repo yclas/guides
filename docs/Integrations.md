@@ -41,5 +41,4 @@
 
 * [Facebook](Publish-options-add-facebook-comments.md)
 * [Logbee](Logbee.md)
-* [Pinterest](Pinterest.md)
 * [Twitter](Twitter.md)
