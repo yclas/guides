@@ -16,8 +16,9 @@ Content:
     -   Mercadopago
     -   Zenith GlobalPAY
     -   Payline
-  
-  
+    -   Razorpay
+
+
 Let’s first go through the payment settings we have here, of course you can access payment settings by logging into your **Admin Panel ->  **Settings**  >  **Payments**  :
 
 -   **Payment Currency:**  Pick the currency you want to get paid with. Make sure that your chosen Payment Gateway supports that currency.
@@ -129,7 +130,7 @@ Your  **Merchant ID**  and  **Merchant Key**  can be found by logging into your 
 
 To setup  **Mercadopago**  for your classifieds sites, please follow the steps:
 
-1.  Register  in [Mercadopago].(https://www.mercadopago.com.ar/registration-mp?confirmation_url=https%3A%2F%2Fwww.mercadopago.com.ar%2F) 
+1.  Register  in [Mercadopago].(https://www.mercadopago.com.ar/registration-mp?confirmation_url=https%3A%2F%2Fwww.mercadopago.com.ar%2F)
 2.  Get you  **Client-id**  and  **Client-Secret**.
 3.  Go to your **Admin panel** ->  **Settings**  ->  **Payments**  ->  **MercadoPago**  and paste the Client-id and Client-Secret.
 
@@ -139,6 +140,8 @@ To setup  **Mercadopago**  for your classifieds sites, please follow the steps:
 
 https://www.globalpay.com.ng/Payments.aspx
 
+----------
+
 ### Payline
 
 https://paylinedata.com/
@@ -146,13 +149,34 @@ https://paylinedata.com/
 
 ----------
 
+### Razorpay
+
+In order to receive online payments with  **Razorpay**, you need to  [go to their site and register](https://razorpay.com).
+
+**Generate API Key**
+
+1. Log into your Dashboard with appropriate credentials.
+2. Select the mode (Test or Live) for which you want to generate the API key.
+3. Navigate to Settings → API Keys → Generate Key to generate key for the selected mode.
+
+The `Key Id` and `Key Secret` appear in a pop-out window as shown below:
+
+![](https://razorpay.com/docs/assets/images/generate-api-keys.gif)
+
+**Enable Razorpay Integration**
+
+1. Go to your **Yclas** Admin panel -> Integrations -> Payments -> Razorpay
+2. Enter your `Key Id` and `Key Secret` and save changes.
+
+----------
+
 Of course you can enable as many payment gateways as you want simultaneously without any restrictions. When they’re enabled the user will be redirected to a checkout page to select his preferred payment method.
 
-  
 
-Note: Only Paypal works with the free Yclas self-hosted version [buy Pro to enable all payment gateways](https://yclas.com/self-hosted.html). 
 
-  
+Note: Only Paypal works with the free Yclas self-hosted version [buy Pro to enable all payment gateways](https://yclas.com/self-hosted.html).
+
+
 **Related posts:**
 
 -   [2checkout Configuration](Payment-2checkout-configuration.md)
