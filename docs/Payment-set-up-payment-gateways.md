@@ -138,7 +138,7 @@ Your  **Merchant ID**  and  **Merchant Key**  can be found by logging into your 
 
 To setup  **Mercadopago**  for your classifieds sites, please follow the steps:
 
-1.  Register  in [Mercadopago].(https://www.mercadopago.com.ar/registration-mp?confirmation_url=https%3A%2F%2Fwww.mercadopago.com.ar%2F)
+1.  Register  in [Mercadopago](https://www.mercadopago.com.ar/registration-mp?confirmation_url=https%3A%2F%2Fwww.mercadopago.com.ar%2F)
 2.  Get you  **Client-id**  and  **Client-Secret**.
 3.  Go to your **Admin panel** ->  **Settings**  ->  **Payments**  ->  **MercadoPago**  and paste the Client-id and Client-Secret.
 
