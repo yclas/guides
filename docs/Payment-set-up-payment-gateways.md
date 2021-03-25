@@ -1,9 +1,9 @@
 # How to Setup Payment Gateways.
 Content:
 -   Payment methods
+    -   Stripe
     -   Paypal
     -   Alternative payment
-    -   Stripe
     -   Escrow
     -   2checkout
     -   Authorize.net
@@ -31,6 +31,23 @@ Let’s first go through the payment settings we have here, of course you can ac
 ## Payment methods:
 
 
+
+### Stripe
+
+We recomment using Stripe to receive card payments, It’s [free to register](https://stripe.com/)  and they charge 1.4% on any transaction. Works in many countries worldwide and accepts multiple currencies. Please see their [docs](https://stripe.com/global)
+
+With Stripe you can also accept Alipay an Ideal payments using the same platform.
+
+**Stripe private key**  and  **Stripe public key**  can be obtained from your  [Stripe account](https://dashboard.stripe.com/account/apikeys). Enter the value of  _Secret_  into the “Stripe private key” and  _Publishable_  into “Stripe public key”.
+
+**Requires address to pay for extra security:**  Users will be asked for their address for more secure payments when using a credit card.
+
+
+If you want to create a marketplace and earn commissions per sale, please follow  [this guide](Payment-set-up-marketplace-with-srtipe-connect.md)  for more information about Stripe Connect and how it works.
+
+----------
+
+
 ### Paypal
 
 To accept Paypal payments you need to  **set up a Paypal account**,  **enable Instant payment notifications**  in your PayPal account (Seller Preferences -> Instant payment notifications), enter your website URL (http://example.com) into the Notification URL field and then input the paypal e-mail in its designated box in your website admin panel:
@@ -38,21 +55,12 @@ To accept Paypal payments you need to  **set up a Paypal account**,  **enable In
 **Paypal account:**  Input here your Paypal email.
 **Sandbox:**  Enable testing mode.
 
-### Alternative payment:
+----------
+
+### Alternative payment
 
 Here you can choose a page that you created to pop up when a client clicks on alternative payment, we added this in case you needed to charge clients in another way so you can create a page with the instructions and it will pop up.
 
-----------
-
-### Stripe
-
-Follow  [this guide](Payment-set-up-marketplace-with-srtipe-connect.md)  for more information.
-
-To get paid via credit card you can also use a Stripe account, It’s also  [free to register](https://stripe.com/)  and they charge 2.95% on any transaction.
-
-**Stripe private key**  and  **Stripe public key**  can be obtained from your  [Stripe account](https://dashboard.stripe.com/account/apikeys). Enter the value of  _Secret_  into the “Stripe private key” and  _Publishable_  into “Stripe public key”.
-
-**Requires address to pay for extra security:**  Users will be asked for their address for more secure payments when using a credit card.
 
 ----------
 
