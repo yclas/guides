@@ -1,4 +1,4 @@
-# How to Setup Payment Gateways.
+# How to Setup Payment Gateways
 Content:
 -   Payment methods
     -   Stripe
