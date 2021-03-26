@@ -56,3 +56,7 @@ To delete a category, press the red button with a trash bin. Note that when you 
 ## Categories widget
 
 The category widget gives you additional options. To activate kindly login to your  **Admin Panel**  ->  **Design >** **Widgets** ->  **‘Categories’** from the list and click  **Create**. Give a name to the widget’s title and choose if you want to display it in a sidebar or in the footer. You may also keep it  **Inactive**. Thanks to this widget, navigation between categories is easier. A list of categories will be displayed at all times at the side or at the bottom of the page.
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/pGaE3knlKrs" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
