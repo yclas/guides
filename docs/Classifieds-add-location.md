@@ -111,3 +111,7 @@ The location widget gives you additional options. You can activate them by loggi
 
 -   [How to add categories and manage them?](Classifieds-how-to-add-new-categories-and-manage-them.md)
 -   [How to use import tool for categories and locations?](Classifieds-how-to-import-tool-for-categories-and-location.md)
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/ileb1ebLo6Q" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
