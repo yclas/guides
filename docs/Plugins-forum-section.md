@@ -19,6 +19,10 @@ With our latest release, we added the option to have a fully functional forum se
 
 Once you do that you can manage forum tabs the same way you manage categories and list them. Now your users can post in the forums.
 
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/T949nkX1seM" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 *Note: We recommend deletion of cache afterward.*
 
 
