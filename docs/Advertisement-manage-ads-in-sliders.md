@@ -15,6 +15,11 @@ The  **available options**  are:
 -   **Featured Ads Random:**  Displays ads which are featured in random order.
 -   **Popular Ads last month:**  Displays ads with most clicks/views during the past month.
 
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/dNboEQvGkpI" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 **Related posts:**
 
 -   [How to manage advertisements](https://guides.yclas.com/#/Advertisement-change-settings-for-ads)
