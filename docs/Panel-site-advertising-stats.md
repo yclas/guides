@@ -30,4 +30,7 @@ Yclas provides comprehensive statistics about your advertisements. If you publis
 
 ![](https://github.com/yclas/guides/blob/master/images/ad-stats.png)
 
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/qTJevzcCipM" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
