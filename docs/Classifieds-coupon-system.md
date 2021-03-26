@@ -93,3 +93,7 @@ Last but not least, you can export coupons from your panel to CSV file. This wil
 
 
 **Note that Coupon System is available only on Premium Themes. When you are ready to have a Premium Theme, go to our  [market](https://selfhosted.yclas.com/).*
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/gFTDgz6NWTU" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
