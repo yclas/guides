@@ -1,9 +1,6 @@
 # Welcome to Yclas
 
 
-<iframe width="100%" height="400px" src="https://www.youtube.com/embed/Men7xa5PLZM" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 Welcome to our documentation pages **👋** Here, you can find all of the information you need to get started with Yclas.
 
 # About Yclas
@@ -62,7 +59,8 @@ This is a list with everything that you can find on our documentation and guides
 - [Development](Yclas-self-hosted-development.md)
 - [Technical](Yclas-self-hosted-technical.md)
 - [Technical issues](Technical-issues.md)
-
+- 
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/Men7xa5PLZM" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 *Note: You need to have the **latest version of Yclas Self-hosted** to get most of the features listed below.*
 
