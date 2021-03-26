@@ -14,3 +14,7 @@ You probably already noticed the text below the Auto Locate option which indicat
 To get an SSL certificate for your website please follow [this guide](https://yclas.com/faq/ssl-encryption.html).
 
 If your website is NOT hosted on yclas.com, then you need to follow [this guide](Technical-http-to-https.md).
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/At0Jwwwl5RI" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
