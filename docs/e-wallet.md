@@ -73,3 +73,7 @@ You can let users earn money for specific actions within your marketplace.
 4.  Click  **Save**.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/gamification.png)
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/ydMm3J3sZic" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
