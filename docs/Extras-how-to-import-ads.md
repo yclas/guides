@@ -46,6 +46,9 @@ You can use this easy import tool to add all of your ads with a press of a butto
 You can now see the imported ads on **Manage** -> **Advertisements**.
 
 
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/5L68sC-uLbw" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 **Related posts:**
 
 -   [How to use import tool for categories and locations?](Classifieds-how-to-import-tool-for-categories-and-location.md)
