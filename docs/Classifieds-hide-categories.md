@@ -18,3 +18,6 @@ Keep in mind that choosing to hide a parent category will affect all the subcate
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/hide%20categories.jpg)
 
 
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/OR8susdsVpg" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
