@@ -40,3 +40,7 @@ EMAIL: One email is sent to the user with a link that will activate his new adve
 As in the case of “payment on”, the user is redirected to payment gateway only if the product has a fixed amount. Besides, this advertisement is also processed as a “Moderation on” case. In other words, if the payment is successful, the advertisement will be sent to moderation to be once again activated by the admin. But if the posting poroess wasn’t handled with a payment, this advertisement will be set in moderation and will be waiting for the admin to activate it.
 
 EMAIL: One email is sent to user notifying him of the creation of a new ad. But, in this case, he has a link that redirects him to advertisement to edit it. He can modify this ad, but it won’t be published until the admin activates it.
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/bJa3AvQQNIA" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
