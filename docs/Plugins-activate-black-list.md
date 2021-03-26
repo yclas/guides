@@ -19,3 +19,7 @@ To see a  **full list of blacklisted users**  follow those steps:
 3.  To find a particular user, use the **Filter** to search users via **Status** or **Role**. For example, to find blacklisted users, use the following search criteria and press **Filter**:
 
 ![search users](https://raw.githubusercontent.com/yclas/guides/master/images/search%20users.png)
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/_Q5yiAxcIKM" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
