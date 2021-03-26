@@ -38,3 +38,6 @@ If you click on the **See order** button, you'll be redirected to the checkout p
     -   5 = refused payment
     -   99 = refunded
 
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/DLloz_nOV6U" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
