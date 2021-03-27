@@ -26,3 +26,8 @@ Follow the instructions below if you want to let your users choose whenever they
 2.  Go to  **Settings -> Custom Fields**  and press  **New Field**.
 3.  Enter  **bitcoinaddress**  in the Name field, select  _Text 256 Chars_  and fill the other fields. It’s important to call this field  **bitcoinaddress**  to have the desired functionality.
 4.  Click  **Create**.
+
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/GSjnftI5fzw" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
