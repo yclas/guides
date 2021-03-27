@@ -32,3 +32,8 @@ To enable that you need to have every condition met in the above section, and yo
 4.  Click  **Save**.
 
 Once you do this, your users will have the option to set a counter on their products. This counter goes down on each Paypal payment they receive. And once the counter is “0” their ad will be deactivated.
+
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/mwRbp8OVVMw" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
