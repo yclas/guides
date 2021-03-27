@@ -14,3 +14,7 @@ While Maintenance Mode is being activated, anyone who tries to access your websi
 They'll be able to see the whole website only by logging in.
 
 Setting moderation: Allows you to change how to publish ads. Read more: [API documentation](api-documentation.md)
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/6r34MvdCwfc" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
