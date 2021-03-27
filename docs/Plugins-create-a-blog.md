@@ -34,3 +34,6 @@ Now in the header of your site there is the  **Blog Icon**. You can click this i
 
 The RSS of your Blog is ready as well!  _yourdomain.com/rss/blog.xml_
 
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/HuRHG1-f69Q" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
