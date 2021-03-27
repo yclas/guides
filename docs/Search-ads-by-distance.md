@@ -35,3 +35,8 @@ If you want to use this feature, you need to enable the following two features:
 4. Click **Save** 
 
 After enabling the **Browse ads by distance** feature visitors can browse your website and sort the ads by distance.
+
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/LcguGxJYIUU" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
