@@ -50,3 +50,7 @@ This feature allows sellers to add videos to their ads.
 9. Done. You can now go to the  _Publish new_  page to see the result.
 
 ![upload7](https://raw.githubusercontent.com/yclas/guides/master/images/upload7.png)
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/rtDj9J-ytCQ" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
