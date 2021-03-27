@@ -21,3 +21,7 @@ If you want us to  **[design a logo](http://selfhosted.yclas.com/services/logo-f
 **Related guides:**
 
 -   [How to change website icon (favicon)](Appearance-change-website-icon.md)
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/itR5ON0xyiY" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
