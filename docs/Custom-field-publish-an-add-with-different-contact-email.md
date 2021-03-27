@@ -15,3 +15,7 @@ If you don’t know how, you can follow [this guide](Custom-fields-create-custom
 3. After creating the custom field and saving it, it will be displayed for every category that you selected it for. It will be displayed among the other catogories when publishing a new ad. 
 
 *You can add it as required field when creating it and it'll be displayed automatically each time a users selects the specific category.*  
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/SptLDA6Ki2M" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
