@@ -7,3 +7,7 @@ You can access to these configurations by logging in to your **Admin Panel** -> 
 -   **Notify name:**  The name that you will use to send the emails.
 -   **Notify me on new ad:**  Enable this if you want to get notifications everytime there are new ads.
 -   **Email Service:**  Email service enabled. SMTP or ElasticEmail services are highly recommended.
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/uVsO5ryc5o0" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
