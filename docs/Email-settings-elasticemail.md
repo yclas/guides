@@ -16,3 +16,6 @@ Now, every e-mail you send using the admin panel will be sent through your Elast
 
 ![elasticemail.pgn](https://raw.githubusercontent.com/yclas/guides/master/images/elasticemail.png)
 
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/g7gm4SnkTdY" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
