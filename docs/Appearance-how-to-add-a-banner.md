@@ -39,3 +39,7 @@ Monetize your Yclas website by adding commercial banners. Banners can be added t
 5.  Ads.txt will appear on http://yourdomain.com/ads.txt
 
 *Note: This is a PRO feature and you can use it only on PRO Themes*
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/5pyADgnPwq0" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
