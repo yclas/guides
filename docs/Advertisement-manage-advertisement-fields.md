@@ -24,3 +24,7 @@ If you want to create your own fields and extend the webstie functionality pleas
 - [Custom Fields](Custom-fields.md)
 - [How to manage advertisements?](Classifieds-manage-advertisements.md)
 - [How to change settings for Ads?](Advertisement-change-settings-for-ads.md)
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/uI2vWwiTO5E" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
