@@ -29,3 +29,7 @@ Yclas automatically reindex the records of your site every hour. However we have
 To reindex the records go to  **Integrations**  ->  **Algolia Search**.
 
 ![algolia](https://raw.githubusercontent.com/yclas/guides/master/images/angolia.jpg)
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/q_kpXrK9Mr4" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
