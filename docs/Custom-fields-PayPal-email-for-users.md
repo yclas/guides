@@ -45,3 +45,7 @@ Now, when users are publishing a new ad, they will see this new field to enter t
 
 On the user registration form, users will see this new field to enter their PayPal email address that will be use for the transaction.
 
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/z6DIweLlCsA" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+
