@@ -29,3 +29,8 @@ Before doing this simple activation, please be aware you need to have the  **GD 
 7.  You can select where you want the watermark to be placed: at the top, center or in the bottom of the picture.
 8.  Click  **Save**.
 9.  **Only new ads**  would have the watermark.
+
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/MWSrij_7EOk" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
