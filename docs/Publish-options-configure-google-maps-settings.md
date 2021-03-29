@@ -37,6 +37,8 @@ Currently you get free $200 per month for maps usage , please see [Google Maps P
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/googlemapssettings2.png)
 
 
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/HkgirwUTl74" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
  
  **Related posts:**
 
