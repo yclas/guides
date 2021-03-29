@@ -28,4 +28,7 @@ To activate this option, log in your  **Admin Panel** ->  **Settings**  >  **Adv
 
 We hope that with our new Yclas solutions managing your website is imporved and easy to work with! And remember that this is a premium feature which you can get now starting with [a small montly fee](https://yclas.com/self-hosted.html)
 
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/0wq76n0rqvc" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 Note that the review option is available only for the Premium Users. When you’re ready to have a Premium Theme, go to  **[our market](https://yclas.com/templates.html)**.
