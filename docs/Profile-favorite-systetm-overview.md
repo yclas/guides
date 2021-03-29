@@ -16,4 +16,7 @@ After this step, all of the chosen advertisements can be found by clicking the d
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/favorites1.png)
   
+  
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/dfb4z7OJrnI" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 *This feature is available for Yclas 2.2.0 version*
