@@ -12,3 +12,6 @@ Now you have a table containing users’ details such as  **_name_**,  **_email_
   * [How roles work with our classified ads script?](Users-how-do-roles-work.md)
   
   
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/4zrqV44pKEE" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  
