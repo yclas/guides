@@ -129,3 +129,6 @@ This feature is currently available only on all sites hosted at  [Yclas.com](htt
 Follow these steps to set an email form: 
 Go to  **Content**  ->  **Email** ->  **Set Email From**, set a new  _From Email_  and click  **Send**.
 
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/GOuM-dHuaBE" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
