@@ -19,3 +19,6 @@ A footer element typically contains information about its containing element, li
 2.  Go on  **Settings**  ->  **General**.
 3.  In the “General Configuration” section, find the field  **HTML in FOOTER**  and insert your HTML code there.
 4.  Click  **SAVE**  at the bottom of the page.
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/agVwC7FTkXM" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
