@@ -10,3 +10,6 @@ First, you need to create a new page and then to choose this page as the content
 3.  Click  **Save**.
 
 
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/pfNKgFrf8o8" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+
