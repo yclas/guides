@@ -29,7 +29,12 @@ So you’ve registered your site with Google and now you want to activate it, ju
 
 ![recaptcha3](https://user-images.githubusercontent.com/55290441/80510750-d2e27900-8983-11ea-9a13-3eca197471c9.png)
 
+
 ✔ **The change is successful – general configuration updated.*
 
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/w3VlzugWdZw" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ 
 *To find out more about this service – [you can check Google’s description of the feature](https://developers.google.com/recaptcha/).* 
 
