@@ -75,5 +75,9 @@ If this feature is properly configured, the result should be this:
 11. Done. You can now go to the  _Publish new_  page to see the result.
 ![](https://github.com/yclas/guides/blob/master/images/ncf16.png)
 
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/gORn84BZ6gE" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+
 **This feature is available on all sites hosted at  [Yclas.com](https://yclas.com/)**
 
