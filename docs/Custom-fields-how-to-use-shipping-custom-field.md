@@ -35,3 +35,6 @@ Now users can choose if their product is available for shipping, pick up or both
 
 2. If the option for pick up is checked, users will be able to choose the shipping method in the checkout page.
 
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/ZZEN0iV8H-A" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
