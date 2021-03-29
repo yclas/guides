@@ -12,3 +12,7 @@ We weren’t in favor of adding this feature to the software, but after many req
 We found that the most convenient style for a theme with this feature is the **[Newspaper theme](https://yclas.com/domain/demo/105540?theme=newspaper)**.  
 
 
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/X5jNy3gLoGQ" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+
+
