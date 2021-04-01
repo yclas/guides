@@ -22,7 +22,7 @@ By using the Notification System, you can notify your website users that an emai
 
 You can leave the other fields empty and click  **Create your app**.
 
-3. The next page you will see is the dashboard, select  **App keys**  on the top menu. Go to  **Settings -> General -> Notifications**, enter the App ID, Key and Secret and select the Cluster you chose when you created the app. Enable notifications and click  **Save**.
+3. The next page you will see is the dashboard, select  **App keys**  on the top menu. Go to  **Integrations -> Pusher**, enter the App ID, Key and Secret and select the Cluster you chose when you created the app. Enable notifications and click  **Save**.
 
 4. Now, when users are logged in and they receive emails from your website, they will get notified so they can go check their email.
 
