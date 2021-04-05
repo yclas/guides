@@ -47,7 +47,7 @@ At checkout, your website will try to calculate the VAT using the Advertisement 
 ### Advertisement VAT number
 
 1.  Login to your **Admin Panel**.
-2.  Go to  **Classifieds -> Custom Fields**.
+2.  Go to  **Settings -> Custom Fields**.
 3.  Click  **New Field**.
 4.  Enter  **vatcountry**  into the field called Name. It’s important to enter  _vatcountry_  as name and choose Country as the field type in order to make the feature works. Choosing Country will automatically create dropdown menu with all the countries included.
 5.  **Fill the fields**  and  **press Create**.
@@ -60,7 +60,7 @@ At checkout, your website will try to calculate the VAT using the Advertisement 
 ### User VAT number
 
 1.  Login to your **Admin Panel**.
-2.  Go to  **Users -> User Custom Fields**.
+2.  Go to  **Settings -> User Custom Fields**.
 3.  Click  **New Field**.
 4.  Enter  **vatcountry**  into the field called “Name”. It’s important to enter  _vatcountry_  as name and choose Country as the field type in order to make the feature works. Choosing “Country” will automatically create dropdown menu with all the countries included.
 5.  **Fill the fields**  and  **press Create**.
