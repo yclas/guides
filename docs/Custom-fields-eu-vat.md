@@ -51,8 +51,6 @@ At checkout, your website will try to calculate the VAT using the Advertisement 
 3.  Click  **New Field**.
 4.  Enter  **vatcountry**  into the field called Name. It’s important to enter  _vatcountry_  as name and choose Country as the field type in order to make the feature works. Choosing Country will automatically create dropdown menu with all the countries included.
 5.  **Fill the fields**  and  **press Create**.
-6.  Click  **New Field**.
-7.  Enter  **vatnumber**  into the field called “Name”. It’s important to enter  _vatnumber_  as name in order to make the feature works.
 
 
 
@@ -64,8 +62,6 @@ At checkout, your website will try to calculate the VAT using the Advertisement 
 3.  Click  **New Field**.
 4.  Enter  **vatcountry**  into the field called “Name”. It’s important to enter  _vatcountry_  as name and choose Country as the field type in order to make the feature works. Choosing “Country” will automatically create dropdown menu with all the countries included.
 5.  **Fill the fields**  and  **press Create**.
-6.  Click  **New Field**.
-7.  Enter  **vatnumber**  into the field called “Name”. It’s important to enter  _vatnumber_  as name in order to make the feature works.
 
 
 ## The checkout page
