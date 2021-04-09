@@ -15,6 +15,7 @@
 
 ---
 
+* [2Factor.in](Security-two-step-sms-authentication.md)
 * [Algolia](General-Algolia-search.md)
 * [Akismet](Security-avoid-spam-on-your-site.md)
 * [Auto-Data API](auto-data-api.md)
