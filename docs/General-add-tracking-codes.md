@@ -20,11 +20,11 @@ Lastly, everybody trusts Google Analytics data. Currently, around 55% of 10,000 
 ### Quick method
 
 1.  Login to your **Admin Panel** ->  **Integrations**.
-2.  Add your **Google Analytics Tracking ID** into the **Analytics Tracking ID field.**
+2.  Add your **Google Analytics Global Tag** snippet into the **Analytics Global Tag field.**
 3.  Press **SAVE**.
 
 
-You can change the content of the Analytics Tracking ID field whenever you want by following the same process.
+You can change the content of the Analytics Global Tag field whenever you want by following the same process.
 
 ### Manual method
 
@@ -37,4 +37,3 @@ This will work if you need to add any other tracking code, but if you have a cod
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/XubdbwIVsKE" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
