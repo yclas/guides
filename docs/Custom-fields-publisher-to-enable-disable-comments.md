@@ -6,7 +6,7 @@ With Yclas you can add comments with **[Disqus](Publish-options-active-comments-
 
 This guide explains how to give publishers the option to enable or disable comments in their ads:
 
-1.  Login to your **Admin Panel** ->  **Classifieds -> Custom Fields**.
+1.  Login to your **Admin Panel** ->  **Settings -> Custom Fields**.
 2.  Click  **New Field**.
 3.  It’s important to call this field  **commentsdisabled**.
 4.  Select  **Checkbox**  into the Type field.
