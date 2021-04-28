@@ -4,7 +4,7 @@ Note: The image has to be uploaded on the internet and you must copy  the URL of
 
 **Steps to follow:**
 1.  Login to your **Dashboard**
-2.  Go to  **Appearance**  ->  **Widgets**, find the  **Image Widget**  and press  **Create**.
+2.  Go to  **Design**  ->  **Widgets**, find the  **Image Widget**  and press  **Create**.
 3.  Fill the fields:
 
 -   **Where do you want the widget displayed:**  Choose between Sidebar, Header, Footer and Publish new, depends on what is available in your theme.
