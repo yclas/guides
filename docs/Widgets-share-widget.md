@@ -6,7 +6,7 @@ Here’s a list with all the available social media. Next to each social media y
 
 -   **Whatsapp**: whatsapp
 -   **Facebook**: facebook
--   **Twitter**: tweet
+-   **Twitter**: twitter
 -   **LinkedIn**: linkedin
 -   **Pinterest**: pinterest
 -   **Google+**: googleplus
@@ -29,10 +29,9 @@ Here’s a list with all the available social media. Next to each social media y
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/widgets%20share1.jpg)
 
-  
+
 **Related guides:**
 
 - [Overview of widgets](Widgets-overview-of-widgets.md)
 - [How to change language of the site?](Translation-change-language-of-the-site.md)
 - [Currency Converter Widget](Widgets-how-to-set-the-currency-format.md)
-

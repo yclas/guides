@@ -10,7 +10,7 @@ Here’s a list with all the available social media. Next to each social media y
 
 -   **Whatsapp**: whatsapp
 -   **Facebook**: facebook
--   **Twitter**: tweet
+-   **Twitter**: twitter
 -   **LinkedIn**: linkedin
 -   **Pinterest**: pinterest
 -   **Google+**: googleplus
@@ -25,4 +25,3 @@ Here’s a list with all the available social media. Next to each social media y
 -   **Print**: print
 
 Tip: _*_  Whatsapp buttons appear only on mobile devices
-
