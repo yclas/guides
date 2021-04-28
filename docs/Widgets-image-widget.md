@@ -3,7 +3,7 @@
 Note: The image has to be uploaded on the internet and you must copy  the URL of the image, in order to create an Image Widget.
 
 **Steps to follow:**
-1.  Login to your website admin panel
+1.  Login to your **Dashboard**
 2.  Go to  **Appearance**  ->  **Widgets**, find the  **Image Widget**  and press  **Create**.
 3.  Fill the fields:
 
