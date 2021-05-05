@@ -28,6 +28,10 @@ A thumb is a small image resized to fit certain elements.
 -   **Disallow nude pictures:**  Restrict likely nude pictures that are being uploaded to your server.
     
  ![waterpath](https://raw.githubusercontent.com/yclas/guides/master/images/watermakrpath.png)   
+ 
+ 
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/sIZS11AzmjA" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
     
 *Learn more about  **Watermark**,  **Watermark path**  and  **Watermark position**  in  _[this](Media-settings-add-watermark.md)_  guide.*
 

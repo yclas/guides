@@ -12,5 +12,8 @@ To access these settings,login to your **Admin Panel** ->  **Settings**  ->  **A
 -   **Delete ads:**  Enable this option to let users permanently delete their ads.
 
 
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/eYk4-sfJiA0" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+
 
 

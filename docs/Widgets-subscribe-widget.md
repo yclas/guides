@@ -29,6 +29,8 @@ An Example: A user visits your site and choose to subscribe to the categories �
 When a new advertisement is published to the website, on the category “Apartment” or “House”, in “Barcelona” with a price between 0 and 400.000, user will get an  [automatic email](Content-automatic-email.md)(ads-subscribers) about the ad.
 
 
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/7glvaDOD17w" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 **Related guides:**
 - [Overview of widgets](Widgets-overview-of-widgets.md)
 - [How to change language of the site?](Translation-change-language-of-the-site.md)
