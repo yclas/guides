@@ -13,5 +13,5 @@ If you want to add a custom field to any ad published regardless of its category
 I hope this was useful. There will be more posts coming in the future to help you build your classifieds website !
 
 
-<iframe width="100%" height="400px" src="https://youtu.be/uuJ5VG7XXLc" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/uuJ5VG7XXLc" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
