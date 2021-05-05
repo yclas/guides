@@ -11,7 +11,7 @@
 * [Google Analytics](General-add-tracking-codes.md)
 * [Google Maps](Publish-options-configure-google-maps-settings.md)
 * [Setup reCAPTCHA](Security-how-to-set-up-recaptcha-on-your-site.md)
-* [Stripe](Payment-set-up-marketplace-with-srtipe-connect.md)
+* [Stripe](Payment-set-up-marketplace-with-srtipe-connect-express.md)
 
 ---
 
@@ -32,7 +32,7 @@
 ## Payments
 
 * [Set up payment gateways](Payment-set-up-payment-gateways.md)
-* [Marketplace with Stripe connect](Payment-set-up-marketplace-with-srtipe-connect.md)
+* [Marketplace with Stripe Connect Express](Payment-set-up-marketplace-with-srtipe-connect-express.md)
 * [2checkout configuration](Payment-2checkout-configuration.md)
 * [Pay directly from the ad option](Payment-pay-directly-from-the-ad-option.md)
 * [Marketplace with Escrow](Payment-marketplace-with-escrow.md)

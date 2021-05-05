@@ -43,7 +43,7 @@ With Stripe you can also accept Alipay an Ideal payments using the same platform
 **Requires address to pay for extra security:**  Users will be asked for their address for more secure payments when using a credit card.
 
 
-If you want to create a marketplace and earn commissions per sale, please follow  [this guide](Payment-set-up-marketplace-with-srtipe-connect.md)  for more information about Stripe Connect and how it works.
+If you want to create a marketplace and earn commissions per sale, please follow [this guide](Payment-set-up-marketplace-with-srtipe-connect-express.md)  for more information about Stripe Connect and how it works.
 
 ----------
 
@@ -188,4 +188,4 @@ Note: Only Paypal works with the free Yclas self-hosted version [buy Pro to enab
 **Related posts:**
 
 -   [2checkout Configuration](Payment-2checkout-configuration.md)
--   [Stripe Connect](Payment-set-up-marketplace-with-srtipe-connect.md)
+-   [Stripe Connect Express](Payment-set-up-marketplace-with-srtipe-connect-express.md)

@@ -25,7 +25,7 @@ To upgrade to Yclas Self-hosted PRO and get all the Yclas themes and features,  
 -   Forever updates of all themes
 -   All Yclas Features:
     -   [More payment gateways](Payment-gateways.md)
-    -   [Stripe connect](Payment-set-up-marketplace-with-srtipe-connect.m)
+    -   [Stripe Connect Express](Payment-set-up-marketplace-with-srtipe-connect-express.md)
     -   [Custom Fields for Advertisements](Custom-fields-create-custom-fields.md)
     -   [Custom Fields for Users](Users-create-custom-field-for-users.md)
     -   [Social Login](Plugins-login-using-social-auth.md)

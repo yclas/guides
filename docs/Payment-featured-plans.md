@@ -37,19 +37,19 @@ There are several ways to mark an ad as featured.
 The goal here is to give more exposure to featured ads. By default featured ads are highlighted in the listing page. However, there are few more ways to promote featured ads in your site:
 
 -   **Featured ads slider on homepage**: Choose to show featured ads in your homepage slider on  **_Settings -> Advertisement -> Listing Options -> Advertisements in home_**, choose **Featured Ads** or **Featured Ads Random**.
-    
+
 -   **Featured ads slider in the listing page**: Enable slider on the listing page and choose to show featured ads. Go to  **_Appearance -> Theme Options -> Listing -> Display slider in listing_**  and choose **Featured** or **Featured Random.**
-    
+
 -   **Featured ads widget**: Create a Featured Ads Widget to show featured ads on Header, Sidebar or Footer.  [Here’s how to create a widget](Widgets-overview-of-widgets.md)
-    
+
 -   **Sort by featured in the listing page**: Show the featured ads first in the listing page. Go to  **_Settings -> Advertisement -> Listing Options -> Sort by in Listing_**  and choose **Featured.**
 
 Note that the Featured Plans are available only for the Premium Users. When you ‘re ready to have a Premium Theme, go to our  [market](https://selfhosted.yclas.com/).
 
 
-    
 
-  
+
+
 **Related posts:**
--   [Marketplace with Stripe Connect](Payment-set-up-marketplace-with-srtipe-connect.md)
+-   [Marketplace with Stripe Connect Express](Payment-set-up-marketplace-with-srtipe-connect-express.md)
 -   [2checkout Configuration](Payment-2checkout-configuration.md)
