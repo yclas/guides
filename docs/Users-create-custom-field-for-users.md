@@ -26,7 +26,7 @@ Login to your **Admin Panel** ->  **Users**  ->  **User Custom Fields** ->  **Ne
 *When you are ready to have a Premium Theme, go to our  [market](https://selfhosted.yclas.com/).*
 
 
-<iframe width="100%" height="400px" src="https://youtu.be/sjUxl-CmFFo" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/sjUxl-CmFFo" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   
 **Related posts:**
