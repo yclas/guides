@@ -20,13 +20,16 @@ This way users will be able to contact sellers directly just by clicking on the 
 Login to your **Admin Panel** ->  **Users**  ->  **User Custom Fields** ->  **New Field**.
 
 
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/sjUxl-CmFFo" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+
 *Note that custom fields for users are available only for the Premium Users and on all sites hosted on  [Yclas.com](https://yclas.com/).* 
 
 
 *When you are ready to have a Premium Theme, go to our  [market](https://selfhosted.yclas.com/).*
 
-<iframe width="100%" height="400px" src="https://www.youtube.com/embed/sjUxl-CmFFo" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
+
   
 **Related posts:**
 
