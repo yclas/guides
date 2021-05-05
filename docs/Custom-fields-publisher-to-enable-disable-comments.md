@@ -15,4 +15,7 @@ This guide explains how to give publishers the option to enable or disable comme
 
 With  **commentsdisabled**  custom field created, publishers have the option to disable comments in their ads. If the checkbox is checked, the comments section will be disabled in the ad.
 
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/https://youtu.be/_p--e9os0AY" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 ![](https://github.com/yclas/guides/blob/master/images/commentsdisabled-1.png)
