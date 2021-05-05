@@ -25,3 +25,6 @@ For example, if you create the Seller Information Widget and place it to the sid
 -   **Show seller location:**  _Location on Map_  shows seller’s location on a map and  _Address_  shows only the address of the seller. It works only if the seller entered his address in his profile.
 -   **Show seller custom fields:**  Set to TRUE to show user custom fields.
 
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/uOaAZeosMXw" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
