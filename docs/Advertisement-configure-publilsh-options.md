@@ -19,6 +19,8 @@ You can access these options by logging into **Admin Panel** ->  **Settings**  -
 -   **Banned words replacement:**  Banned word replacement replaces selected array with the string you provided. (For example “xxx”)
 
   
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/https://youtu.be/LNjmD1QaCQg" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 **Related posts:**
 
 -   [How to manage Advertisement Fields?](Advertisement-manage-advertisement-fields.md)
