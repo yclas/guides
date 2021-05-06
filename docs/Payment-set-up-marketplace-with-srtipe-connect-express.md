@@ -52,6 +52,8 @@ Your customer (publisher) posts an advertisement selling his products. Once this
 6. You (site owner) will get from his stripe account the fee you set in your Stripe account.
 7. 2 orders are created, 1 with the amount paid by the buyer and another with the fee paid by the publisher to you as an application fee.
 
+**Tip:** Stripe can hold funds in your customer (publisher) balance until the order is marked as “received” for up to 90 days.
+
 ### Cancellations flow
 
 1. Your customer (publisher) and product buyer can cancel an order if is not yet marked as “shipped”.
