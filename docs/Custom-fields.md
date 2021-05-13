@@ -52,3 +52,6 @@ With Custom fields you can create new fields of information that will appear in 
 
 *   [Opening hours](custom-field-opening-hours.md)
      - Allow users to specify the opening hours for an ad.
+
+*   [Instagram feed](custom-field-instagram.md)
+     - Allow users to include an Instagram feed for an ad.
