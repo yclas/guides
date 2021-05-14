@@ -8,7 +8,7 @@ Make sure to go though them before trying to install Yclas Self-hosted.
 -   An internet browser. 🌐
 -   A web hosting that supports: 
     -   Apache 2+
-    -   PHP 7
+    -   PHP 7.3+
     -   Short Tags
     -   GD support
     -   mod_rewrite
