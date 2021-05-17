@@ -33,7 +33,7 @@ You just have to follow the normal automatic update steps listed below:
 
 2.  Log in  to your **admin panel.**
 
-3.  **Activate the default theme**  if you had a premium theme.
+3.  **Activate the default theme / atlantic**  if you had a premium theme.
 
 4.  **[Download the latest version](https://yclas.com/selfhosted/latest)**  and extract the files in its folder.
 
