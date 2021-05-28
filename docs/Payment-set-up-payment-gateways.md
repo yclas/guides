@@ -14,6 +14,7 @@ Content:
     -   Paytabs
     -   PayFast
     -   Mercadopago
+    -   Mollie
     -   Zenith GlobalPAY
     -   Payline
     -   Razorpay
@@ -154,7 +155,6 @@ https://www.globalpay.com.ng/Payments.aspx
 
 https://paylinedata.com/
 
-
 ----------
 
 ### Razorpay
@@ -175,6 +175,23 @@ The `Key Id` and `Key Secret` appear in a pop-out window as shown below:
 
 1. Go to your **Yclas** Admin panel -> Integrations -> Payments -> Razorpay
 2. Enter your `Key Id` and `Key Secret` and save changes.
+
+----------
+
+### Mollie
+
+In order to receive online payments with  **Mollie**, you need to  [go to their site and register](https://www.mollie.com).
+
+**Get API Key**
+
+1. Log into your Dashboard with appropriate credentials.
+2. Navigate to Developers → API Keys
+3. Copy Live API key (You can also use a Test API key to test payments).
+
+**Enable Mollie Integration**
+
+1. Go to your **Yclas** Admin panel -> Integrations -> Payments -> Mollie
+2. Enter your `API Key` nd save changes.
 
 ----------
 
