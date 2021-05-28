@@ -48,7 +48,8 @@ You just have to follow the normal automatic update steps listed below:
 -   /oc/config/database.php
 -   .htaccess
 -   /images/
--   and /themes/ if you had a custom theme.
+-   /themes/default/css/web-custom.css if you have custom CSS
+-   and check in /themes/ if you have a custom them do not delete it
 
 8.  **Now upload to your folder all the files**  we extracted earlier, except for the files we mentioned in the previous step and the “/install” folder.
 
