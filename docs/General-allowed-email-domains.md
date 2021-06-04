@@ -8,7 +8,7 @@ For example, you can allow the registration of students using their university e
 
 To enable it, you need to go to  **Settings**  ->  **General**  and find the **"Allowed email domains"** field. In there, you need to write the email domains that you'd like to add for your users.
 
-*Keep in mind that you need to push enter after each email domain name so that it's saved*.
+*Keep in mind that you need to push enter after each email domain name so that it's saved*..
 
 If you want to allow **all the email domains** to be able to register on your site, just leave the field empty.
 
