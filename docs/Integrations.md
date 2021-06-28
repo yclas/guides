@@ -27,6 +27,7 @@
 * [Google Picker](Custom-fields-sell-digital-goods.md)
 * [Google Authenticator](Security-Two-step-authentication.md)
 * [Aviod spam on your site](Security-avoid-spam-on-your-site.md)
+* [Smartarget](integrations-smartarget.md)
 
 ---
 ## Payments
