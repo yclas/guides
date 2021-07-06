@@ -21,9 +21,13 @@ Follow these simple steps and update to the newest version available.
 
 You just have to follow the normal automatic update steps listed below:
 
--   Make a backup  of all your **files and DB.**
--   Log in  to your **admin panel.**
--   Go to  **Panel > Updates**  and click  **Update**.
+1. Make a backup  of all your **files and DB.**
+2. Log in  to your **admin panel.**
+3. Go to  **Panel -> Settings -> Updates** and click **Update**.
+
+> **Please, if your current version is `4.2.0` replace the following files before proceeding to step 3.**
+> 1. `oc/classes/controller/panel/update.php` with [yclas/yclas/oc/classes/controller/panel/update.php](https://raw.githubusercontent.com/yclas/yclas/69d2d91b4ac93d26b0b1225053610d0117a9d7a4/oc/classes/controller/panel/update.php)
+> 2. `themes/default/views/oc-panel/pages/update/confirm.php` with [yclas/yclas/themes/default/views/oc-panel/pages/update/confirm.php](https://raw.githubusercontent.com/yclas/yclas/1867a5fc84e34703472677cd819eba105c00bd76/themes/default/views/oc-panel/pages/update/confirm.php)
 
 ### Manual Update
 
