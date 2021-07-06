@@ -27,7 +27,7 @@ You just have to follow the normal automatic update steps listed below:
 
 > **Please, if your current version is `4.2.0` replace the following files before proceeding to step 3.**
 > 1. `oc/classes/controller/panel/update.php` with [yclas/yclas/oc/classes/controller/panel/update.php](https://raw.githubusercontent.com/yclas/yclas/69d2d91b4ac93d26b0b1225053610d0117a9d7a4/oc/classes/controller/panel/update.php)
-> 2. `themes/default/views/oc-panel/pages/update/confirm.php` with [yclas/yclas/themes/default/views/oc-panel/pages/update/confirm.php](https://raw.githubusercontent.com/yclas/yclas/1867a5fc84e34703472677cd819eba105c00bd76/themes/default/views/oc-panel/pages/update/confirm.php)
+> 2. `themes/default/views/oc-panel/pages/update/confirm.php` with [yclas/yclas/themes/default/views/oc-panel/pages/update/confirm.php](https://raw.githubusercontent.com/yclas/yclas/c00bb1d929b69fb47f5725455752157dfd4785a5/themes/default/views/oc-panel/pages/update/confirm.php)
 
 ### Manual Update
 
