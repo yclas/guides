@@ -4,8 +4,8 @@ Learn how to assign people to work for your website as translatiors, content cre
 
 Follow the steps:
 
- -  Login  to your **Admin Panel**
- -  Then go to **Manage** -> **Users**  
+ -  Login  to your **Admin Panel**.
+ -  Then go to **Manage** -> **Users**.
 
 **a)**  If you want to create a **new user's account** and assign a certain role. 
 
