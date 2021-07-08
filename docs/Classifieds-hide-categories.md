@@ -6,7 +6,7 @@ This feature offers the option to choose which categories you want to hide from 
 
 **Steps to follow:**
 
-1.  Login to your **Panel**.
+1.  Login to your **Admin Panel**.
 2.  Go to  **Settings**  ->  **Categories**.
 3.  Press  **Hide Categories**.
 4.  Choose the categories you want to hide.
