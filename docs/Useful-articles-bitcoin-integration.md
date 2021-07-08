@@ -39,10 +39,10 @@ Follow  [this guide](Custom-fields-bitcoin-wallet-address.md)  to find more info
 
 Set Bitcoin (BTC) as the main currency of your site. We made this option available so users can list their items or pay for your website services in BTC:
 
-1.  Login to your **Yclas** website admin panel
-2.  Go to  **Settings -> General -> Regional**
-3.  In the  **Money format**  field, select  **Bitcoin**
-4.  Click  **Save**
+1.  Login to your **Yclas Dashboard**.
+2.  Go to  **Settings -> General -> Regional**.
+3.  In the  **Money format**  field, select  **Bitcoin**.
+4.  Click  **Save**.
 
 ### Setup a payment gateway for Bitcoin
 
