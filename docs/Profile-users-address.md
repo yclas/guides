@@ -4,7 +4,7 @@ The location for **users** is a feature that allows you to show the location of 
 
 ## Prerequisites
 
-1.  On  **Settings -> Advertisement -> Display Option**, enable  **Google Maps in Ad and Profile page**.
+1.  Login to your **Yclas Dashboard** -> **Settings -> Advertisement -> Display Option**, enable  **Google Maps in Ad and Profile page**.
 2.  The user needs to edit his profile, fill the address field and click  **Update**.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/adress.png)
