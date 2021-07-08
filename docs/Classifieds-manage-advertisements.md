@@ -2,7 +2,7 @@
 
 As your website advertisements amount increases, it can be a challenge to manage them. This guide will explain how to **manage**, **edit**, **delete filter ads** and more!
 
-To access the ads management page, go to  **Panel** and choose  **Advertisements**. You will see a list of  **all advertisements**  that are published on your site. The newest are on the top. Only 10 ads will be displayed. To go to older ones, navigate among the pages of the list.
+To access the ads management page, go to  **Admin Panel** and choose  **Advertisements**. You will see a list of  **all advertisements**  that are published on your site. The newest are on the top. Only 10 ads will be displayed. To go to older ones, navigate among the pages of the list.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/advertisement.jpg)
 
