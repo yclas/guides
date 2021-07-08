@@ -2,7 +2,7 @@
 
 Yclas gives you the option to  **_view_**  and  **_edit_**  the orders made in your website.
 
-When orders placed by users, they will appear on  the **Panel**. From there, you can click on **Classifieds**  then go to ->  **Orders**.  _Note that only the administrator of the website has access to that area!_
+When orders placed by users, they will appear on  the **Admin Panel**. From there, you can click on **Classifieds**  then go to ->  **Orders**.  _Note that only the administrator of the website has access to that area!_
 
 ![orders](https://raw.githubusercontent.com/yclas/guides/master/images/orders.jpg)
 
