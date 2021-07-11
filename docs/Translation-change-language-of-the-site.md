@@ -8,7 +8,7 @@ Content:
 
 It’s super simple:
 
-Go to  **Admin Panel**  ->  **Settings**  -> **Translations**  from the left sidebar. From the list of available language versions choose your locale. Press  **Activate**  next to the locale you’ve chosen. Your page is already translated.
+Go to  **Admin Panel**  ->  **Settings**  -> **Translations**  from the left sidebar. From the list of available language versions choose your locale. Click   **Activate**  next to the locale you’ve chosen. Your page is already translated.
 
 You can also  **Edit**  translation by clicking orange button with a pen ([see how](https://docs.yclas.com/how-to-change-texts)).
 
