@@ -32,7 +32,7 @@ If you want to use this feature, you need to enable the following two features:
     guide](http://guides.yclas.com/#/Technical-http-to-https).
     
 3. Tick the option box to enable this function.
-4. Click **Save** 
+4. Click **Save**.
 
 After enabling the **Browse ads by distance** feature visitors can browse your website and sort the ads by distance.
 
