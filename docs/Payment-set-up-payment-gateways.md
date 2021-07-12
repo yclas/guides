@@ -20,7 +20,7 @@ Content:
     -   Razorpay
 
 
-Let’s first go through the payment settings we have here, of course you can access payment settings by logging into your **Admin Panel** ->  **Settings**  >  **Payments**  :
+Let’s first go through the payment settings we have here, of course you can access payment settings by logging into your **Admin Panel -> Settings  ->  Payments**  :
 
 -   **Payment Currency:**  Pick the currency you want to get paid with. Make sure that your chosen Payment Gateway supports that currency.
 -   **Featured ads:**  Turn On or Off the option to feature ad.
