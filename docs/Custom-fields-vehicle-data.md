@@ -34,7 +34,7 @@ NOTE in latest versions of Yclas the fields are automatically created if they do
 
 Tip: Name the custom field: **year** 
 
-1.  Go to  **Configure** -> **Settings** -> **Custom Fields**.
+1.  Go to **Admin Panel** ->  **Configure** -> **Settings** -> **Custom Fields**.
 2.  Click  **New Field**.
 3.  Enter  **year**  in the  _Name_  input and in the  _Type_  input, choose  **Select**. This is important in order to have the desired functionality.
 4.  Fill the other fields.
@@ -43,7 +43,7 @@ Tip: Name the custom field: **year**
 
 Tip: Name the custom field: **make**
 
-1.  Go to  **Configure** -> **Settings** -> **Custom Fields**.
+1.  Go to  **Admin Panel** -> **Configure** -> **Settings** -> **Custom Fields**.
 2.  Press  **New Field**.
 3.  Enter  **make**  in the  _Name_  input and in the  _Type_  input, choose  **Select**. This is important in order to have the desired functionality.
 4.  Fill the other fields.
@@ -52,7 +52,7 @@ Tip: Name the custom field: **make**
 
 Tip: Name the custom field: **model**
 
-1.  Go to  **Configure** -> **Settings** -> **Custom Fields**.
+1.  Go to  **Admin Panel** -> **Configure** -> **Settings** -> **Custom Fields**.
 2.  Press  **New Field**.
 3.  Enter  **model**  in the  _Name_  input and in the  _Type_  input, choose  **Select**. This is important in order to have the desired functionality.
 4.  Click  **Create**.
