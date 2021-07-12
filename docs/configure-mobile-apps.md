@@ -22,9 +22,7 @@
 
 **Colors**, you can also select the color appearance on your select fonts. 
 
-**Google Maps** , If you want to use google maps in your iOS and Android apps please enable the apis in google console:
-- https://console.cloud.google.com/apis/library/places-backend.googleapis.com
-- https://console.cloud.google.com/marketplace/product/google/maps-ios-backend.googleapis.com
+**Google Maps** , If you want to use google maps in your iOS and Android apps please [follow this instructions](https://guides.yclas.com/#/Publish-options-configure-google-maps-settings?id=get-your-api-key), and insert your maps API key here.
 
 
 ## How to obtain your API Key
