@@ -21,8 +21,8 @@ There are several ways to mark an ad as featured.
 
 1. The  **admin**  of the site can mark any ad as featured, even if it is published by a different user. Here’s how the admin can mark ads as featured:
 
--   **Admin Panel**  ->  **Classifieds**  ->  **Advertisements**  -> click the settings button ->  **Featured**
--   Go to an ad page and click  **Go Featured!*.
+-   **Admin Panel**  ->  **Classifieds**  ->  **Advertisements**  -> **Settings**  ->  **Featured**.
+-   Go to an ad page and click  **Go Featured!**.
 -   Click to edit an ad and choose  **Go Featured**.
 
 2. And here’s how  **users**  can mark their ads as featured:
