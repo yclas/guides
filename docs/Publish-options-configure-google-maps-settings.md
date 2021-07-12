@@ -24,13 +24,16 @@ Currently you get free $200 per month for maps usage , please see [Google Maps P
 4.  Copy the API Key into your admin panel,  **Settings**  ->  **Advertisement**  ->  **Google Maps**  and click  **Save**.
 5.  Then back to the APIs Console, click  **Library**  on the left menu, under  **Google Maps APIs**  find and enable:
 
--   **Google Static Maps API**
--   **Google Maps Geocoding API**
--   **Google Maps JavaScript API**
--   **Google Maps Directions API**
--   **Google Maps Geolocation API**
--   **Google Places API Web Service**
--   **Google Maps Distance Matrix API**
+-   [Maps Static API](https://console.cloud.google.com/apis/library/static-maps-backend.googleapis.com)
+-   [Geocoding API](https://console.cloud.google.com/apis/library/geocoding-backend.googleapis.com)
+-   [Maps JavaScript API](https://console.cloud.google.com/apis/library/maps-backend.googleapis.com)
+-   [Directions API](https://console.cloud.google.com/apis/library/directions-backend.googleapis.com)
+-   [Geolocation API](https://console.cloud.google.com/apis/library/geolocation.googleapis.com)
+-   [Places API ](https://console.cloud.google.com/apis/library/places-backend.googleapis.com)
+-   [Distance Matrix API](https://console.cloud.google.com/apis/library/distance-matrix-backend.googleapis.com)
+
+If you want to use Google Maps in your iOS app please also enable [Maps SDK for iOS](https://console.cloud.google.com/marketplace/product/google/maps-ios-backend.googleapis.com)
+
 
 
 
