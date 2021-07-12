@@ -24,7 +24,7 @@ Now sellers can upload files to their ads from Dropbox or Google Picker and sell
 
 ## Create the File field
 
-1.  Create a Custom Field on  **Configure** -> **Settings** -> **Custom Fields** -> **New**.
+1.  Create a Custom Field by logging in to your **Admin Panel** -> **Configure** -> **Settings** -> **Custom Fields** -> **New**.
 2.  The custom field  _Name_  must be  **file_download**  and  _Type_  must be  **File Dropbox**  or  **File Google Drive**.
 3.  The custom field values are comma separated allowed file extensions.
 4.  Now you need to configure one of the methods described below.
@@ -51,7 +51,7 @@ If this feature is properly configured, the result should be this:
 3. Choose  **Credentials**  on the left sidebar and click  **Create Credentials**  ->  **API key**.
 ![](https://github.com/yclas/guides/blob/master/images/newcustomfield4.png)
 
-4. Copy your  **API key**  and paste it to your website admin panel ->  **Configure**  ->  **Integrations**  ->  **Google Picker**  ->  **Google Picker API Key** .[](https://github.com/yclas/guides/blob/master/images/ncs5.png)
+4. Copy your  **API key**  and paste it to your website  **Admin Panel** ->  **Configure**  ->  **Integrations**  ->  **Google Picker**  ->  **Google Picker API Key** .[](https://github.com/yclas/guides/blob/master/images/ncs5.png)
 ![Google picker](https://raw.githubusercontent.com/yclas/guides/master/images/google%20picker.png)
 
 5. Choose  **Credentials**  on the left sidebar and click  **Create Credentials**  ->  **OAuth Client ID**.
@@ -65,7 +65,7 @@ If this feature is properly configured, the result should be this:
 ![](https://github.com/yclas/guides/blob/master/images/ncf10.png)
 ![](https://github.com/yclas/guides/blob/master/images/ncf12.png)
 
-11. Copy the Client ID and paste it to your website admin panel -> **Configure**  ->  **Integrations**  ->  **Google Picker**  ->  **Google Picker Client ID**  and click   **Save**.
+11. Copy the Client ID and paste it to your website  **Admin Panel** -> **Configure**  ->  **Integrations**  ->  **Google Picker**  ->  **Google Picker Client ID**  and click   **Save**.
 
 
 10. Go to  **Libary**, find and enable  **Google Picker API**.
