@@ -20,7 +20,7 @@ Content:
     -   Razorpay
 
 
-Let’s first go through the payment settings we have here, of course you can access payment settings by logging into your **Admin Panel ->  **Settings**  >  **Payments**  :
+Let’s first go through the payment settings we have here, of course you can access payment settings by logging into your **Admin Panel** ->  **Settings**  >  **Payments**  :
 
 -   **Payment Currency:**  Pick the currency you want to get paid with. Make sure that your chosen Payment Gateway supports that currency.
 -   **Featured ads:**  Turn On or Off the option to feature ad.
@@ -173,7 +173,7 @@ The `Key Id` and `Key Secret` appear in a pop-out window as shown below:
 
 **Enable Razorpay Integration**
 
-1. Go to your **Yclas** Admin panel -> Integrations -> Payments -> Razorpay
+1. Go to your **Admin panel -> Integrations -> Payments -> Razorpay**
 2. Enter your `Key Id` and `Key Secret` and save changes.
 
 ----------
@@ -190,7 +190,7 @@ In order to receive online payments with  **Mollie**, you need to  [go to their 
 
 **Enable Mollie Integration**
 
-1. Go to your **Yclas** Admin panel -> Integrations -> Payments -> Mollie
+1. Go to your **Admin panel -> Integrations -> Payments -> Mollie** 
 2. Enter your `API Key` nd save changes.
 
 ----------
