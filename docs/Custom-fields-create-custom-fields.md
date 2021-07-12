@@ -1,6 +1,6 @@
 # How to create Custom Fields?
 
-**Take note that the maximum number of Custom Fields you can have in your website is  **65**
+Take note that the maximum number of Custom Fields you can have in your website is  **65**
 
 1.  **Standard** (mandatory and not changeable). Includes title, category, description.
 
