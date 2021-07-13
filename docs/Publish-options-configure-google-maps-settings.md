@@ -32,7 +32,7 @@ Currently you get free $200 per month for maps usage , please see [Google Maps P
 -   [Places API ](https://console.cloud.google.com/apis/library/places-backend.googleapis.com)
 -   [Distance Matrix API](https://console.cloud.google.com/apis/library/distance-matrix-backend.googleapis.com)
 
-If you want to use Google Maps in your iOS app please also enable [Maps SDK for iOS](https://console.cloud.google.com/marketplace/product/google/maps-ios-backend.googleapis.com)
+To use Google Maps in you mobile apps please also enable [Maps SDK for iOS](https://console.cloud.google.com/marketplace/product/google/maps-ios-backend.googleapis.com) and [Maps SDK for Android](https://console.cloud.google.com/apis/library/maps-android-backend.googleapis.com)
 
 
 
