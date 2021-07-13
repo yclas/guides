@@ -32,7 +32,7 @@ Here’s how to connect your website to your Twitter account and automatically s
 
 6. On the same page, get the  **Access Token**  and  **Access Token Secret**.
 
-7. Login to your admin panel and go to  **Settings -> Advertisement -> Social**.
+7. Login to your **Admin Panel** and go to  **Settings -> Advertisement -> Social**.
 
 8. Enable  **Twitter -> Auto Post**  and enter the  **Consumer Key**,  **Consumer Secret**,  **Access Token**  and  **Access Token Secret**.
 
@@ -102,11 +102,11 @@ Facebook auto post allows you to configure your site to automatically post to a 
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/sk12.png)
 
-10. The new long-lived access token will appear below. Copy, login to your website admin panel, go to  **Settings -> Advertisement -> Social**  and paste the key into the  **Facebook Access Token**  field. You won’t have to renew the access token again.
+10. The new long-lived access token will appear below. Copy, login to your website **Admin Panel**, go to  **Settings -> Advertisement -> Social**  and paste the key into the  **Facebook Access Token**  field. You won’t have to renew the access token again.
 
 11. Go back to your  [Facebook apps](https://developers.facebook.com/apps/)  and choose the app you have created earlier.
 
-12. Get the  **App ID**  and  **App Secret**  and paste in your website admin panel, on  **Settings -> Advertisement -> Social**,  **Facebook App Id**  and  **Facebook App Secret**.
+12. Get the  **App ID**  and  **App Secret**  and paste in your website **Admin Panel**, on  **Settings -> Advertisement -> Social**,  **Facebook App Id**  and  **Facebook App Secret**.
 
 
 13. Enable  **Facebook -> Auto Post**  and enter your  **Facebook ID**. If you are posting on a Facebook page enter the ID of the page, if you are posting on a Facebook group or a user page enter the User ID. You can find the Facebook ID by using websites like http://findfacebookid.com/ or http://findmyfbid.com/
@@ -119,7 +119,7 @@ Facebook auto post allows you to configure your site to automatically post to a 
 
 If you have an Instagram account and you want to post your website ads there, you only need to enter your Instragram username and password in your website admin panel:
 
-1. Login to your admin panel and go to  **Settings -> Advertisement -> Social**.
+1. Login to your **Admin Panel** and go to  **Settings -> Advertisement -> Social**.
 
 2. Enable  **Instagram -> Auto Post**  and enter your  **Instagram Username**  and  **Instagram Password**.
 
