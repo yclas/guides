@@ -4,7 +4,7 @@ This feature makes it possible for you to manage the fields in Ad forms when a u
 
 **Steps:**
 
-1.  Login to the **Admin Panel** ->  **Settings**  ->  **Advertisement**  ->  **Advertisement Fields**
+1.  Login to the **Admin Panel** ->  **Settings**  ->  **Advertisement**  ->  **Advertisement Fields**.
 2.  Scroll down until you find the  _Advertisement Fields_  section.
 
 
