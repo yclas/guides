@@ -31,4 +31,4 @@ We hope that with our new Yclas solutions managing your website is imporved and 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/0wq76n0rqvc" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
-Note that the review option is available only for the Premium Users. When you’re ready to have a Premium Theme, go to  **[our market](https://yclas.com/templates.html)**.
+Note that the review option is available only for the Premium Users. When you’re ready to have a Premium Theme, go to [**our market**](https://yclas.com/templates.html).
