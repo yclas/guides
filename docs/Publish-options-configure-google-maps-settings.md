@@ -43,7 +43,7 @@ If you want to use Google Maps in your iOS app please also enable [Maps SDK for 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/HkgirwUTl74" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  
- **Related posts:**
+ **Related posts**
 
 -   [How to create a map widget?](Widgets-map-widget.md)
 -   [How to add an Interactive Map?](Content-create-an-interactive-map.md)
