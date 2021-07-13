@@ -7,7 +7,7 @@ Content:
 
 This feature allows setting an expiration date to all published ads.
 
-You can access this option by logging into your admin panel and going to **Settings** -> **Advertisement** -> **Publish Options** -> **Ad expiration date**.
+You can access this option by logging into your **admin panel** and going to **Settings** -> **Advertisement** -> **Publish Options** -> **Ad expiration date**.
 
 And enter after how many days an ad should expire. If you enter 0 (zero) then the ads will never expire.
 
@@ -22,7 +22,7 @@ Here are the steps you need to follow to give the sellers the option to choose a
 2.  Click  **New Field**.
 3.  It’s essential to call the field  **expiresat**.
 4.  In the Type input choose  **Date**.
-5.  Click Create.
+5.  Click **Create**.
 
 *Note: If you also set an “Ad expiration date” on your settings, then custom expiration date will always prevail.*
 
