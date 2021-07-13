@@ -10,7 +10,7 @@ Moreover, it’s really easy to use it because you can log in with any social pr
 -   Click **Site profile**.
 -   Click **Site name**: this is for yourself, will appear in your Moderation/Stats Dashboard etc.
 -   Choose your unique Disqus URL.
--   Go to your  **Panel**  >  **Configure**  >  **Integrations**  >   and find the **Disqus** category.  
+-   Go to your  **YClas Admin Panel**  >  **Configure**  >  **Integrations**  >   and find the **Disqus** category.  
 -   You need to copy/paste the disqus ID here in order to enable any available feature.
 -   Save the changes.
 
