@@ -13,7 +13,7 @@ There are a few ways to moderte your ads and we are going to go through all of t
  - Payment with Moderation
 
  
-To configure Ads aoderation you need to go to your **admin panel -> settings -> general -> moderation**.
+To configure Ads aoderation you need to go to your **Admin Panel -> Settings -> General -> Moderation**.
 
 ### Post directly
 
