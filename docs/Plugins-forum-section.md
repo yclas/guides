@@ -8,7 +8,7 @@
 3. Find **Forum** and click on it. Then check the white box and hit **Save**  .
 4. Now go to  **Manage** and you will find a new **Forum** category added there.
 5. Go back to **Addons** and open the **Forum** configuration/.
-6.  Click on **New forum** and fill in the data. Press **Save**.
+6.  Click on **New forum** and fill in the data. Click **Save**.
 7. The new forum section is already displayed on your website.
 
 
