@@ -36,7 +36,7 @@ Let's learn how to allow/disallow these 🤖
 
 ✔ **The change is successful – general configuration updated.**
 
-Now go to your Admin Panel and continue customizing your classifieds website so that it truly serves its purpose.  
+Now go to your **Admin Panel** and continue customizing your classifieds website so that it truly serves its purpose.  
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/VxlnFcjBXRA" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
