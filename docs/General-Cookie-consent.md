@@ -13,7 +13,7 @@ With Yclas, we give you the option to enable the Cookie Consent alert. It will b
 You can acitvate it in a few simple steps:
 1.  Login to your **Admin Panel** ->  **Settings**  ->  **General**.
 2.  Scroll down, find and tick the  **Cookie Consent** box to enable this feature.
-3.  Press  **Save**
+3.  Click  **Save**.
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/bpMZmogGdW8" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
