@@ -21,7 +21,7 @@ Lastly, everybody trusts Google Analytics data. Currently, around 55% of 10,000 
 
 1.  Login to your **Admin Panel** ->  **Integrations**.
 2.  Add your **Google Analytics Global Tag** snippet into the **Analytics Global Tag field.**
-3.  Press **SAVE**.
+3.  Click  **SAVE**.
 
 
 You can change the content of the Analytics Global Tag field whenever you want by following the same process.
@@ -32,7 +32,7 @@ This will work if you need to add any other tracking code, but if you have a cod
 
 1.  Login to your **Admin Panel** ->  **Settings** -> **General**.
 2.  Paste your tracking code into the **HTML in HEAD element field** or into the **HTML in footer field**.
-3.  Press **SAVE**.
+3.  Click  **SAVE**.
 
 
 
