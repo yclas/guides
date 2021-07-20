@@ -14,7 +14,7 @@ Select a widget and press  **Create**. Choose the  **place**  where you want a w
 
 On the right side of the screen, you will see all created widgets. You can always edit them. Change the place and order of displaying the widget simply by dragging and dropping.
 
-After creating or editing the widgets, changes might not be visible on the site unless you  **delete cache**  -> **Tools > Cache**  on the left sidebar and press  **Delete all**).
+After creating or editing the widgets, changes might not be visible on the site unless you  **Delete cache**  -> **Tools > Cache**  on the left sidebar and press  **Delete all**).
 
 
  ## Available widgets
