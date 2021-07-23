@@ -17,13 +17,12 @@ You can get both from  [Google here for free](https://www.google.com/recaptcha) 
 
 So you’ve registered your site with Google and now you want to activate it, just follow these simple instructions:
 
-1.  Go to your  **website**.
-2.  Login to the  **Admin Panel**.
-3.  Select  **Configuration -> Integration -> reCaptcha**.
-4.  Enable the  **reCAPTCHA**.
-5.  Place your website’s ‘Site Key’ in the  **reCAPTCHA Site Key**  input box. v2 of recaptcha.
-6.  Place your website’s ‘Secret Key’ in the  **reCAPTCHA Secret Key**  input box. v2 of recaptcha.
-7.  Click the  **Save**  button.
+1.  Login to the  **Admin Panel**.
+2.  Select  **Configuration -> Integration -> reCaptcha**.
+3.  Enable the  **reCAPTCHA**.
+4.  Place your website’s ‘Site Key’ in the  **reCAPTCHA Site Key**  input box. v2 of recaptcha.
+5.  Place your website’s ‘Secret Key’ in the  **reCAPTCHA Secret Key**  input box. v2 of recaptcha.
+6.  Click the  **Save**  button.
 
 ![recaptcha](https://raw.githubusercontent.com/yclas/guides/master/images/recaptcha.png)
 
