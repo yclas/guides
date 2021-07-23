@@ -29,7 +29,7 @@ This feature requires  two steps  one on  **Facebook side**  and one on  **Yclas
 1.  Log in to your  **Admin Panel**.
 2.  Go to  **Configure**  >  **Integrations**  >  **Social** -> **Facebook**.
 3.  Enter the  **Facebook App ID**  into the  **Facebook comments**  box.
-4.  Press  **Save**.
+4.  Click  **Save**.
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/UpmZtVvCwTA" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
