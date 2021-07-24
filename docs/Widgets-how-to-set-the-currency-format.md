@@ -25,7 +25,7 @@ If your website uses SSL, please note that  **SSL encryption**  is only allowed 
 
 It’s really simple to create and use this widget:
 
-1.  Login to your admin panel.
+1.  Login to your **Admin Panel**.
 2.  Go to  **Design**  ->  **Widgets**.
 3.  Find the Currency Converter Widget and press  **Create**.
 4.  Choose  **where do you want the widget displayed**  and  **the name of the widget**  that will be displayed in your website.
