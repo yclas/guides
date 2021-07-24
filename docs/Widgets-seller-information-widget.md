@@ -15,7 +15,7 @@ For example, if you create the Seller Information Widget and place it to the sid
 2.  Choose where you want to widget to be displayed.
 3.  Enter a title for the widget or leave the title field empty for no title.
 4.  Select if you want to display: the option to contact the seller, seller description, last login date and user custom fields.
-5.  Press  **Save Changes**
+5.  Click  **Save Changes**
 
 
 -   **Title displayed:**  The title of the widget.
