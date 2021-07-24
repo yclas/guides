@@ -10,10 +10,10 @@ Yclas offers an email subscriber feature which allows users and visitors to subs
 
 ![](https://github.com/yclas/guides/blob/master/images/subsribe%20widget.png?raw=true)
 
-1. Go to your admin panel -> **Design -> Widgets**.
-2. Press  **Create**  into the Subsccribe widget box.
+1. Go to your **Admin Panel -> Design -> Widgets**.
+2. Click   **Create**  into the Subsccribe widget box.
 3. Configure the Subsccribe Widget:
-4. Press  **Save changes**.
+4. Click  **Save changes**.
 
 -   **Where do you want the widget displayed?:**  Select between the available options, sidebar, header, footer, publish new page or inactive.
 -   **Categories:**  Choose True to let users choose the category or categories they want to subscribed to.
@@ -31,7 +31,7 @@ When a new advertisement is published to the website, on the category “Apartme
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/7glvaDOD17w" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
-**Related guides:**
+**Related guides**
 - [Overview of widgets](Widgets-overview-of-widgets.md)
 - [How to change language of the site?](Translation-change-language-of-the-site.md)
 - [Currency Converter Widget](Widgets-how-to-set-the-currency-format.md)
