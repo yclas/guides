@@ -32,7 +32,7 @@ Here’s a list with all the available social media. Next to each social media y
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/Ji_WRBRwIvM" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
-**Related guides:**
+**Related guides**
 
 - [Overview of widgets](Widgets-overview-of-widgets.md)
 - [How to change language of the site?](Translation-change-language-of-the-site.md)
