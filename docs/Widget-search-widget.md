@@ -8,11 +8,11 @@ The Search Widget adds a form to your classifieds website header, sidebar or foo
 
 ## Configuration
 
-1. Go to your admin panel -> Design -> Widgets.
+1. Go to your **Admin Panel -> Design -> Widgets**.
 
 2. Press  **Create**  into the Search widget box.
 
-3. Configure the Search Widget:
+3. Configure the **Search Widget**.
 
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/search%20widget.jpg)
 
