@@ -8,7 +8,7 @@ To activate infinite scroll  follow the next steps:
 1.  Go to  **Design**  >  **Theme options**.
 2.  Enable  **Infinite scroll** .
 3.  Click  **Save**.
-That's all you need to do.
+
 
 *Note: This feature is available only on some premium themes.*
 
