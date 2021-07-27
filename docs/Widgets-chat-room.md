@@ -11,7 +11,7 @@ You have a limited-user classifieds website or a even a larger website? The chat
 4.  **Input your settings**  (here you have to make sure that you input a ***name*** for your chat room that is unique and ***not used*** before, otherwise you will get an empty box) and select  **Save Changes**.
 
 
-**After following the steps you can visit your website and see the chat room functioning.*
+*After following the steps you can visit your website and see the chat room functioning.*
 
 **Some extras you can know about the chat widget:**
 
