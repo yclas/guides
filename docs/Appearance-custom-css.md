@@ -11,7 +11,7 @@ The Custom CSS can be used for changing the visual aspects of your site. You can
 
 1. Login to your **Admin Panel** ->  **Design**  ->  **Custom CSS**.
 2. Insert your code in the textarea.
-3. Tick the active box.
+3. Tick the **Active** box.
 3. Click  **SAVE**.
 
 
