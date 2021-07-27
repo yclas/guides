@@ -1,7 +1,7 @@
 # Map widget not showing anything.
 
 *This is a common question lately.*
-So you got your website started, you created some ads and then you went to  **Panel**  >  **Design**  >  **Widgets**  and added a **Map widget**.
+So you got your website started, you created some ads and then you went to  **Admin Panel**  >  **Design**  >  **Widgets**  and added a **Map widget**.
 
 Then you went to your website and you see this:
 
