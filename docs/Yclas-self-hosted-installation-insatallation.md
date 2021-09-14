@@ -19,7 +19,7 @@ If your hosting provider doesn’t support Softaculous don’t worry! **Scroll d
 
 Another way to install this version is 1 file installation. Follow the steps one by one:
 
--   Download  [install-yclas.php].(https://raw.githubusercontent.com/yclas/yclas/master/install-yclas.php)
+-   Download  [install-yclas.php](https://raw.githubusercontent.com/yclas/yclas/master/install-yclas.php)
     
 -   Upload it to the root of your domain or wherever you want to install Yclas.
     
