@@ -41,7 +41,9 @@ With Stripe you can also accept Alipay an Ideal payments using the same platform
 
 **Stripe private key**  and  **Stripe public key**  can be obtained from your  [Stripe account](https://dashboard.stripe.com/account/apikeys). Enter the value of  _Secret_  into the “Stripe private key” and  _Publishable_  into “Stripe public key”.
 
-**Requires address to pay for extra security:**  Users will be asked for their address for more secure payments when using a credit card.
+**Stripe Webhooks:** Receive succeeded payment event notification with webhooks. An order will be marked as paid only if a succeeded payment notification is received from Stripe. Requires adding a webhook endpoint and generating a webhook key in your Stripe dashboard. Check [Stripe webhooks documentation](https://stripe.com/docs/webhooks) for more.
+
+**Requires address to pay for extra security (only Legacy Checkout):**  Users will be asked for their address for more secure payments when using a credit card.
 
 
 If you want to create a marketplace and earn commissions per sale, please follow [this guide](Payment-set-up-marketplace-with-srtipe-connect-express.md)  for more information about Stripe Connect and how it works.
