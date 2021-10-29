@@ -4,22 +4,14 @@ Allow users to include an Instagram feed for an ad.
 
 This guide explains how to give publishers the option to show an Instagram feed in their ads:
 
-1.  Login to your **Admin Panel** ->  **Settings** -> **Custom Fields**.
-2.  Click  **New Field**.
-3.  It’s important to call this field **instagramusername**.
-4.  Select  **Text**  into the Type field.
-6.  Click  **Create**.
+Please follow steps "**1: Create a Facebook App**" and "**2: Configure Instagram Basic Display**" from instagram guide: https://developers.facebook.com/docs/instagram-basic-display-api/getting-started#step-1--create-a-facebook-app.
 
-With **instagramusername** custom field created, publishers have the option to specify the Instagram username for their ads.
+You will get an **App ID**, and a **App Secret** codes. Please enter those on the Instagram page at https://yourdomain.com/oc-panel/integrations/instagram.
 
-## User custom field
+When asked for a Valid OAuth Redirect URIs, please enter `https://yourdomain.com/instagram/auth/now`, and when asked for a Deauthorize Callback URL, please enter `https://yourdomain.com/instagram/auth/now` too.
 
-You can also use a user custom field to include an Instagram feed for every ad published by your users.
+You will also need to follow the [App Review process](https://developers.facebook.com/docs/development/release).
 
-1.  Login to your **Admin Panel** ->  **Settings** -> **User Custom Fields**.
-2.  Click  **New Field**.
-3.  It’s important to call this field **instagramusername**.
-4.  Select  **Text**  into the Type field.
-6.  Click  **Create**.
+Login to your **Admin Panel**-> **Configure -> Integrations -> Social** and click on **Instagram** and fill your **App ID** and **App Secret** details.
 
-With **instagramusername** user custom field created, publishers have the option to specify the Instagram username on their profile page.
+Once completed, an "Instagram Connect" section will appear on edit profile page.
