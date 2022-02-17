@@ -57,7 +57,7 @@ Using SSL:
 -   **Smtp port**: 465
 -   **Smtp auth**: ON
 -   **Smtp username**:  _(example@zoho.com, or your own domain’s email address)_
--   **Smtp password**:  _password_
+-   **Smtp password**:  _SMTP APP PASSWORD_ (Please refer to the steps below on how you can generate SMTP APP PASSWORD)
 
 Using TLS:
 
@@ -67,7 +67,16 @@ Using TLS:
 -   **Smtp port**: 587
 -   **Smtp auth**: ON
 -   **Smtp username**:  _(example@zoho.com, or your own domain’s email address)_
--   **Smtp password**:  _password_
+-   **Smtp password**:  _SMTP APP PASSWORD_ (Please refer to the steps below on how you can generate SMTP APP PASSWORD)
+
+
+**Generating SMTP APP PASSWORD WITH ZOHO**: 
+
+1. Login to your Zoho account 
+2.  Go to Security 
+3. Go to Application specific password 
+4. Enter the Application name (Yclas)
+5. Then click Generate Password.  Copy the password and use this to set up  your email.  
 
 ## Mailgun
 
