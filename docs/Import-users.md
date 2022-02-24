@@ -20,7 +20,7 @@ image_1
 
 Now it’s possible to import users with custom fields. All you need to do is to add the fields in the CSV file as headers, with the prefix  **cf_**. For example, if you have a custom field called “company” in your site, you need to include it in the CSV file headers as “cf_company”.
 
-[**Download Sample CSV file**](https://raw.githubusercontent.com/yclas/guides/master/samples/import_users_example.csv).
+[**Download Sample CSV file**](https://raw.githubusercontent.com/yclas/guides/master/samples/import_users_example.zip).
 
 You can use this easy import tool to add all of your users with a press of a button. You simply need to follow those steps:
 

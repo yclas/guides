@@ -19,7 +19,7 @@ We have the solution for you. You can use an easy import tool to add all of your
 
 ![import-categories](https://raw.githubusercontent.com/yclas/guides/master/images/import%20categories.jpg)
 
-You can find an example of the correct CSV format [here](https://raw.githubusercontent.com/yclas/guides/master/samples/import_categories_example.csv)
+You can find an example of the correct CSV format [here](https://raw.githubusercontent.com/yclas/guides/master/samples/import_categories_example.zip)
 
   ## Import Locations
 

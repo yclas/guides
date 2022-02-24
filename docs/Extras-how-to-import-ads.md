@@ -34,7 +34,7 @@ Note : If you have custom fields created, it is mandatory that you add the field
 
 For example, if you have a custom field called “currency_name” in your site, you need to include it in the CSV file headers as “cf_currency_name”.
 
-[**Download Sample CSV file**](https://raw.githubusercontent.com/yclas/guides/master/samples/import_ads_with_cf_example.csv) working for 4 images without locale or stock.
+[**Download Sample CSV file**](https://raw.githubusercontent.com/yclas/guides/master/samples/import_ads_with_cf_example.zip) working for 4 images without locale or stock.
 
 You can use this easy import tool to add all of your ads with a press of a button. You simply need to follow those steps:
 
